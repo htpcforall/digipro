@@ -15031,4 +15031,1001 @@
     <desc lang="en">Wrap up of the night's Blue Jays game(n)</desc>
     <category lang="en">Sports Program</category>
   </programme>
+  <programme start="20160909050000 -0400" stop="20160909060000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909060000 -0400" stop="20160909070000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909070000 -0400" stop="20160909080000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909080000 -0400" stop="20160909090000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909090000 -0400" stop="20160909100000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909100000 -0400" stop="20160909110000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909110000 -0400" stop="20160909120000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909120000 -0400" stop="20160909130000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Hockeycentral</title>
+    <sub-title lang="en">Hockey Central</sub-title>
+    <desc lang="en">Canada's destination for breaking news, analysis and debate from around the NHL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909130000 -0400" stop="20160909133000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909133000 -0400" stop="20160909140000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Plays of the Month</title>
+    <desc lang="en">The best plays of the month(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909140000 -0400" stop="20160909163000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">FC Schalke 04 v FC Bayern Münich</sub-title>
+    <desc lang="en">FC Schalke 04 vs FC Bayern Münich(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909163000 -0400" stop="20160909170000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909170000 -0400" stop="20160909183000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Tim &amp; Sid</title>
+    <desc lang="en">Sports magazine with Tim Micallef and Sid Seixeiro(n)</desc>
+    <category lang="en">Information Program</category>
+  </programme>
+  <programme start="20160909183000 -0400" stop="20160909190000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Blue Jays Central</title>
+    <desc lang="en">Toronto Blue Jays pregame show hosted by Jamie Campbell and Gregg Zaun(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909190000 -0400" stop="20160909220000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Baseball</title>
+    <sub-title lang="en">AL. Boston vs Toronto</sub-title>
+    <desc lang="en">AL. Boston vs Toronto(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909220000 -0400" stop="20160909230000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909230000 -0400" stop="20160909233000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909233000 -0400" stop="20160910000000 -0400" channel="Sports Net Ontario">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">Wrap up of the night's Blue Jays game(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909050000 -0400" stop="20160909060000 -0400" channel="Sports Net West">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909060000 -0400" stop="20160909070000 -0400" channel="Sports Net West">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909070000 -0400" stop="20160909080000 -0400" channel="Sports Net West">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909080000 -0400" stop="20160909090000 -0400" channel="Sports Net West">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909090000 -0400" stop="20160909100000 -0400" channel="Sports Net West">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909100000 -0400" stop="20160909110000 -0400" channel="Sports Net West">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909110000 -0400" stop="20160909120000 -0400" channel="Sports Net West">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909120000 -0400" stop="20160909130000 -0400" channel="Sports Net West">
+    <title lang="en">Hockeycentral</title>
+    <sub-title lang="en">Hockey Central</sub-title>
+    <desc lang="en">Canada's destination for breaking news, analysis and debate from around the NHL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909130000 -0400" stop="20160909133000 -0400" channel="Sports Net West">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909133000 -0400" stop="20160909140000 -0400" channel="Sports Net West">
+    <title lang="en">Plays of the Month</title>
+    <desc lang="en">The best plays of the month(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909140000 -0400" stop="20160909163000 -0400" channel="Sports Net West">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">FC Schalke 04 v FC Bayern Münich</sub-title>
+    <desc lang="en">FC Schalke 04 vs FC Bayern Münich(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909163000 -0400" stop="20160909170000 -0400" channel="Sports Net West">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909170000 -0400" stop="20160909183000 -0400" channel="Sports Net West">
+    <title lang="en">Tim &amp; Sid</title>
+    <desc lang="en">Sports magazine with Tim Micallef and Sid Seixeiro(n)</desc>
+    <category lang="en">Information Program</category>
+  </programme>
+  <programme start="20160909183000 -0400" stop="20160909190000 -0400" channel="Sports Net West">
+    <title lang="en">Blue Jays Central</title>
+    <desc lang="en">Toronto Blue Jays pregame show hosted by Jamie Campbell and Gregg Zaun(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909190000 -0400" stop="20160909220000 -0400" channel="Sports Net West">
+    <title lang="en">Baseball</title>
+    <sub-title lang="en">AL. Boston vs Toronto</sub-title>
+    <desc lang="en">AL. Boston vs Toronto(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909220000 -0400" stop="20160909230000 -0400" channel="Sports Net West">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909230000 -0400" stop="20160909233000 -0400" channel="Sports Net West">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909233000 -0400" stop="20160910000000 -0400" channel="Sports Net West">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">Wrap up of the night's Blue Jays game(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909050000 -0400" stop="20160909053000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909053000 -0400" stop="20160909060000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909060000 -0400" stop="20160909063000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909063000 -0400" stop="20160909070000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909070000 -0400" stop="20160909073000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909073000 -0400" stop="20160909080000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909080000 -0400" stop="20160909083000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909083000 -0400" stop="20160909090000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909090000 -0400" stop="20160909093000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909093000 -0400" stop="20160909100000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909100000 -0400" stop="20160909103000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909103000 -0400" stop="20160909110000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909110000 -0400" stop="20160909113000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909113000 -0400" stop="20160909120000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Thursday</sub-title>
+    <desc lang="en">Thursday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909120000 -0400" stop="20160909133000 -0400" channel="Sportsnet World">
+    <title lang="en">Magazine: Football Today</title>
+    <sub-title lang="en">Friday</sub-title>
+    <desc lang="en">Friday info(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909133000 -0400" stop="20160909140000 -0400" channel="Sportsnet World">
+    <title lang="en">Fanzone</title>
+    <sub-title lang="en">Friday</sub-title>
+    <desc lang="en">Friday info(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909140000 -0400" stop="20160909163000 -0400" channel="Sportsnet World">
+    <title lang="en">Rugby: Aviva Premiership Rugby</title>
+    <sub-title lang="en">Worcester Warriors vs Gloucester Rugby</sub-title>
+    <desc lang="en">Worcester Warriors vs Gloucester Rugby(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909163000 -0400" stop="20160909183000 -0400" channel="Sportsnet World">
+    <title lang="en">Rugby: Aviva Premiership Rugby</title>
+    <sub-title lang="en">Sale Sharks vs Harlequins</sub-title>
+    <desc lang="en">Sale Sharks vs Harlequins(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909183000 -0400" stop="20160909190000 -0400" channel="Sportsnet World">
+    <title lang="en">Fanzone</title>
+    <sub-title lang="en">Friday</sub-title>
+    <desc lang="en">Friday info(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909190000 -0400" stop="20160909193000 -0400" channel="Sportsnet World">
+    <title lang="en">Premier League News</title>
+    <sub-title lang="en">Friday</sub-title>
+    <desc lang="en">Friday(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909193000 -0400" stop="20160909213000 -0400" channel="Sportsnet World">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">FC Schalke 04 vs FC Bayern München</sub-title>
+    <desc lang="en">FC Schalke 04 vs FC Bayern München(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909213000 -0400" stop="20160909220000 -0400" channel="Sportsnet World">
+    <title lang="en">Sportsnet World Review</title>
+    <sub-title lang="en">Friday</sub-title>
+    <desc lang="en">Friday news(n)</desc>
+    <category lang="en">Others Program</category>
+  </programme>
+  <programme start="20160909220000 -0400" stop="20160910000000 -0400" channel="Sportsnet World">
+    <title lang="en">Rugby:Super League Rugby</title>
+    <sub-title lang="en">Hull vs Wigan</sub-title>
+    <desc lang="en">Hull vs Wigan(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909050000 -0400" stop="20160909060000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909060000 -0400" stop="20160909070000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909070000 -0400" stop="20160909080000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909080000 -0400" stop="20160909090000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909090000 -0400" stop="20160909100000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909100000 -0400" stop="20160909110000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909110000 -0400" stop="20160909120000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909120000 -0400" stop="20160909130000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909130000 -0400" stop="20160909140000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909140000 -0400" stop="20160909150000 -0400" channel="TSN1">
+    <title lang="en">Score Golf Television Special</title>
+    <sub-title lang="en">Destinations Special</sub-title>
+    <desc lang="en">Checking out golf vacation destinations in Utah, Dominican Republic, Mexico, and others(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909150000 -0400" stop="20160909160000 -0400" channel="TSN1">
+    <title lang="en">Vancouver Hockey Lunch</title>
+    <desc lang="en">Sports news(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909160000 -0400" stop="20160909163000 -0400" channel="TSN1">
+    <title lang="en">Championnat Canadien Superbike</title>
+    <sub-title lang="en">Canadian Tire Motorsports Park</sub-title>
+    <desc lang="en">From the Canadian Tire Motorsports Park, Bowmanville, Ontario(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909163000 -0400" stop="20160909170000 -0400" channel="TSN1">
+    <title lang="en">Championnat Canadien Superbike</title>
+    <sub-title lang="en">Canadian Tire Motorsports Park</sub-title>
+    <desc lang="en">From the Canadian Tire Motorsports Park, Bowmanville, Ontario(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909170000 -0400" stop="20160909173000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909173000 -0400" stop="20160909180000 -0400" channel="TSN1">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">A provocative show devoted exclusively to sports opinions and headline issues hosted by Tony Kornheiser and Mike Wilbon(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909180000 -0400" stop="20160909190000 -0400" channel="TSN1">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909190000 -0400" stop="20160909193000 -0400" channel="TSN1">
+    <title lang="en">That's Hockey!</title>
+    <sub-title lang="en">That's Hockey</sub-title>
+    <desc lang="en">Gino Reda hosts this hockey magazine show on the latest issues and stories(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909193000 -0400" stop="20160909203000 -0400" channel="TSN1">
+    <title lang="en">UFC</title>
+    <sub-title lang="en">UFC The Ultimate Fighter</sub-title>
+    <desc lang="en">Athletes try to earn a UFC contract in The Ultimate Fighter(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909203000 -0400" stop="20160909213000 -0400" channel="TSN1">
+    <title lang="en">Countdown to UFC</title>
+    <desc lang="en">A countdown to a UFC event(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909213000 -0400" stop="20160909220000 -0400" channel="TSN1">
+    <title lang="en">L'avant</title>
+    <sub-title lang="en">game</sub-title>
+    <desc lang="en">CFL pre-game show(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909220000 -0400" stop="20160910010000 -0400" channel="TSN1">
+    <title lang="en">Football</title>
+    <sub-title lang="en">CFL. Montréal vs B.C</sub-title>
+    <desc lang="en">CFL. Montréal vs British Columbia(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909050000 -0400" stop="20160909053000 -0400" channel="TSN2">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909053000 -0400" stop="20160909083000 -0400" channel="TSN2">
+    <title lang="en">Football Australien</title>
+    <sub-title lang="en">Geelong Cats vs Hawthorn</sub-title>
+    <desc lang="en">Geelong Cats vs Hawthorn(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909083000 -0400" stop="20160909090000 -0400" channel="TSN2">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909090000 -0400" stop="20160909093000 -0400" channel="TSN2">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909093000 -0400" stop="20160909100000 -0400" channel="TSN2">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909100000 -0400" stop="20160909103000 -0400" channel="TSN2">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909103000 -0400" stop="20160909110000 -0400" channel="TSN2">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909110000 -0400" stop="20160909113000 -0400" channel="TSN2">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909113000 -0400" stop="20160909120000 -0400" channel="TSN2">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909120000 -0400" stop="20160909170000 -0400" channel="TSN2">
+    <title lang="en">Tennis: Internationaux des États</title>
+    <sub-title lang="en">Doubles Semifinals &amp; Mixed Doubles Finals</sub-title>
+    <desc lang="en">Doubles Semifinals &amp; Mixed Doubles Finals, from Flushing Meadows, New York(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909170000 -0400" stop="20160909173000 -0400" channel="TSN2">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sports talk program(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909173000 -0400" stop="20160909190000 -0400" channel="TSN2">
+    <title lang="en">NASCAR Sprint Cup Qualifying</title>
+    <desc lang="en">Car racing(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909190000 -0400" stop="20160909193000 -0400" channel="TSN2">
+    <title lang="en">NASCAR Xfinity Series Pre</title>
+    <sub-title lang="en">Race</sub-title>
+    <desc lang="en">Preview of the NASCAR Xfinity Series race(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909193000 -0400" stop="20160909220000 -0400" channel="TSN2">
+    <title lang="en">NASCAR Série Xfinity</title>
+    <sub-title lang="en">Richmond</sub-title>
+    <desc lang="en">The Virginia529 College Savings 250 race, from Richmond, Virginia(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909220000 -0400" stop="20160909223000 -0400" channel="TSN2">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909223000 -0400" stop="20160909233000 -0400" channel="TSN2">
+    <title lang="en">Séries mondiales de poker</title>
+    <sub-title lang="en">Part 1</sub-title>
+    <desc lang="en">The National Championship - Part 1(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909233000 -0400" stop="20160910003000 -0400" channel="TSN2">
+    <title lang="en">Séries mondiales de poker</title>
+    <sub-title lang="en">Part 2</sub-title>
+    <desc lang="en">The National Championship - Part 2(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909050000 -0400" stop="20160909060000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909060000 -0400" stop="20160909070000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909070000 -0400" stop="20160909080000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909080000 -0400" stop="20160909090000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909090000 -0400" stop="20160909100000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909100000 -0400" stop="20160909110000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909110000 -0400" stop="20160909120000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909120000 -0400" stop="20160909130000 -0400" channel="TSN3">
+    <title lang="en">Le Circuit PBR du Canada</title>
+    <sub-title lang="en">London (Ontario)</sub-title>
+    <desc lang="en">Professional Bull Riding competition, from London, Ontario(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909130000 -0400" stop="20160909140000 -0400" channel="TSN3">
+    <title lang="en">Jets Lunch</title>
+    <desc lang="en">Sports magazine(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909140000 -0400" stop="20160909150000 -0400" channel="TSN3">
+    <title lang="en">NFL Insider</title>
+    <sub-title lang="en">NFL Insiders</sub-title>
+    <desc lang="en">The best news and notes from around the League(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909150000 -0400" stop="20160909160000 -0400" channel="TSN3">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Highlights and previews in the NFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909160000 -0400" stop="20160909163000 -0400" channel="TSN3">
+    <title lang="en">SportsNation</title>
+    <desc lang="en">Sports magazine and fan forum and poll section(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909163000 -0400" stop="20160909170000 -0400" channel="TSN3">
+    <title lang="en">Highly Questionable</title>
+    <desc lang="en">Sports talk program(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909170000 -0400" stop="20160909173000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909173000 -0400" stop="20160909180000 -0400" channel="TSN3">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">A provocative show devoted exclusively to sports opinions and headline issues hosted by Tony Kornheiser and Mike Wilbon(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909180000 -0400" stop="20160909190000 -0400" channel="TSN3">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909190000 -0400" stop="20160909193000 -0400" channel="TSN3">
+    <title lang="en">That's Hockey!</title>
+    <sub-title lang="en">That's Hockey</sub-title>
+    <desc lang="en">Gino Reda hosts this hockey magazine show on the latest issues and stories(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909193000 -0400" stop="20160909203000 -0400" channel="TSN3">
+    <title lang="en">Volleyball FIVB</title>
+    <sub-title lang="en">Gstaad</sub-title>
+    <desc lang="en">From Gstaad(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909203000 -0400" stop="20160909213000 -0400" channel="TSN3">
+    <title lang="en">Volleyball FIVB</title>
+    <sub-title lang="en">Klagenfurt</sub-title>
+    <desc lang="en">From Klagenfurt(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909213000 -0400" stop="20160909220000 -0400" channel="TSN3">
+    <title lang="en">L'avant</title>
+    <sub-title lang="en">game</sub-title>
+    <desc lang="en">CFL pre-game show(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909220000 -0400" stop="20160910010000 -0400" channel="TSN3">
+    <title lang="en">Football</title>
+    <sub-title lang="en">CFL. Montréal vs B.C</sub-title>
+    <desc lang="en">CFL. Montréal vs British Columbia(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909050000 -0400" stop="20160909060000 -0400" channel="TSN4">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909060000 -0400" stop="20160909070000 -0400" channel="TSN4">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909070000 -0400" stop="20160909080000 -0400" channel="TSN4">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909080000 -0400" stop="20160909090000 -0400" channel="TSN4">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909090000 -0400" stop="20160909100000 -0400" channel="TSN4">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909100000 -0400" stop="20160909110000 -0400" channel="TSN4">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909110000 -0400" stop="20160909120000 -0400" channel="TSN4">
+    <title lang="en">The Amazing Race Canada</title>
+    <desc lang="en">10 teams embark on the race of a lifetime, all vying for the grand prize at the finish line(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20160909120000 -0400" stop="20160909130000 -0400" channel="TSN4">
+    <title lang="en">Leafs Lunch</title>
+    <desc lang="en">Sports magazine(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909130000 -0400" stop="20160909133000 -0400" channel="TSN4">
+    <title lang="en">SC: August 29th Plays of The Week</title>
+    <desc lang="en">August 29th Plays of The Week(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909133000 -0400" stop="20160909140000 -0400" channel="TSN4">
+    <title lang="en">Le PGA Tour au Canada</title>
+    <sub-title lang="en">Cape Breton Celtic Classic presented by PC Financial 2016 Highlights Show</sub-title>
+    <desc lang="en">Highlights of the Cape Breton Celtic Classic(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909140000 -0400" stop="20160909150000 -0400" channel="TSN4">
+    <title lang="en">Score Golf Television Special</title>
+    <sub-title lang="en">Destinations Special</sub-title>
+    <desc lang="en">Checking out golf vacation destinations in Utah, Dominican Republic, Mexico, and others(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909150000 -0400" stop="20160909230000 -0400" channel="TSN4">
+    <title lang="en">Tennis: Internationaux des États</title>
+    <sub-title lang="en">Men's Semifinals</sub-title>
+    <desc lang="en">Coverage of men's semifinals from Flushing Meadows, New York(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909230000 -0400" stop="20160910000000 -0400" channel="TSN4">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909050000 -0400" stop="20160909060000 -0400" channel="TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909060000 -0400" stop="20160909070000 -0400" channel="TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909070000 -0400" stop="20160909080000 -0400" channel="TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909080000 -0400" stop="20160909090000 -0400" channel="TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909090000 -0400" stop="20160909100000 -0400" channel="TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909100000 -0400" stop="20160909110000 -0400" channel="TSN">
+    <title lang="en">NASCAR Sprint Cup Practice</title>
+    <sub-title lang="en">Federated Auto Parts 400</sub-title>
+    <desc lang="en">Federated Auto Parts 400 pratice from Richmond International Raceway of Richmond in Virginie(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909110000 -0400" stop="20160909120000 -0400" channel="TSN">
+    <title lang="en">The Amazing Race Canada</title>
+    <desc lang="en">10 teams embark on the race of a lifetime, all vying for the grand prize at the finish line(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20160909120000 -0400" stop="20160909133000 -0400" channel="TSN">
+    <title lang="en">NASCAR Sprint Cup Final Practice</title>
+    <desc lang="en">NASCAR Sprint Cup Final Practice(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909133000 -0400" stop="20160909140000 -0400" channel="TSN">
+    <title lang="en">Le PGA Tour au Canada</title>
+    <sub-title lang="en">Cape Breton Celtic Classic presented by PC Financial 2016 Highlights Show</sub-title>
+    <desc lang="en">Highlights of the Cape Breton Celtic Classic(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909140000 -0400" stop="20160909150000 -0400" channel="TSN">
+    <title lang="en">Score Golf Television Special</title>
+    <sub-title lang="en">Destinations Special</sub-title>
+    <desc lang="en">Checking out golf vacation destinations in Utah, Dominican Republic, Mexico, and others(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909150000 -0400" stop="20160909160000 -0400" channel="TSN">
+    <title lang="en">His &amp; Hers</title>
+    <desc lang="en">Debate based on sports analytics(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909160000 -0400" stop="20160909163000 -0400" channel="TSN">
+    <title lang="en">Le PGA Tour au Canada</title>
+    <sub-title lang="en">Cape Breton Celtic Classic presented by PC Financial 2016 Highlights Show</sub-title>
+    <desc lang="en">Highlights of the Cape Breton Celtic Classic(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909163000 -0400" stop="20160909170000 -0400" channel="TSN">
+    <title lang="en">CFL 30</title>
+    <desc lang="en">Weekly recap show summarizing the past week in the CFL(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909170000 -0400" stop="20160909173000 -0400" channel="TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909173000 -0400" stop="20160909180000 -0400" channel="TSN">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">A provocative show devoted exclusively to sports opinions and headline issues hosted by Tony Kornheiser and Mike Wilbon(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909180000 -0400" stop="20160909190000 -0400" channel="TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">Sports news show providing up-to-the minute news and scores(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909190000 -0400" stop="20160909193000 -0400" channel="TSN">
+    <title lang="en">That's Hockey!</title>
+    <sub-title lang="en">That's Hockey</sub-title>
+    <desc lang="en">Gino Reda hosts this hockey magazine show on the latest issues and stories(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909193000 -0400" stop="20160909203000 -0400" channel="TSN">
+    <title lang="en">Volleyball FIVB</title>
+    <sub-title lang="en">Gstaad</sub-title>
+    <desc lang="en">From Gstaad(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909203000 -0400" stop="20160909213000 -0400" channel="TSN">
+    <title lang="en">Volleyball FIVB</title>
+    <sub-title lang="en">Klagenfurt</sub-title>
+    <desc lang="en">From Klagenfurt(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909213000 -0400" stop="20160909220000 -0400" channel="TSN">
+    <title lang="en">L'avant</title>
+    <sub-title lang="en">game</sub-title>
+    <desc lang="en">CFL pre-game show(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909220000 -0400" stop="20160910010000 -0400" channel="TSN">
+    <title lang="en">Football</title>
+    <sub-title lang="en">CFL. Montréal vs B.C</sub-title>
+    <desc lang="en">CFL. Montréal vs British Columbia(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20160909063000 -0400" stop="20160909080000 -0400" channel="Super Channel 1">
+    <title lang="en">Cast No Shadow</title>
+    <desc lang="en">CAN. 2014. One wild and tumultuous summer in the life of young Jude Traynor as he attempts to navigate his way through a life of delinquency and petty crime(n)</desc>
+    <credits>
+      <director>Christian Sparkes</director>
+      <director>Avec</director>
+      <director>Percy Hynes White</director>
+      <director>Joel Thomas Hynes</director>
+      <director>Gavin Snow</director>
+      <director>Mary-Colin Chisholm</director>
+      <actor>Percy Hynes White</actor>
+      <actor>Joel Thomas Hynes</actor>
+      <actor>Gavin Snow</actor>
+      <actor>Mary-Colin Chisholm</actor>
+    </credits>
+    <category lang="en">Mystery Movie</category>
+  </programme>
+  <programme start="20160909080000 -0400" stop="20160909093000 -0400" channel="Super Channel 1">
+    <title lang="en">Un pacte dangereux</title>
+    <sub-title lang="en">Dangerous Arrangement</sub-title>
+    <desc lang="en">CAN. 2015. In Malta, a young woman's life spins out of control thanks to one drug-fuelled night of partying and the overdose of a new friend, whose father is as vengeful as he is doting(n)</desc>
+    <credits>
+      <actor>Mario Azzopardi</actor>
+      <actor>Tamara Duarte</actor>
+      <actor>Deborah Kara Unger</actor>
+      <actor>Colm Meaney</actor>
+      <actor>Roark Critchlow</actor>
+    </credits>
+    <category lang="en">Mystery Movie</category>
+  </programme>
+  <programme start="20160909093000 -0400" stop="20160909111500 -0400" channel="Super Channel 1">
+    <title lang="en">La vengeance dans le sang</title>
+    <sub-title lang="en">Dying of the Light</sub-title>
+    <desc lang="en">U.S. 2014. When a devastating illness threatens to end his career in the CIA, a man goes rogue to hunt down a terrorist who tortured him during a mission gone awry years ago(n)</desc>
+    <credits>
+      <director>Paul Schrader</director>
+      <director>Avec</director>
+      <director>Nicolas Cage</director>
+      <director>Anton Yelchin</director>
+      <director>Alexander Karim</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Alexander Karim</actor>
+    </credits>
+    <category lang="en">Mystery Movie</category>
+  </programme>
+  <programme start="20160909111500 -0400" stop="20160909124500 -0400" channel="Super Channel 1">
+    <title lang="en">Armistice</title>
+    <desc lang="en">G.-B. 2013. A Royal Marine awakens to find himself imprisoned and forced to fight to the death against inhuman opponents again and again(n)</desc>
+    <credits>
+      <director>Luke Massey</director>
+      <director>Avec</director>
+      <director>Matt Ryan</director>
+      <director>Joseph Morgan</director>
+      <actor>Matt Ryan</actor>
+      <actor>Joseph Morgan</actor>
+    </credits>
+    <category lang="en">Mystery Movie</category>
+  </programme>
+  <programme start="20160909124500 -0400" stop="20160909143000 -0400" channel="Super Channel 1">
+    <title lang="en">Standoff</title>
+    <desc lang="en">U.S. 2016. A troubled veteran gets a chance at redemption by protecting a 12-year-old girl from an assassin after she witnesses a murder(n)</desc>
+    <credits>
+      <director>Adam Alleca</director>
+      <director>Avec</director>
+      <director>Laurence Fishburne</director>
+      <director>Thomas Jane</director>
+      <director>Jim Watson</director>
+      <actor>Laurence Fishburne</actor>
+      <actor>Thomas Jane</actor>
+      <actor>Jim Watson</actor>
+    </credits>
+    <category lang="en">Mystery Movie</category>
+  </programme>
+  <programme start="20160909143000 -0400" stop="20160909161500 -0400" channel="Super Channel 1">
+    <title lang="en">Turbo Kid</title>
+    <desc lang="en">CAN. 2015. In a post-apocalyptic wasteland, a comic book fan dons the persona of his favourite hero to save his enthusiastic friend and fight a tyrannical overlord(n)</desc>
+    <credits>
+      <director>François Simard</director>
+      <director>Anouk Whissel</director>
+      <director>Yonn-Karl Whissell</director>
+      <director>Avec</director>
+      <director>Munro Chambers</director>
+      <director>Laurence Leboeuf</director>
+      <director>Michael Ironside</director>
+      <director>Edwin Wright</director>
+      <director>Aaron Jeffery</director>
+      <actor>Munro Chambers</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Michael Ironside</actor>
+      <actor>Edwin Wright</actor>
+      <actor>Aaron Jeffery</actor>
+    </credits>
+    <category lang="en">Science Fiction Movie</category>
+  </programme>
+  <programme start="20160909161500 -0400" stop="20160909181500 -0400" channel="Super Channel 1">
+    <title lang="en">Painkillers</title>
+    <desc lang="en">CAN. 2015. A mercenary group is sent into Afghanistan for a highly secretive mission, only to wake up in a mental asylum with no memory of what happened, and half of their team dead(n)</desc>
+    <credits>
+      <director>Peter Winther</director>
+      <director>Avec</director>
+      <director>Tahmoh Penikett</director>
+      <director>Erica Durance</director>
+      <director>Julia Voth</director>
+      <director>Colm Feore</director>
+      <actor>Tahmoh Penikett</actor>
+      <actor>Erica Durance</actor>
+      <actor>Julia Voth</actor>
+      <actor>Colm Feore</actor>
+    </credits>
+    <category lang="en">Science Fiction Movie</category>
+  </programme>
+  <programme start="20160909181500 -0400" stop="20160909200000 -0400" channel="Super Channel 1">
+    <title lang="en">L'armée rouge</title>
+    <sub-title lang="en">Red Army</sub-title>
+    <desc lang="en">U.S. 2014. The story of the Soviet Union's famed Red Army hockey team through the eyes of its players(n)</desc>
+    <credits>
+      <director>Gabe Polsky</director>
+    </credits>
+    <category lang="en">Documentary Movie</category>
+  </programme>
+  <programme start="20160909200000 -0400" stop="20160909220000 -0400" channel="Super Channel 1">
+    <title lang="en">Sans issue</title>
+    <sub-title lang="en">No Escape</sub-title>
+    <desc lang="en">U.S. 2015. In their new overseas home, an American family soon finds themselves caught in the middle of a coup, and they frantically look for a safe escape from an environment where foreigners are being immediately executed(n)</desc>
+    <credits>
+      <director>John Erick Dowdle</director>
+      <director>Avec</director>
+      <director>Owen Wilson</director>
+      <director>Lake Bell</director>
+      <director>Pierce Brosnan</director>
+      <actor>Owen Wilson</actor>
+      <actor>Lake Bell</actor>
+      <actor>Pierce Brosnan</actor>
+    </credits>
+    <category lang="en">Mystery Movie</category>
+  </programme>
+  <programme start="20160909220000 -0400" stop="20160909230000 -0400" channel="Super Channel 1">
+    <title lang="en">Peaky Blinders</title>
+    <sub-title lang="en">Epidode 3.05</sub-title>
+    <desc lang="en">As the Russians test the Peaky Blinders, Tommy realises that he is being seriously outmanoeuvred. But he has an ace up his sleeve in the form of an enemy turned ally - if only he can control him(n)</desc>
+    <credits>
+      <actor>Cillian Murphy (Tommy Shelby)</actor>
+      <actor>Helen McCrory (Polly Gray)</actor>
+      <actor>Annabelle Wallis (Grace Burgess)</actor>
+      <actor>Paul Anderson (Arthur Shelby Jr.)</actor>
+      <actor>Sophie Rundle (Ada Thorne)</actor>
+      <actor>Joe Cole (John Shelby)</actor>
+      <actor>Ned Dennehy (Charlie Strong)</actor>
+      <actor>Tom Hardy (Alfie Solomons)</actor>
+      <actor>Natasha O'Keeffe (Lizzie Starke)</actor>
+      <actor>Finn Cole (Michael Gray)</actor>
+      <actor>Tony Pitts (Inspector Moss)</actor>
+      <actor>Ian Peck (Curly)</actor>
+      <actor>Aimee-Ffion Edwards (Esme Shelby)</actor>
+      <actor>Paddy Considine (Father John Hughes)</actor>
+      <actor>Alexander Siddig (Ruben Oliver)</actor>
+    </credits>
+    <category lang="en">Drama Program</category>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+  </programme>
+  <programme start="20160909230000 -0400" stop="20160910003000 -0400" channel="Super Channel 1">
+    <title lang="en">Boulevard</title>
+    <desc lang="en">U.S. 2014. A devoted husband in a marriage of convenience is forced to confront his secret life(n)</desc>
+    <credits>
+      <director>Dito Montiel</director>
+      <director>Avec</director>
+      <director>Roberto Aguire</director>
+      <director>Kathy Baker</director>
+      <director>Robin Williams</director>
+      <actor>Roberto Aguire</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Robin Williams</actor>
+    </credits>
+    <category lang="en">Drama Movie</category>
+  </programme>
 </tv>
