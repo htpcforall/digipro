@@ -1,0 +1,383 @@
+﻿#EXTM3U
+#EXTINF:-1,AMC
+http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
+#EXTINF:-1,E!
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+#EXTINF:-1,tbs
+http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8
+#EXTINF:-1,SHOWTIME
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
+#EXTINF:-1,SHOWTIME 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
+#EXTINF:-1,SHOWCASE
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
+#EXTINF:-1,NBA TV
+http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
+#EXTINF:-1,MLB NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8
+#EXTINF:-1,FOX SPORTS
+http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,UK | PremierSport
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1074.ts
+#EXTINF:-1,UK | SetantaSport
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1075.ts
+#EXTINF:-1,UK | Setanta
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1076.ts
+#EXTINF:-1,UK | BTSport2
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1078.ts
+#EXTINF:-1,UK | BTSport1
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1079.ts
+#EXTINF:-1,UK | BTSportEurope
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1085.ts
+#EXTINF:-1,UK | SkysportNews
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1086.ts
+#EXTINF:-1,UK | SkySportNewsUk
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1087.ts
+#EXTINF:-1,UK | SkysportF1
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1088.ts
+#EXTINF:-1,UK | SkySport5 UK
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1089.ts
+#EXTINF:-1,UK | SkySport4  UK
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1090.ts
+#EXTINF:-1,UK | SkySport2 UK
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1092.ts
+#EXTINF:-1,UK | EUROSPORT2
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1094.ts
+#EXTINF:-1,UK | EUROSPORT1
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1095.ts
+#EXTINF:-1,UK | MotorsTV
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1097.ts
+#EXTINF:-1,UK | CNBC
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1098.ts
+#EXTINF:-1,UK | CNN
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1099.ts
+#EXTINF:-1,UK | Dmax.
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1100.ts
+#EXTINF:-1,UK | Yesterday
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1102.ts
+#EXTINF:-1,UK | RTE One
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1104.ts
+#EXTINF:-1,UK | Rte Two
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1103.ts
+#EXTINF:-1,UK | Sky Movies Premiere HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1105.ts
+#EXTINF:-1,UK | Sky Movies Family HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1107.ts
+#EXTINF:-1,UK | Sky Movies Action
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1108.ts
+#EXTINF:-1,UK | Sky Movies Comedy
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1109.ts
+#EXTINF:-1,UK | SkyMTV Hits
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1110.ts
+#EXTINF:-1,UK | Movies 4Men
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1111.ts
+#EXTINF:-1,UK | More4+1
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1112.ts
+#EXTINF:-1,UK | SkyOne HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1113.ts
+#EXTINF:-1,UK | SkTrueMovies 2 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1114.ts
+#EXTINF:-1,UK | True Movies1 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1115.ts
+#EXTINF:-1,UK | Racing
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1116.ts
+#EXTINF:-1,UK | FOX News
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1118.ts
+#EXTINF:-1,UK | SkyMoviesDrama HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1121.ts
+#EXTINF:-1,UK | SkyMoviesSelect HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1122.ts
+#EXTINF:-1,UK | SkyMoviesThriller
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1123.ts
+#EXTINF:-1,UK | NationalGeographic
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1124.ts
+#EXTINF:-1,UK | Discovery Investigation HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1125.ts
+#EXTINF:-1,UK | Discovery Turbo HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1126.ts
+#EXTINF:-1,UK | Discovery Science HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1127.ts
+#EXTINF:-1,UK | DiscoveryShed
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1128.ts
+#EXTINF:-1,UK | DiscoveryHistory
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1129.ts
+#EXTINF:-1,UK | DiscoveryChannelHD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1130.ts
+#EXTINF:-1,UK | DisneyChannel
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1131.ts
+#EXTINF:-1,UK | DisneyJunior
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1132.ts
+#EXTINF:-1,UK | ComedyCentral
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1133.ts
+#EXTINF:-1,UK | Channel5
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1134.ts
+#EXTINF:-1,UK | Channel4
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1135.ts
+#EXTINF:-1,UK | BBC4
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1139.ts
+#EXTINF:-1,UK | BBC3
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1140.ts
+#EXTINF:-1,UK | BBC2
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1141.ts
+#EXTINF:-1,UK | BBC1
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1142.ts
+#EXTINF:-1,UK | ITV4
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1143.ts
+#EXTINF:-1,UK | ITV3
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1144.ts
+#EXTINF:-1,UK | ITV2
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1145.ts
+#EXTINF:-1,UK | ITV1
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1146.ts
+#EXTINF:-1,RS | ANIMAL PLANET
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/1873.ts
+#EXTINF:-1,BEIN SPORT 3 FR
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/952.ts
+#EXTINF:-1,MBC ProSports 3 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/925.ts
+#EXTINF:-1,MBC Pro Sports 1 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/927.ts
+#EXTINF:-1,OLTV
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/955.ts
+#EXTINF:-1,Dubai Sports 3
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/958.ts
+#EXTINF:-1,Dubai Sports 1
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/959.ts
+#EXTINF:-1,Dubai Racing
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/974.ts
+#EXTINF:-1,Real Madrid TV
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/947.ts
+#EXTINF:-1,BEIN SPORT 2 FR
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/953.ts
+#EXTINF:-1,BEIN SPORT 1 FR HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/954.ts
+#EXTINF:-1,BEIN 9 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/934.ts
+#EXTINF:-1,BEIN 8 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/935.ts
+#EXTINF:-1,BEIN 7 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/936.ts
+#EXTINF:-1,BEIN 6 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/937.ts
+#EXTINF:-1,BEIN 5 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/938.ts
+#EXTINF:-1,BEIN 4 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/939.ts
+#EXTINF:-1,BEIN 3 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/940.ts
+#EXTINF:-1,BEIN 2 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/941.ts
+#EXTINF:-1,BEIN 13 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/930.ts
+#EXTINF:-1,BEIN 12 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/931.ts
+#EXTINF:-1,BEIN 11 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/932.ts
+#EXTINF:-1,BEIN 10 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/933.ts
+#EXTINF:-1,BEIN 1 HD
+http://devcon.1dns1.com:8080/live/testxxx7x/290816/942.ts
+#EXTINF:-1,viv.16.06.15.arian.and.eveline.dellai
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2972.mkv
+#EXTINF:-1,The Perfect Maid 2 2016 1080
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2924.mkv
+#EXTINF:-1,tds_Elsa Jean TDS 1080
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2970.mkv
+#EXTINF:-1,Super Duper_720p
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2920.mkv
+#EXTINF:-1,Russian Anal Teens 2015 1080
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2912.mkv
+#EXTINF:-1,Russian Anal Teens 2 2016 1080
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2911.mkv
+#EXTINF:-1,Road Head 2016 1080p WEB-DL
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2910.mkv
+#EXTINF:-1,Public Penetration 2015 1080
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2907.mkv
+#EXTINF:-1,mrsc.16.06.17.alexis.fawx.4k
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2967.mkv
+#EXTINF:-1,ihaw.16.06.29.allie.haze.4k
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2955.mkv
+#EXTINF:-1,Fantastic Ass_720p
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2883.mkv
+#EXTINF:-1,Colette.16.06.27.Riley.Reid.Straight
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2880.mkv
+#EXTINF:-1,body_in_motion_big-720
+http://devcon.1dns1.com:8080/movie/testxxx7x/290816/2950.mkv
+#EXTINF:-1,Vivo 1
+http://149.202.82.73:8000/live/abbio77/AbBasbgbvf/19129.ts
+#EXTINF:-1,Vivo 2
+http://149.202.82.73:8000/live/abbio77/AbBasbgbvf/19128.ts
+#EXTINF:-1,Vivo 3
+http://149.202.82.73:8000/live/abbio77/AbBasbgbvf/19127.ts
+#EXTINF:-1,Vh1 Classic
+http://149.202.82.73:8000/live/abbio77/AbBasbgbvf/19130.ts
+#EXTINF:-1,WWE HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1316.ts
+#EXTINF:-1,Fox Sports 1 HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1318.ts
+#EXTINF:-1,BTN Sport HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1320.ts
+#EXTINF:-1,Bein Sports USA HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1321.ts
+#EXTINF:-1,Sky_Sport_F1_HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1325.ts
+#EXTINF:-1,Sky Sports HD 1
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1329.ts
+#EXTINF:-1,Sky Sport News
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1330.ts
+#EXTINF:-1,Sky Sport 5 HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1331.ts
+#EXTINF:-1,Sky Sport 4 HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1332.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1333.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1334.ts
+#EXTINF:-1,Setanta Sports 1
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1326.ts
+#EXTINF:-1,BT Sport Europe HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1335.ts
+#EXTINF:-1,BT Sport ESPN
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1336.ts
+#EXTINF:-1,BT Sport 2 HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1337.ts
+#EXTINF:-1,BT Sport 1 HD
+http://iptvfree1.com:6969/live/UgblQzRU2y/H1gbG29Oa3/1338.ts
+#EXTINF:-1,WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:-1,Weather Channel US
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,World Fashion Channel
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,VERSUS
+http://46.166.162.35:9090/load/b0922f3fa8aa/51.m3u8
+#EXTINF:-1,Weather Channel
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
+#EXTINF:-1,WWE
+http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
+#EXTINF:-1,USA_ASTRO_SUPERSPORT_1
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4171.ts
+#EXTINF:-1,USA_ASTRO_SUPERSPORT_2
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4172.ts
+#EXTINF:-1,USA_ASTRO_SUPERSPORT_3
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4173.ts
+#EXTINF:-1,USA_BYU_SPORTS_TV_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4174.ts
+#EXTINF:-1,USA_CBS_NEWS_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1491.ts
+#EXTINF:-1,USA_DISCOVERY_CHANNEL_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1488.ts
+#EXTINF:-1,USA_ESPN
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts
+#EXTINF:-1,USA_FLORIDA_CHANNEL
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4170.ts
+#EXTINF:-1,USA_FOX_SPORT_1
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1483.ts
+#EXTINF:-1,USA_ID
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts
+#EXTINF:-1,USA_MIAMI_TV
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4180.ts
+#EXTINF:-1,USA_MUTE_TV
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4179.ts
+#EXTINF:-1,USA_NBA_TV
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1486.ts
+#EXTINF:-1,USA_NBC
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts
+#EXTINF:-1,USA_NBC_GOLF
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4169.ts
+#EXTINF:-1,USA_NFL
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1492.ts
+#EXTINF:-1,USA_SHOWTIME_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4176.ts
+#EXTINF:-1,USA_SPORT_NET_1
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4167.ts
+#EXTINF:-1,USA_SPORT_NET_360
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts
+#EXTINF:-1,USA_TSN_1
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1482.ts
+#EXTINF:-1,USA_TSN_2
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1481.ts
+#EXTINF:-1,USA_TSN_3
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1480.ts
+#EXTINF:-1,USA_TSN_4
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1479.ts
+#EXTINF:-1,USA_TSN_5
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts
+#EXTINF:-1,USA_VERSUS_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1490.ts
+#EXTINF:-1,USA_WORLD_FASHION_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4175.ts
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,ABC News (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1,News 12 Long Island(Stream 1)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:-1,News Bronx(Stream 1)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:-1,News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1,News Brooklyn(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1,News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:-1,News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1,News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:-1,News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:-1,News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1,News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:-1,News Westchester(Stream 1)
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:-1,NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,NFL Now 5000k
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1,NFL Now Live
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1,Versus HD (US)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
