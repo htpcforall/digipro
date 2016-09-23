@@ -3,32 +3,32 @@
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1 tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", ANIMAL PLANET
 http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
-#EXTINF:- 1, tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116010910cnn.jpg",CNN
+#EXTINF:- 1 tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116010910cnn.jpg",CNN
 http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts
-#EXTINF:-1, tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116011727disc.jpg", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116011727disc.jpg", DISCOVERY CHANNEL
 http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
-#EXTINF:-1, tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116014852en.png", E!
+#EXTINF:-1 tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116014852en.png", E!
 http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
-#EXTINF:-1, tvg-logo="http://i.forbesimg.com/media/lists/companies/espn_416x416.jpg", ESPN
+#EXTINF:-1 tvg-logo="http://i.forbesimg.com/media/lists/companies/espn_416x416.jpg", ESPN
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts
-#EXTINF:-1, tvg-logo="http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg", FOX News
+#EXTINF:-1 tvg-logo="http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg", FOX News
 http://51.255.70.112:8000/live/test/test/1959.ts
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png", ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png", ID
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts
-#EXTINF:-1, tvg-logo="https://raw.githubuaercontent.com/dersphere/plugin.video.nasa/master/icon.png", NASA TV
+#EXTINF:-1 tvg-logo="https://raw.githubuaercontent.com/dersphere/plugin.video.nasa/master/icon.png", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, tvg-logo="http://media.lasierra.edu/programs/Extron/GUI%20Configurator%20Templates/Resources/Jet/Icons/TV%20Icons/nba-tv.png", NBA TV
+#EXTINF:-1 tvg-logo="http://media.lasierra.edu/programs/Extron/GUI%20Configurator%20Templates/Resources/Jet/Icons/TV%20Icons/nba-tv.png", NBA TV
 http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg", NBC Golf
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg", NBC Golf
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4169.ts
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg", NBC Golf
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg", NBC Golf
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts
-#EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest/scale-to-width-down/185?cb=20150803005238", NFL Now
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest/scale-to-width-down/185?cb=20150803005238", NFL Now
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1492.ts
-#EXTINF:-1, tvg-logo="https://app.uktvnow.net/images/channel_imgs/200116021039nfl.jpg", NFL Now HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8#EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest/scale-to-width-down/185?cb=20150803005238", NFL Now 4k
+#EXTINF:-1 tvg-logo="https://app.uktvnow.net/images/channel_imgs/200116021039nfl.jpg", NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest/scale-to-width-down/185?cb=20150803005238", NFL Now 4k
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-
 #EXTINF:-1, tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png", SPORTNET 360
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts
 #EXTINF:-1, tvg-logo="https://s3.amazonaws.com/media.muckrack.com/groups/icons/sportsnet.jpeg", SPORTSNET 1
