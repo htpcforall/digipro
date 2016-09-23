@@ -55,17 +55,17 @@ http://iptv.wssiptv.com/live/sylvia/sylvia/817.ts
 http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
 #EXTINF:-1 tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116011727disc.jpg", DISCOVERY CHANNEL
 http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
-#EXTINF:-1 tvg-logo=http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png", DISCOVERY SCIENCE
 http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8
-#EXTINF:-1 tvg-logo=http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", NATIONAL GEOGRAPHIC
 http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
-#EXTINF:-1 tvg-logo=http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png", NAT GEO WILD
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png", NAT GEO WILD
 http://216.31.255.235/hlsl/1/NATWLD/03.m3u8
 #EXTINF:-1 tvg-logo="http://metwest.com/wp-content/uploads/e-logo.jpg", E!
 http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
-#EXTINF:-1 tvg-logo=http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png", INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png", INVESTIGATION DISCOVERY
 http://216.31.255.235/hlsl/8/INVDSC/03.m3u8
-#EXTINF:-1 tvg-logo=http://www.thelogodb.com/images/media/logo/uuwqyv1444921041.png", TRAVEL CHANNEL
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuwqyv1444921041.png", TRAVEL CHANNEL
 http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN
 http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
