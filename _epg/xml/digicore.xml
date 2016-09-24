@@ -1,13 +1,14 @@
+
 <item> 
-<title>FOX News</title>
-<link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
-<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+  <title>FOX News</title>
+  <link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
 <item> 
-<title>ABC News</title>
-<link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
-<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail>
+  <title>ABC News</title>
+  <link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
+  <thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail>
 </item>
 
 <plugin>
@@ -276,7 +277,6 @@ http://185.38.13.23:8080/DISNEYJr/edpcode/index.m3u8?token=$doregex[cosmix]|User
   </regex>
   </link>
 </item>
-
 
 
 <item>
