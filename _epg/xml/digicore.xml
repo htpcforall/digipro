@@ -1,7 +1,45 @@
 <item> 
+  <title>ABC</title>
+  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/71.ts</link>
+  <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+</item>
+
+<item> 
+  <title>CBS</title>
+  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
+  <thumbnail>http://www.thelogodb.com/images/media/logo/vruusq1434471511.png</thumbnail>
+</item>
+
+<item> 
   <title>NBC</title>
   <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8656.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+  <thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
+</item>
+
+<item> 
+  <title>NBCSN</title>
+  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/100.ts</link>
+  <thumbnail>http://www.thelogodb.com/images/media/logo/vxvtup1434505598.png</thumbnail>
+</item>
+
+<item> 
+  <title>PBS</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/74.ts</link>
+  <thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
+</item>
+
+<item>
+<title>CW</title> 
+<link>http://www.ibrod.tv/cw-tv-online.html</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png</thumbnail> 
+</item>
+
+<item>
+<title>E!</title> 
+<link>
+<sublink>http://www.shadow-net.org/channels/E%21-Entertainment.html</sublink>
+</link>
+<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/EE.png</thumbnail> 
 </item>
 
 <item> 
@@ -23,11 +61,10 @@
 </item>
 
 <item> 
-  <title>A E</title>
+  <title>A E - ALT</title>
   <link>http://89.163.148.31/live/claire/claire/8690.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
-
 
 <item> 
   <title>TRUETV</title>
@@ -90,9 +127,6 @@
 </item>
 
 
-
-
-
 <item> 
   <title>TSN 3</title>
   <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1480.ts</link>
@@ -136,6 +170,12 @@
 </item>
 
 <item> 
+  <title>ESPN</title>
+  <link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/2618.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
   <title>CARTOON NETWORK</title>
   <link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1672.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
@@ -146,19 +186,6 @@
   <link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1818.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
-
-<item> 
-  <title>ESPN</title>
-  <link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/2618.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>FOX</title>
-  <link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1783.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
 <item> 
   <title>HISTORY</title>
   <link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1268.ts</link>
@@ -190,6 +217,12 @@
 </item>
 
 <item> 
+  <title>FOX SPORTS</title>
+  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/73.ts</link>
+  <thumbnail></thumbnail>
+</item>
+
+<item> 
   <title>FOX SPORTS 2</title>
   <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
@@ -198,12 +231,6 @@
 <item> 
   <title>SKY SPORTS NEWS</title>
   <link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1675.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>NFL NETWORK</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
@@ -233,10 +260,54 @@
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
+
+
+<item> 
+  <title>ABC NEWS</title>
+  <link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
+  <thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail>
+</item>
+
+<item>
+<title>ABC News</title> 
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail> 
+</item>
+
+<item> 
+  <title>CNN</title>
+  <link>http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts</link>
+  <thumbnail>https://app.uktvnow.net/images/channel_imgs/160116010910cnn.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>COMEDY CENTRAL</title> 
+<link>http://www.shadow-net.org/channels/Comedy-Central.html</link>
+<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/Comedy.png</thumbnail> 
+</item>
+
 <item> 
   <title>IVESTIGATION DISCOVERY</title>
   <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item>
+<title>INVESTIGATION DISCOVERY - ALT</title> 
+<link>http://80.80.160.168/live/5/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png</thumbnail> 
+</item>
+
+<item> 
+  <title>NASA</title>
+  <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+  <thumbnail>https://raw.githubusercontent.com/dersphere/plugin.video.nasa/master/icon.png</thumbnail>
+</item>
+<item> 
+  <title>NASA - ALT</title>
+  <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
+  <thumbnail>http://123tvonline.com/live/nasa-tv-live.gif</thumbnail>
 </item>
 
 <item> 
@@ -264,108 +335,15 @@
 </item>
 
 <item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
+  <title>NFL</title>
+  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/152.ts</link>
+  <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/7/75/Nfl-network-logo.jpg/revision/latest?cb=20150809205413</thumbnail>
+</item>
+
+<item> 
+  <title>NFL NETWORK</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>ABC NEWS</title>
-  <link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
-  <thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>CNN</title>
-  <link>http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts</link>
-  <thumbnail>https://app.uktvnow.net/images/channel_imgs/160116010910cnn.jpg</thumbnail>
-</item>
-<item>
-<title>ABC News</title> 
-<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
-<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail> 
-</item>
-
-<item>
-<title>The CW</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/CW.html</sublink>
-<sublink>http://www.ibrod.tv/cw-tv-online.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/CW.png</thumbnail> 
-</item>
-
-<item>
-<title>E!</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/E%21-Entertainment.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/EE.png</thumbnail> 
-</item>
-
-<item>
-<title>INVESTIGATION DISCOVERY</title> 
-<link>http://80.80.160.168/live/5/live.m3u8</link>
-<thumbnail></thumbnail> 
-</item>
-
-<item>
-<title>COMEDY CENTRAL</title> 
-<link>http://www.shadow-net.org/channels/Comedy-Central.html</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/Comedy.png</thumbnail> 
-</item>
-<item> 
-  <title>INVESTIGATION DISCOVERY</title>
-  <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png</thumbnail>
-</item>
-
-<item> 
-  <title>NASA TV</title>
-  <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-  <thumbnail>https://raw.githubusercontent.com/dersphere/plugin.video.nasa/master/icon.png</thumbnail>
 </item>
 
 <item> 
@@ -386,97 +364,86 @@
   <thumbnail>https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg</thumbnail>
 </item>
 
-<item> 
-<title>NASA</title>
-<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
-<thumbnail>http://123tvonline.com/live/nasa-tv-live.gif</thumbnail>
+<item>
+	<title>Sky One</title> 
+	<link>http://www.shadow-net.org/channels/Sky-1.html</LINK>
+	<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/skyone.png</thumbnail> 
 </item>
 
 <item>
-<title>Sky One</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/Sky-1.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/skyone.png</thumbnail> 
+	<title>SPORTSNET WORLD</title>
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/rxwxvv1433429786.png</thumbnail>
 </item>
 
 <item>
-<title>SPORTSNET WORLS</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rxwxvv1433429786.png</thumbnail>
+	<title>SPORTSNET ONE</title>
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8</link>
+	<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ONE.png</thumbnail>
 </item>
 
 <item>
-<title>SPORTSNET ONE</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8</link>
-<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ONE.png</thumbnail>
+	<title>SPORTSNET ONE - ALT</title>
+	<link>http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_ipad.m3u8</link>
+	<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ONE.png</thumbnail>
 </item>
 
 <item>
-<title>SPORTSNET ONE - ALT</title>
-<link>http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_ipad.m3u8</link>
-<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ONE.png</thumbnail>
+	<title>SPORTSNET PACIFIC</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Sportsnet Pacific&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/1563.ts</link>
+	<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-PAC.png</thumbnail>
 </item>
 
 <item>
-<title>SPORTSNET PACIFIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Sportsnet Pacific&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/1563.ts</link>
-<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-PAC.png</thumbnail>
+	<title>SPORTSNET 360</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts</link>
+	<thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
 </item>
 
 <item>
-<title>SPORTSNET 360</title>
-<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts</link>
-<thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
+	<title>SPORTSNET 360 - ALT</title>
+	<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
+	<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-360.png</thumbnail>
 </item>
 
 <item>
-<title>SPORTSNET 360 - ALT</title>
-<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
-<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-360.png</thumbnail>
+	<title>TSN 1</title>
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 </item>
 
 <item>
-<title>TSN 1</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
-</item>
-
-
-<item>
-<title> TSN 2 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=TSN 2&amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/401.ts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
-</item>
-
-
-<item>
-<title>TSN 3</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
-</item>
-
-
-<item>
-<title>TSN 4</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
+	<title>TSN 2 </title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=TSN 2&amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/401.ts</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 </item>
 
 <item>
-<title>TSN 5</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
+	<title>TSN 3</title>
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
 </item>
 
 <item>
-<title>FIGHT NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Fight Network &amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/1082.ts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png</thumbnail>
+	<title>TSN 4</title>
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
 </item>
 
 <item>
-<title>WWE NETWORK</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8</link>
-<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
+	<title>TSN 5</title>
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
+</item>
+
+<item>
+	<title>FIGHT NETWORK</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Fight Network &amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/1082.ts</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png</thumbnail>
+</item>
+
+<item>
+	<title>WWE NETWORK</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/75.ts</link>
+	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
 </item>
