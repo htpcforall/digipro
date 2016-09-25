@@ -1,6 +1,60 @@
 <item> 
+  <title>NBC</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8656.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>TNT</title>
+  <link>http://149.202.78.137/live/testxxx7x/290816/2738.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>USA</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8683.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>A E</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8690.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>A E</title>
+  <link>http://89.163.148.31/live/claire/claire/8690.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+
+<item> 
+  <title>TRUETV</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>TBS</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8516.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+<item> 
   <title>FOX NEWS</title>
   <link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>CBS NEWS</title>
+  <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1491.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>ESPN NEWS</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8691.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
@@ -28,23 +82,16 @@
   <thumbnail></thumbnail>
 </item>
 
+
 <item> 
-  <title>CBS NEWS</title>
-  <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1491.ts</link>
+  <title>WWE</title>
+  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8536.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
-<item> 
-  <title>FOX SPORTS 2</title>
-  <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
 
-<item> 
-  <title>IVESTIGATION DISCOVERY</title>
-  <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
+
+
 
 <item> 
   <title>TSN 3</title>
@@ -131,45 +178,26 @@
 </item>
 
 <item> 
+  <title>MLB</title>
+  <link>http://89.163.148.31:8000/live/claire/claire/8700.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>NBA TV</title>
+  <link>http://89.163.148.31:8000/live/claire/claire/8655.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>FOX SPORTS 2</title>
+  <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
   <title>SKY SPORTS NEWS</title>
   <link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1675.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TNT</title>
-  <link>http://149.202.78.137/live/testxxx7x/290816/2738.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>USA</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8683.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-
-<item> 
-  <title>TRUETV</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>TBS</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8516.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>WWE</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8536.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>ESPN NEWS</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8691.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
@@ -185,11 +213,7 @@
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
-<item> 
-  <title>NBC</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8656.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
+
 
 <item> 
   <title>FOX SPORTS 1</title>
@@ -204,20 +228,14 @@
 </item>
 
 <item> 
-  <title>A E</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8690.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>A E</title>
-  <link>http://89.163.148.31/live/claire/claire/8690.ts</link>
-  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
   <title>NICKELODEON</title>
   <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8507.ts</link>
+  <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+  <title>IVESTIGATION DISCOVERY</title>
+  <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
@@ -293,7 +311,6 @@
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
-
 <item> 
   <title>ABC NEWS</title>
   <link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
@@ -305,9 +322,42 @@
   <link>http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts</link>
   <thumbnail>https://app.uktvnow.net/images/channel_imgs/160116010910cnn.jpg</thumbnail>
 </item>
+<item>
+<title>ABC News</title> 
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail> 
+</item>
 
+<item>
+<title>The CW</title> 
+<link>
+<sublink>http://www.shadow-net.org/channels/CW.html</sublink>
+<sublink>http://www.ibrod.tv/cw-tv-online.html</sublink>
+</link>
+<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/CW.png</thumbnail> 
+</item>
+
+<item>
+<title>E!</title> 
+<link>
+<sublink>http://www.shadow-net.org/channels/E%21-Entertainment.html</sublink>
+</link>
+<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/EE.png</thumbnail> 
+</item>
+
+<item>
+<title>INVESTIGATION DISCOVERY</title> 
+<link>http://80.80.160.168/live/5/live.m3u8</link>
+<thumbnail></thumbnail> 
+</item>
+
+<item>
+<title>COMEDY CENTRAL</title> 
+<link>http://www.shadow-net.org/channels/Comedy-Central.html</link>
+<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/Comedy.png</thumbnail> 
+</item>
 <item> 
-  <title>ID</title>
+  <title>INVESTIGATION DISCOVERY</title>
   <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
   <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png</thumbnail>
 </item>
@@ -337,31 +387,6 @@
 </item>
 
 <item> 
-  <title>NFL NOW</title>
-  <link>http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest/scale-to-width-down/185?cb=20150803005238</link>
-  <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest/scale-to-width-down/185?cb=20150803005238</thumbnail>
-</item>
-
-<item> 
-  <title>VERSUS HD</title>
-  <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1490.ts</link>
-  <thumbnail>http://2.bp.blogspot.com/-dZ_GPQitfxY/UEqSQzxpsFI/AAAAAAAAAts/H-pwxeLr6A0/s320/VS.png</thumbnail>
-</item>
-
-<item> 
-  <title>VERSUS HD - ALT</title>
-  <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-  <thumbnail>http://2.bp.blogspot.com/-dZ_GPQitfxY/UEqSQzxpsFI/AAAAAAAAAts/H-pwxeLr6A0/s320/VS.png</thumbnail>
-</item>
-
-<item> 
-  <title>THE WEATHER CHANNEL</title>
-  <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
-  <thumbnail>http://turkeltalks.com/assets/Weather-Channel-Logo.gif</thumbnail>
-</item>
-
-
-<item> 
 <title>NASA</title>
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
 <thumbnail>http://123tvonline.com/live/nasa-tv-live.gif</thumbnail>
@@ -376,221 +401,7 @@
 </item>
 
 <item>
-<title>HBO</title>
-<link>
-http://94.242.228.162:8081/live/hbo-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-<regex>
-<name>m3u8</name>
-<expres>wmsAuthSign=([^"]*)</expres>
-<page>http://www.liveonlinetv247.info/embed/hbohd.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/hbohd.php</referer>
-</regex>
-</link>
-<thumbnail></thumbnail>
-</item> 
-
-<item>
-<title>ABC News</title> 
-<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</sublink>
-</link>
-<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail> 
-</item>
-
-<item>
-<title>The CW</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/CW.html</sublink>
-<sublink>http://www.ibrod.tv/cw-tv-online.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/CW.png</thumbnail> 
-</item>
-
-<item>
-<title>E!</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/E%21-Entertainment.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/EE.png</thumbnail> 
-</item>
-
-<item>
-<title>ID!-Investigation</title> 
-<link>
-<sublink>http://80.80.160.168/live/5/live.m3u8</sublink>
-</link>
-<thumbnail></thumbnail> 
-</item>
-
-<item>
-<title>Comedy Central</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/Comedy-Central.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/Comedy.png</thumbnail> 
-</item>
-
-<item>
-<title>US Network</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/USA-Network.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/usnet.png</thumbnail> 
-</item>
-
-<item>
-<title>Cartoon Network</title> 
-<link>
-<sublink>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8</sublink>
-<sublink>http://www.shadow-net.org/channels/Cartoon-Network-UK.html</sublink>
-<sublink>http://www.shadow-net.org/channels/Cartoon-Network-US.html</sublink>
-<sublink>http://www.ibrod.tv/cartoon-network-tv-online.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/Cartoon.png</thumbnail> 
-</item>
-
-<item>
-<title>DISNEY JUNIOR UK</title>
-<link>
-http://185.38.13.23:8080/DISNEYJr/edpcode/index.m3u8?token=$doregex[cosmix]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
-<regex>
-<name>cosmix</name>
-<expres>file\|(.*?)\|</expres>
-<page>http://185.38.13.23/Disney%20Junior%20UK/ch.php</page>
-<referer>http://185.38.13.23/Disney%20Junior%20UK/ch.php</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36</agent>
-</regex>
-</link>
-<fanart></fanart>
-</item>
-<item>
-<title>Disney Channel</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/Disney-Channel-UK.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/disney.png</thumbnail> 
-</item>
-
-<item>
-  <title>MSNBC</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone
-  <regex>
-    <name>m3u8</name>
-    <expres>(http[^\*]+)</expres>
-    <page>http://$doregex[getip]:$doregex[getip2]/live/$doregex[channel]/playlist.m3u8?id=$doregex[getid]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.janjuaplayer.com/membedplayer/msnbcifinal112/3/360/270</referer>
-    <accept>*/*</accept> 
- </regex>
- <regex>
-    <name>getip</name>
-    <expres>redirect=(.*)</expres>
-    <page>http://www.janjuapublisher.com:1935/loadbalancer?60015</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.janjuaplayer.com/membedplayer/msnbcifinal112/3/360/270</referer>
-    <accept>*/*</accept>
-  </regex>
-  <regex>
-    <name>getip2</name>
-    <expres>":(.*?)\/live</expres>
-    <page>http://www.janjuaplayer.com/membedplayer/msnbcifinal112/3/360/270</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.zahitvstation.com/watch-msnbc-live</referer>
-    <accept>*/*</accept>
-  </regex>
-  <regex>
-    <name>channel</name>
-    <expres>\/live\/(.*?)\/</expres>
-    <page>http://www.janjuaplayer.com/membedplayer/msnbcifinal112/3/360/270</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.zahitvstation.com/watch-msnbc-live</referer>
-    <accept>*/*</accept>
-  </regex>
-  <regex>
-    <name>getid</name>
-    <expres>[\?]id=(.*?)"</expres>
-    <page>http://www.janjuaplayer.com/membedplayer/msnbcifinal112/3/360/270</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.zahitvstation.com/watch-msnbc-live</referer>
-    <accept>*/*</accept>
-  </regex>
-  </link>
-</item>
-
-
-<item>
-<title>CNN</title>
-<link>
-$doregex[m3u8]|User-Agent=iPhone
-<regex>
-    <name>m3u8</name>
-    <expres>(http[^\*]+)</expres>
-    <page>http://$doregex[getip]:$doregex[getip2]/live/$doregex[channel]/playlist.m3u8?id=$doregex[getid]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.janjuaplayer.com/membedplayer/cnn88ybh/3/600/400</referer>
-    <accept>*/*</accept> 
-</regex>
-<regex>
-    <name>getip</name>
-    <expres>redirect=(.*)</expres>
-    <page>http://www.janjuapublisher.com:1935/loadbalancer?60824</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.janjuaplayer.com/membedplayer/cnn88ybh/3/600/400</referer>
-    <accept>*/*</accept>
-</regex>
-<regex>
-    <name>getip2</name>
-    <expres>":(.*?)\/live</expres>
-    <page>http://www.janjuaplayer.com/membedplayer/cnn88ybh/3/600/400</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.zahitvstation.com/watch-cnn-usa-live</referer>
-    <accept>*/*</accept>
-</regex>
-<regex>
-    <name>channel</name>
-    <expres>\/live\/(.*?)\/</expres>
-    <page>http://www.janjuaplayer.com/membedplayer/cnn88ybh/3/600/400</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.zahitvstation.com/watch-cnn-usa-live</referer>
-    <accept>*/*</accept>
-</regex>
-<regex>
-    <name>getid</name>
-    <expres>[\?]id=(.*?)"</expres>
-    <page>http://www.janjuaplayer.com/membedplayer/cnn88ybh/3/600/400</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-    <referer>http://www.zahitvstation.com/watch-cnn-usa-live</referer>
-    <accept>*/*</accept>
-</regex>
-</link>
-</item>
-<title>Sports  [COLOR orange] Sportsnet Ontario [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Sportsnet Ontario&amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/406.ts</link>
-<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ON.png</thumbnail>
-</item>
-
-
-<item>
-<title>Sports  [COLOR orange] Sportsnet Ontario ALT [/COLOR]</title>
-<link>http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_ontario/as/live/sn_ontario_hd_ipad.m3u8</link>
-<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ON.png</thumbnail>
-</item>
-
-<item>
-<title>Sports  [COLOR orange] Sportsnet 360 [/COLOR]</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8</link>
-<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-360.png</thumbnail>
-</item>
-
-<item>
-<title>Sports  [COLOR orange] Sportsnet 360 - ALT [/COLOR]</title>
-<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
-<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-360.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>Sports  [COLOR orange] Sportsnet World [/COLOR]</title>
+<title>SPORTSNET WORLS</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rxwxvv1433429786.png</thumbnail>
 </item>
@@ -600,7 +411,6 @@ $doregex[m3u8]|User-Agent=iPhone
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8</link>
 <thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ONE.png</thumbnail>
 </item>
-
 
 <item>
 <title>SPORTSNET ONE - ALT</title>
@@ -612,21 +422,24 @@ $doregex[m3u8]|User-Agent=iPhone
 <title>SPORTSNET PACIFIC</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Sportsnet Pacific&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/1563.ts</link>
 <thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-PAC.png</thumbnail>
-<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
 <item>
-<title>SPORTNET 360</title>
+<title>SPORTSNET 360</title>
 <link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts</link>
 <thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
 </item>
 
+<item>
+<title>SPORTSNET 360 - ALT</title>
+<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
+<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-360.png</thumbnail>
+</item>
 
 <item>
 <title>TSN 1</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
-<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
 
@@ -634,7 +447,6 @@ $doregex[m3u8]|User-Agent=iPhone
 <title> TSN 2 </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=TSN 2&amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/401.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
-<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
 
@@ -642,7 +454,6 @@ $doregex[m3u8]|User-Agent=iPhone
 <title>TSN 3</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
-<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
 
@@ -650,26 +461,22 @@ $doregex[m3u8]|User-Agent=iPhone
 <title>TSN 4</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
-<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
 <item>
 <title>TSN 5</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
-<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
 <item>
 <title>FIGHT NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Fight Network &amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/1082.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png</thumbnail>
-<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
 <item>
 <title>WWE NETWORK</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8</link>
 <thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
-<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
