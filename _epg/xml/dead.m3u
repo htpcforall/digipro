@@ -1,0 +1,203 @@
+#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/6bf88f_c38a5b83a0e225d4f8306bba221ab75d.png_1024", TBS
+http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-DISCOVERY.png", ID
+#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.nasa.png.pagespeed.ic.rpaY5meupD.png", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg", ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-logo="https://app.uktvnow.net/images/channel_imgs/160116010910cnn.jpg", CNN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts
+#EXTINF:-1 tvg-logo="http://turkeltalks.com/assets/Weather-CHANNEL-Logo.gif", THE WEATHER CHANNEL
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-logo="", TSN 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8
+#EXTINF:-1 tvg-logo="", TSN 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8
+#EXTINF:-1 tvg-logo="", TSN 3
+http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8
+#EXTINF:-1 tvg-logo="", TSN 4
+http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8
+#EXTINF:-1 tvg-logo="", TSN 5
+http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
+#EXTINF:-1 tvg-logo="", CBC NEWS
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
+#EXTINF:-1 tvg-logo="", GLOBAL NEWS
+http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
+#EXTINF:-1 tvg-logo="", CBS
+http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8
+#EXTINF:-1 tvg-logo="", CITY
+http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8
+#EXTINF:-1 tvg-logo="", Canada
+http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
+#EXTINF:-1 tvg-logo="", CTV
+http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8
+#EXTINF:-1 tvg-logo="", VISION
+http://46.166.162.35:9090/load/b0922f3fa8aa/69.m3u8
+#EXTINF:-1 tvg-logo="", WHDH 7 NEWS
+http://46.166.162.35:9090/load/b0922f3fa8aa/70.m3u8
+#EXTINF:-1 tvg-logo="", ABC
+http://46.166.162.35:9090/load/b0922f3fa8aa/71.m3u8
+#EXTINF:-1 tvg-logo="", CBS
+http://46.166.162.35:9090/load/b0922f3fa8aa/72.m3u8
+#EXTINF:-1 tvg-logo="", WFXT FOX25 NEWS 
+http://46.166.162.35:9090/load/b0922f3fa8aa/73.m3u8
+#EXTINF:-1 tvg-logo="", PBS
+http://46.166.162.35:9090/load/b0922f3fa8aa/74.m3u8
+#EXTINF:-1 tvg-logo="", NBC
+http://46.166.162.35:9090/load/b0922f3fa8aa/80.m3u8
+#EXTINF:-1 tvg-logo="", ABC
+http://46.166.162.35:9090/load/b0922f3fa8aa/81.m3u8
+#EXTINF:-1 tvg-logo="", FOX
+http://46.166.162.35:9090/load/b0922f3fa8aa/82.m3u8
+#EXTINF:-1 tvg-logo="", ?
+http://46.166.162.35:9090/load/b0922f3fa8aa/84.m3u8
+#EXTINF:-1 tvg-logo="", CBS
+http://46.166.162.35:9090/load/b0922f3fa8aa/85.m3u8
+
+#EXTINF:-1 tvg-logo="", USA NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/105.m3u8
+#EXTINF:-1 tvg-logo="", TV LAND
+http://46.166.162.35:9090/load/b0922f3fa8aa/106.m3u8
+#EXTINF:-1 tvg-logo="", COMEDY CENTRAL
+http://46.166.162.35:9090/load/b0922f3fa8aa/107.m3u8
+
+#EXTINF:-1 tvg-logo="", LIFETIME
+http://46.166.162.35:9090/load/b0922f3fa8aa/108.m3u8
+#EXTINF:-1 tvg-logo="", FOOD NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/110.m3u8
+#EXTINF:-1 tvg-logo="", E!
+http://46.166.162.35:9090/load/b0922f3fa8aa/114.m3u8
+#EXTINF:-1 tvg-logo="", ?
+http://46.166.162.35:9090/load/b0922f3fa8aa/118.m3u8
+#EXTINF:-1 tvg-logo="", HISTORY CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/120.m3u8
+#EXTINF:-1 tvg-logo="", VICELAND
+http://46.166.162.35:9090/load/b0922f3fa8aa/121.m3u8
+#EXTINF:-1 tvg-logo="", SYFY
+http://46.166.162.35:9090/load/b0922f3fa8aa/122.m3u8
+#EXTINF:-1 tvg-logo="", BET
+http://46.166.162.35:9090/load/b0922f3fa8aa/124.m3u8
+#EXTINF:-1 tvg-logo="", FXX
+http://46.166.162.35:9090/load/b0922f3fa8aa/125.m3u8
+#EXTINF:-1 tvg-logo="", ?
+http://46.166.162.35:9090/load/b0922f3fa8aa/127.m3u8
+#EXTINF:-1 tvg-logo="", WE TV
+http://46.166.162.35:9090/load/b0922f3fa8aa/128.m3u8
+#EXTINF:-1 tvg-logo="", BRAVO
+http://46.166.162.35:9090/load/b0922f3fa8aa/129.m3u8
+#EXTINF:-1 tvg-logo="", TBS
+http://46.166.162.35:9090/load/b0922f3fa8aa/139.m3u8
+#EXTINF:-1 tvg-logo="", AMC
+http://46.166.162.35:9090/load/b0922f3fa8aa/131.m3u8
+
+#EXTINF:-1 tvg-logo="", IFC
+http://46.166.162.35:9090/load/b0922f3fa8aa/133.m3u8
+#EXTINF:-1 tvg-logo="", SLICE
+http://46.166.162.35:9090/load/b0922f3fa8aa/134.m3u8
+#EXTINF:-1 tvg-logo="", BBC AMERICA
+http://46.166.162.35:9090/load/b0922f3fa8aa/135.m3u8
+#EXTINF:-1 tvg-logo="", TNT
+http://46.166.162.35:9090/load/b0922f3fa8aa/138.m3u8
+#EXTINF:-1 tvg-logo="", MTV
+http://46.166.162.35:9090/load/b0922f3fa8aa/160.m3u8
+#EXTINF:-1 tvg-logo="", VH1
+http://46.166.162.35:9090/load/b0922f3fa8aa/161.m3u8
+#EXTINF:-1 tvg-logo="", M20TV
+http://46.166.162.35:9090/load/b0922f3fa8aa/162.m3u8
+#EXTINF:-1 tvg-logo="", KIDS?
+http://46.166.162.35:9090/load/b0922f3fa8aa/165.m3u8
+#EXTINF:-1 tvg-logo="", FYI
+http://46.166.162.35:9090/load/b0922f3fa8aa/166.m3u8
+#EXTINF:-1 tvg-logo="", NICKELODEON
+http://46.166.162.35:9090/load/b0922f3fa8aa/170.m3u8
+#EXTINF:-1 tvg-logo="", F2N
+http://46.166.162.35:9090/load/b0922f3fa8aa/171.m3u8
+#EXTINF:-1 tvg-logo="", DISNEY CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/172.m3u8
+#EXTINF:-1 tvg-logo="", DISNEY XD
+http://46.166.162.35:9090/load/b0922f3fa8aa/174.m3u8
+#EXTINF:-1 tvg-logo="", ADULT SWIM
+http://46.166.162.35:9090/load/b0922f3fa8aa/176.m3u8
+#EXTINF:-1 tvg-logo="", YTV
+http://46.166.162.35:9090/load/b0922f3fa8aa/180.m3u8
+#EXTINF:-1 tvg-logo="", DISCOVERY CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/182.m3u8
+#EXTINF:-1 tvg-logo="", TLC
+http://46.166.162.35:9090/load/b0922f3fa8aa/183.m3u8
+#EXTINF:-1 tvg-logo="", ANIMAL PLANET
+http://46.166.162.35:9090/load/b0922f3fa8aa/184.m3u8
+#EXTINF:-1 tvg-logo="", HALLMARK
+http://46.166.162.35:9090/load/b0922f3fa8aa/185.m3u8
+#EXTINF:-1 tvg-logo="", NATIONAL GEOGRAPHIC
+http://46.166.162.35:9090/load/b0922f3fa8aa/186.m3u8
+#EXTINF:-1 tvg-logo="", OWN
+http://46.166.162.35:9090/load/b0922f3fa8aa/189.m3u8
+#EXTINF:-1 tvg-logo="", NAT GEO WILD
+http://46.166.162.35:9090/load/b0922f3fa8aa/190.m3u8
+#EXTINF:-1 tvg-logo="", ID
+http://46.166.162.35:9090/load/b0922f3fa8aa/192.m3u8
+#EXTINF:-1 tvg-logo="", SCIENCE DISCOVERY
+http://46.166.162.35:9090/load/b0922f3fa8aa/193.m3u8
+#EXTINF:-1 tvg-logo="", TRAVEL CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/196.m3u8
+#EXTINF:-1 tvg-logo="", VERSUS
+http://46.166.162.35:9090/load/b0922f3fa8aa/198.m3u8
+#EXTINF:-1 tvg-logo="", CNN
+http://46.166.162.35:9090/load/b0922f3fa8aa/200.m3u8
+#EXTINF:-1 tvg-logo="", CBC NEWS
+http://46.166.162.35:9090/load/b0922f3fa8aa/201.m3u8
+#EXTINF:-1 tvg-logo="", ?
+http://46.166.162.35:9090/load/b0922f3fa8aa/202.m3u8
+#EXTINF:-1 tvg-logo="", BLOOMBERG
+http://46.166.162.35:9090/load/b0922f3fa8aa/203.m3u8
+#EXTINF:-1 tvg-logo="", ABC NEWS
+http://46.166.162.35:9090/load/b0922f3fa8aa/204.m3u8
+#EXTINF:-1 tvg-logo="", FOX NEWS
+http://46.166.162.35:9090/load/b0922f3fa8aa/205.m3u8
+#EXTINF:-1 tvg-logo="", RT
+http://46.166.162.35:9090/load/b0922f3fa8aa/206.m3u8
+#EXTINF:-1 tvg-logo="", RT AMERICA
+http://46.166.162.35:9090/load/b0922f3fa8aa/207.m3u8
+#EXTINF:-1 tvg-logo="", ?
+http://46.166.162.35:9090/load/b0922f3fa8aa/208.m3u8
+
+#EXTINF:-1 tvg-logo="", MSNBC
+http://46.166.162.35:9090/load/b0922f3fa8aa/209.m3u8
+#EXTINF:-1 tvg-logo="", CBSN
+http://46.166.162.35:9090/load/b0922f3fa8aa/210.m3u8
+#EXTINF:-1 tvg-logo="", BNN
+http://46.166.162.35:9090/load/b0922f3fa8aa/212.m3u8
+#EXTINF:-1 tvg-logo="", WEATHER CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/214.m3u8
+#EXTINF:-1 tvg-logo="", BBC NEWS
+http://46.166.162.35:9090/load/b0922f3fa8aa/215.m3u8
+#EXTINF:-1 tvg-logo="", ALJEZEERA
+http://46.166.162.35:9090/load/b0922f3fa8aa/217.m3u8
+#EXTINF:-1 tvg-logo="", SHOWCASE
+http://46.166.162.35:9090/load/b0922f3fa8aa/130.m3u8
+#EXTINF:-1 tvg-logo="", ESPN
+http://46.166.162.35:9090/load/b0922f3fa8aa/140.m3u8
+#EXTINF:-1 tvg-logo="", ESPN 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/137.m3u8
+#EXTINF:-1 tvg-logo="", ESPN 2 - ALT1
+http://46.166.162.35:9090/load/b0922f3fa8aa/143.m3u8
+#EXTINF:-1 tvg-logo="", FS1
+http://46.166.162.35:9090/load/b0922f3fa8aa/150.m3u8
+#EXTINF:-1 tvg-logo="", FS2
+http://46.166.162.35:9090/load/b0922f3fa8aa/149.m3u8
+#EXTINF:-1 tvg-logo="", ?
+http://46.166.162.35:9090/load/b0922f3fa8aa/151.m3u8
+#EXTINF:-1 tvg-logo="", NFL NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/152.m3u8
+#EXTINF:-1 tvg-logo="", NFL NOW
+http://46.166.162.35:9090/load/b0922f3fa8aa/153.m3u8
+#EXTINF:-1 tvg-logo="", WWE Network
+http://46.166.162.35:9090/load/b0922f3fa8aa/155.m3u8
+#EXTINF:-1 tvg-logo="", TNT
+http://46.166.162.35:9090/load/b0922f3fa8aa/156.m3u8
+#EXTINF:-1 tvg-logo="", CBS SPORTS NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/158.m3u8
+#EXTINF:-1 tvg-logo="", NBCSN
+http://46.166.162.35:9090/load/b0922f3fa8aa/159.m3u8
