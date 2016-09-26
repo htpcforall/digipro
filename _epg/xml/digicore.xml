@@ -6,8 +6,8 @@
 
 <item> 
   <title>CBS</title>
-  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
-  <thumbnail>http://www.thelogodb.com/images/media/logo/vruusq1434471511.png</thumbnail>
+  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=CBS&amp;url=http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/732923217489301504/oeISVsOw.jpg</thumbnail>
 </item>
 
 <item> 
@@ -447,3 +447,10 @@
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/75.ts</link>
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
 </item>
+
+<item>
+	<title>WWE PPV</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=WWE PPV&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
+	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
+</item>
+
