@@ -6,7 +6,7 @@
 
 <item> 
   <title>CBS</title>
-  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=CBS&amp;url=http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
+  <link><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=WWE PPV&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>url=http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
   <thumbnail>https://pbs.twimg.com/profile_images/732923217489301504/oeISVsOw.jpg</thumbnail>
 </item>
 
@@ -324,7 +324,7 @@
 
 <item> 
   <title>VERSUS NBA</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8490.ts</link>
+  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=VERSUS NBA&amp;url=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8490.ts</link>
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
@@ -336,7 +336,7 @@
 
 <item> 
   <title>NFL</title>
-  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/152.ts</link>
+  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NFL&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
   <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/7/75/Nfl-network-logo.jpg/revision/latest?cb=20150809205413</thumbnail>
 </item>
 
