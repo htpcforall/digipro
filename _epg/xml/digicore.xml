@@ -1,14 +1,28 @@
 
 <item> 
+  <title>ABC</title>
+  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
+  <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+</item>
+
+<item>
+  <title>CBS</title> 
+ <item>
+	<title>FOX</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/205.ts</link>
+	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/fox-news-channel.png?w=800</thumbnail>
+</item>
+
+<item> 
   <title>PBS</title>
   <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/74.ts</link>
-  <thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
+  <thumbnail>http://vignette3.wikia.nocookie.net/logo-timeline/images/9/94/Pbs-logo-800.png/revision/latest?cb=20140904121703</thumbnail>
 </item>
 
 <item>
   <title>CW</title> 
   <link>http://www.ibrod.tv/cw-tv-online.html</link>
-  <thumbnail>http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png</thumbnail> 
+  <thumbnail>http://fangirlish.com/wp-content/uploads/2015/11/TheCW_logolarge_960x540.jpg</thumbnail> 
 </item>
 
 <item>
@@ -16,7 +30,7 @@
   <link>
   <sublink>http://www.shadow-net.org/channels/E%21-Entertainment.html</sublink>
   </link>
-  <thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/EE.png</thumbnail> 
+  <thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/e-logo.png</thumbnail> 
 </item>
 
 <item> 
@@ -217,8 +231,6 @@
   <thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
-
-
 <item> 
   <title>FOX SPORTS 1</title>
   <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8662.ts</link>
@@ -271,9 +283,9 @@
 </item>
 
 <item>
-<title>INVESTIGATION DISCOVERY - ALT</title> 
-<link>http://80.80.160.168/live/5/live.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png</thumbnail> 
+   <title>INVESTIGATION DISCOVERY - ALT</title> 
+	<link>http://80.80.160.168/live/5/live.m3u8</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png</thumbnail> 
 </item>
 
 <item> 
@@ -430,8 +442,13 @@
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=WWE PPV&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
 </item>
+
 <item>
 	<title>NBA</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NBA&amp;url=http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
+</item>
+
+ <link>https://i.kinja-img.com/gawker-media/image/upload/s--Ikitmm8Q--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/18vt9iyx21dm6jpg.jpg</link>
+  <thumbnail>https://i.kinja-img.com/gawker-media/image/upload/s--Ikitmm8Q--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/18vt9iyx21dm6jpg.jpg</thumbnail> 
 </item>
