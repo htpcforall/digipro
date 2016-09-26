@@ -1,26 +1,3 @@
-<item> 
-  <title>ABC</title>
-  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/71.ts</link>
-  <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
-</item>
-
-<item> 
-  <title>CBS</title>
-  <link><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=WWE PPV&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>url=http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/732923217489301504/oeISVsOw.jpg</thumbnail>
-</item>
-
-<item> 
-  <title>NBC</title>
-  <link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8656.ts</link>
-  <thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
-</item>
-
-<item> 
-  <title>NBCSN</title>
-  <link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/100.ts</link>
-  <thumbnail>http://www.thelogodb.com/images/media/logo/vxvtup1434505598.png</thumbnail>
-</item>
 
 <item> 
   <title>PBS</title>
@@ -29,17 +6,17 @@
 </item>
 
 <item>
-<title>CW</title> 
-<link>http://www.ibrod.tv/cw-tv-online.html</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png</thumbnail> 
+  <title>CW</title> 
+  <link>http://www.ibrod.tv/cw-tv-online.html</link>
+  <thumbnail>http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png</thumbnail> 
 </item>
 
 <item>
 <title>E!</title> 
-<link>
-<sublink>http://www.shadow-net.org/channels/E%21-Entertainment.html</sublink>
-</link>
-<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/EE.png</thumbnail> 
+  <link>
+  <sublink>http://www.shadow-net.org/channels/E%21-Entertainment.html</sublink>
+  </link>
+  <thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/EE.png</thumbnail> 
 </item>
 
 <item> 
@@ -453,4 +430,8 @@
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=WWE PPV&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
 </item>
-
+<item>
+	<title>NBA</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NBA&amp;url=http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
+</item>
