@@ -72,27 +72,9 @@
 </item>
 
 <item> 
-	<title>ESPN NEWS</title>
-	<link>http://89.163.148.31:8000/live/claire/claire/8691.ts</link>
-	<thumbnail>http://b78b.http.cdn.softlayer.net/00B78B/thesweetscience/images/stories/boxing/espn_logo.jpg</thumbnail>
-</item>
-
-<item> 
 	<title>BOX NATION</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1717.ts</link>
 	<thumbnail>http://www.ringnews24.com/wp-content/uploads/2016/04/box_nation_logo.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>BT SPORT 1</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1118.ts</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
-</item>
-
-<item> 
-	<title>BT SPORT 2</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1117.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png</thumbnail>
 </item>
 
 <item> 
@@ -416,6 +398,12 @@
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
 </item>
 
+<item> 
+	<title>---- TESTING ----</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1118.ts</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
+</item>
+
 <item>
 	<title>NBA</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NBA&amp;url=http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
@@ -438,6 +426,18 @@
 	<title>A and E - ALT</title>
 	<link>http://89.163.148.31/live/claire/claire/8690.ts</link>
 	<thumbnail>http://cdn.macrage.com/sites/macrage.com/files/styles/large/public/2014/04/21/ae-logo.JPG?itok=Pf5m4_v3</thumbnail>
+</item>
+
+<item> 
+	<title>BT SPORT 1</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1118.ts</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
+</item>
+
+<item> 
+	<title>BT SPORT 2</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1117.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png</thumbnail>
 </item>
 
 <item> 
