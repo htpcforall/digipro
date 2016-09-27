@@ -163,9 +163,9 @@
 </item>
 
 <item> 
-	<title>FOX SPORTS</title>
-	<link>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</link>
-	<thumbnail></thumbnail>
+	<title>FOX SPORTS 1</title>
+	<link>http://89.163.148.31:8000/live/claire/claire/8662.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
 </item>
 
 <item> 
@@ -181,113 +181,76 @@
 </item>
 
 <item> 
-	<title>TRUETV</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>FOX SPORTS 1</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8662.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>FOX SPORTS 2</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8663.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
 	<title>NICKELODEON</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8507.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-
-
-<item> 
-	<title>ABC NEWS</title>
-	<link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
-	<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail>
+	<link>http://89.163.148.31:8000/live/claire/claire/8507.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
 <item>
 	<title>ABC News</title> 
 	<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
-	<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wwxvur1466450408.png</thumbnail> 
 </item>
 
 <item> 
 	<title>CNN</title>
 	<link>http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts</link>
-	<thumbnail>https://app.uktvnow.net/images/channel_imgs/160116010910cnn.jpg</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
 
 <item>
 	<title>COMEDY CENTRAL</title> 
 	<link>http://www.shadow-net.org/channels/Comedy-Central.html</link>
-	<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/Comedy.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail> 
 </item>
 
 <item> 
 	<title>IVESTIGATION DISCOVERY</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item>
-	<title>INVESTIGATION DISCOVERY - ALT</title> 
-	<link>http://80.80.160.168/live/5/live.m3u8</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail>
 </item>
 
 <item> 
 	<title>NASA</title>
 	<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-	<thumbnail>https://raw.githubusercontent.com/dersphere/plugin.video.nasa/master/icon.png</thumbnail>
-</item>
-<item> 
-	<title>NASA - ALT</title>
-	<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
-	<thumbnail>http://123tvonline.com/live/nasa-tv-live.gif</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
 </item>
 
 <item> 
 	<title>FIGHT NETWORK</title>
 	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8497.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png</thumbnail>
 </item>
 
 <item> 
 	<title>POKER CENTRAL</title>
 	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8476.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+	<thumbnail>https://www.pokercentral.com/s/media/images/poker-central/site/devices-landing/sponsored-images/poker-central.jpg?h=332&la=en&w=641&hash=8761FF9C98B4A1AA189A760583403734D42A19E6</thumbnail>
 </item>
 
 <item> 
-	<title>VERSUS NBA</title>
+	<title>VERSUS</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=VERSUS NBA&amp;url=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8490.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>FOX SPORTS 1</title>
-	<link>http://ksportiptv.com:1557/live/Enigm2024/BCockt4HOn/1700.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>NFL</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NFL&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
-	<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/7/75/Nfl-network-logo.jpg/revision/latest?cb=20150809205413</thumbnail>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/811px-Versus_logo.svg.png</thumbnail>
 </item>
 
 <item> 
 	<title>NFL NETWORK</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NFL&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK - ALT</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/152.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK - ALT 2</title>
 	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
 <item> 
@@ -455,6 +418,49 @@
 <item> 
 	<title>NBA TV - ALT</title>
 	<link>http://89.163.148.31:8000/live/claire/claire/8655.ts</link>
+	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+	<title>TRUETV</title>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
+	<thumbnail>http://www.troika.tv/wp-content/uploads/trutv-logo3.jpg</thumbnail>
+</item>
+
+<item> 
+	<title>FOX SPORTS 1</title>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8662.ts</link>
+	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+	<title>FOX SPORTS 2</title>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8663.ts</link>
+	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+</item>
+
+<item> 
+	<title>ABC NEWS</title>
+	<link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
+	<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail>
+</item>
+
+
+<item>
+	<title>INVESTIGATION DISCOVERY - ALT</title> 
+	<link>http://80.80.160.168/live/5/live.m3u8</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail> 
+</item>
+
+<item> 
+	<title>NASA - ALT</title>
+	<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
+	<thumbnail>http://123tvonline.com/live/nasa-tv-live.gif</thumbnail>
+</item>
+
+<item> 
+	<title>FOX SPORTS 1</title>
+	<link>http://ksportiptv.com:1557/live/Enigm2024/BCockt4HOn/1700.ts</link>
 	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
