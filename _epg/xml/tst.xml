@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-    <title>Datoporn1</title>
+    <title>Datoporn</title>
     <link>$doregex[geturl]</link>
     <regex>
         <name>geturl</name>
