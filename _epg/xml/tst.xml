@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-    <title>Datoporn</title>
+    <title>Datoporn 1</title>
     <link>$doregex[geturl]</link>
     <regex>
         <name>geturl</name>
@@ -26,7 +26,97 @@
     <regex>
         <name>getEnc</name>
         <expres>(eval.*)</expres>
-        <page>http://datoporn.com/embed-7pohclhc63zg.html</page>
+        <page>http://datoporn.com/m94iqsf5ur4q.html</page>
+    </regex>
+</item>
+
+<item>
+    <title>Datoporn2</title>
+    <link>$doregex[geturl]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>"(http.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+        <page>$doregex[getEnc]</page>
+    </regex>
+    <regex>
+        <name>getunescaped</name>
+        <expres>$pyFunction:urllib.unquote('$doregex[getdecoded]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getdecoded</name>
+        <expres>$pyFunction:base64.b64decode('$doregex[getEnc]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getEnc</name>
+        <expres>(eval.*)</expres>
+        <page>http://datoporn.com/x54n4u22peid.html</page>
+    </regex>
+</item>
+
+<item>
+    <title>Datoporn 3</title>
+    <link>$doregex[geturl]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>"(http.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+        <page>$doregex[getEnc]</page>
+    </regex>
+    <regex>
+        <name>getunescaped</name>
+        <expres>$pyFunction:urllib.unquote('$doregex[getdecoded]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getdecoded</name>
+        <expres>$pyFunction:base64.b64decode('$doregex[getEnc]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getEnc</name>
+        <expres>(eval.*)</expres>
+        <page>http://datoporn.com/9p10osjk8r6o.html</page>
+    </regex>
+</item>
+
+<item>
+    <title>Datoporn 4</title>
+    <link>$doregex[geturl]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>"(http.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+        <page>$doregex[getEnc]</page>
+    </regex>
+    <regex>
+        <name>getunescaped</name>
+        <expres>$pyFunction:urllib.unquote('$doregex[getdecoded]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getdecoded</name>
+        <expres>$pyFunction:base64.b64decode('$doregex[getEnc]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getEnc</name>
+        <expres>(eval.*)</expres>
+        <page>http://datoporn.com/jmi6d4ivsdpl.html</page>
     </regex>
 </item>
 

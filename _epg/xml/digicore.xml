@@ -363,56 +363,14 @@
 
 <item> 
 	<title>---- TESTING ----</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1118.ts</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
+	<link>http://google.com</link>
+	<thumbnail></thumbnail>
 </item>
 
 <item>
 	<title>NBA</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NBA&amp;url=http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
-</item>
-
-<item>
-	<title>NA</title>
-	<link>https://i.kinja-img.com/gawker-media/image/upload/s--Ikitmm8Q--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/18vt9iyx21dm6jpg.jpg</link>
-	<thumbnail>https://i.kinja-img.com/gawker-media/image/upload/s--Ikitmm8Q--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/18vt9iyx21dm6jpg.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>FOX NEWS - ALT</title>
-	<link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
-	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/fox-news-channel.png?w=800</thumbnail>
-</item>
-
-<item> 
-	<title>A and E - ALT</title>
-	<link>http://89.163.148.31/live/claire/claire/8690.ts</link>
-	<thumbnail>http://cdn.macrage.com/sites/macrage.com/files/styles/large/public/2014/04/21/ae-logo.JPG?itok=Pf5m4_v3</thumbnail>
-</item>
-
-<item> 
-	<title>BT SPORT 1</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1118.ts</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
-</item>
-
-<item> 
-	<title>BT SPORT 2</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1117.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png</thumbnail>
-</item>
-
-<item> 
-	<title>BT SPORT 1 - ALT</title>
-	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/892.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>BT SPORT 2 - ALT</title>
-	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1386.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
 </item>
 
 <item> 
@@ -428,42 +386,17 @@
 </item>
 
 <item> 
-	<title>FOX SPORTS 1</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8662.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>FOX SPORTS 2</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8663.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>ABC NEWS</title>
-	<link>http://51.255.70.112:8000/live/test/test/1959.ts</link>
-	<thumbnail>http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg</thumbnail>
-</item>
-
-
-<item>
-	<title>INVESTIGATION DISCOVERY - ALT</title> 
-	<link>http://80.80.160.168/live/5/live.m3u8</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail> 
-</item>
-
-<item> 
 	<title>NASA - ALT</title>
 	<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
 	<thumbnail>http://123tvonline.com/live/nasa-tv-live.gif</thumbnail>
 </item>
 
 <item> 
-	<title>FOX SPORTS 1</title>
-	<link>http://ksportiptv.com:1557/live/Enigm2024/BCockt4HOn/1700.ts</link>
-	<thumbnail>http://www.youvisit.com/virtual-tours/news/wp-content/uploads/sites/3/2013/05/fox-news-logo-300x283.jpg</thumbnail>
+	<title>-</title>
+	<link></link>
+	<thumbnail>http://www.intergalactiques.net/wp-content/uploads/2013/04/LOGO-SYFY-AU-DELA-blanc-sur-transparent-300dpi-700x393.pnghttp://123tvonline.com/live/nasa-tv-live.gif</thumbnail>
 </item>
 
 
+
 syfy
-http://www.intergalactiques.net/wp-content/uploads/2013/04/LOGO-SYFY-AU-DELA-blanc-sur-transparent-300dpi-700x393.png
