@@ -1,9 +1,10 @@
 
-<item> 
-	<title>ABC</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+<item>
+	<title>ABC</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/81.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wwxvur1466450408.png</thumbnail> 
 </item>
+
 
 <item>
 	<title>CBS</title>
@@ -12,9 +13,21 @@
 </item>
 
 <item>
-	<title>FOX NEWS</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/205.ts</link>
-	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/fox-news-channel.png?w=800</thumbnail>
+	<title>CW</title> 
+	<link>http://www.ibrod.tv/cw-tv-online.html</link>
+	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/the-cw-logo_green-and-white.png?w=800</thumbnail> 
+</item>
+
+<item>
+	<title>FOX</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/73.tss</link>
+	<thumbnail>http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg</thumbnail>
+</item>
+
+<item> 
+	<title>NBC</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
+	<thumbnail>http://cdn.tegna-tv.com/-mm-/9efc886dfd04bc9da10afdcd9fd3e14bd16dd2e9/r=x453&c=800x450/http/www.gannett-cdn.com/-mm-/b58bdc170e5f0ad9b29273859a626d19a7314345/c=0-14-2000-1144/local/-/media/2015/05/11/KSDK/KSDK/635669308167717994-NBC-Peacock-logo-2013.jpg</thumbnail>
 </item>
 
 <item> 
@@ -23,15 +36,118 @@
 	<thumbnail>http://vignette3.wikia.nocookie.net/logo-timeline/images/9/94/Pbs-logo-800.png/revision/latest?cb=20140904121703</thumbnail>
 </item>
 
+<item> 
+	<title>A and E</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/118.ts</link>
+	<thumbnail>http://cdn.macrage.com/sites/macrage.com/files/styles/large/public/2014/04/21/ae-logo.JPG?itok=Pf5m4_v3</thumbnail>
+</item>
+
 <item>
-	<title>CW</title> 
-	<link>http://www.ibrod.tv/cw-tv-online.html</link>
-	<thumbnail>http://fangirlish.com/wp-content/uploads/2015/11/TheCW_logolarge_960x540.jpg</thumbnail> 
+	<title>AMC</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/131.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png</thumbnail> 
+</item>
+
+<item>
+	<title>ANIMAL PLANET</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/184.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail> 
+</item>
+
+<item>
+	<title>BRAVO</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/129.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png</thumbnail> 
+</item>
+
+<item> 
+	<title>CARTOON NETWORK</title>
+	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1672.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+</item>
+
+<item> 
+	<title>CNN</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/200.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
+</item>
+
+<item>
+	<title>COMEDY CENTRAL</title> 
+	<link>http://www.shadow-net.org/channels/Comedy-Central.html</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail> 
+</item>
+
+<item> 
+	<title>DISCOVERY CHANNEL</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/182.ts</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+</item>
+
+<item> 
+	<title>ESPN</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/140.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+</item>
+
+<item>
+	<title>FOX NEWS</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/205.ts</link>
+	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/fox-news-channel.png?w=800</thumbnail>
+</item>
+
+<item>
+	<title>FX</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/136.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail> 
+</item>
+
+<item>
+	<title>HISTORY</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/120.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
+</item>
+
+<item> 
+	<title>LIFETIME</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/108.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
+</item>
+
+<item> 
+	<title>NATIONAL GEOGRAPHIC</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/186.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
+</item>
+
+<item> 
+	<title>NICKELODEON</title>
+	<link>http://89.163.148.31:8000/live/claire/claire/8507.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+
+<item>
+	<title>SPIKE</title> 
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail> 
+</item>
+
+
+<item>
+	<title>SYFY</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/122.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail> 
+</item>
+
+<item> 
+	<title>TBS</title>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8516.ts</link>
+	<thumbnail>http://mymagicstack.com/moveit/static/pics/tbs.jpg</thumbnail>
 </item>
 
 <item>
 	<title>E!</title> 
-	<link>http://www.shadow-net.org/channels/E%21-Entertainment.html</link>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/114.ts</link>
 	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/e-logo.png</thumbnail> 
 </item>
 
@@ -43,14 +159,8 @@
 
 <item> 
 	<title>USA</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8683.ts</link>
-	<thumbnail>http://mb.web.sapo.io/6720c93eaddb63868638cb438aba48da9b8c2de7.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>A and E</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/118.ts</link>
-	<thumbnail>http://cdn.macrage.com/sites/macrage.com/files/styles/large/public/2014/04/21/ae-logo.JPG?itok=Pf5m4_v3</thumbnail>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/105.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
 
 <item> 
@@ -59,16 +169,170 @@
 	<thumbnail>http://www.troika.tv/wp-content/uploads/trutv-logo3.jpg</thumbnail>
 </item>
 
-<item> 
-	<title>TBS</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8516.ts</link>
-	<thumbnail>http://mymagicstack.com/moveit/static/pics/tbs.jpg</thumbnail>
+<item>
+	<title>H2</title> 
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail> 
+</item>
+
+<item>
+	<title>NAT GEO WILD</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/190.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/sqsvxt1433778733.png</thumbnail> 
 </item>
 
 <item> 
-	<title>CBS NEWS</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1491.ts</link>
-	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/cbs-logo-on-blue.png</thumbnail>
+	<title>IVESTIGATION DISCOVERY</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail>
+</item>
+
+<item>
+	<title>SHOWCASE</title> 
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/130.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/qussys1467823036.png</thumbnail> 
+</item>
+
+<item>
+	<title>HBO</title>
+	<link>http://94.242.228.162:8081/live/hbo-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+		<regex>
+			<name>m3u8</name>
+			<expres>wmsAuthSign=([^"]*)</expres>
+			<page>http://www.liveonlinetv247.info/embed/hbohd.php?width=650&height=480</page>
+			<referer>http://www.liveonlinetv247.info/hbohd.php</referer>
+		</regex>
+	</link>
+	<thumbnail></thumbnail>
+</item>
+<item> 
+	<title>MTV HITS</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1083.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uwvssy1438373966.png</thumbnail>
+</item>
+<item>
+	<title>MTV!</title>
+	<link>http://37.48.76.47:8081/live/mtv-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+		<regex>
+			<name>m3u8</name>
+			<expres>wmsAuthSign=([^"]*)</expres>
+			<page>http://www.liveonlinetv247.info/embed/mtv.php?width=650&height=480</page>
+			<referer>http://www.liveonlinetv247.info/mtv.php</referer>
+		</regex>
+	</link>
+	<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/MTV.png</thumbnail>
+</item>
+<item> 
+	<title>NASA</title>
+	<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
+</item>
+<item> 
+	<title>POKER CENTRAL</title>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8476.ts</link>
+	<thumbnail>https://www.pokercentral.com/s/media/images/poker-central/site/devices-landing/sponsored-images/poker-central.jpg?h=332&la=en&w=641&hash=8761FF9C98B4A1AA189A760583403734D42A19E6</thumbnail>
+</item>
+<item> 
+	<title>NBC GOLF</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts</link>
+	<thumbnail>http://www.golfchannel.com/public/images/gc-logo-16-9.png</thumbnail>
+</item>
+
+<item> 
+	<title>NBC GOLF - ALT</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4169.ts</link>
+	<thumbnail>http://www.golfchannel.com/public/images/gc-logo-16-9.png</thumbnail>
+</item>
+
+<item> 
+	<title>ESPN ALT1</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts</link>
+	<thumbnail>http://i.forbesimg.com/media/lists/companies/espn_416x416.jpg</thumbnail>
+</item>
+
+<item> 
+	<title>ESPN 2</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/143.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
+</item>
+
+<item> 
+	<title>MLB</title>
+	<link>http://89.163.148.31:8000/live/claire/claire/8700.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/utqwsr1472105649.png</thumbnail>
+</item>
+
+<item> 
+	<title>YES</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/151.ts</link>
+	<thumbnail>http://assets.nydailynews.com/polopoly_fs/1.2594460.1460221212!/img/httpImage/image.jpg_gen/derivatives/article_750/yes-network-logo-web.jpg</thumbnail>
+</item>
+
+<item> 
+	<title>NBA TV</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1486.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutptv1433429127.png</thumbnail>
+</item>
+
+<item>
+	<title>NBA TV - ALT</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NBA&amp;url=http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NFL&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK - ALT1</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/152.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK - ALT2</title>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+<item> 
+	<title>FOX SPORTS NETWORK</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/153.ts</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/88/FSN_logo.png</thumbnail>
+</item>
+
+
+<item> 
+	<title>FS 1</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/150.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
+</item>
+
+<item> 
+	<title>FS 2</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/149.ts</link>
+	<thumbnail>	https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
+</item>
+
+<item> 
+	<title>FS 1 - ALT1</title>
+	<link>http://89.163.148.31:8000/live/claire/claire/8662.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
+</item>
+
+<item> 
+	<title>FS 2 - ALT2</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts</link>
+	<thumbnail>	https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
+</item>
+
+
+<item> 
+	<title>FIGHT NETWORK</title>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8497.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png</thumbnail>
 </item>
 
 <item> 
@@ -78,11 +342,10 @@
 </item>
 
 <item> 
-	<title>MTV HITS</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1083.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/uwvssy1438373966.png</thumbnail>
+	<title>VERSUS</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=VERSUS NBA&amp;url=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8490.ts</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/811px-Versus_logo.svg.png</thumbnail>
 </item>
-
 
 <item> 
 	<title>WWE</title>
@@ -90,6 +353,18 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wyrrwv1472105839.png</thumbnail>
 </item>
 
+<item> 
+	<title>SKY SPORTS NEWS</title>
+	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1675.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/yyuppq1433965339.png</thumbnail>
+</item>
+
+
+<item>
+	<title>TSN 1</title>
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
+</item>
 <item> 
 	<title>TSN2</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1481.ts</link>
@@ -112,169 +387,6 @@
 	<title>TSN 5</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts</link>
 	<thumbnail>	https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
-</item>
-
-<item> 
-	<title>NBA TV</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1486.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/xutptv1433429127.png</thumbnail>
-</item>
-
-<item> 
-	<title>ESPN</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/140.ts</link>
-	<thumbnail>http://www.tennisviewmag.com/sites/default/files/1410658474000-espn-logo.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>CARTOON NETWORK</title>
-	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1672.ts</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/90/Cartoon_Network_2010_logo_variant.png</thumbnail>
-</item>
-
-<item> 
-	<title>DISCOVERY</title>
-	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1818.ts</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
-</item>
-
-<item> 
-	<title>HISTORY</title>
-	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1268.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
-</item>
-
-<item> 
-	<title>LIFETIME</title>
-	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1831.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
-</item>
-
-<item> 
-	<title>NATIONAL GEOGRAPHIC</title>
-	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1263.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
-</item>
-
-<item> 
-	<title>MLB</title>
-	<link>http://89.163.148.31:8000/live/claire/claire/8700.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/utqwsr1472105649.png</thumbnail>
-</item>
-
-<item> 
-	<title>FS 1</title>
-	<link>http://89.163.148.31:8000/live/claire/claire/8662.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
-</item>
-
-<item> 
-	<title>FS 2</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts</link>
-	<thumbnail>	https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
-</item>
-
-<item> 
-	<title>SKY SPORTS NEWS</title>
-	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1675.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/yyuppq1433965339.png</thumbnail>
-</item>
-
-<item> 
-	<title>NICKELODEON</title>
-	<link>http://89.163.148.31:8000/live/claire/claire/8507.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
-</item>
-
-<item>
-	<title>ABC News</title> 
-	<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wwxvur1466450408.png</thumbnail> 
-</item>
-
-<item> 
-	<title>CNN</title>
-	<link>http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
-</item>
-
-
-<item>
-	<title>COMEDY CENTRAL</title> 
-	<link>http://www.shadow-net.org/channels/Comedy-Central.html</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail> 
-</item>
-
-<item> 
-	<title>IVESTIGATION DISCOVERY</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail>
-</item>
-
-<item> 
-	<title>NASA</title>
-	<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
-</item>
-
-<item> 
-	<title>FIGHT NETWORK</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8497.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png</thumbnail>
-</item>
-
-<item> 
-	<title>POKER CENTRAL</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8476.ts</link>
-	<thumbnail>https://www.pokercentral.com/s/media/images/poker-central/site/devices-landing/sponsored-images/poker-central.jpg?h=332&la=en&w=641&hash=8761FF9C98B4A1AA189A760583403734D42A19E6</thumbnail>
-</item>
-
-<item> 
-	<title>VERSUS</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=VERSUS NBA&amp;url=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8490.ts</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/811px-Versus_logo.svg.png</thumbnail>
-</item>
-
-<item> 
-	<title>NFL NETWORK</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NFL&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
-</item>
-
-<item> 
-	<title>NFL NETWORK - ALT</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/152.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
-</item>
-
-<item> 
-	<title>NFL NETWORK - ALT 2</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
-</item>
-
-<item> 
-	<title>ESPN</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts</link>
-	<thumbnail>http://i.forbesimg.com/media/lists/companies/espn_416x416.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>NBC GOLF</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts</link>
-	<thumbnail>http://www.golfchannel.com/public/images/gc-logo-16-9.png</thumbnail>
-</item>
-
-<item> 
-	<title>NBC GOLF - ALT</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4169.ts</link>
-	<thumbnail>http://www.golfchannel.com/public/images/gc-logo-16-9.png</thumbnail>
-</item>
-
-<item>
-	<title>Sky One</title> 
-	<link>http://www.shadow-net.org/channels/Sky-1.html</LINK>
-	<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/skyone.png</thumbnail> 
 </item>
 
 <item>
@@ -343,6 +455,17 @@
 	<thumbnail>http://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 </item>
 
+<item> 
+	<title>TSN 5</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts</link>
+	<thumbnail>	https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
+</item>
+<item>
+	<title>Sky One</title> 
+	<link>http://www.shadow-net.org/channels/Sky-1.html</LINK>
+	<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/skyone.png</thumbnail> 
+</item>
+
 <item>
 	<title>FIGHT NETWORK</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Fight Network &amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/1082.ts</link>
@@ -356,7 +479,7 @@
 </item>
 
 <item>
-	<title>WWE PPV</title>
+	<title>WWE NETWORK - ALT1</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=WWE PPV&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
 </item>
@@ -368,13 +491,6 @@
 	<link>http://google.com</link>
 	<thumbnail/>
 </item>
-
-<item>
-	<title>NBA</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NBA&amp;url=http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
-</item>
-
 <item> 
 	<title>NBA TV - ALT</title>
 	<link>http://89.163.148.31:8000/live/claire/claire/8655.ts</link>
@@ -393,28 +509,66 @@
 	<thumbnail>http://123tvonline.com/live/nasa-tv-live.gif</thumbnail>
 </item>
 
-<item>
-	<title>MTV!</title>
-	<link>http://37.48.76.47:8081/live/mtv-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-		<regex>
-			<name>m3u8</name>
-			<expres>wmsAuthSign=([^"]*)</expres>
-			<page>http://www.liveonlinetv247.info/embed/mtv.php?width=650&height=480</page>
-			<referer>http://www.liveonlinetv247.info/mtv.php</referer>
-		</regex>
-	</link>
-	<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/MTV.png</thumbnail>
+<item> 
+	<title>CBS 4 WBZ</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+</item>
+
+<item> 
+	<title>USA</title>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8683.ts</link>
+	<thumbnail>http://mb.web.sapo.io/6720c93eaddb63868638cb438aba48da9b8c2de7.jpg</thumbnail>
+</item>
+
+
+<item> 
+	<title>CBS NEWS</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1491.ts</link>
+	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/cbs-logo-on-blue.png</thumbnail>
 </item>
 
 <item>
-	<title>HBO</title>
-	<link>http://94.242.228.162:8081/live/hbo-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-		<regex>
-			<name>m3u8</name>
-			<expres>wmsAuthSign=([^"]*)</expres>
-			<page>http://www.liveonlinetv247.info/embed/hbohd.php?width=650&height=480</page>
-			<referer>http://www.liveonlinetv247.info/hbohd.php</referer>
-		</regex>
-	</link>
-	<thumbnail></thumbnail>
+	<title>ABC NEWS</title> 
+	<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wwxvur1466450408.png</thumbnail> 
+</item>
+
+<item> 
+	<title>DISCOVERY</title>
+	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1818.ts</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+</item>
+
+<item> 
+	<title>HISTORY</title>
+	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1268.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
+</item>
+
+<item> 
+	<title>LIFETIME</title>
+	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1831.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
+</item>
+
+<item> 
+	<title>NATIONAL GEOGRAPHIC</title>
+	<link>http://ksportiptv.com:1557/live/mix240/9bU55kq5m2/1263.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
+</item>
+
+<item> 
+	<title>NICKELODEON</title>
+	<link>http://89.163.148.31:8000/live/claire/claire/8507.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item> 
+	<title>CNN</title>
+	<link>http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
+</item>
+
+
+
 </item>
