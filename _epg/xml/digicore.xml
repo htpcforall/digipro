@@ -19,7 +19,7 @@
 
 <item>
 	<title>FOX</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/73.tss</link>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/73.ts</link>
 	<thumbnail>http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg</thumbnail>
 </item>
 
@@ -136,7 +136,6 @@
 	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail> 
 </item>
-
 
 <item>
 	<title>SYFY</title> 
@@ -282,24 +281,18 @@
 
 <item>
 	<title>NBA TV - ALT</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NBA&amp;url=http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+	<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
 </item>
 
 <item> 
 	<title>NFL NETWORK</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=NFL&amp;url=http://tvdreams.org:50100/live/zaid/zaid/466.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
-</item>
-
-<item> 
-	<title>NFL NETWORK - ALT1</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/152.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
 <item> 
-	<title>NFL NETWORK - ALT2</title>
+	<title>NFL NETWORK - ALT1</title>
 	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
@@ -493,7 +486,7 @@
 <item> 
 	<title>---- TESTING ----</title>
 	<link>http://google.com</link>
-	<thumbnail/>
+	<thumbnail></thumbnail>
 </item>
 
 <item> 
@@ -572,8 +565,4 @@
 	<title>CNN</title>
 	<link>http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
-</item>
-
-
-
 </item>
