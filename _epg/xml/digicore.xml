@@ -389,7 +389,7 @@
 
 <item> 
 	<title>VERSUS</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=VERSUS NBA&amp;url=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8490.ts</link>
+	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8490.ts</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/507px-Versus_logo.svg.png</thumbnail>
 </item>
 
@@ -425,7 +425,7 @@
 
 <item>
 	<title>SPORTSNET PACIFIC</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Sportsnet Pacific&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/1563.ts</link>
+	<link>http://mancaveiptv.biz:8000/live/CHARLES31/MART31/1563.ts</link>
 	<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-PAC.png</thumbnail>https://www.thelogodb.com/images/media/logo/sqvwsr1453142171.png
 </item>
 
@@ -449,7 +449,7 @@
 
 <item>
 	<title>TSN 2 </title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=TSN 2&amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/401.ts</link>
+	<link>http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/401.ts</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 </item>
 
@@ -484,7 +484,7 @@
 
 <item>
 	<title>FIGHT NETWORK</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Fight Network &amp;url=http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/1082.ts</link>
+	<link>http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/1082.ts</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png</thumbnail>
 </item>
 
