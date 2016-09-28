@@ -13,7 +13,7 @@
 
 <item>
 	<title>CW</title> 
-	<link>http://www.ibrod.tv/cw-tv-online.html</link>
+	<link>plugin://plugin.video.ZemTV-shani/?url=aXBib3g6aHR0cDovLzUxLjI1NS43MC4xMTI6ODAwMC9saXZlL2diL2diLzE4NTMudHN8VXNlci1BZ2VudD1WTEMvMi4yLjEgTGliVkxDLzIuMi4xNyZJY3ktTWV0YURhdGE9MQ==&mode=11&name=CW</link>
 	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/the-cw-logo_green-and-white.png?w=800</thumbnail> 
 </item>
 
@@ -490,13 +490,12 @@
 	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
 </item>
 
-
-
 <item> 
 	<title>---- TESTING ----</title>
 	<link>http://google.com</link>
 	<thumbnail/>
 </item>
+
 <item> 
 	<title>NBA TV - ALT</title>
 	<link>http://89.163.148.31:8000/live/claire/claire/8655.ts</link>
