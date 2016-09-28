@@ -86,8 +86,14 @@
 <item> 
 	<title>ESPN</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/140.ts</link>
+	<thumbnail>http://www.motivoinsights.com/wp-content/uploads/sites/9/2013/04/espn_logo.jpg</thumbnail>
+</item>
+<item> 
+	<title>ESPN - ALT</title>
+	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
+
 
 <item>
 	<title>FOX NEWS</title>
@@ -231,22 +237,23 @@
 	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8476.ts</link>
 	<thumbnail>https://www.pokercentral.com/s/media/images/poker-central/site/devices-landing/sponsored-images/poker-central.jpg?h=332&la=en&w=641&hash=8761FF9C98B4A1AA189A760583403734D42A19E6</thumbnail>
 </item>
+
+<item> 
+	<title>NBCSN</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/159.ts</link>
+	<thumbnail>http://media.nbcnewyork.com/images/652*367/NBCSN.jpg</thumbnail>
+</item>
+
 <item> 
 	<title>NBC GOLF</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts</link>
-	<thumbnail>http://www.golfchannel.com/public/images/gc-logo-16-9.png</thumbnail>
+	<thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj23qup8bHPAhVW4mMKHeyTCIEQjBwIBA&url=http%3A%2F%2Fnbcsportsgrouppressbox.com%2Fshows%2Fgolf-channel%2F%3Fdownload_imageid%3D13134&bvm=bv.134052249,d.cGc&psig=AFQjCNHMIaBQI0t93NLJlhSflrAclsQkhQ&ust=1475145975294050</thumbnail>
 </item>
 
 <item> 
 	<title>NBC GOLF - ALT</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4169.ts</link>
-	<thumbnail>http://www.golfchannel.com/public/images/gc-logo-16-9.png</thumbnail>
-</item>
-
-<item> 
-	<title>ESPN ALT1</title>
-	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts</link>
-	<thumbnail>http://i.forbesimg.com/media/lists/companies/espn_416x416.jpg</thumbnail>
+	<thumbnail>http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png</thumbnail>
 </item>
 
 <item> 
@@ -258,7 +265,7 @@
 <item> 
 	<title>MLB</title>
 	<link>http://89.163.148.31:8000/live/claire/claire/8700.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/utqwsr1472105649.png</thumbnail>
+	<thumbnail>http://www.desktopimages.org/pictures/2014/0107/1/mlb-2014-logo-wallpaper-57728.jpg</thumbnail>
 </item>
 
 <item> 
