@@ -2,9 +2,8 @@
 <item>
 	<title>ABC</title> 
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/81.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wwxvur1466450408.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail> 
 </item>
-
 
 <item>
 	<title>CBS</title>
@@ -27,7 +26,7 @@
 <item> 
 	<title>NBC</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
-	<thumbnail>http://cdn.tegna-tv.com/-mm-/9efc886dfd04bc9da10afdcd9fd3e14bd16dd2e9/r=x453&c=800x450/http/www.gannett-cdn.com/-mm-/b58bdc170e5f0ad9b29273859a626d19a7314345/c=0-14-2000-1144/local/-/media/2015/05/11/KSDK/KSDK/635669308167717994-NBC-Peacock-logo-2013.jpg</thumbnail>
+	<thumbnail>http://assets.nydailynews.com/polopoly_fs/1.2275688.1435617614!/img/httpImage/image.jpg_gen/derivatives/article_750/nbc-logo.jpg</thumbnail>
 </item>
 
 <item> 
@@ -75,7 +74,7 @@
 <item>
 	<title>COMEDY CENTRAL</title> 
 	<link>http://www.shadow-net.org/channels/Comedy-Central.html</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wxqwpq1445015855.png</thumbnail> 
 </item>
 
 <item> 
@@ -195,7 +194,7 @@
 
 <item>
 	<title>HBO</title>
-	<link>http://94.242.228.162:8081/live/hbo-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+	<link>http://94.242.228.162:8081/live/hbo-hq/playlist.m3u8%3FwmsAuthSign%3D%24doregex%5Bm3u8%5D%7CUser-Agent%3DMozilla%2F5.0%20(iPad%3B%20CPU%20OS%206_0%20like%20Mac%20OS%20X)%20AppleWebKit%2F536.26%20(KHTML%2C%20like%20Gecko)%20Version%2F6.0%20Mobile%2F10A5376e%20Safari%2F8536.25
 		<regex>
 			<name>m3u8</name>
 			<expres>wmsAuthSign=([^"]*)</expres>
