@@ -659,3 +659,30 @@
 <referer>https://www.arconaitv.me/</referer>
 </regex>
 </item>
+
+<item>
+<title>Seinfeld</title>
+<link>$doregex[file]</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>https://arconaitv.me/seinfeld/</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+                <title>Seinfeld</title>
+                <link>rtmp://rtmp1.arconaitv.me/medium playpath=$doregex[get-final] swfUrl=https://arconaitv.me/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=2.3.12 pageUrl=https://arconaitv.me/seinfeld/ live=true timeout=20</link>
+                <regex>
+                <name>get-final</name>
+                <expres>$pyFunction:'$doregex[path]'.replace('amp;','')</expres>
+                <page></page>
+                </regex>
+                <regex>
+                <name>path</name>
+                <expres>source src="(sein.*?)"</expres>
+                <page>https://arconaitv.me/seinfeld/</page>
+                </regex>
+                <thumbnail></thumbnail>
+</item>
