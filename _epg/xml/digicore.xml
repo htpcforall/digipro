@@ -2,7 +2,7 @@
 <item>
 	<title>ABC</title> 
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/81.ts</link>
-	<thumbnail>http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail> 
 </item>
 
 <item>
@@ -30,9 +30,9 @@
 </item>
 
 <item> 
-	<title>A and E</title>
+	<title>A & E</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/118.ts</link>
-	<thumbnail>http://cdn.macrage.com/sites/macrage.com/files/styles/large/public/2014/04/21/ae-logo.JPG?itok=Pf5m4_v3</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
 <item>
@@ -92,7 +92,7 @@
 <item>
 	<title>FOX NEWS</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/205.ts</link>
-	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/fox-news-channel.png?w=800</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
 <item>
@@ -116,7 +116,7 @@
 <item> 
 	<title>NATIONAL GEOGRAPHIC</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/186.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
 
 <item> 
@@ -194,24 +194,18 @@
 <item> 
 	<title>NICK JR</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/192.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xxvvtx1434268776.png</thumbnail>
 </item>
 
 <item> 
 	<title>OWN</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/192.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/vypxqw1433452640.png</thumbnail>
 </item>
 <item> 
 	<title>TV LAND</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/162.ts</link>
 	<thumbnail>http://2.bp.blogspot.com/-FUOWdgdlp_g/T6rVM_31DcI/AAAAAAAAFYw/57KHOfjKqrI/s1600/TV+Land+logo+1996.png</thumbnail>
-</item>
-
-<item> 
-	<title>BLOOMBERG</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/161.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/vpqsxx1434057106.png</thumbnail>
 </item>
 
 <item> 
@@ -224,12 +218,6 @@
 	<title>ALJAZEERA</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/217.ts</link>
 	<thumbnail>http://www.aljazeera.com/mritems/Images/2014/10/26/beefc69a4b0d4b6aac13938ee98f0103_18.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>BLOOMBERG</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/161.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail>
 </item>
 
 <item> 
@@ -261,23 +249,13 @@
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/160.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uwvssy1438373966.png</thumbnail>
 </item>
-<item>
-	<title>MTV!</title>
-	<link>http://37.48.76.47:8081/live/mtv-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-		<regex>
-			<name>m3u8</name>
-			<expres>wmsAuthSign=([^"]*)</expres>
-			<page>http://www.liveonlinetv247.info/embed/mtv.php?width=650&height=480</page>
-			<referer>http://www.liveonlinetv247.info/mtv.php</referer>
-		</regex>
-	</link>
-	<thumbnail>http://cosmix.offshorepastebin.com/repo/Icons/MTV.png</thumbnail>
-</item>
+
 <item> 
 	<title>NASA</title>
 	<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
 </item>
+
 <item> 
 	<title>POKER CENTRAL</title>
 	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8476.ts</link>
@@ -329,7 +307,7 @@
 <item>
 	<title>NBA TV - ALT</title>
 	<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-	<thumbnail>http://www.firstcomicsnews.com/wp-content/uploads/2015/02/wwe-network.png</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutptv1433429127.png</thumbnail>
 </item>
 
 <item> 
@@ -340,38 +318,45 @@
 
 <item> 
 	<title>NFL NETWORK - ALT1</title>
+	<link>http://playlist.bulldogstreams.football:8000/live/michele/michele/8667.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK - ALT2</title>
 	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
+
 <item> 
 	<title>FOX SPORTS NETWORK</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/153.ts</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/88/FSN_logo.png</thumbnail>
 </item>
 
-
 <item> 
-	<title>FS 1</title>
+	<title>FOX SPORTS 1</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/150.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
 </item>
 
 <item> 
-	<title>FS 2</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/149.ts</link>
-	<thumbnail>	https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
-</item>
-
-<item> 
-	<title>FS 1 - ALT1</title>
+	<title>FOX SPORTS 1 - ALT</title>
 	<link>http://89.163.148.31:8000/live/claire/claire/8662.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
 </item>
 
+
 <item> 
-	<title>FS 2 - ALT2</title>
+	<title>FOX SPORTS 2</title>
+	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/149.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
+</item>
+
+<item> 
+	<title>FOX SPORTS 2 - ALT</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts</link>
-	<thumbnail>	https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
 </item>
 
 
@@ -408,37 +393,37 @@
 <item>
 	<title>SPORTSNET WORLD</title>
 	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/rxwxvv1433429786.png</thumbnail>
+	<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/5c/63/f0/5c63f046-7a5a-4dd1-4bbc-c4434c478c35/source/1200x630bf.jpg</thumbnail>
 </item>
 
 <item>
 	<title>SPORTSNET ONE</title>
 	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/yuxqyw1433381675.png</thumbnail>
+	<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/5c/63/f0/5c63f046-7a5a-4dd1-4bbc-c4434c478c35/source/1200x630bf.jpg</thumbnail>
 </item>
 
 <item>
 	<title>SPORTSNET ONE - ALT</title>
 	<link>http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_ipad.m3u8</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/yuxqyw1433381675.png</thumbnail>
+	<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/5c/63/f0/5c63f046-7a5a-4dd1-4bbc-c4434c478c35/source/1200x630bf.jpg</thumbnail>
 </item>
 
 <item>
 	<title>SPORTSNET PACIFIC</title>
 	<link>http://mancaveiptv.biz:8000/live/CHARLES31/MART31/1563.ts</link>
-	<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-PAC.png</thumbnail>https://www.thelogodb.com/images/media/logo/sqvwsr1453142171.png
+	<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/5c/63/f0/5c63f046-7a5a-4dd1-4bbc-c4434c478c35/source/1200x630bf.jpg.png
 </item>
 
 <item>
 	<title>SPORTSNET 360</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/svwwpy1453139304.png</thumbnail>
+	<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/5c/63/f0/5c63f046-7a5a-4dd1-4bbc-c4434c478c35/source/1200x630bf.jpg</thumbnail>
 </item>
 
 <item>
 	<title>SPORTSNET 360 - ALT</title>
 	<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/svwwpy1453139304.png</thumbnail>
+	<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/5c/63/f0/5c63f046-7a5a-4dd1-4bbc-c4434c478c35/source/1200x630bf.jpg</thumbnail>
 </item>
 
 <item>
@@ -472,7 +457,7 @@
 </item>
 
 <item> 
-	<title>TSN 5</title>
+	<title>TSN 5 - ALT</title>
 	<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts</link>
 	<thumbnail>	https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 </item>
@@ -495,7 +480,7 @@
 </item>
 
 <item>
-	<title>WWE NETWORK - ALT1</title>
+	<title>WWE NETWORK - ALT</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/155.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wyrrwv1472105839.png</thumbnail>
 </item>
