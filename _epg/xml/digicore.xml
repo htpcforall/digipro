@@ -20,7 +20,7 @@
 <item> 
 	<title>NBC</title>
 	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts</link>
-	<thumbnail>http://assets.nydailynews.com/polopoly_fs/1.2275688.1435617614!/img/httpImage/image.jpg_gen/derivatives/article_750/nbc-logo.jpg</thumbnail>
+    <thumbnail>https://thepcprinciple.files.wordpress.com/2013/06/nbc-logo.jpg</thumbnail>
 </item>
 
 <item> 
@@ -312,7 +312,7 @@
 
 <item> 
 	<title>NFL NETWORK</title>
-	<link>http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/152.ts</link>
+	<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
@@ -650,7 +650,37 @@
 </item>
 
 <item> 
-	<title>NICKELODEON</title>
-	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8</link>
+	<title>ABC</title>
+	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=ABC</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item> 
+	<title>CBS</title>
+	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=CBS</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item> 
+	<title>CW</title>
+	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=CW</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item> 
+	<title>FOX</title>
+	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=FOX</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item> 
+	<title>MY9</title>
+	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=MY9</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item> 
+	<title>NBC</title>
+	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=NBC</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item> 
+	<title>PBS</title>
+	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=PBS</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
