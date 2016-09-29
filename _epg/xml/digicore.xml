@@ -324,7 +324,7 @@
 
 <item> 
 	<title>NFL NETWORK - ALT2</title>
-	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts</link>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_4500.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&mode=12</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
@@ -649,3 +649,13 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
+<item>
+<title>abc</title>
+<link>$doregex[get-m3u8]|User-Agent=iPhone</link>
+<regex>
+<name>get-m3u8</name>
+<expres>source src="(.*?)"</expres>
+<page>https://www.arconaitv.me/abcde/</page>
+<referer>https://www.arconaitv.me/</referer>
+</regex>
+</item>
