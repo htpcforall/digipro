@@ -13,7 +13,7 @@
 
 <item> 
 	<title>CW</title>
-	<link>special://home/addons\plugin.video.castaway/resources/media/arconai.png">PlayMedia(&quot;plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=The+CW&amp;url=%2Fwww.arconaitv.me%2Ftcw%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dlabel%253DThe%252BCW%2526title%253DThe%252BCW%26winID%3D10025%26_options_sf&quot;</link>
+	<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=The+CW&amp;url=%2Fwww.arconaitv.me%2Ftcw%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dlabel%253DThe%252BCW%2526title%253DThe%252BCW%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/the-cw-logo_green-and-white.png?w=800</thumbnail>
 </item>
 
@@ -21,12 +21,6 @@
 	<title>FOX</title>
 	<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=Fox&amp;url=%2Fwww.arconaitv.me%2Ffoxxy%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dlabel%253DFox%2526title%253DFox%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
-</item>
-
-<item> 
-	<title>MY9</title>
-	<link>plugin://plugin.video.ustvnow.tva/?name=MY9&amp;mode=play&rand=PIA2H7</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 </item>
 
 <item> 
