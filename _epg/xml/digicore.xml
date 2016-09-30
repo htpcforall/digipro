@@ -1,7 +1,7 @@
 
 <item>
 	<title>ABC</title> 
-	<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=ABC&amp;url=%2Fwww.arconaitv.me%2Fabcde%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dlabel%253DABC%2526title%253DABC%26winID%3D10025%26_options_sf&quot;</link>
+	<link>www.arconaitv.me/abcde/</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail> 
 </item>
 
@@ -739,7 +739,7 @@
 
 <item> 
 	<title>PBS</title>
-	<link>plugin://plugin.video.ustvnow.tva/?PBS&amp;mode=play&rand=PIA2H7</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=PBS&amp;mode=play&rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
