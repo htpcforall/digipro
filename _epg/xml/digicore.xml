@@ -651,34 +651,40 @@
 
 <item> 
 	<title>ABC</title>
-	<link>plugin://plugin.video.ustvnow.tva/?name=ABC&amp;mode=play&rand=SVBU8N</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=ABC&amp;mode=play&rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
+
 <item> 
 	<title>CBS</title>
-	<link>plugin://plugin.video.ustvnow.tva/?name=CBS&amp;mode=play&rand=SVBU8N</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=CBS&amp;mode=play&rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
+
 <item> 
 	<title>CW</title>
-	<link>plugin://plugin.video.ustvnow.tva/?name=CW&amp;mode=play&rand=SVBU8N</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=CW&amp;mode=play&rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
+
 <item> 
 	<title>FOX</title>
 	<link>plugin://plugin.video.ustvnow.tva/?name=FOX&amp;mode=play&rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
+
 <item> 
 	<title>MY9</title>
-	<link>plugin://plugin.video.ustvnow.tva/?name=MY9&amp;mode=play&rand=SVBU8N</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=MY9&amp;mode=play&rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
+
 <item> 
 	<title>NBC</title>
 	<link>plugin://plugin.video.ustvnow.tva/?name=NBC&amp;mode=play&rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
+
 <item> 
 	<title>PBS</title>
 	<link>plugin://plugin.video.ustvnow.tva/?PBS&amp;mode=play&rand=PIA2H7</link>
@@ -687,15 +693,14 @@
 
 <item> 
 	<title>ABC</title>
-	<link>plugin://plugin.video.ustvnow.tva/?name=NBC&amp;mode=play&rand=PIA2H</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=NBC&amp;mode=play&rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
 <item> 
 	<title>ABC</title>
-	<link>plugin://plugin.video.castaway/?play=True&img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&title=ABC&url=%2Fwww.arconaitv.me%2Fabcde%2F&site=arconai&mode=play_special</link>
+	<link>plugin://plugin.video.castaway/?play=True&img=C:\Users\1\AppData\Roaming\Kodi\addons\plugin.video.castaway/resources/media/arconai.png&title=ABC&url=/www.arconaitv.me/abcde/&site=arconai&mode=play_special</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
-
 </item>
 
 
