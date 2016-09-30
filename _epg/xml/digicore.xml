@@ -661,27 +661,27 @@
 </item>
 <item> 
 	<title>CW</title>
-	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=CW</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=CW&amp;mode=play&amp;rand=SVBU8N</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <item> 
 	<title>FOX</title>
-	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=FOX</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=FOX&amp;mode=play&amp;rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <item> 
 	<title>MY9</title>
-	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=MY9</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=MY9&amp;mode=play&amp;rand=SVBU8N</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <item> 
 	<title>NBC</title>
-	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=NBC</link>
+	<link>plugin://plugin.video.ustvnow.tva/?name=NBC&amp;mode=play&amp;rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <item> 
 	<title>PBS</title>
-	<link>plugin://plugin.video.ustvnow.tva/?mode=play&name=PBS</link>
+	<link>plugin://plugin.video.ustvnow.tva/?PBS&amp;mode=play&amp;rand=PIA2H7</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
@@ -690,8 +690,9 @@
 	<link>plugin://plugin.video.ustvnow.tva/?name=NBC&amp;mode=play&rand=PIA2H</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
-    <favourite name="MY9 short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=MY9&amp;mode=play&amp;rand=SVBU8N&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
-	<favourite name="NBC short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=NBC&amp;mode=play&amp;rand=PIA2H7&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
-	<favourite name="PBS short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=PBS&amp;mode=play&amp;rand=PIA2H7&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
-	<favourite name="FOX short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=FOX&amp;mode=play&amp;rand=PIA2H7&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
-	<favourite name="AMC short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=AMC&amp;mode=play&amp;rand=PIA2H7&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
+
+<favourite name="MY9 short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=MY9&amp;mode=play&amp;rand=SVBU8N&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
+<favourite name="NBC short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=NBC&amp;mode=play&amp;rand=PIA2H7&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
+<favourite name="PBS short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=PBS&amp;mode=play&amp;rand=PIA2H7&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
+<favourite name="FOX short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=FOX&amp;mode=play&amp;rand=PIA2H7&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
+<favourite name="AMC short to ustvnow">PlayMedia(&quot;plugin://plugin.video.ustvnow.tva/?name=AMC&amp;mode=play&amp;rand=PIA2H7&amp;sf_options=fanart=special://home/addons\plugin.video.ustvnow.tva\resources\images\logos\MY9.png&winID=10025&_options_sf&quot;)</favourite>
