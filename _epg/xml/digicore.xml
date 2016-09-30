@@ -13,7 +13,7 @@
 
 <item> 
 	<title>CW</title>
-	<link>plugin://plugin.video.ustvnow.tva/?name=CW&amp;mode=play&rand=PIA2H7</link>
+	<link>special://home/addons\plugin.video.castaway/resources/media/arconai.png">PlayMedia(&quot;plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=The+CW&amp;url=%2Fwww.arconaitv.me%2Ftcw%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dlabel%253DThe%252BCW%2526title%253DThe%252BCW%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
