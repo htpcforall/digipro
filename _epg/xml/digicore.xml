@@ -1,8 +1,13 @@
 
 <item>
-	<title>ABC</title> 
-	<html>www.arconaitv.me/ceebees</html>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail> 
+<title>ABCDE</title>
+<link>$doregex[file]</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>https://arconaitv.me/abcde/</page>
+</regex>
+<thumbnail></thumbnail>
 </item>
 
 <item>
