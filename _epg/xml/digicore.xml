@@ -1,13 +1,8 @@
 
-<item>
-<title>ABCDE</title>
-<link>$doregex[file]</link>
-<regex>
-<name>file</name>
-<expres>source src="(.*?)"</expres>
-<page>https://arconaitv.me/abcde/</page>
-</regex>
-<thumbnail></thumbnail>
+<item> 
+	<title>ABC</title>
+	<link>plugin://plugin.video.ustvnow.tva/?name=ABC&amp;mode=play&rand=PIA2H7</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
 <item>
