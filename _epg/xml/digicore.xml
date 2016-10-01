@@ -250,7 +250,7 @@
 </item>
 
 <item>
-<title>Canal+ Liga HLS</title>
+<title>TORO</title>
 <link>$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <regex>
 <name>start</name>
@@ -263,7 +263,7 @@
 <regex>
 <name>stream</name>
 <expres>source src="(.*?)"</expres>
-<page>http://privatestream.tv/player?streamname=ligaapp21</page>
+<page>http://privatestream.tv/player?streamname=toroch</page>
 <agent>iPhone</agent>
 <referer>http://privatestream.tv/</referer>
 </regex>
