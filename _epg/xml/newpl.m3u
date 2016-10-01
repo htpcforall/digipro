@@ -1,7 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,TWC
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/132.ts
-#EXTINF:-1,unknown
+#EXTINF:-1,CCTV 13
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/71.ts
 #EXTINF:-1,CBS
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/84.ts
@@ -23,8 +21,6 @@ http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/73.ts
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/57.ts
 #EXTINF:-1,HISTORY
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/120.ts
-#EXTINF:-1,SYFY
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/122.ts
 #EXTINF:-1,BET
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/124.ts
 #EXTINF:-1,CITY
@@ -35,12 +31,8 @@ http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/183.ts
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/55.ts
 #EXTINF:-1,SLICE
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/134.ts
-#EXTINF:-1,AMC
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/131.ts
 #EXTINF:-1,VISION
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/69.ts
-#EXTINF:-1,SHOWCASE
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/130.ts
 #EXTINF:-1,BRAVO
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/129.ts
 #EXTINF:-1,CBS 4 WBZ
@@ -53,16 +45,16 @@ http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/8.ts
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/80.ts
 #EXTINF:-1,US WXYZ TV
 http://89.163.148.31:8000/live/claire/claire/8492.ts
-#EXTINF:-1,US WGN
-http://89.163.148.31:8000/live/claire/claire/8491.ts
 #EXTINF:-1,PBS - no sound
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/74.ts
+#EXTINF:-1,US WGN
+http://89.163.148.31:8000/live/claire/claire/8491.ts
 #EXTINF:-1,US Versus NBA HD
 http://89.163.148.31:8000/live/claire/claire/8490.ts
-#EXTINF:-1,ABC 5 KOMO
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/81.ts
 #EXTINF:-1,US UC TV
 http://89.163.148.31:8000/live/claire/claire/8489.ts
+#EXTINF:-1,ABC 5 KOMO
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/81.ts
 #EXTINF:-1,US Twit TV
 http://89.163.148.31:8000/live/claire/claire/8488.ts
 #EXTINF:-1,US TSC
@@ -83,8 +75,6 @@ http://89.163.148.31:8000/live/claire/claire/8483.ts
 http://89.163.148.31:8000/live/claire/claire/8482.ts
 #EXTINF:-1,US Sport1 US HD
 http://89.163.148.31:8000/live/claire/claire/8481.ts
-#EXTINF:-1,NAT GEO WILD
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/190.ts
 #EXTINF:-1,US Showtime HD
 http://89.163.148.31:8000/live/claire/claire/8480.ts
 #EXTINF:-1,US RT Documentary
@@ -93,10 +83,10 @@ http://89.163.148.31:8000/live/claire/claire/8479.ts
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/180.ts
 #EXTINF:-1,US RT America HD
 http://89.163.148.31:8000/live/claire/claire/8478.ts
-#EXTINF:-1,US Redbull TV
-http://89.163.148.31:8000/live/claire/claire/8477.ts
 #EXTINF:-1,USA
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/105.ts
+#EXTINF:-1,US Redbull TV
+http://89.163.148.31:8000/live/claire/claire/8477.ts
 #EXTINF:-1,US Pocker Central
 http://89.163.148.31:8000/live/claire/claire/8476.ts
 #EXTINF:-1,FXX
@@ -109,22 +99,20 @@ http://89.163.148.31:8000/live/claire/claire/8474.ts
 http://89.163.148.31:8000/live/claire/claire/8473.ts
 #EXTINF:-1,US Miami TV
 http://89.163.148.31:8000/live/claire/claire/8472.ts
-#EXTINF:-1,US Mello TV
-http://89.163.148.31:8000/live/claire/claire/8471.ts
 #EXTINF:-1,LIFETIME
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/108.ts
+#EXTINF:-1,US Mello TV
+http://89.163.148.31:8000/live/claire/claire/8471.ts
 #EXTINF:-1,US HSN 2
 http://89.163.148.31:8000/live/claire/claire/8470.ts
 #EXTINF:-1,US HSN 1
 http://89.163.148.31:8000/live/claire/claire/8469.ts
-#EXTINF:-1,LMN
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/109.ts
 #EXTINF:-1,US Fox 59 News
 http://89.163.148.31:8000/live/claire/claire/8468.ts
-#EXTINF:-1,FOOD NETWORK
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/110.ts
 #EXTINF:-1,US Film Noir Classic Channel
 http://89.163.148.31:8000/live/claire/claire/8467.ts
+#EXTINF:-1,FOOD NETWORK
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/110.ts
 #EXTINF:-1,US Fashion One
 http://89.163.148.31:8000/live/claire/claire/8466.ts
 #EXTINF:-1,INVESTIGATION DISCOVERY
@@ -133,48 +121,44 @@ http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/192.ts
 http://89.163.148.31:8000/live/claire/claire/8465.ts
 #EXTINF:-1,US Cinemax
 http://89.163.148.31:8000/live/claire/claire/8464.ts
-#EXTINF:-1,HGTV
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/112.ts
 #EXTINF:-1,US BYU Sports TV HD
 http://89.163.148.31:8000/live/claire/claire/8463.ts
+#EXTINF:-1,HGTV
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/112.ts
 #EXTINF:-1,US Boston City TV
 http://89.163.148.31:8000/live/claire/claire/8462.ts
 #EXTINF:-1,DISCOVERY SCIENCE
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/193.ts
-#EXTINF:-1,US 360 North
-http://89.163.148.31:8000/live/claire/claire/8459.ts
+#EXTINF:-1,US At The Drive-in
+http://89.163.148.31:8000/live/claire/claire/8461.ts
+#EXTINF:-1,US AMG TV
+http://89.163.148.31:8000/live/claire/claire/8460.ts
 #EXTINF:-1,E!
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/114.ts
+#EXTINF:-1,US 360 North
+http://89.163.148.31:8000/live/claire/claire/8459.ts
 #EXTINF:-1,ADULT SWIM
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/176.ts
 #EXTINF:-1,DISNEY XD
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/174.ts
 #EXTINF:-1,A&E
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/118.ts
-#EXTINF:-1,HISTORY
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/120.ts
 #EXTINF:-1,VICELAND
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/121.ts
 #EXTINF:-1,SYFY
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/122.ts
 #EXTINF:-1,DISNEY CHANNEL
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/172.ts
-#EXTINF:-1,FXX
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/125.ts
 #EXTINF:-1,W NETWORK
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/127.ts
 #EXTINF:-1,WE
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/128.ts
-#EXTINF:-1,SHOWCASE
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/130.ts
 #EXTINF:-1,AMC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/131.ts
 #EXTINF:-1,TCM
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/132.ts
 #EXTINF:-1,IFC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/133.ts
-#EXTINF:-1,SLICE
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/134.ts
 #EXTINF:-1,FX
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/136.ts
 #EXTINF:-1,NBCSN
@@ -211,7 +195,7 @@ http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/201.ts
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/205.ts
 #EXTINF:-1,TLC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/202.ts
-#EXTINF:-1,ABC
+#EXTINF:-1,ABC NEWS
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/204.ts
 #EXTINF:-1,RT
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/206.ts
@@ -235,8 +219,6 @@ http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/218.ts
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/221.ts
 #EXTINF:-1,NFL1
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/222.ts
-#EXTINF:-1,ABC NEWS
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/204.ts
 #EXTINF:-1,NFL2
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/223.ts
 #EXTINF:-1,NFL3
@@ -245,24 +227,58 @@ http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/224.ts
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/225.ts
 #EXTINF:-1,BBC AMERICA
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/135.ts
-#EXTINF:-1,TBS
-http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8516.ts
 #EXTINF:-1,TRUTV
 http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts
-#EXTINF:-1,TSN 2
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1481.ts
-#EXTINF:-1,TSN 5
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts
-#EXTINF:-1,TSN 4
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1479.ts
-#EXTINF:-1,TSN 3
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1480.ts
 #EXTINF:-1,NASA
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1,SPORTSNET 360
+#EXTINF:-1,WWE
 http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
-#EXTINF:-1,NFL NOW
-http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/1082.ts
+#EXTINF:-1,NBC
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts
+#EXTINF:-1,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,NFL NETWORK - ALT
+http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8667.ts
+#EXTINF:-1,CITY
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/7.ts
+#EXTINF:-1,-KIDS
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/6.ts
+#EXTINF:-1,TVO KIDS
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/2.ts
+#EXTINF:-1,CP 24
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/24.ts
+#EXTINF:-1,New item
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/34.ts
+#EXTINF:-1,OWN
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/189.ts
+#EXTINF:-1,MTV
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/160.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/196.ts
+#EXTINF:-1,FYI
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/166.ts
+#EXTINF:-1,NICK
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/170.ts
+#EXTINF:-1,BLOOMBERG
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/161.ts
+#EXTINF:-1,TV LAND
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/162.ts
+#EXTINF:-1,TBS
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/168.ts
+#EXTINF:-1,ALJEEZERA
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/217.ts
+#EXTINF:-1,m2o tv
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/161.ts
+#EXTINF:-1,-KIDS
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/165.ts
+#EXTINF:-1,TBS
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/139.ts
+#EXTINF:-1,VICELAND
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/121.ts
+#EXTINF:-1,WPRI 12
+http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/85.ts
+
+
 #EXTINF:-1,Showtime USA
 http://89.163.148.31:8000/live/claire/claire/8659.ts
 #EXTINF:-1,sec network
@@ -353,23 +369,19 @@ http://89.163.148.31:8000/live/claire/claire/8530.ts
 http://89.163.148.31:8000/live/claire/claire/8529.ts
 #EXTINF:-1,Spike
 http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
-#EXTINF:-1,nba tv
-http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
 #EXTINF:-1,HBO
 http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
 #EXTINF:-1,NBC K5
 http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8656.ts
 #EXTINF:-1,FOX Q13 - no sound
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/82.ts
-#EXTINF:-1,ABC
+#EXTINF:-1,NBC
 http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
 #EXTINF:-1,Bravo
 http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/190.ts
-#EXTINF:-1,TRAVEL CHANNEL
-http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/196.ts
-#EXTINF:-1,TruTV
+#EXTINF:-1,Tru HD
 http://89.163.148.31:8000/live/claire/claire/8517.ts
 #EXTINF:-1,TBS HD
 http://89.163.148.31:8000/live/claire/claire/8516.ts
@@ -389,7 +401,7 @@ http://89.163.148.31:8000/live/claire/claire/8510.ts
 http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
 #EXTINF:-1,Animal Planet
 http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
-#EXTINF:-1,?
+#EXTINF:-1,F2N
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/171.ts
 #EXTINF:-1,PAG HD
 http://89.163.148.31:8000/live/claire/claire/8509.ts
