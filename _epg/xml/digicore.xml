@@ -251,7 +251,7 @@
 
 <item>
 <title>TORO</title>
-<link>$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
+<link>http://privatestream.tv/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <regex>
 <name>start</name>
 <expres></expres>
