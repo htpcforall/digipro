@@ -217,9 +217,8 @@
 
 
 <item>
-    <title>--------------------------</title>
-    <link>http://google.com</link>
-	<thumbnail></thumbnail>
+	<title>[COLOR red] ---------------[/COLOR]                </title>
+	<link>http://google.com</link>
 </item>
 
 <item>
@@ -228,7 +227,7 @@
 </item>
 
 <item>
-	<title>               [COLOR red] ---------------[/COLOR]                </title>
+	<title>[COLOR red] ---------------[/COLOR]                </title>
 	<link>http://google.com</link>
 </item>
 
