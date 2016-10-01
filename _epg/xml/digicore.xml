@@ -250,8 +250,29 @@
 </item>
 
 <item>
+
 <title>TORO</title>
 <link>http://privatestream.tv/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
+<regex>
+<name>start</name>
+<expres></expres>
+<page>$doregex[stream]</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>stream</name>
+<expres>source src="(.*?)"</expres>
+<page>http://privatestream.tv/player?streamname=toroch</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+</regex>
+</item>
+
+<item>
+<title>TORO</title>
+<link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <regex>
 <name>start</name>
 <expres></expres>
