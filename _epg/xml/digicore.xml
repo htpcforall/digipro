@@ -248,3 +248,23 @@
 	<title>[COLOR red] ---------------[/COLOR]                </title>
 	<link>http://google.com</link>
 </item>
+
+<item>
+<title>Canal+ Liga HLS</title>
+<link>$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
+<regex>
+<name>start</name>
+<expres></expres>
+<page>$doregex[stream]</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>stream</name>
+<expres>source src="(.*?)"</expres>
+<page>http://privatestream.tv/player?streamname=ligaapp21</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+</regex>
+</item>
