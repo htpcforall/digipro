@@ -2,7 +2,7 @@
 <item> 
 	<title>ABC</title>
 	<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=ABC&amp;url=%2Fwww.arconaitv.me%2Fabcde%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dlabel%253DABC%2526title%253DABC%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+	<thumbnail>http://logok.org/wp-content/uploads/2014/03/abc-gold-logo-880x660.png</thumbnail>
 </item>
 
 <item>
@@ -215,6 +215,11 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
+<item>
+<title>INVESTIGATION DISCOVERY</title>
+<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
+</item>
 
 <item>
 	<title>[COLOR red] ---------------[/COLOR]                </title>
@@ -750,4 +755,38 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
+<item>
+<title>INVESTIGATION DISCOVERY</title>
+<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
+</item>
 
+<item>
+<title>ABC NEWS</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wwxvur1466450408.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY VELOCITY</title>
+<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
+</item>
+
+<item>
+<title>TRU TV</title>
+<link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
+</item>
+
+<item>
+<title>FXx</title>
+<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvyvsx1434502420.png</thumbnail>
+</item>
