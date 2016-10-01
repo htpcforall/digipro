@@ -1,7 +1,7 @@
 
 <item> 
 	<title>ABC</title>
-	<link>plugin://plugin.video.ustvnow.tva/?name=ABC&amp;mode=play&rand=PIA2H7</link>
+	<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=ABC&amp;url=%2Fwww.arconaitv.me%2Fabcde%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dlabel%253DABC%2526title%253DABC%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
@@ -36,7 +36,7 @@
 </item>
 
 <item> 
-	<title>A & E</title>
+	<title>A&E</title>
 	<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=A%26%23038%3BE&amp;url=%2Fwww.arconaitv.me%2Fae%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dduration%253D420%2526label%253DA%252526E%2526title%253DA%252526E%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
@@ -78,7 +78,7 @@
 </item>
 
 <item> 
-	<title>DISCOVERY CHANNEL</title>
+	<title>DISCOVERY</title>
 	<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%2Fresources%2Fmedia%2Farconai.png&amp;title=Discovery+Channel&amp;url=%2Fwww.arconaitv.me%2Fdisco%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.castaway%2Ffanart.jpg%26meta%3Dlabel%253DDiscovery%252BChannel%2526title%253DDiscovery%252BChannel%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 </item>
@@ -216,15 +216,21 @@
 </item>
 
 
-<item>               [COLOR red] ---------------[/COLOR]                </item>
-<link>http://google.com</link>
-<item> ------- Non working for testing below --------</item>
-<link>http://google.com</link>
-<item>               [COLOR red] ---------------[/COLOR]                </item>
-<link>http://google.com</link>
 <item>
+    <title>               [COLOR red] ---------------[/COLOR]                </title>
+    <link>http://google.com</link>
+</item>
+<item>
+    <title>	  ------- Non working for testing below --------</title>
+    <link>http://google.com</link>
+</item>
 
+<item>
+	<title>               [COLOR red] ---------------[/COLOR]                </title>
+	<link>http://google.com</link>
+</item>
 
+<item>
 	<title>TRUETV</title>
 	<link>http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts</link>
 	<thumbnail>http://www.troika.tv/wp-content/uploads/trutv-logo3.jpg</thumbnail>
