@@ -217,9 +217,11 @@
 
 
 <item>
-    <title>               [COLOR red] ---------------[/COLOR]                </title>
+    <title>--------------------------</title>
     <link>http://google.com</link>
+	<thumbnail></thumbnail>
 </item>
+
 <item>
     <title>	  ------- Non working for testing below --------</title>
     <link>http://google.com</link>
