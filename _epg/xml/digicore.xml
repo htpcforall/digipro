@@ -251,7 +251,7 @@
 
 <item>
 
-<title>TORO</title>
+<title>TORO 1</title>
 <link>$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <regex>
 <name>start</name>
@@ -270,7 +270,7 @@
 </regex>
 </item>
 
-<title>TORO</title>
+<title>TORO 2</title>
 <link>http://privatestream.tv/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <regex>
 <name>start</name>
@@ -290,7 +290,7 @@
 </item>
 
 <item>
-<title>TORO</title>
+<title>TORO 3</title>
 <link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <regex>
 <name>start</name>
