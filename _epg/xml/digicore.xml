@@ -293,6 +293,7 @@
 <item>
 <title>TORO TEST 2</title>
 <link>http://privatestream.tv/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 <regex>
 <name>start</name>
 <expres></expres>
