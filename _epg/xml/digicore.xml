@@ -1,3 +1,21 @@
+<item> 
+	<title>NFL NETWORK HD</title>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_4500.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item>
+	<title>NFL NETWORK HD 2</title>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_3000.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK SD</title>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_1600.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
 
 <item> 
 	<title>ABC</title>
@@ -203,8 +221,8 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
-<item> 
-	<title>NFL NETWORK HD</title>
+<item>
+	<title>NFL NETWORK HD 2</title>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_3000.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
@@ -235,18 +253,20 @@
 
 
 <item>
-	<title>[COLOR red] ---------------[/COLOR]                </title>
+	<title>[COLOR red] --------------------------[/COLOR]                </title>
 	<link>http://google.com</link>
+	<thumbnail>http://the-studio.se/base/wp-content/themes/thestudio-by-emilolsson/images/slide-empty.png</thumbnail>
 </item>
 
 <item>
-    <title>--> DigiPro </title>
+    <title>-- DigiPro Ch for Testing --</title>
     <link>http://google.com</link>
-</item>
+	<thumbnail>http://the-studio.se/base/wp-content/themes/thestudio-by-emilolsson/images/slide-empty.png</thumbnail>
 
 <item>
-	<title>[COLOR red] ---------------[/COLOR]                </title>
+	<title>[COLOR red] --------------------------[/COLOR]                </title>
 	<link>http://google.com</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 <item>
@@ -268,6 +288,7 @@
 <agent>iPhone</agent>
 <referer>http://privatestream.tv/</referer>
 </regex>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 <title>TEST 2</title>
@@ -287,6 +308,7 @@
 <agent>iPhone</agent>
 <referer>http://privatestream.tv/</referer>
 </regex>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 <item>
@@ -307,4 +329,5 @@
 <agent>iPhone</agent>
 <referer>http://privatestream.tv/</referer>
 </regex>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
