@@ -270,6 +270,13 @@
 </item>
 
 <item>
+	<title>Sports 365</title>
+	<link>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss
+</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+</item>
+
+<item>
 <title>TORO TEST 1</title>
 <link>$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
@@ -330,4 +337,10 @@
 <agent>iPhone</agent>
 <referer>http://privatestream.tv/</referer>
 </regex>
+</item>
+
+<item>
+<title>FOX NEWS TEST</title>
+<link>http://stream-145310.appspot.com/www.arconaitv.me/fn/&amp;site=arconai&amp;mode=play_special</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 </item>
