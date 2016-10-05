@@ -1,4 +1,6 @@
 
+<!-- USTV SD -->
+
 <item> 
 	<title>ABC</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=ABC&amp;url=%2Fwww.arconaitv.me%2Fabcde%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DABC%2526title%253DABC%26winID%3D10025%26_options_sf&quot;</link>
@@ -155,6 +157,8 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
 
+<!-- news -->
+
 <item> 
 	<title>BBC NEWS</title>
 	<link>plugin://plugin.video.israelive/?url=27%3Fmode%3D1&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;description=&amp;displayname=BBC+News&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;)</link>
@@ -172,6 +176,8 @@
 	<link>plugin://plugin.video.israelive/?url=http%3A%2F%2Fweb-cache.stream.ne.jp%2Fwww11%2Fnhkworld-tv%2Fglobal%2F222714%2Flive.m3u8&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DNHK+World+HD%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic-cdn1.ustream.tv%2Fi%2Fchannel%2Fpicture%2F7%2F4%2F9%2F7%2F7497266%2F7497266_nhk_world_logo2_1299927691%2C640x360%2Cr%3A1.jpg&amp;description=&amp;displayname=NHK+World+HD&amp;categoryid=Favourites&amp;sf_options=meta%3Depisode%253DS0%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526season%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526studio%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526duration%253D0%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/yqprqt1433837663.png</thumbnail>
 </item>
+
+<!-- sports -->
 
 <item> 
 	<title>NFL NETWORK HD</title>
@@ -209,65 +215,11 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
-
 <item>
-	<title>[COLOR red] --------------------------[/COLOR]                </title>
-	<link>http://google.com</link>
-	<thumbnail>http://the-studio.se</thumbnail>
-</item>
-
-<item>
-    <title>-- DigiPro Ch for Testing --</title>
+    <title>[B][COLOR red]**----- Testing -----**[/COLOR][/B]</title>
     <link>http://google.com</link>
 	<thumbnail>http://the-studio.se</thumbnail>
 
-<item>
-	<title>[COLOR red] --------------------------[/COLOR]                </title>
-	<link>http://google.com</link>
-	<thumbnail>https://www.thelogodb.com</thumbnail>
-</item>
-
-<item>
-<title>TORO not working</title>
-<link>http://privatestream.tv/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-<regex>
-<name>start</name>
-<expres></expres>
-<page>$doregex[stream]</page>
-<agent>iPhone</agent>
-<referer>http://privatestream.tv/</referer>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>stream</name>
-<expres>source src="(.*?)"</expres>
-<page>http://privatestream.tv/player?streamname=torosch</page>
-<agent>iPhone</agent>
-<referer>http://privatestream.tv/</referer>
-</regex>
-</item>
-
-<item>
-<title>TORO not working</title>
-<link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-<regex>
-<name>start</name>
-<expres></expres>
-<page>$doregex[stream]</page>
-<agent>iPhone</agent>
-<referer>http://privatestream.tv/</referer>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>stream</name>
-<expres>source src="(.*?)"</expres>
-<page>http://privatestream.tv/player?streamname=torosch</page>
-<agent>iPhone</agent>
-<referer>http://privatestream.tv/</referer>
-</regex>
-</item>
 
 <item>
 <title>TORO 1</title>

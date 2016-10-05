@@ -201,3 +201,8 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/156.m3u8
 http://46.166.162.35:9090/load/b0922f3fa8aa/158.m3u8
 #EXTINF:-1 tvg-logo="", NBCSN
 http://46.166.162.35:9090/load/b0922f3fa8aa/159.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png", NICKELODEON
+http://mediaiptv.xyz:8000/live/gb/gb/1868.ts
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png", CARTOON NETOWRK
+http://mediaiptv.xyz:8000/live/gb/gb/1825.ts
