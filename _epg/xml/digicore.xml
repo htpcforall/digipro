@@ -5,10 +5,10 @@
 	<thumbnail>http://logok.org/wp-content/uploads/2014/03/abc-gold-logo-880x660.png</thumbnail>
 </item>
 
-<item>
+<item> 
 	<title>CBS</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CBS&amp;url=%2Fwww.arconaitv.me%2Fceebees%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DCBS%2526title%253DCBS%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>http://www.auditionsfree.com/content/user/2014/02/CBS-Logo.jpg</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
 
 <item> 
@@ -36,7 +36,7 @@
 </item>
 
 <item> 
-	<title>A&E</title>
+	<title>A/E</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=A%26%23038%3BE&amp;url=%2Fwww.arconaitv.me%2Fae%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dduration%253D420%2526label%253DA%252526E%2526title%253DA%252526E%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
@@ -156,30 +156,6 @@
 </item>
 
 <item> 
-	<title>MTV</title>
-	<link>plugin://plugin.video.israelive/?url=161-mtv-dance%3Fmode%3D29&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DMTV+Dance%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=&amp;description=&amp;displayname=MTV+Dance&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DMTV%252BDance%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DMTV%252BDance%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/uwvssy1438373966.png</thumbnail>
-</item>
-
-<item> 
-	<title>CNBC</title>
-	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CBS&amp;url=%2Fwww.arconaitv.me%2Fceebees%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DCBS%2526title%253DCBS%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
-</item>
-
-<item> 
-	<title>MSNBC</title>
-	<link>plugin://plugin.video.israelive/?url=rtmp%3A%2F%2Filluminati.cdn.newschat.tv%2Fedge+playpath%3Dmsnbc_live+swfUrl%3Dhttp%3A%2F%2Fnewschat.tv%2Fplayer.swf+swfVfy%3D1+live%3D1+pageUrl%3Dhttp%3A%2F%2Fwww.livenewschat.eu%2Fpolitics%2F+timeout%3D15&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DMSNBC%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fwww.realtvcritics.com%2Fwp-content%2Fuploads%2F2011%2F07%2Fmsnbc-logo1.jpg&amp;description=&amp;displayname=MSNBC&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DMSNBC%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DMSNBC%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg</thumbnail>
-</item>
-
-<item> 
-	<title>ALJAZEERA</title>
-	<link>plugin://plugin.video.israelive/?url=rtmp%3A%2F%2Fbanan.cdn.newschat.tv%2Fedge+playpath%3Dcnbc_live+swfUrl%3Dhttp%3A%2F%2Fnewschat.tv%2Fplayer.swf+swfVfy%3D1+live%3D1+pageUrl%3Dhttp%3A%2F%2Fwww.livenewschat.eu%2Ftwoons+timeout%3D15&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DCNBC%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fwww.lyngsat-logo.com%2Fhires%2Fcc%2Fcnbc.png&amp;description=&amp;displayname=CNBC&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNBC%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNBC%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>http://www.aljazeera.com/mritems/Images/2014/10/26/beefc69a4b0d4b6aac13938ee98f0103_18.jpg</thumbnail>
-</item>
-
-<item> 
 	<title>BBC NEWS</title>
 	<link>plugin://plugin.video.israelive/?url=27%3Fmode%3D1&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;description=&amp;displayname=BBC+News&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;)</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
@@ -237,50 +213,22 @@
 <item>
 	<title>[COLOR red] --------------------------[/COLOR]                </title>
 	<link>http://google.com</link>
-	<thumbnail>http://the-studio.se/base/wp-content/themes/thestudio-by-emilolsson/images/slide-empty.png</thumbnail>
+	<thumbnail>http://the-studio.se</thumbnail>
 </item>
 
 <item>
     <title>-- DigiPro Ch for Testing --</title>
     <link>http://google.com</link>
-	<thumbnail>http://the-studio.se/base/wp-content/themes/thestudio-by-emilolsson/images/slide-empty.png</thumbnail>
+	<thumbnail>http://the-studio.se</thumbnail>
 
 <item>
 	<title>[COLOR red] --------------------------[/COLOR]                </title>
 	<link>http://google.com</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+	<thumbnail>https://www.thelogodb.com</thumbnail>
 </item>
 
 <item>
-	<title>Sports 365</title>
-	<link>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss
-</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-</item>
-
-<item>
-<title>TORO TEST 1</title>
-<link>$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-<regex>
-<name>start</name>
-<expres></expres>
-<page>$doregex[stream]</page>
-<agent>iPhone</agent>
-<referer>http://privatestream.tv/</referer>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>stream</name>
-<expres>source src="(.*?)"</expres>
-<page>http://privatestream.tv/player?streamname=torosch</page>
-<agent>iPhone</agent>
-<referer>http://privatestream.tv/</referer>
-</regex>
-</item>
-
-<item>
-<title>TORO TEST 2</title>
+<title>TORO not working</title>
 <link>http://privatestream.tv/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 <regex>
@@ -301,7 +249,7 @@
 </item>
 
 <item>
-<title>TORO</title>
+<title>TORO not working</title>
 <link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 <regex>
@@ -319,4 +267,10 @@
 <agent>iPhone</agent>
 <referer>http://privatestream.tv/</referer>
 </regex>
+</item>
+
+<item>
+<title>TORO 1</title>
+<link>http://163.172.37.71:8789/live/teste/teste/804.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
