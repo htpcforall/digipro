@@ -169,12 +169,11 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
 
-<!-- news -->
-
-<item> 
-	<title>BBC NEWS</title>
-	<link>plugin://plugin.video.israelive/?url=27%3Fmode%3D1&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;description=&amp;displayname=BBC+News&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;)</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
+<item>
+<title>[COLOR blue]Extened Ch. List- Many HD [/COLOR]</title>
+<link>http://google.com</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item> 
@@ -189,12 +188,12 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/yqprqt1433837663.png</thumbnail>
 </item>
 
-<!-- sports -->
+<!-- news -->
 
 <item> 
-	<title>NFL NETWORK SD</title>
-	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_1600.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+	<title>BBC NEWS</title>
+	<link>plugin://plugin.video.israelive/?url=27%3Fmode%3D1&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;description=&amp;displayname=BBC+News&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;)</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
 </item>
 
 <item>
@@ -215,11 +214,120 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
+<!-- sports -->
+
+<item> 
+	<title>NFL NETWORK SD</title>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_1600.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<!-- US HD -->
+
+<item>
+<title>[COLOR blue]A&E [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]AMC [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cinemax [/COLOR]</title>
+<link>http://s4.latino-webtv.ml/live/CANAL481/PROFILE03.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Comedy Central ([/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Discovery [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]FX Network [/COLOR]</title>
+<link>http://111.223.52.110/tot/2e0e4b05aa6e428593f3b45b710045b7.m3u8?token=fuck<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]HBO [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]History Channel [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]National Geographic [/COLOR]</title>
+<link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Syfy [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]ShowTime [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]TLC [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]TNT [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]USA Network [/COLOR]</title>
+<link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+</item>
+
+<!--testing -->
+
 <item>
     <title>[B][COLOR red]**----- Testing -----**[/COLOR][/B]</title>
     <link>http://google.com</link>
-	<thumbnail>http://the-studio.se</thumbnail>
-
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 
 <item>
 <title>TORO 1</title>
