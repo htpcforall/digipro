@@ -178,6 +178,13 @@
 
 <!-- news -->
 
+<item>
+<title>ABC NEWS</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+<thumbnail>http://cdn.abclocal.go.com/assets/news/global/images/partners/abc/default_800x450.jpg</thumbnail>
+<fanart>http://www.sovereign-unm/wp-content/uploads/2016/04/Entertainment_Franchise_Monitor_Blue_Red_Axis_Full_39135_1441044206009_139837_ver1.0.png</fanart>
+</item>
+
 <item> 
 	<title>BBC NEWS</title>
 	<link>plugin://plugin.video.israelive/?url=27%3Fmode%3D1&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;description=&amp;displayname=BBC+News&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;)</link>
@@ -216,16 +223,17 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
+
 <item>
-<title>ESPN2</title>
-<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png</thumbnail>
+<title>ESPN ALT</title>
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
 <item>
-<title>VERUS HD</title>
-<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-<thumbnail>http://mblogthumb4.phinf.naver.net/20110927_59/jjuney23_1317127443190vDBJk_PNG/%C1%D6%C0%AF%C7%D2%C0%CE%C4%AB%B5%E5vs%C1%D6%C0%AF%C0%FB%B8%B3%C4%AB%B5%E5.png?type=w2</thumbnail>
+<title>ESPN2</title>
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png</thumbnail>
 </item>
 
 <item> 
@@ -247,8 +255,14 @@
 </item>
 
 <item>
+<title>VERUS HD</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://mblogthumb4.phinf.naver.net/20110927_59/jjuney23_1317127443190vDBJk_PNG/%C1%D6%C0%AF%C7%D2%C0%CE%C4%AB%B5%E5vs%C1%D6%C0%AF%C0%FB%B8%B3%C4%AB%B5%E5.png?type=w2</thumbnail>
+</item>
+
+<item>
 <title>NBC GOLF</title>
-<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts</link>
+<link></link>
 <thumbnail>https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg</thumbnail>
 </item>
 
@@ -266,7 +280,7 @@
 
 <item>
 <title>TSN 2</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
