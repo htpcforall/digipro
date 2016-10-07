@@ -214,13 +214,88 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
+<item>
+<title>NASA</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
+</item>
+
 <!-- sports -->
 
+<item>
+<title>ESPN</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+</item>
+
+
+<item>
+<title>ESPN ALT</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN2</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png</thumbnail>
+</item>
+
+<item>
+<title>VERUS HD</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://mblogthumb4.phinf.naver.net/20110927_59/jjuney23_1317127443190vDBJk_PNG/%C1%D6%C0%AF%C7%D2%C0%CE%C4%AB%B5%E5vs%C1%D6%C0%AF%C0%FB%B8%B3%C4%AB%B5%E5.png?type=w2</thumbnail>
+</item>
+
 <item> 
-	<title>NFL NETWORK SD</title>
+	<title>NFL NETWORK</title>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_1600.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
+
+<item>
+<title>NBC GOLF</title>
+<link>http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts</link>
+<thumbnail>https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg</thumbnail>
+</item>
+
+
+<item>
+<title>SPOPRTSNET 360</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8</link>
+<thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 1</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 3</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 4</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 5</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
 
 <!-- US HD -->
 
@@ -228,98 +303,120 @@
 <title>[COLOR blue]A&E [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]AMC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]Cinemax [/COLOR]</title>
 <link>http://s4.latino-webtv.ml/live/CANAL481/PROFILE03.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]Comedy Central ([/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]Discovery [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR blue]FX Network [/COLOR]</title>
-<link>http://111.223.52.110/tot/2e0e4b05aa6e428593f3b45b710045b7.m3u8?token=fuck<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<title>[COLOR blue]FX[/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]HBO [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]History Channel [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]H2 [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]National Geographic [/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Nat Geo wild [/COLOR]</title>
+<link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
+<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]Syfy [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]ShowTime [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qpwqtq1434971341.png</thumbnail>
+<fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR blue]ShowTime 2 [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qpwqtq1434971341.pn</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLOR blue]TLC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rprruu1433942038.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]TNT [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]USA Network [/COLOR]</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart>http://profuse-fall.flywheelses.com/reaking-news-3.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!--testing -->
