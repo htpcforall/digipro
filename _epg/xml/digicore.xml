@@ -530,9 +530,31 @@
     <title>[B][COLOR red]**----- Testing -----**[/COLOR][/B]</title>
     <link>http://google.com</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
 
 <item>
-<title>TORO 1</title>
+<title>TOROS</title>
+<link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<regex>
+<name>start</name>
+<expres></expres>
+<page>$doregex[stream]</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>stream</name>
+<expres>source src="(.*?)"</expres>
+<page>http://privatestream.tv/player?streamname=torosch</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+</regex>
+</item>
+
+<item>
+<title>TOROS 2</title>
 <link>http://163.172.37.71:8789/live/teste/teste/804.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
