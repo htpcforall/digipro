@@ -589,3 +589,13 @@
 <link>http://37.187.167.137/live/blok/blok/2525.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
+
+<item>
+<title>AMC</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/814.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
