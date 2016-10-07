@@ -331,31 +331,31 @@
 <item>
 <title>TSN 1</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 2</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 3</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 5</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 </item>
 
 <item>
@@ -396,7 +396,7 @@
 <item>
 <title>[COLOR blue]AMC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -440,7 +440,7 @@
 <item>
 <title>[COLOR blue]DISCOVERY [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -482,28 +482,28 @@
 <item>
 <title>[COLOR blue]HISTORY[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]H2 [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]NATIONAL GEOGRAPHIC [/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]NAT GEO WILD [/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -531,7 +531,7 @@
 <item>
 <title>[COLOR blue]SHOWTIME 2 [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qpwqtq1434971341.pn</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxqxys1433428470.png</thumbnail>
 <fanart></fanart>
 </item>
 
