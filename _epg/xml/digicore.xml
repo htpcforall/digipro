@@ -216,13 +216,6 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
-
-<item>
-<title>ESPN ALT</title>
-<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
-</item>
-
 <item>
 <title>ESPN2</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
@@ -259,9 +252,8 @@
 <thumbnail>https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg</thumbnail>
 </item>
 
-
 <item>
-<title>SPOPRTSNET 360</title>
+<title>SPORTSNET 360</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8</link>
 <thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
 </item>
