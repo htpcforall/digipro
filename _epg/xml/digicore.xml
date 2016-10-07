@@ -291,6 +291,14 @@
 </item>
 
 <item>
+<title>FOX SPORTS NEWS</title>
+<link>plugin://plugin.video.ProjectCypher/?url=http%3A%2F%2Ffoxsportshlsg01-lh.akamaihd.net%2Fi%2Ffsnewshls_0%40301672%2Fmaster.m3u8%3F%7CX-Forwarded-For%3D110.33.122.75&amp;mode=12&quot;)
+</link>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/fox-sports-news-hero.png</thumbnail>
+</item>
+
+
+<item>
 <title>FS2</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
