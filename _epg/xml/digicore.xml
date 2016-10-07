@@ -381,6 +381,18 @@
 <fanart></fanart>
 </item>
 
+<item> 
+	<title>[COLOR blue]CBS [/COLOR]</title>
+	<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1516.mpegts</link>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]CW [/COLOR]</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/138.mpegts</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR blue]AMC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
@@ -414,6 +426,14 @@
 <title>[COLOR blue]COMEDY CENTRAL [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]DISNEY CHANNEL [/COLOR]</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.mpegts<link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ruywvx1435106173.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -543,12 +563,22 @@
 <fanart></fanart>
 </item>
 
+
 <!--testing -->
 
 <item>
     <title>[B][COLOR red]**----- Testing -----**[/COLOR][/B]</title>
     <link>http://google.com</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+
+<item>
+<title>AMC</title>
+<link>
+http://5.39.70.216/live/louis/louis/814.ts
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -588,14 +618,4 @@
 <title>TOROS ALT 3</title>
 <link>http://37.187.167.137/live/blok/blok/2525.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-</item>
-
-<item>
-<title>AMC</title>
-<link>
-sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8#
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/814.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
