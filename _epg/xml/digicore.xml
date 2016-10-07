@@ -5,162 +5,188 @@
 	<title>ABC</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=ABC&amp;url=%2Fwww.arconaitv.me%2Fabcde%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DABC%2526title%253DABC%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>CBS 21</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CBS&amp;url=%2Fwww.arconaitv.me%2Fceebees%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DCBS%2526title%253DCBS%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>CW</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=The+CW&amp;url=%2Fwww.arconaitv.me%2Ftcw%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DThe%252BCW%2526title%253DThe%252BCW%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/06/the-cw-logo_green-and-white.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 	<title>FOX</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fox&amp;url=%2Fwww.arconaitv.me%2Ffoxxy%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DFox%2526title%253DFox%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>NBC</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=NBC&amp;url=%2Fwww.arconaitv.me%2Fnnnbsee%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DNBC%2526title%253DNBC%26winID%3D10025%26_options_sf&quot;</link>
     <thumbnail>https://thepcprinciple.files.wordpress.com/2013/06/nbc-logo.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>PBS</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=PBS&amp;url=%2Fwww.arconaitv.me%2Fppp%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DPBS%2526title%253DPBS%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>http://vignette3.wikia.nocookie.net/logo-timeline/images/9/94/Pbs-logo-800.png/revision/latest?cb=20140904121703</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>A/E</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=A%26%23038%3BE&amp;url=%2Fwww.arconaitv.me%2Fae%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dduration%253D420%2526label%253DA%252526E%2526title%253DA%252526E%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 	<title>AMC</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=AMC&amp;url=%2Fwww.arconaitv.me%2Fam%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DAMC%2526title%253DAMC%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart> 
 </item>
 
 <item>
 	<title>ANIMAL PLANET</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Animal+Planet&amp;url=%2Fwww.arconaitv.me%2Fap%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DAnimal%252BPlanet%2526title%253DAnimal%252BPlanet%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart> 
 </item>
 
 <item>
 	<title>BRAVO</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=BravoTv&amp;url=%2Fwww.arconaitv.me%2Fbraveotv%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dduration%253D0%2526label%253DBravoTv%2526title%253DBravoTv%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart> 
 </item>
 
 <item> 
 	<title>CARTOON NETWORK</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Cartoon+Network&amp;url=%2Fwww.arconaitv.me%2Fcn%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DCartoon%252BNetwork%2526title%253DCartoon%252BNetwork%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>CNN</title>
 	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DCNN%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 	<title>COMEDY CENTRAL</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Comedy+Central&amp;url=%2Fwww.arconaitv.me%2Fcc%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DComedy%252BCentral%2526title%253DComedy%252BCentral%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wxqwpq1445015855.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wxqwpq1445015855.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart> 
 </item>
 
 <item> 
 	<title>DISCOVERY</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Discovery+Channel&amp;url=%2Fwww.arconaitv.me%2Fdisco%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DDiscovery%252BChannel%2526title%253DDiscovery%252BChannel%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>ESPN</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=ESPN&amp;url=%2Fwww.arconaitv.me%2Fsports%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DESPN%2526title%253DESPN%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>http://www.motivoinsights.com/wp-content/uploads/sites/9/2013/04/espn_logo.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 	<title>FOX NEWS</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fox+News&amp;url=%2Fwww.arconaitv.me%2Ffn%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DFox%252BNews%2526title%253DFox%252BNews%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 	<title>FX</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fx&amp;url=%2Fwww.arconaitv.me%2Ffx%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DFx%2526title%253DFx%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart> 
 </item>
 
 <item>
 	<title>HISTORY</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=History+Channel&amp;url=%2Fwww.arconaitv.me%2Fhc%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DHistory%252BChannel%2526title%253DHistory%252BChannel%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart> 
 </item>
 
 <item> 
 	<title>LIFETIME</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Lifetime&amp;url=%2Fwww.arconaitv.me%2Flt%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DLifetime%2526title%253DLifetime%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>NATIONAL GEOGRAPHIC</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=National+Geographic&amp;url=%2Fwww.arconaitv.me%2Fng%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DNational%252BGeographic%2526title%253DNational%252BGeographic%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>NICKELODEON</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Nickelodeon&amp;url=%2Fwww.arconaitv.me%2Fnickie%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DNickelodeon%2526title%253DNickelodeon%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 	<title>SPIKE</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Spike+Tv&amp;url=%2Fwww.arconaitv.me%2Fpointytv%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DSpike%252BTv%2526title%253DSpike%252BTv%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail><fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart> 
 </item>
 
 <item>
 	<title>SYFY</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=SyFy&amp;url=%2Fwww.arconaitv.me%2Fsify%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DSyFy%2526title%253DSyFy%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail> 
+	<thumbnail>https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart> 
 </item>
 
 <item> 
 	<title>TBS</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=TBS&amp;url=%2Fwww.arconaitv.me%2Fteabees%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DTBS%2526title%253DTBS%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>http://mymagicstack.com/moveit/static/pics/tbs.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>TNT</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=TNTUSA&amp;url=%2Fwww.arconaitv.me%2Fteentee%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DTNTUSA%2526title%253DTNTUSA%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>USA</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CBS&amp;url=%2Fwww.arconaitv.me%2Fceebees%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DCBS%2526title%253DCBS%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>[B][COLOR blue]Extened Ch. List- Many HD [/COLOR][/B]</title>
 <link>http://google.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -168,24 +194,28 @@
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>DISCOVERY VELOCITY</title>
 <link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>DISCOVERY SCIENCE</title>
 <link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>NASA</title>
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <!-- news -->
@@ -194,37 +224,42 @@
 <title>THE WEATHER CHANNEL</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>ABC NEWS</title>
 <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
 <thumbnail>http://cdn.abclocal.go.com/assets/news/global/images/partners/abc/default_800x450.jpg</thumbnail>
-<fanart>http://www.sovereign-unm/wp-content/uploads/2016/04/Entertainment_Franchise_Monitor_Blue_Red_Axis_Full_39135_1441044206009_139837_ver1.0.png</fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>CNN</title>
 	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DCNN%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>ALJAZEERA</title>
 	<link>plugin://plugin.video.israelive/?url=4%3Fmode%3D1%26ignorefilmonguide%3D1&amp;mode=10&amp;name=%5BCOLOR+yellow%5D%5BB%5DAl+Jazeera%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F4%2Fextra_big_logo.png&amp;description=&amp;displayname=Al+Jazeera&amp;categoryid=10359&quot;)</link>
 	<thumbnail>http://www.aljazeera.com/mritems/Images/2014/10/26/beefc69a4b0d4b6aac13938ee98f0103_18.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>BBC NEWS</title>
 	<link>plugin://plugin.video.israelive/?url=27%3Fmode%3D1&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;description=&amp;displayname=BBC+News&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;)</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>BBC WORLD NEWS</title>
 	<link>plugin://plugin.video.israelive/?url=3268%3Fmode%3D1%26ignorefilmonguide%3D1%26filmonmethod%3D1&amp;mode=10&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+World+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fnews.bbcimg.co.uk%2Fmedia%2Fimages%2F45482000%2Fjpg%2F_45482922_worldnews512.jpg&amp;description=&amp;displayname=BBC+World+News&amp;categoryid=10359&quot;)</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 
@@ -232,12 +267,14 @@
 	<title>BLOOMBERG</title>
 	<link>plugin://plugin.video.israelive/?url=81%3Fmode%3D1%26ignorefilmonguide%3D1&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DBloomberg%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F81%2Fextra_big_logo.png&amp;description=&amp;displayname=Bloomberg&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBloomberg%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBloomberg%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>NHK WORLD</title>
 	<link>plugin://plugin.video.israelive/?url=http%3A%2F%2Fweb-cache.stream.ne.jp%2Fwww11%2Fnhkworld-tv%2Fglobal%2F222714%2Flive.m3u8&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DNHK+World+HD%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic-cdn1.ustream.tv%2Fi%2Fchannel%2Fpicture%2F7%2F4%2F9%2F7%2F7497266%2F7497266_nhk_world_logo2_1299927691%2C640x360%2Cr%3A1.jpg&amp;description=&amp;displayname=NHK+World+HD&amp;categoryid=Favourites&amp;sf_options=meta%3Depisode%253DS0%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526season%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526studio%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526duration%253D0%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/yqprqt1433837663.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <!-- sports -->
@@ -246,6 +283,7 @@
 <title>ESPN</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 
@@ -253,96 +291,112 @@
 <title>ESPN ALT</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>ESPN2</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>NFL NETWORK HD</title>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_4500.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 	<title>NFL NETWORK HD 2</title>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_3000.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item> 
 	<title>NFL NETWORK</title>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_1600.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>MLB</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/utqwsr1472105649.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>NBA TV</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xutptv1433429127.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>FS2</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>VERUS HD</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>http://mblogthumb4.phinf.naver.net/20110927_59/jjuney23_1317127443190vDBJk_PNG/%C1%D6%C0%AF%C7%D2%C0%CE%C4%AB%B5%E5vs%C1%D6%C0%AF%C0%FB%B8%B3%C4%AB%B5%E5.png?type=w2</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>NBC GOLF</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ncb-golf.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>SPORTSNET 360</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8</link>
 <thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>TSN 1</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>TSN 2</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://app.uktvnow.net/images/channel_imgs/200116043314ts2.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>TSN 3</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://app.uktvnow.net/images/channel_imgs/200116043351ts3.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>TSN 4</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>TSN 5</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 
@@ -352,6 +406,7 @@
 <title>[COLOR blue]NBC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -359,6 +414,7 @@
 <title>[COLOR blue]ABC 27 [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -366,6 +422,7 @@
 <title>[COLOR blue]AMC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -373,6 +430,7 @@
 <title>[COLOR blue]BRAVO [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -380,6 +438,7 @@
 <title>[COLOR blue]E! [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vrrvwt1436890500.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -387,6 +446,7 @@
 <title>[COLOR blue]FOX 43 [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -395,6 +455,7 @@
 <title>[COLOR blue]COMEDY CENTRAL [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -402,6 +463,7 @@
 <title>[COLOR blue]DISCOVERY [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -409,13 +471,14 @@
 <title>[COLOR blue]FX[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]FXX[/COLOR]</title>
 <link>http://216.31.255.235/hlsl/4/FXX/03.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uvyvsx1434502420.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvyvsx1434502420.png</thumbnail><fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -423,6 +486,7 @@
 <title>[COLOR blue]TRUTV[/COLOR]</title>
 <link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -430,6 +494,7 @@
 <title>[COLOR blue]SYFY[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -437,6 +502,7 @@
 <title>[COLOR blue]SPIKE[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -444,6 +510,7 @@
 <title>[COLOR blue]HISTORY[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -451,6 +518,7 @@
 <title>[COLOR blue]H2 [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -458,6 +526,7 @@
 <title>[COLOR blue]NATIONAL GEOGRAPHIC [/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -465,6 +534,7 @@
 <title>[COLOR blue]NAT GEO WILD [/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -472,6 +542,7 @@
 <title>[COLOR blue]DISCOVERY [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -479,6 +550,7 @@
 <title>[COLOR blue]ANIMAL PLANET [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -486,6 +558,7 @@
 <title>[COLOR blue]SHOWTIME [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qpwqtq1434971341.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -493,6 +566,7 @@
 <title>[COLOR blue]SHOWTIME 2 [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qpwqtq1434971341.pn</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -500,6 +574,7 @@
 <title>[COLOR blue]TBS [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rprruu1433942038.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -507,6 +582,7 @@
 <title>[COLOR blue]TLC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -514,6 +590,7 @@
 <title>[COLOR blue]TNT [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8<link>
 <thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -521,6 +598,7 @@
 <title>[COLOR blue]USA[/COLOR]</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <fanart></fanart>
 </item>
 
@@ -530,12 +608,14 @@
     <title>[B][COLOR red]**----- Testing -----**[/COLOR][/B]</title>
     <link>http://google.com</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>TOROS</title>
 <link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 <regex>
 <name>start</name>
 <expres></expres>
@@ -557,16 +637,19 @@
 <title>TOROS ALT</title>
 <link>http://163.172.37.71:8789/live/teste/teste/804.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>TOROS ALT 2</title>
 <link>http://37.187.167.137/live/1/1/2525.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
 
 <item>
 <title>TOROS ALT 3</title>
 <link>http://37.187.167.137/live/blok/blok/2525.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/fanart.png</fanart>
 </item>
