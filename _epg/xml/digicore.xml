@@ -22,19 +22,19 @@
 <item>
 	<title>FOX</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fox&amp;url=%2Fwww.arconaitv.me%2Ffoxxy%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DFox%2526title%253DFox%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>
 </item>
 
 <item> 
 	<title>NBC</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=NBC&amp;url=%2Fwww.arconaitv.me%2Fnnnbsee%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DNBC%2526title%253DNBC%26winID%3D10025%26_options_sf&quot;</link>
-    <thumbnail>https://thepcprinciple.files.wordpress.com/2013/06/nbc-logo.jpg</thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>
 </item>
 
 <item> 
 	<title>PBS</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=PBS&amp;url=%2Fwww.arconaitv.me%2Fppp%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DPBS%2526title%253DPBS%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>http://vignette3.wikia.nocookie.net/logo-timeline/images/9/94/Pbs-logo-800.png/revision/latest?cb=20140904121703</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/pbs.png</thumbnail>
 </item>
 
 <item> 
@@ -46,7 +46,7 @@
 <item>
 	<title>AMC</title> 
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=AMC&amp;url=%2Fwww.arconaitv.me%2Fam%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DAMC%2526title%253DAMC%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png</thumbnail> 
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail> 
 </item>
 
 <item>
