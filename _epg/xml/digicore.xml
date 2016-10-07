@@ -300,22 +300,8 @@
 <!-- US HD -->
 
 <item>
-<title>[COLOR blue]A&E [/COLOR]</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR blue]AMC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR blue]Cinemax [/COLOR]</title>
-<link>http://s4.latino-webtv.ml/live/CANAL481/PROFILE03.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
 <fanart></fanart>
 </item>
@@ -338,13 +324,6 @@
 <title>[COLOR blue]FX[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR blue]HBO [/COLOR]</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8<link>
-<thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
 <fanart></fanart>
 </item>
 
