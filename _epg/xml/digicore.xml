@@ -158,7 +158,37 @@
 </item>
 
 <item>
-<title>[COLOR blue]Extened Ch. List- Many HD [/COLOR]</title>
+<title>INVESTIGATION DISCOVERY</title>
+<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY VELOCITY</title>
+<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
+</item>
+
+<item>
+<title>NASA</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
+</item>
+
+<item>
+<title>THE WEATHER CHANNEL</title>
+<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Extened Ch. List- Many HD [/COLOR][/B]</title>
 <link>http://google.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
@@ -189,30 +219,6 @@
 	<title>BBC NEWS</title>
 	<link>plugin://plugin.video.israelive/?url=27%3Fmode%3D1&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;description=&amp;displayname=BBC+News&amp;categoryid=Favourites&amp;sf_options=meta%3Dlabel%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DBBC%252BNews%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;)</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
-</item>
-
-<item>
-<title>INVESTIGATION DISCOVERY</title>
-<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY VELOCITY</title>
-<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY SCIENCE</title>
-<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
-</item>
-
-<item>
-<title>NASA</title>
-<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
 </item>
 
 <!-- sports -->
@@ -255,6 +261,23 @@
 </item>
 
 <item>
+<title>MLB</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/utqwsr1472105649.png</thumbnail>
+</item>
+
+<item>
+<title>NBA TV</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xutptv1433429127.png</thumbnail>
+</item>
+
+<item>
+<title>FS2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
+</item>
+<item>
 <title>VERUS HD</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>http://mblogthumb4.phinf.naver.net/20110927_59/jjuney23_1317127443190vDBJk_PNG/%C1%D6%C0%AF%C7%D2%C0%CE%C4%AB%B5%E5vs%C1%D6%C0%AF%C0%FB%B8%B3%C4%AB%B5%E5.png?type=w2</thumbnail>
@@ -262,8 +285,8 @@
 
 <item>
 <title>NBC GOLF</title>
-<link></link>
-<thumbnail>https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg</thumbnail>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ncb-golf.png</thumbnail>
 </item>
 
 <item>
