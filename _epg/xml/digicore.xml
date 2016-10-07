@@ -349,11 +349,47 @@
 <!-- US HD -->
 
 <item>
+<title>[COLOR blue]NBC [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]ABC 27 [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR blue]AMC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
 <thumbnail>http://www.grosblogue.com/wp-contentloads/2013/0png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR blue]BRAVO [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]E! [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vrrvwt1436890500.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]FOX 43 [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLOR blue]COMEDY CENTRAL [/COLOR]</title>
@@ -373,6 +409,34 @@
 <title>[COLOR blue]FX[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]FXX[/COLOR]</title>
+<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvyvsx1434502420.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]TRUTV[/COLOR]</title>
+<link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]SYFY[/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]SPIKE[/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -405,9 +469,16 @@
 </item>
 
 <item>
-<title>[COLOR blue]SYFY [/COLOR]</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
+<title>[COLOR blue]DISCOVERY [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]ANIMAL PLANET [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8<link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -425,11 +496,17 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR blue]TBS [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rprruu1433942038.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR blue]TLC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rprruu1433942038.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
 <fanart></fanart>
 </item>
 
