@@ -1,401 +1,407 @@
 #EXTM3U
-#EXTINF:-1,TWC
+#EXTINF:-1 group-title="xml",TWC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/132.ts
-#EXTINF:-1,unknown
+#EXTINF:-1 group-title="xml",unknown
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/71.ts
-#EXTINF:-1,CBS
+#EXTINF:-1 group-title="xml",CBS
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/84.ts
-#EXTINF:-1,TV LAND
+#EXTINF:-1 group-title="xml",TV LAND
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/106.ts
-#EXTINF:-1,LMN
+#EXTINF:-1 group-title="xml",LMN
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/109.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="xml",NATIONAL GEOGRAPHIC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/186.ts
-#EXTINF:-1,HALLMARK
+#EXTINF:-1 group-title="xml",HALLMARK
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/185.ts
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1 group-title="xml",ANIMAL PLANET
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/184.ts
-#EXTINF:-1,MLB
+#EXTINF:-1 group-title="xml",MLB
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/70.ts
-#EXTINF:-1,FOX 25
+#EXTINF:-1 group-title="xml",FOX 25
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/73.ts
-#EXTINF:-1,CTV
+#EXTINF:-1 group-title="xml",CTV
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/57.ts
-#EXTINF:-1,HISTORY
+#EXTINF:-1 group-title="xml",HISTORY
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/120.ts
-#EXTINF:-1,SYFY
+#EXTINF:-1 group-title="xml",SYFY
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/122.ts
-#EXTINF:-1,BET
+#EXTINF:-1 group-title="xml",BET
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/124.ts
-#EXTINF:-1,CITY
+#EXTINF:-1 group-title="xml",CITY
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/53.ts
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="xml",TLC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/183.ts
-#EXTINF:-1,CTV
+#EXTINF:-1 group-title="xml",CTV
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/55.ts
-#EXTINF:-1,SLICE
+#EXTINF:-1 group-title="xml",SLICE
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/134.ts
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="xml",AMC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/131.ts
-#EXTINF:-1,VISION
+#EXTINF:-1 group-title="xml",VISION
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/69.ts
-#EXTINF:-1,SHOWCASE
+#EXTINF:-1 group-title="xml",SHOWCASE
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/130.ts
-#EXTINF:-1,BRAVO
+#EXTINF:-1 group-title="xml",BRAVO
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/129.ts
-#EXTINF:-1,CBS 4 WBZ
+#EXTINF:-1 group-title="xml",CBS 4 WBZ
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/72.ts
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1 group-title="xml",DISCOVERY
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/182.ts
-#EXTINF:-1,CTV
+#EXTINF:-1 group-title="xml",CTV
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/8.ts
-#EXTINF:-1,NBC K5
+#EXTINF:-1 group-title="xml",NBC K5
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/80.ts
-#EXTINF:-1,US WXYZ TV
+#EXTINF:-1 group-title="xml",US WXYZ TV
 http://89.163.148.31:8000/live/claire/claire/8492.ts
-#EXTINF:-1,US WGN
+#EXTINF:-1 group-title="xml",US WGN
 http://89.163.148.31:8000/live/claire/claire/8491.ts
-#EXTINF:-1,PBS - no sound
+#EXTINF:-1 group-title="xml",PBS - no sound
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/74.ts
-#EXTINF:-1,US Versus NBA HD
+#EXTINF:-1 group-title="xml",US Versus NBA HD
 http://89.163.148.31:8000/live/claire/claire/8490.ts
-#EXTINF:-1,ABC 5 KOMO
+#EXTINF:-1 group-title="xml",ABC 5 KOMO
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/81.ts
-#EXTINF:-1,US UC TV
+#EXTINF:-1 group-title="xml",US UC TV
 http://89.163.148.31:8000/live/claire/claire/8489.ts
-#EXTINF:-1,US Twit TV
+#EXTINF:-1 group-title="xml",US Twit TV
 http://89.163.148.31:8000/live/claire/claire/8488.ts
-#EXTINF:-1,US TSC
+#EXTINF:-1 group-title="xml",US TSC
 http://89.163.148.31:8000/live/claire/claire/8487.ts
-#EXTINF:-1,US Travel Channel HD
+#EXTINF:-1 group-title="xml",US Travel Channel HD
 http://89.163.148.31:8000/live/claire/claire/8486.ts
-#EXTINF:-1,US Toonami Aftermath
+#EXTINF:-1 group-title="xml",US Toonami Aftermath
 http://89.163.148.31:8000/live/claire/claire/8485.ts
-#EXTINF:-1,TSN 5
+#EXTINF:-1 group-title="xml",TSN 5
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/100.ts
-#EXTINF:-1,US The Florida Channel
+#EXTINF:-1 group-title="xml",US The Florida Channel
 http://89.163.148.31:8000/live/claire/claire/8484.ts
-#EXTINF:-1,OWN
+#EXTINF:-1 group-title="xml",OWN
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/189.ts
-#EXTINF:-1,US Tech Channel
+#EXTINF:-1 group-title="xml",US Tech Channel
 http://89.163.148.31:8000/live/claire/claire/8483.ts
-#EXTINF:-1,US Star Trek
+#EXTINF:-1 group-title="xml",US Star Trek
 http://89.163.148.31:8000/live/claire/claire/8482.ts
-#EXTINF:-1,US Sport1 US HD
+#EXTINF:-1 group-title="xml",US Sport1 US HD
 http://89.163.148.31:8000/live/claire/claire/8481.ts
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1 group-title="xml",NAT GEO WILD
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/190.ts
-#EXTINF:-1,US Showtime HD
+#EXTINF:-1 group-title="xml",US Showtime HD
 http://89.163.148.31:8000/live/claire/claire/8480.ts
-#EXTINF:-1,US RT Documentary
+#EXTINF:-1 group-title="xml",US RT Documentary
 http://89.163.148.31:8000/live/claire/claire/8479.ts
-#EXTINF:-1,XTV
+#EXTINF:-1 group-title="xml",XTV
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/180.ts
-#EXTINF:-1,US RT America HD
+#EXTINF:-1 group-title="xml",US RT America HD
 http://89.163.148.31:8000/live/claire/claire/8478.ts
-#EXTINF:-1,US Redbull TV
+#EXTINF:-1 group-title="xml",US Redbull TV
 http://89.163.148.31:8000/live/claire/claire/8477.ts
-#EXTINF:-1,USA
+#EXTINF:-1 group-title="xml",USA
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/105.ts
-#EXTINF:-1,US Pocker Central
+#EXTINF:-1 group-title="xml",US Pocker Central
 http://89.163.148.31:8000/live/claire/claire/8476.ts
-#EXTINF:-1,FXX
+#EXTINF:-1 group-title="xml",FXX
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/125.ts
-#EXTINF:-1,US Nasa TV HD
+#EXTINF:-1 group-title="xml",US Nasa TV HD
 http://89.163.148.31:8000/live/claire/claire/8475.ts
-#EXTINF:-1,US Motor Sports 7 HD
+#EXTINF:-1 group-title="xml",US Mute TV
+http://89.163.148.31:8000/live/claire/claire/8474.ts
+#EXTINF:-1 group-title="xml",US Motor Sports 7 HD
 http://89.163.148.31:8000/live/claire/claire/8473.ts
-#EXTINF:-1,US Miami TV
+#EXTINF:-1 group-title="xml",US Miami TV
 http://89.163.148.31:8000/live/claire/claire/8472.ts
-#EXTINF:-1,US Mello TV
+#EXTINF:-1 group-title="xml",US Mello TV
 http://89.163.148.31:8000/live/claire/claire/8471.ts
-#EXTINF:-1,LIFETIME
+#EXTINF:-1 group-title="xml",LIFETIME
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/108.ts
-#EXTINF:-1,US HSN 2
+#EXTINF:-1 group-title="xml",US HSN 2
 http://89.163.148.31:8000/live/claire/claire/8470.ts
-#EXTINF:-1,US HSN 1
+#EXTINF:-1 group-title="xml",US HSN 1
 http://89.163.148.31:8000/live/claire/claire/8469.ts
-#EXTINF:-1,US Fox 59 News
+#EXTINF:-1 group-title="xml",US Fox 59 News
 http://89.163.148.31:8000/live/claire/claire/8468.ts
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:-1 group-title="xml",FOOD NETWORK
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/110.ts
-#EXTINF:-1,US Film Noir Classic Channel
+#EXTINF:-1 group-title="xml",US Film Noir Classic Channel
 http://89.163.148.31:8000/live/claire/claire/8467.ts
-#EXTINF:-1,US Fashion One
+#EXTINF:-1 group-title="xml",US Fashion One
 http://89.163.148.31:8000/live/claire/claire/8466.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY
+#EXTINF:-1 group-title="xml",INVESTIGATION DISCOVERY
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/192.ts
-#EXTINF:-1,US D23 TV
+#EXTINF:-1 group-title="xml",US D23 TV
 http://89.163.148.31:8000/live/claire/claire/8465.ts
-#EXTINF:-1,US Cinemax
+#EXTINF:-1 group-title="xml",US Cinemax
 http://89.163.148.31:8000/live/claire/claire/8464.ts
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="xml",HGTV
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/112.ts
-#EXTINF:-1,US BYU Sports TV HD
+#EXTINF:-1 group-title="xml",US BYU Sports TV HD
 http://89.163.148.31:8000/live/claire/claire/8463.ts
-#EXTINF:-1,US Boston City TV
+#EXTINF:-1 group-title="xml",US Boston City TV
 http://89.163.148.31:8000/live/claire/claire/8462.ts
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1 group-title="xml",DISCOVERY SCIENCE
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/193.ts
-#EXTINF:-1,US 360 North
+#EXTINF:-1 group-title="xml",US 360 North
 http://89.163.148.31:8000/live/claire/claire/8459.ts
-#EXTINF:-1,E!
+#EXTINF:-1 group-title="xml",E!
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/114.ts
-#EXTINF:-1,ADULT SWIM
+#EXTINF:-1 group-title="xml",ADULT SWIM
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/176.ts
-#EXTINF:-1,DISNEY XD
+#EXTINF:-1 group-title="xml",DISNEY XD
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/174.ts
-#EXTINF:-1,A&E
+#EXTINF:-1 group-title="xml",A&E
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/118.ts
-#EXTINF:-1,VICELAND
+#EXTINF:-1 group-title="xml",VICELAND
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/121.ts
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:-1 group-title="xml",DISNEY CHANNEL
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/172.ts
-#EXTINF:-1,W NETWORK
+#EXTINF:-1 group-title="xml",W NETWORK
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/127.ts
-#EXTINF:-1,WE
+#EXTINF:-1 group-title="xml",WE
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/128.ts
-#EXTINF:-1,IFC
+#EXTINF:-1 group-title="xml",IFC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/133.ts
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="xml",FX
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/136.ts
-#EXTINF:-1,NBCSN
+#EXTINF:-1 group-title="xml",NBCSN
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/159.ts
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="xml",TNT
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/138.ts
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="xml",ESPN
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/140.ts
-#EXTINF:-1,MLB
+#EXTINF:-1 group-title="xml",MLB
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/158.ts
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="xml",ESPN 2
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/143.ts
-#EXTINF:-1,NBA TV
+#EXTINF:-1 group-title="xml",NBA TV
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/156.ts
-#EXTINF:-1,WWE
+#EXTINF:-1 group-title="xml",WWE
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/155.ts
-#EXTINF:-1,VERSUS
+#EXTINF:-1 group-title="xml",VERSUS
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/198.ts
-#EXTINF:-1,FOX SPORTS NETWORK
+#EXTINF:-1 group-title="xml",FOX SPORTS NETWORK
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/153.ts
-#EXTINF:-1,NFL NETWORK
+#EXTINF:-1 group-title="xml",NFL NETWORK
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/152.ts
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:-1 group-title="xml",FOX SPORTS 2
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/149.ts
-#EXTINF:-1,FOX SPORTS 1
+#EXTINF:-1 group-title="xml",FOX SPORTS 1
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/150.ts
-#EXTINF:-1,YES
+#EXTINF:-1 group-title="xml",YES
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/151.ts
-#EXTINF:-1,CNN
+#EXTINF:-1 group-title="xml",CNN
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/200.ts
-#EXTINF:-1,CBC NEWS
+#EXTINF:-1 group-title="xml",CBC NEWS
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/201.ts
-#EXTINF:-1,FOX NEWS
+#EXTINF:-1 group-title="xml",FOX NEWS
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/205.ts
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="xml",TLC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/202.ts
-#EXTINF:-1,ABC
+#EXTINF:-1 group-title="xml",ABC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/204.ts
-#EXTINF:-1,RT
+#EXTINF:-1 group-title="xml",RT
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/206.ts
-#EXTINF:-1,RTA
+#EXTINF:-1 group-title="xml",RTA
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/207.ts
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1 group-title="xml",DISCOVERY
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/208.ts
-#EXTINF:-1,MSNBC
+#EXTINF:-1 group-title="xml",MSNBC
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/209.ts
-#EXTINF:-1,CBSN
+#EXTINF:-1 group-title="xml",CBSN
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/210.ts
-#EXTINF:-1,BNN
+#EXTINF:-1 group-title="xml",BNN
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/212.ts
-#EXTINF:-1,THE WEATHER CHANNEL
+#EXTINF:-1 group-title="xml",THE WEATHER CHANNEL
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/214.ts
-#EXTINF:-1,BBC NEWS
+#EXTINF:-1 group-title="xml",BBC NEWS
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/215.ts
-#EXTINF:-1,DW
+#EXTINF:-1 group-title="xml",DW
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/218.ts
-#EXTINF:-1,NFL SCHEDUAL
+#EXTINF:-1 group-title="xml",NFL SCHEDUAL
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/221.ts
-#EXTINF:-1,NFL1
+#EXTINF:-1 group-title="xml",NFL1
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/222.ts
-#EXTINF:-1,NFL2
+#EXTINF:-1 group-title="xml",NFL2
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/223.ts
-#EXTINF:-1,NFL3
+#EXTINF:-1 group-title="xml",NFL3
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/224.ts
-#EXTINF:-1,NFL4
+#EXTINF:-1 group-title="xml",NFL4
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/225.ts
-#EXTINF:-1,BBC AMERICA
+#EXTINF:-1 group-title="xml",BBC AMERICA
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/135.ts
-#EXTINF:-1,TBS
+#EXTINF:-1 group-title="xml",TBS
 http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8516.ts
-#EXTINF:-1,TRUTV
+#EXTINF:-1 group-title="xml",TRUTV
 http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8698.ts
-#EXTINF:-1,TSN 2
+#EXTINF:-1 group-title="xml",TSN 2
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1481.ts
-#EXTINF:-1,TSN 5
+#EXTINF:-1 group-title="xml",TSN 5
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts
-#EXTINF:-1,TSN 4
+#EXTINF:-1 group-title="xml",TSN 4
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1479.ts
-#EXTINF:-1,TSN 3
+#EXTINF:-1 group-title="xml",TSN 3
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1480.ts
-#EXTINF:-1,NASA
+#EXTINF:-1 group-title="xml",NASA
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1,SPORTSNET 360
+#EXTINF:-1 group-title="xml",SPORTSNET 360
 http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
-#EXTINF:-1,NFL NOW
+#EXTINF:-1 group-title="xml",NFL NOW
 http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/1082.ts
-#EXTINF:-1,Showtime USA
+#EXTINF:-1 group-title="xml",Showtime USA
 http://89.163.148.31:8000/live/claire/claire/8659.ts
-#EXTINF:-1,sec network
+#EXTINF:-1 group-title="xml",sec network
 http://89.163.148.31:8000/live/claire/claire/8694.ts
-#EXTINF:-1,OWN
+#EXTINF:-1 group-title="xml",OWN
 http://89.163.148.31:8000/live/claire/claire/8699.ts
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="xml",Nick Jr
 http://89.163.148.31:8000/live/claire/claire/8696.ts
-#EXTINF:-1,NFL
+#EXTINF:-1 group-title="xml",NFL
 http://89.163.148.31:8000/live/claire/claire/8667.ts
-#EXTINF:-1,NBC USA
+#EXTINF:-1 group-title="xml",NBC USA
 http://89.163.148.31:8000/live/claire/claire/8656.ts
-#EXTINF:-1,NBC Sports
+#EXTINF:-1 group-title="xml",NBC Sports
 http://89.163.148.31:8000/live/claire/claire/8665.ts
-#EXTINF:-1,NBC Golf
+#EXTINF:-1 group-title="xml",NBC Golf
 http://89.163.148.31:8000/live/claire/claire/8664.ts
-#EXTINF:-1,NBA USA
+#EXTINF:-1 group-title="xml",NBA USA
 http://89.163.148.31:8000/live/claire/claire/8655.ts
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="xml",MTV
 http://89.163.148.31:8000/live/claire/claire/8692.ts
-#EXTINF:-1,MLB
+#EXTINF:-1 group-title="xml",MLB
 http://89.163.148.31:8000/live/claire/claire/8700.ts
-#EXTINF:-1,History
+#EXTINF:-1 group-title="xml",History
 http://89.163.148.31:8000/live/claire/claire/8651.ts
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="xml",HGTV
 http://89.163.148.31:8000/live/claire/claire/8648.ts
-#EXTINF:-1,Hallmark
+#EXTINF:-1 group-title="xml",Hallmark
 http://89.163.148.31:8000/live/claire/claire/8685.ts
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 group-title="xml",H2
+http://89.163.148.31:8000/live/claire/claire/8650.ts
+#EXTINF:-1 group-title="xml",Fox Sports 2
 http://89.163.148.31:8000/live/claire/claire/8663.ts
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1 group-title="xml",Fox Sports 1
 http://89.163.148.31:8000/live/claire/claire/8662.ts
-#EXTINF:-1,Fox 1
+#EXTINF:-1 group-title="xml",Fox 1
 http://89.163.148.31:8000/live/claire/claire/8686.ts
-#EXTINF:-1,food network
+#EXTINF:-1 group-title="xml",food network
 http://89.163.148.31:8000/live/claire/claire/8693.ts
-#EXTINF:-1,Fight Network
+#EXTINF:-1 group-title="xml",Fight Network
 http://89.163.148.31:8000/live/claire/claire/8658.ts
-#EXTINF:-1,ESPN U
+#EXTINF:-1 group-title="xml",ESPN Usa
+http://89.163.148.31:8000/live/claire/claire/8682.ts
+#EXTINF:-1 group-title="xml",ESPN U
 http://89.163.148.31:8000/live/claire/claire/8652.ts
-#EXTINF:-1,ESPN News
+#EXTINF:-1 group-title="xml",ESPN News
 http://89.163.148.31:8000/live/claire/claire/8691.ts
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="xml",ESPN 2
 http://89.163.148.31:8000/live/claire/claire/8661.ts
-#EXTINF:-1,Destination America
+#EXTINF:-1 group-title="xml",Destination America
 http://89.163.148.31:8000/live/claire/claire/8687.ts
-#EXTINF:-1,Cinemax East
+#EXTINF:-1 group-title="xml",Cinemax East
 http://89.163.148.31:8000/live/claire/claire/8678.ts
-#EXTINF:-1,CBS Sport
+#EXTINF:-1 group-title="xml",CBS Sport
 http://89.163.148.31:8000/live/claire/claire/8653.ts
-#EXTINF:-1,CBS
+#EXTINF:-1 group-title="xml",CBS
 http://89.163.148.31:8000/live/claire/claire/8654.ts
-#EXTINF:-1,Bravo
+#EXTINF:-1 group-title="xml",Bravo
 http://89.163.148.31:8000/live/claire/claire/8689.ts
-#EXTINF:-1,Bet
+#EXTINF:-1 group-title="xml",Bet
 http://89.163.148.31:8000/live/claire/claire/8688.ts
-#EXTINF:-1,Bein USA
+#EXTINF:-1 group-title="xml",Bein USA
 http://89.163.148.31:8000/live/claire/claire/8660.ts
-#EXTINF:-1,AXS
+#EXTINF:-1 group-title="xml",AXS
 http://89.163.148.31:8000/live/claire/claire/8666.ts
-#EXTINF:-1,AMC USA
+#EXTINF:-1 group-title="xml",AMC USA
 http://89.163.148.31:8000/live/claire/claire/8680.ts
-#EXTINF:-1,ABC USA
+#EXTINF:-1 group-title="xml",ABC USA
 http://89.163.148.31:8000/live/claire/claire/8679.ts
-#EXTINF:-1,ABC Family
+#EXTINF:-1 group-title="xml",ABC Family
 http://89.163.148.31:8000/live/claire/claire/8701.ts
-#EXTINF:-1,A & E
+#EXTINF:-1 group-title="xml",A & E
 http://89.163.148.31:8000/live/claire/claire/8690.ts
-#EXTINF:-1,WWE HD
+#EXTINF:-1 group-title="xml",WWE HD
 http://89.163.148.31:8000/live/claire/claire/8536.ts
-#EXTINF:-1,VEVO3
+#EXTINF:-1 group-title="xml",VEVO3
 http://89.163.148.31:8000/live/claire/claire/8535.ts
-#EXTINF:-1,VEVO2
+#EXTINF:-1 group-title="xml",VEVO2
 http://89.163.148.31:8000/live/claire/claire/8534.ts
-#EXTINF:-1,VEVO1
+#EXTINF:-1 group-title="xml",VEVO1
 http://89.163.148.31:8000/live/claire/claire/8533.ts
-#EXTINF:-1,NBC Golf HD
+#EXTINF:-1 group-title="xml",NBC Golf HD
 http://89.163.148.31:8000/live/claire/claire/8532.ts
-#EXTINF:-1,CPAC News
+#EXTINF:-1 group-title="xml",CPAC News
 http://89.163.148.31:8000/live/claire/claire/8531.ts
-#EXTINF:-1,CNBC WORLD
+#EXTINF:-1 group-title="xml",CNBC WORLD
 http://89.163.148.31:8000/live/claire/claire/8530.ts
-#EXTINF:-1,Bein Sports HD
+#EXTINF:-1 group-title="xml",Bein Sports HD
 http://89.163.148.31:8000/live/claire/claire/8529.ts
-#EXTINF:-1,Spike
+#EXTINF:-1 group-title="xml",Spike
 http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
-#EXTINF:-1,nba tv
+#EXTINF:-1 group-title="xml",nba tv
 http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1 group-title="xml",HBO
 http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
-#EXTINF:-1,NBC K5
+#EXTINF:-1 group-title="xml",NBC K5
 http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8656.ts
-#EXTINF:-1,FOX Q13 - no sound
+#EXTINF:-1 group-title="xml",FOX Q13 - no sound
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/82.ts
-#EXTINF:-1,ABC
+#EXTINF:-1 group-title="xml",ABC
 http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
-#EXTINF:-1,Bravo
+#EXTINF:-1 group-title="xml",Bravo
 http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8
-#EXTINF:-1,TRAVEL CHANNEL
+#EXTINF:-1 group-title="xml",TRAVEL CHANNEL
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/196.ts
-#EXTINF:-1,TruTV
+#EXTINF:-1 group-title="xml",TruTV
 http://89.163.148.31:8000/live/claire/claire/8517.ts
-#EXTINF:-1,TBS HD
+#EXTINF:-1 group-title="xml",TBS HD
 http://89.163.148.31:8000/live/claire/claire/8516.ts
-#EXTINF:-1,Starz Cinema HD
+#EXTINF:-1 group-title="xml",Starz Cinema HD
 http://89.163.148.31:8000/live/claire/claire/8515.ts
-#EXTINF:-1,STARS WEST
+#EXTINF:-1 group-title="xml",STARS WEST
 http://89.163.148.31:8000/live/claire/claire/8514.ts
-#EXTINF:-1,STARS KIDS & FAMILY
+#EXTINF:-1 group-title="xml",STARS KIDS & FAMILY
 http://89.163.148.31:8000/live/claire/claire/8513.ts
-#EXTINF:-1,STAR Z CINEMA
+#EXTINF:-1 group-title="xml",STAR Z CINEMA
 http://89.163.148.31:8000/live/claire/claire/8512.ts
-#EXTINF:-1,SportsNet Ontario
+#EXTINF:-1 group-title="xml",SportsNet Ontario
 http://89.163.148.31:8000/live/claire/claire/8511.ts
-#EXTINF:-1,SPACE
+#EXTINF:-1 group-title="xml",SPACE
 http://89.163.148.31:8000/live/claire/claire/8510.ts
-#EXTINF:-1,h2
+#EXTINF:-1 group-title="xml",h2
 http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="xml",Animal Planet
 http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
-#EXTINF:-1,?
+#EXTINF:-1 group-title="xml",?
 http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/171.ts
-#EXTINF:-1,PAG HD
+#EXTINF:-1 group-title="xml",PAG HD
 http://89.163.148.31:8000/live/claire/claire/8509.ts
-#EXTINF:-1,O.W.N HD (oprah winfrey network)
+#EXTINF:-1 group-title="xml",O.W.N HD (oprah winfrey network)
 http://89.163.148.31:8000/live/claire/claire/8508.ts
-#EXTINF:-1,NICK
+#EXTINF:-1 group-title="xml",NICK
 http://89.163.148.31:8000/live/claire/claire/8507.ts
-#EXTINF:-1,MMA FIGHT
+#EXTINF:-1 group-title="xml",MMA FIGHT
 http://89.163.148.31:8000/live/claire/claire/8506.ts
-#EXTINF:-1,LIFE TIME
+#EXTINF:-1 group-title="xml",LIFE TIME
 http://89.163.148.31:8000/live/claire/claire/8505.ts
-#EXTINF:-1,History Channel Canada
+#EXTINF:-1 group-title="xml",History Channel Canada
 http://89.163.148.31:8000/live/claire/claire/8504.ts
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="xml",HGTV
 http://89.163.148.31:8000/live/claire/claire/8503.ts
-#EXTINF:-1,HBO SIGNATURE
+#EXTINF:-1 group-title="xml",HBO SIGNATURE
 http://89.163.148.31:8000/live/claire/claire/8502.ts
-#EXTINF:-1,HBO Family
+#EXTINF:-1 group-title="xml",HBO Family
 http://89.163.148.31:8000/live/claire/claire/8501.ts
-#EXTINF:-1,HBO East
+#EXTINF:-1 group-title="xml",HBO East
 http://89.163.148.31:8000/live/claire/claire/8500.ts
-#EXTINF:-1,HALLMARK
+#EXTINF:-1 group-title="xml",HALLMARK
 http://89.163.148.31:8000/live/claire/claire/8499.ts
-#EXTINF:-1,H2
+#EXTINF:-1 group-title="xml",H2
 http://89.163.148.31:8000/live/claire/claire/8498.ts
-#EXTINF:-1,Fight Network
+#EXTINF:-1 group-title="xml",Fight Network
 http://89.163.148.31:8000/live/claire/claire/8497.ts
-#EXTINF:-1,CBS REALITY
+#EXTINF:-1 group-title="xml",CBS REALITY
 http://89.163.148.31:8000/live/claire/claire/8496.ts
-#EXTINF:-1,CBS HD
+#EXTINF:-1 group-title="xml",CBS HD
 http://89.163.148.31:8000/live/claire/claire/8495.ts
-#EXTINF:-1,CBS DRAMA
+#EXTINF:-1 group-title="xml",CBS DRAMA
 http://89.163.148.31:8000/live/claire/claire/8494.ts
-#EXTINF:-1,CBS ACTION
+#EXTINF:-1 group-title="xml",CBS ACTION
 http://89.163.148.31:8000/live/claire/claire/8493.ts
