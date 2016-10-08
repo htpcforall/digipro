@@ -1,0 +1,763 @@
+<item>
+<title>[COLOR limegreen][B]=====BASIC CHANNELS=====[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=enter url here&amp;streamtype=TSDOWNLOADER;name=enter name here|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&swf=None&auth&simpledownloader=fals$use_proxy_for_chunks=true&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A & E</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/a956176f21e8/300.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>AMC</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/814.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]AMC LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ABC</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/9.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ABC LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BET</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/1043.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/8965.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BET GOSPEL</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/8966.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9077.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BRAVO</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/369.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]BRAVO LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CBS</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/1516.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.ibrod.tv/cbs-tv-online.html#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CW</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/138.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/a956176f21e8/138.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>COMEDY CENTRAL</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DIY CHANNEL</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/204.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/a956176f21e8/204.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>E!</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]E! LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FOOD NETWORK</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/319.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/a956176f21e8/319.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FOX</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/139.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]FOX LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FX</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lsi.ddns.me:8000/live/abdul/abdul/2552.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]FX LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FXX HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/782.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HSN</title>
+<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HSN 2</title>
+<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LMN</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LIFETIME</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MY9</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NBC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>OWN</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9047.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9158.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>OXYGEN</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9048.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9159.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SPIKE</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/8070.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]SPIKE LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>http://usaiptv.ddns.net:9090/load/a956176f21e8/427.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TBS</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/335.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TBS LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TNT</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/328.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TNT LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TLC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>USA</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8#
+sublinl:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/428.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]USA LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>WPIX</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR limegreen][B]=====NEWS CHANNELS=====[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ABC NEWS HD</title>
+<link>
+sublink:http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#
+sublink:
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ABC NEWS LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>BLOOMBERG</title>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]BLOOMBERG LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>CNN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/813.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CNBC</title>
+<link>
+sublink:http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1090.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]CNBC LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>WEATHER NATION</title>
+<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR limegreen][B]=====KIDS CHANNELS=====[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CARTOON NETWORK</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/8975.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9086.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISNEY CHANNEL WEST</title>
+<link></link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NICK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/1503.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SPROUT</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9057.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9168.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR limegreen][B]=====PREMIUM CHANNELS=====[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<thumbnail>/thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ACTION MAX</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1069.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ACTION MAX LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CINEMAX EAST</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/834.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]CINEMAX EAST LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CINEMAX 5 STARMAX</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/24.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/823.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]CINEMAX 5 STARMAX LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO EAST</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO COMEDY</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/20.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO FAMILY</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO SIGNATURE</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8#
+sublink:
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]HBO SIGNATURE LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO ZONE</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]HBO ZONE LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SHOWTIME EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/169.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SHOWTIME WEST</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SHOWTIME 2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SHOWTIME SHOWCASE</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/172.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<title>[COLOR yellow][B]SHOWTIME SHOWCASE LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<title>SHOWTIME EXTREME</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/173.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>STARZ EAST</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]STARZ EAST LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>STARZ WEST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/169.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>STARZ CINEMA</title>
+<link>
+sublink:http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/179.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<title>[COLOR yellow][B]STARZ CINEMA LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR limegreen][B]=====DOCUMENTARIES CHANNELS=====[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ANIMAL PLANET</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<title>[COLOR yellow][B]ANIMAL PLANET LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/476.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HISTORY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/469.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HISTORY 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/375.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ID</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usaiptv.ddns.net:9090/load/3adb3a92788d/477.mpegts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NATIONAL GEOGRAPHIC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<title>[COLOR yellow][B]NATIONAL GEOGRAPHIC LINK 2[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NAT GEO WILD</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NASA</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>RT DOCUMENTARY</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>VELOCITY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lsi.ddns.me:8000/live/abdul/abdul/3164.ts&amp;streamtype=TSDOWNLOADER;name=SUICIDE TV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>test</title>
+<link>rtmp://169.53.170.29:1935/edge<playpath>7293?token=d5580c2b6046e2a3b6169ba26c116324&bid=1&pid=11&uid=100714&did=7681a907c805e0670330c694e788e8e8&g=1ideoCodecs <swfUrl> <pageUrl> http://channelup.tv/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
