@@ -4,22 +4,6 @@
     <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/8761.ts</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/megach.png</thumbnail>
 </item>
-
-<item>
-	<title>NFL Network HD 1</title>
-	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9041.ts</link>
-	<thumbnail>https://centracom.com/images/wtve/nfl.png</thumbnail>
-</item>
-<item>
-	<title>NFL Network HD 2</title>
-	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9152.ts</link>
-	<thumbnail>https://centracom.com/images/wtve/nfl.png</thumbnail>
-</item>
-<item> 
-	<title>NFL NETWORK HD 3</title>
-	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_4500.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://centracom.com/images/wtve/nfl.png</thumbnail>
-</item>
 <item>
 	<title>MLB</title>
     <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/10116.ts</link>
@@ -907,6 +891,21 @@
 <item>
 	<title>NBCSN HD (West Coast) </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9150.ts</link>
+</item>
+<item>
+	<title>NFL Network HD </title>
+	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9041.ts</link>
+	<thumbnail>https://centracom.com/images/wtve/nfl.png</thumbnail>
+</item>
+<item>
+	<title>NFL Network HD </title>
+	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9152.ts</link>
+	<thumbnail>https://centracom.com/images/wtve/nfl.png</thumbnail>
+</item>
+<item> 
+	<title>NFL NETWORK HD </title>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_4500.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://centracom.com/images/wtve/nfl.png</thumbnail>
 </item>
 <item>
 	<title>NFL Network HD (East Coast) </title>
