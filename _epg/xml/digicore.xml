@@ -5,6 +5,26 @@
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/megach.png</thumbnail>
 </item>
 <item>
+	<title>ABC West HD (West Coast) </title>
+    <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/10008.ts</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+</item>
+<item>
+	<title>CBS West HD (West Coast) </title>
+    <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/10010.ts</link>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
+</item>
+<item>
+	<title>NBC East HD (West Coast) </title>
+	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/9849.ts</link>
+    <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>	
+</item>
+<item>
+	<title>FOX West HD (West Coast) </title>
+    <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/10012.ts</link>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>	
+</item>
+<item>
 	<title>MLB</title>
     <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/test/10116.ts</link>
 </item>
