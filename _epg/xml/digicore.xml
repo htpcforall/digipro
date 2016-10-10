@@ -536,6 +536,43 @@
 </item>
 
 <item>
+<title>[COLOR blue]STARZ EAST [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8#
+http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzhd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]STARZ EAST ALT [/COLOR]</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzhd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]STARZ WEST [/COLOR]</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/169.mpegts</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzhd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]STARZ CINEMA [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8
+</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzcinema.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]STARZ CINEMA ALT [/COLOR]</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/179.mpegts</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzcinema.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR blue]TBS [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rprruu1433942038.png</thumbnail>
