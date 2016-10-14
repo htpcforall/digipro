@@ -243,7 +243,7 @@
 
 <item>
 <title>ESPN</title>
-<link>http%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D3%2526q%253D%26title%3DESPN%2B2%2B%26url%3Dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69028%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3Dilive.to.cfg%2540Streams%26videoTitle%3DESPN%2B2%2B%26referer%3Dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26icon.tmp%3D%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F5hd19kwxef5b59o_snapshot.jpg%26icon%3Dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F5hd19kwxef5b59o_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2B%2528Windows%2BNT%2B6.1%2529%2BAppleWebKit%252F537.36%2B%2528KHTML%252C%2Blike%2BGecko%2529%2BChrome%252F47.0.2526.106%2BSafari%252F537.36</link>
+<link>plugin%3A%2F%2Fplugin.video.SportsDevil%2F%3Fmode%3D1%26item%3DdefinedIn%253Dilive.to.cfg%2526url.tmp%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252F%25253Fp%25253D3%252526q%25253D%2526title%253DESPN%252B%252528HD%252529%252B%2526url%253Dhttp%25253A%25252F%25252Fwww.slplay.to%25252Fxoaaohmeuajfeyf%2526cfg%253Dilive.to.cfg%252540Streams%2526videoTitle%253DESPN%252B%252528HD%252529%252B%2526referer%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252F%25253Fp%25253D3%252526q%25253D%2526_url%253D48051%2526icon.tmp%253D%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252Fxoaaohmeuajfeyf_snapshot.jpg%2526icon%253Dhttp%25253A%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252Fxoaaohmeuajfeyf_snapshot.jpg%25257CUser-Agent%25253DMozilla%25252F5.0%252B%252528Windows%252BNT%252B6.1%252529%252BAppleWebKit%25252F537.36%252B%252528KHTML%25252C%252Blike%252BGecko%252529%252BChrome%25252F47.0.2526.106%252BSafari%25252F537.36&mode=53&name=ESPN+%28HD%29+&fanart=image%3A%2F%2FC%253a%255cUsers%255c1%255cAppData%255cRoaming%255cKodi%255caddons%255cplugin.video.SportsDevil%255cfanart.jpg%2F6</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
@@ -254,13 +254,13 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 -->
-<!--
+
 <item>
 <title>ESPN2</title>
-<link></link>
+<link>plugin%3A%2F%2Fplugin.video.SportsDevil%2F%3Fmode%3D1%26item%3DdefinedIn%253Dilive.to.cfg%2526url.tmp%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252F%25253Fp%25253D3%252526q%25253D%2526title%253DESPN%252B2%252B%2526url%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252Fembed%25252F69028%252526width%25253D640%252526height%25253D480%252526autoplay%25253Dtrue%2526cfg%253Dilive.to.cfg%252540Streams%2526videoTitle%253DESPN%252B2%252B%2526referer%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252F%25253Fp%25253D2%252526q%25253D%2526icon.tmp%253D%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252F5hd19kwxef5b59o_snapshot.jpg%2526icon%253Dhttp%25253A%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252F5hd19kwxef5b59o_snapshot.jpg%25257CUser-Agent%25253DMozilla%25252F5.0%252B%252528Windows%252BNT%252B6.1%252529%252BAppleWebKit%25252F537.36%252B%252528KHTML%25252C%252Blike%252BGecko%252529%252BChrome%25252F47.0.2526.106%252BSafari%25252F537.36&mode=53&name=ESPN+2+&fanart=image%3A%2F%2FC%253a%255cUsers%255c1%255cAppData%255cRoaming%255cKodi%255caddons%255cplugin.video.SportsDevil%255cfanart.jpg%2F</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png</thumbnail>
 </item>
--->
+
 <item> 
 	<title>NFL NETWORK HD 1</title>
 	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_4500.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36%20Mozilla/5.0%20AppleWebKit/537.36%20Chrome/31.0.1650.57</link>
@@ -397,11 +397,13 @@
 <fanart></fanart>
 </item>
 
+<!--
 <item> 
 	<title>NBC ALT</title>
-	<link>http://www.streamlive.to/embed/69116&width=640&height=480&autoplay=true&cfg=ilive.to.cfg@Streams&videoTitle=NBC &icon.tmp=//snapshots.streamlive.to/snapshots/s5whw37nl7weedp_snapshot.jpg&icon=http://snapshots.streamlive.to/snapshots/s5whw37nl7weedp_snapshot.jpg|User-Agent=Mozilla/5.0%20(Windows%20NT%206.1)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko) Chrome/47.0.2526.106%20Safari/537.36</link>
+	<link></link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>
 </item>
+-->
 
 <item>
 <title>[COLOR blue]ABC 27 [/COLOR]</title>
@@ -517,13 +519,6 @@
 <title>[COLOR blue]SYFY[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR blue]HISTORY[/COLOR]</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
 
