@@ -192,7 +192,7 @@
 
 <item>
 <title>THE WEATHER CHANNEL</title>
-<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
 </item>
 
@@ -365,7 +365,7 @@
 <item>
 <title>UNIVERSAL HD </title>
 <link>http://216.31.255.235/hlsl/12/UNIVERSAL/03.m3u8<link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/universalhd.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/unversalhd.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -436,14 +436,14 @@
 <item>
 <title>[COLOR blue]COMEDY CENTRAL [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxqwpq1445015855.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]COMEDY CENTRAL ALT[/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/COMEDY/03.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxqwpq1445015855.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -482,8 +482,14 @@
 <fanart></fanart>
 </item>
 
+<item> 
+	<title>NICKELODEON -</title>
+	<link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+
 <item>
-<title>[COLOR blue]SYFY[/COLOR]</title>
+<title>[COLOR blue]SYFY [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
@@ -614,7 +620,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]TNT -[/COLOR]</title>
+<title>[COLOR blue]TNT[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8<link>
 <thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
 <fanart></fanart>
