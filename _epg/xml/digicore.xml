@@ -33,12 +33,6 @@
 </item>
 
 <item> 
-	<title>NBC</title>
-	<link>http://www.streamlive.to/embed/69116&width=640&height=480&autoplay=true&cfg=ilive.to.cfg@Streams&videoTitle=NBC &icon.tmp=//snapshots.streamlive.to/snapshots/s5whw37nl7weedp_snapshot.jpg&icon=http://snapshots.streamlive.to/snapshots/s5whw37nl7weedp_snapshot.jpg|User-Agent=Mozilla/5.0%20(Windows%20NT%206.1)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko) Chrome/47.0.2526.106%20Safari/537.36
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>
-</item>
-
-<item> 
 	<title>PBS</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=PBS&amp;url=%2Fwww.arconaitv.me%2Fppp%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DPBS%2526title%253DPBS%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/pbs.png</thumbnail>
@@ -246,13 +240,13 @@
 </item>
 
 <!-- sports -->
-<!--
+
 <item>
 <title>ESPN</title>
-<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<link>http%25253A%25252F%25252Fwww.streamlive.to%25252F%25253Fp%25253D3%252526q%25253D%2526title%253DESPN%252B2%252B%2526url%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252Fembed%25252F69028%252526width%25253D640%252526height%25253D480%252526autoplay%25253Dtrue%2526cfg%253Dilive.to.cfg%252540Streams%2526videoTitle%253DESPN%252B2%252B%2526referer%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252F%25253Fp%25253D2%252526q%25253D%2526icon.tmp%253D%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252F5hd19kwxef5b59o_snapshot.jpg%2526icon%253Dhttp%25253A%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252F5hd19kwxef5b59o_snapshot.jpg%25257CUser-Agent%25253DMozilla%25252F5.0%252B%252528Windows%252BNT%252B6.1%252529%252BAppleWebKit%25252F537.36%252B%252528KHTML%25252C%252Blike%252BGecko%252529%252BChrome%25252F47.0.2526.106%252BSafari%25252F537.36</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
--->
+
 <!--
 <item>
 <title>ESPN ALT</title>
@@ -401,6 +395,12 @@
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
 <fanart></fanart>
+</item>
+
+<item> 
+	<title>NBC ALT</title>
+	<link>http://www.streamlive.to/embed/69116&width=640&height=480&autoplay=true&cfg=ilive.to.cfg@Streams&videoTitle=NBC &icon.tmp=//snapshots.streamlive.to/snapshots/s5whw37nl7weedp_snapshot.jpg&icon=http://snapshots.streamlive.to/snapshots/s5whw37nl7weedp_snapshot.jpg|User-Agent=Mozilla/5.0%20(Windows%20NT%206.1)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko) Chrome/47.0.2526.106%20Safari/537.36
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>
 </item>
 
 <item>
