@@ -9,23 +9,14 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/36.m3u8
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/37.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/38.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
+#EXTINF:-1,SKY CINEMA CRIME & THRILLER
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/39.m3u8
-#EXTINF:-1,INVESTIGATION DESCOVERY
+#EXTINF:-1,SKY CINEMA DRAMA & ROMANCE
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/41.m3u8
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/43.m3u8
 #EXTINF:-1,SKY CINEMA
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/43.m3u8
-#EXTINF:-1,SN 1
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/57.m3u8
-#EXTINF:-1,FOX SPORTS
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/58.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/58.m3u8
-#EXTINF:-1,SNWL
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/59.m3u8
-#EXTINF:-1,SN CENTRAL
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/60.m3u8
+http://usaiptv.ddns.net:9090/load/3adb3a92788d/57.m3u8
 #EXTINF:-1,PAC12 BAY AREA
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/122.m3u8
 #EXTINF:-1,PAC12 LOS ANGELES
@@ -53,12 +44,10 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/596.m3u8
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/597.m3u8
 #EXTINF:-1,C-SPAN3
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/598.m3u8
-#EXTINF:-1,SPORTSNET
+#EXTINF:-1,SPORTSNET EAST
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/699.m3u8
-#EXTINF:-1,SPORTSNET
+#EXTINF:-1,SPORTSNET WORLD
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/700.m3u8
-#EXTINF:-1,SKY CINEMA
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/39.m3u8
 #EXTINF:-1,SN1
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/70.m3u8
 #EXTINF:-1,PAC12 OREGON

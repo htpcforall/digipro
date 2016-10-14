@@ -158,6 +158,9 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
 
+<!-- END OF ARCONAITV -->
+
+
 <item>
 <title>[B][COLOR blue]Extened Ch. List- Many HD [/COLOR][/B]</title>
 <link>http://google.com</link>
@@ -177,11 +180,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
 </item>
 
-<item>
-<title>DISCOVERY SCIENCE</title>
-<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
-</item>
+
 
 <item>
 <title>NASA</title>
@@ -280,7 +279,7 @@
 </item>
 <item> 
 	<title>NFL NOW</title>
-	<link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+	<link></link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
      </link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
@@ -302,7 +301,6 @@
 </link>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/fox-sports-news-hero.png</thumbnail>
 </item>
-
 
 <item>
 <title>FS2</title>
@@ -435,6 +433,12 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR blue]COMEDY CENTRAL ALT[/COLOR]</title>
+<link>http://216.31.255.235/hlsl/1/COMEDY/03.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR blue]DISNEY CHANNEL [/COLOR]</title>
@@ -500,24 +504,32 @@
 </item>
 
 <item>
-<title>[COLOR blue]NATIONAL GEOGRAPHIC [/COLOR]</title>
+<title>[COLOR blue]NAT GEO WILD[/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR blue]NAT GEO WILD [/COLOR]</title>
+<title>[COLOR blue]NAT GEO WILD ALT[/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
 
+<!--
 <item>
 <title>[COLOR blue]DISCOVERY [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
+</item>
+-->
+
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
 <item>
@@ -543,10 +555,8 @@
 
 <item>
 <title>[COLOR blue]STARZ EAST [/COLOR]</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8#
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzhd.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
@@ -563,6 +573,7 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
 <fanart></fanart>
 </item>
 
+<!--
 <item>
 <title>[COLOR blue]STARZ CINEMA [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8
@@ -570,6 +581,7 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzcinema.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 
 <item>
 <title>[COLOR blue]STARZ CINEMA ALT [/COLOR]</title>
@@ -580,20 +592,21 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
 
 <item>
 <title>[COLOR blue]TBS [/COLOR]</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rprruu1433942038.png</thumbnail>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png
+</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]TLC [/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rprruu1433942038.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR blue]TNT [/COLOR]</title>
+<title>[COLOR blue]TNT -[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8<link>
 <thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
 <fanart></fanart>
@@ -601,7 +614,7 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
 
 <item>
 <title>[COLOR blue]USA[/COLOR]</title>
-<link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
+<link>http://216.31.255.235/hlsl/3/USA/01.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -615,17 +628,15 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
+
 <item>
-<title>AMC</title>
-<link>
-http://5.39.70.216/live/louis/louis/814.ts
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>TOROS HD</title>
+<link>http://163.172.37.71:8789/live/teste/teste/804.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 <item>
-<title>TOROS</title>
+<title>TOROS ALT</title>
 <link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 <regex>
@@ -643,12 +654,6 @@ http://5.39.70.216/live/louis/louis/814.ts
 <agent>iPhone</agent>
 <referer>http://privatestream.tv/</referer>
 </regex>
-</item>
-
-<item>
-<title>TOROS ALT</title>
-<link>http://163.172.37.71:8789/live/teste/teste/804.ts</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 <item>
