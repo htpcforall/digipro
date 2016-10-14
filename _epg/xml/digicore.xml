@@ -363,6 +363,13 @@
 </item>
 
 <item>
+<title>UNIVERSAL HD </title>
+<link>http://216.31.255.235/hlsl/12/UNIVERSAL/03.m3u8<link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/universalhd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>WWE</title>
 <link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fhlslive-akc.med1.net.wwe.com%2Fls01%2Fwwe%2FLINEAR%2Fmaster_wired.m3u8%7CCookie%3DmediaAuth%3Da06e2dc0e366b956c91a6e3cab8762e8b94e17a748934f1fac6b2c9046a8f2ef7cff9c3f01ec63ca2b338b998e41ad2c01a467962cc50a00b318cac97269bda8fb8315c118bfeec2e49fb75f27e5b48e631e4c80dcdc65cd8450e340d6f0be9206ebf04f536007217e6245a48a00541ab446a9d34bbff6196234e24236ca2dc74fa0b8c112d2759ae39d0c95d91ca8c0dd37d74ce73bc61be91a8331a517a54cfd4ffe8845754be696a96ea73dba881e98b9b326e112cd74330533f3ee3a04b8ef6a3528d63bf44279edb2d13937049b319cd417bdf1d291757489b8d7ef1d761c6bb71be44ffc34e03e8c1993924cd5a3bb53746cd3c6f2f7920095307c038cd33305ca539946fb991e2805d630ec6635e1960c1cb659ca&amp;mode=12&quot;</link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wyrrwv1472105839.png</thumbnail>
@@ -503,15 +510,17 @@
 <fanart></fanart>
 </item>
 
+<!--
 <item>
 <title>[COLOR blue]NAT GEO WILD[/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 
 <item>
-<title>[COLOR blue]NAT GEO WILD ALT[/COLOR]</title>
+<title>[COLOR blue]NAT GEO WILD [/COLOR]</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
@@ -527,7 +536,7 @@
 -->
 
 <item>
-<title>DISCOVERY SCIENCE</title>
+<title>[COLOR blue]DISCOVERY SCIENCE [/COLOR]</title>
 <link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
