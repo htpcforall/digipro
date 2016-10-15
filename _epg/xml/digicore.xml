@@ -650,13 +650,7 @@
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
-
-<item>
-<title>TOROS HD</title>
-<link>http://149.202.69.8:8000/live/ss1/ss1/3509.ts</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-</item>
-
+<!--
 <item>
 <title>TOROS HD</title>
 <link>http://149.202.69.8:8000/live/ss1/ss1/3164.ts</link>
@@ -689,15 +683,22 @@
 <referer>http://privatestream.tv/</referer>
 </regex>
 </item>
+-->
 
 <item>
-<title>TOROS ALT 2</title>
-<link>http://37.187.167.137/live/1/1/2525.ts</link>
+<title>TOROS HD 1</title>
+<link>http://89.163.148.31:8000/live/y4b/y4b/8710.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 <item>
-<title>TOROS WORKING</title>
+<title>TOROS HD 2</title>
 <link>http://37.187.128.169:8000/live/ytgfde1/klnkggbvgfr541/11.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+</item>
+
+<item>
+<title>TOROS</title>
+<link>http://149.202.69.8:8000/live/ss1/ss1/3509.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
