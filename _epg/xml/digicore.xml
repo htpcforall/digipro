@@ -1,6 +1,10 @@
 <!-- DIGICORE - THESE STREAMS ARE  -->
-
 <!-- USTV SD -->
+<item> 
+	<title>--=[/B][COLOR red]Enter Here for 500+ HD channels. Enjoy while they last.[/COLOR][B]=--</title>
+	<link>plugin://plugin.video.live.streamspro/?fanart=C%3a%5cUsers%5c1%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.live.streamspro%5cfanart.jpg&amp;mode=1&amp;name=DigiPro%20SS&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhtpcforall%2fdigipro%2fmaster%2f_epg%2fxml%2fdigicoress.xml&quot;,return</link>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
 
 <item> 
 	<title>ABC</title>
@@ -162,9 +166,9 @@
 
 
 <item>
-<title>[B][COLOR blue]Extened Ch. List- Many HD [/COLOR][/B]</title>
+<title>[B][COLOR blue]News, Sports, Misc. - Many HD [/COLOR][/B]</title>
 <link>http://google.com</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
