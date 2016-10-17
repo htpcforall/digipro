@@ -1,10 +1,14 @@
 <!-- DIGICORE - THESE STREAMS ARE  -->
 <!-- USTV SD -->
-<item> 
-	<title>->[B][COLOR red]Enter Here[/COLOR][/B]<- 1000+ HD channels. Enjoy while they last.</title>
-	<link>plugin://plugin.video.live.streamspro/?fanart=C%3a%5cUsers%5c1%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.live.streamspro%5cfanart.jpg&amp;mode=1&amp;name=DigiPro%20SS&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhtpcforall%2fdigipro%2fmaster%2f_epg%2fxml%2fdigicoress.xml&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.live.streamspro%5Cfanart.jpg%26meta%3Dlabel%253DDigiPro%252BSS%2526title%253DDigiPro%252BSS%26_options_sf&quot;,return)</link>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
-</item>
+<channels>
+<channel>
+<name>->[B][COLOR red]Enter Here[/COLOR][/B]<- 1000+ HD channels. Enjoy while they last.</name>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicoress.xml</externallink>
+<fanart></fanart>
+<info>DigiPro </info>
+</channel>
+<items>
 
 <item> 
 	<title>->[B][COLOR red]Enter Here[/COLOR][/B]<- 1000+ HD channels. Enjoy while they last.</title>
@@ -14,7 +18,7 @@
 
 <item> 
 	<title>->[B][COLOR red]Enter Here[/COLOR][/B]<- 1000+ HD channels. Enjoy while they last.</title>
-	<link>plugin://plugin.video.live.streamspro/?fanart=C%3a%5cUsers%5c1%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.live.streamspro%5cfanart.jpg&amp;mode=1&amp;name=DigiPro%20SS&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhtpcforall%2fdigipro%2fmaster%2f_epg%2fxml%2fdigicoress.xml&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.live.streamspro%5Cfanart.jpg%26meta%3Dlabel%253DDigiPro%252BSS%2526title%253DDigiPro%252BSS%26_options_sf&quot;</link>
+	<link>plugin://plugin.video.live.streamspro/?fanart=C%3a%5cUsers%5c1%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.live.streamspro%5cfanart.jpg&amp;mode=1&amp;name=DigiPro%20SS&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhtpcforall%2fdigipro%2fmaster%2f_epg%2fxml%2fdigicoress.xml&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.live.streamspro%5Cfanart.jpg%26meta%3Dlabel%253DDigiPro%252BSS%2526title%253DDigiPro%252BSS%26_options_sf&quot;,return)</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
@@ -720,3 +724,7 @@
 <link>http://149.202.69.8:8000/live/ss1/ss1/3509.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
+
+</items>	
+
+</channels>
