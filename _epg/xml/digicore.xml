@@ -7,7 +7,6 @@
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicoress.xml</externallink>
 <fanart></fanart>
 <info>DigiPro </info>
-</channel>
 <items>
 
 <item> 
@@ -726,5 +725,5 @@
 </item>
 
 </items>	
-
+</channel>
 </channels>
