@@ -2,7 +2,7 @@
 <!-- USTV SD -->
 <item> 
 	<title>->[B][COLOR red]Enter Here[/COLOR][/B]<- 1000+ HD channels. Enjoy while they last.</title>
-	<link>ActivateWindow(10025,&quot;plugin://plugin.video.live.streamspro/?fanart=C%3a%5cUsers%5c1%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.live.streamspro%5cfanart.jpg&amp;mode=1&amp;name=DigiPro%20SS&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhtpcforall%2fdigipro%2fmaster%2f_epg%2fxml%2fdigicoress.xml&quot;,return)</link>
+	<link>plugin.video.live.streamspro\fanart.jpg&mode=1&name=DigiPro%20SS&url=https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicoress.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
@@ -282,35 +282,41 @@
 	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_1600.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36%20Mozilla/5.0%20AppleWebKit/537.36%20Chrome/31.0.1650.57</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
-
+<!--
 <item> 
 	<title>NFL NOW</title>
 	<link></link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
      </link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>MLB</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10141.ts</link>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10325.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/utqwsr1472105649.png</thumbnail>
 </item>
 
 <item>
 <title>NBA TV</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8530.ts</link>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8531.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xutptv1433429127.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS NEWS</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/9123.ts</link>
-<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/fox-sports-news-hero.png</thumbnail>
+<title>YES NETWORK</title>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10902.ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/utqwsr1472105649.png</thumbnail>
+</item>
+
+<item>
+<title>FS1</title>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8608.ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
 </item>
 
 <item>
 <title>FS2</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8</link>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8607.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
 </item>
 
@@ -333,14 +339,14 @@
 </item>
 
 <item>
-<title>SPORTSNET 360</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8</link>
+<title>SPORTSNET 1</title>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8438.tss</link>
 <thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
 </item>
 
 <item>
-<title>SPORTSNET 360 ALT</title>
-<link>http://ipsatpro.com:8000/live/unal/unal/1441.ts</link>
+<title>SPORTSNET 360</title>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8439.ts</link>
 <thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
 </item>
 
