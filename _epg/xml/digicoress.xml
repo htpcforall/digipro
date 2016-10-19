@@ -67,7 +67,7 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>	
 </item>
 <item>
-	<title>Comedy Central </title>
+	<title>Comedy Central HD</title>
     <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10806.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wxqwpq1445015855.png</thumbnail> 
 </item>
@@ -92,12 +92,12 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 </item>
 <item>
-	<title>HISTORY HD USA </title>
+	<title>History HD </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8588.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 </item>
 <item>
-	<title>LIFETIME HD USA </title>
+	<title>Lifetime HD </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8188.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
@@ -117,7 +117,7 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 </item>
 <item>
-	<title>SYFY HD USA </title>
+	<title>Syfy HD </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10935.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 </item>
@@ -142,7 +142,6 @@
     <link>http://google.com</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
-
 <item>
 <title>[COLOR white]CBS Sports Network [/COLOR]</title>
 <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11243.ts</link>
@@ -154,8 +153,18 @@
 <thumbnail></thumbnail>
 </item>
 <item>
+<title>[COLOR white]MLB Network HD  [/COLOR]</title>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10286.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
 <title>[COLOR white]NFL Network HD (Link2) [/COLOR]</title>
 <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10741.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white]Yes Network HD  [/COLOR]</title>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10902.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -1601,7 +1610,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR white]Discovery SciHDSingatel (Link2) [/COLOR]</title>
+<title>[COLOR white]Discovery Sci HD Singatel (Link2) [/COLOR]</title>
 <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8645.ts</link>
 <thumbnail></thumbnail>
 </item>
