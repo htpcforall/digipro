@@ -14,7 +14,7 @@
 <item>
 	<title>ABC HD </title>
     <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8365.ts</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 </item>
 <item>
 	<title>CBS HD </title>
@@ -24,17 +24,17 @@
 <item>
 	<title>CW HD </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8653.ts</link>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/rvyutv1476084182.png</thumbnail>
 </item>
 <item>
 	<title>FOX HD  </title>
     <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8240.ts</link>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>	
+	<thumbnail>http://www.thelogodb.com/images/media/logo/rwqsxv1476084322.png</thumbnail>	
 </item>
 <item>
 	<title>NBC HD </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10868.ts</link>
-    <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>	
+    <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>	
 </item>
 <item>
 	<title>A/E HD </title>
@@ -44,7 +44,7 @@
 <item>
 	<title>AMC HD </title>
     <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8362.ts</link>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/vvytrq1476084028.png</thumbnail>
 </item>
 <item>
 	<title>Animal Planet HD </title>
@@ -115,7 +115,6 @@
 	<title>Spike HD </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10884.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
-
 </item>
 <item>
 	<title>SYFY HD USA </title>
@@ -125,12 +124,12 @@
 <item>
 	<title>TBS HD </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10887.ts</link>
-	<thumbnail>http://mymagicstack.com/moveit/static/pics/tbs.jpg</thumbnail>	
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>	
 </item>
 <item>
 	<title>TNT HD </title>
 	<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10894.ts</link>
-	<thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 </item>
 <item>
 	<title>USA Network HD </title>
@@ -139,68 +138,24 @@
 </item>
 <!--BEGIN SPECIAL-->
 <item>
-	<title>[B]--[COLOR green]SPECIAL EVENTS[/COLOR]--[/B]</title>
+	<title>[B]--[COLOR green]SPECIAL[/COLOR]--[/B]</title>
     <link>http://google.com</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
+
 <item>
-<title>[COLOR white] UCL  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11230.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] EPL2  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11231.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] UEFA [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11232.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] UCL  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11238.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] UCL  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11237.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] UCL  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11235.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] UCL  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11239.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] UCL  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11241.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] UCL  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11240.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] UCL  [/COLOR]</title>
-<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11234.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR white] MLB  [/COLOR]</title>
+<title>[COLOR white]CBS Sports Network [/COLOR]</title>
 <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11243.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR white] MLB  [/COLOR]</title>
+<title>[COLOR white]ESPN NEWS [/COLOR]</title>
 <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/11242.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white]NFL Network HD (Link2) [/COLOR]</title>
+<link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/10741.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -213,6 +168,7 @@
 <link>http://evolutioniptv.ninja:420/live/www.streamsmart.tv/55551111/8740.ts</link>
 <thumbnail></thumbnail>
 </item>
+
 <!--BEGIN ALL CHANNELS-->
 <item>
 	<title>[B]--[COLOR green]ALL CHANNELS[/COLOR]--[/B]</title>
