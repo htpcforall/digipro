@@ -57,13 +57,13 @@
 
 <item><title>[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]AC Networks[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?url=pac_networks&amp;mode=1&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DP%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DAC+Networks%5B%2FCOLOR%5D%5BCOLOR%3Dred%5D%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FPacNetworks.png</jsonrpc>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=pac_networks&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DP%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DAC+Networks%5B%2FCOLOR%5D%5BCOLOR%3Dred%5D%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FPacNetworks.png</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/PacNetworks.png</thumbnail>
 </item>
 
 <item><title>[B][COLOR=FF00FF00]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?url=dragon_sports_replays&amp;mode=1&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DR%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Deplays%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FReplays.png</jsonrpc>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=dragon_sports_replays&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DR%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Deplays%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FReplays.png</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
 </item>
 
