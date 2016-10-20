@@ -30,14 +30,20 @@ http://dragonstr.com/FuckOff/GayMenu.html</externallink>
 <item>
 	<title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]1goodfellas[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink>plugin%3A%2F%2Fplugin.video.youtube%2Fchannel%2FUCWXYAGB9SadlL6p5Bb66wWw%2Fplaylists%2F&mode=53&name=%5BB%5DPlaylists%5B%2FB%5D&fanart=image%3A%2F%2Fhttps%253a%252f%252fyt3.ggpht.com%252f--4x_L3quLc0%252fVx6hfM4UN4I%252fAAAAAAAAGII%252fHniZj-VEVqo3lJ4_xshpDB-VTSWr5VpdwCL8B%252fw1280-fcrop64%253d1%252c00000000ffffffff-nd-c0xffffffff-rj-k-no%252fPBC_YoutubeCover.jpg%2F</externallink>
+	<externallink>plugin://plugin.video.youtube/channel/UCWXYAGB9SadlL6p5Bb66wWw/playlists/&mode=53&name=playlists</externallink>
 	<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
 </item>
 
 <item>
-<title>1ds test</title>
+<title>2ds test</title>
 <link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fSports.png&mode=1&name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dragon%20Sports%5b%2fCOLOR%5d%5b%2fB%5d&url=dragon_sports</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCWXYAGB9SadlL6p5Bb66wWw/playlists/&mode=53&name=playlists</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
+</item>
+<item>
+<title>3ds test</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/FuckOff/GayMenu.html&mode=11&name=NFL</jsonrpc>
 <thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
 </item>
 
