@@ -85,6 +85,12 @@
 	<thumbnail>http://dragonstr.com/new_ds/images/Television.png</thumbnail>
 </item>
 
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]ews[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=default&mode=11&name=%5bB%5d%5bCOLOR%3dFF00FF00%5dN%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dews%5b%2fCOLOR%5d%5b%2fB%5d&url=http%3a%2f%2fdragonstr.com%2fchan%2fNews.html</jsonrpc>
+	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
+</item>
+
 <item><title>[COLOR=blue]MLB info[/COLOR]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FMLB.html&amp;mode=11&amp;name=%5BCOLOR%3Dblue%5DClick+here+for+MLB+info+%28Fixed+sorry+Jen+A.%29%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fwww.clker.com%2Fcliparts%2FB%2Fr%2Fu%2FH%2Fw%2FO%2Finformation-icon-hi.png</jsonrpc>
@@ -109,9 +115,20 @@
 	<thumbnail>http://vsetreneri.ru/upload/medialibrary/72e/72eae1fe868fbe38bdf9c40aecaaed2b.jpg</thumbnail>
 </item>
 
+<item><title>[COLOR=blue]NHL info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FNHL.html&amp;mode=11&amp;name=%5BCOLOR%3Dblue%5DClick+here+for+NHL+info%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fvsetreneri.ru%2Fupload%2Fmedialibrary%2F72e%2F72eae1fe868fbe38bdf9c40aecaaed2b.jpg</jsonrpc>
+	<thumbnail>http://vsetreneri.ru/upload/medialibrary/72e/72eae1fe868fbe38bdf9c40aecaaed2b.jpg</thumbnail>
 </item>
+
+<item><title>[B][COLOR=FF00FF00]R[/COLOR][COLOR=blue]adio[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FMusic%2FRadio.html&mode=12&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DD%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dragon+Radio%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FRadio.png</jsonrpc>
+	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
+</item>
+
 <item><title>[COLOR blue]Dragon Streams[/COLOR]</title>
 	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fSports.png&mode=1&name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dragon%20Sports%5b%2fCOLOR%5d%5b%2fB%5d&url=http%3A%2F%2Fdragonstr.com%2Findex2.html</jsonrpc>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2.html&mode=1&name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dragon%20Sports%5b%2fCOLOR%5d%5b%2fB%5d&iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fSports.png</jsonrpc>
 	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
 </item>
