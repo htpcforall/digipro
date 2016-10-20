@@ -1,94 +1,98 @@
 <!-- DIGICORE DS -->
 
 <item>
-    <title>[B][COLOR red]Dragon Streams[/COLOR][/B]</title>
+    <title>[B][COLOR red]Welcome to Dragon Streams[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/ds.xml</externallink>
+	<externallink></externallink>
 	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
 </item>
-
-<item>
-	<title>AMC</title> 
-	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=AMC&amp;url=%2Fwww.arconaitv.me%2Fam%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DAMC%2526title%253DAMC%26winID%3D10025%26_options_sf&quot;</link>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail> 
-</item>
-
-<item>
-	<title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass2[/COLOR][/B]</title>
+<item><title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink>plugin://plugin.video.dragon.sports/?url=
-http://dragonstr.com/FuckOff/GayMenu.html</externallink>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DF%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dight+Pass%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F626557560666095616%2FXaueCX62.jpg
+</jsonrpc>
 	<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
 </item>
-
-<item>
-	<title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
-	<link>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DF%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dight+Pass%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F626557560666095616%2FXaueCX62.jpg&quot;,return)</link>
-	<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
-</item>
-
-<item>
-	<title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]1goodfellas[/COLOR][/B]</title>
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink>plugin://plugin.video.youtube/channel/UCWXYAGB9SadlL6p5Bb66wWw/playlists/&mode=53&name=playlists</externallink>
-	<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
-</item>
-
-<item>
-<title>2ds test</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FHockey%2FMenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DHL%5B%2FCOLOR%5D%5B%2FB%5D</jsonrpc>
-<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
-</item>
-<item>
-<title>3ds test</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?mode=11&name=NFL&url=http://dragonstr.com/FuckOff/GayMenu.html</jsonrpc>
-	<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
-</item>
-
-<item>
-	<title>Rojadirecta p2p dir</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/Hockey/Menu.html&amp;mode=401&amp;name=[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]HL[/COLOR][/B]</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-<item><title>2Dragon Streams</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DFL%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNFL.png</jsonrpc>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DFL%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNFL.png
+</jsonrpc>
 	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
 </item>
-<favourite name="[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL[/COLOR][/B]" thumb="http://dragonstr.com/new_ds/images/NFL.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DFL%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNFL.png&quot;,return)</favourite>
-<item>
-<title>SKY SPORTS</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=62&amp;name=%5bCOLOR%20red%5dSky%20sports%5b%2fCOLOR%5d&amp;url=Sky%20Sports</jsonrpc>
-<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]BA[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2Fnba1.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DBA%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNBA.png
+</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/NBA.png</thumbnail>
 </item>
-
-<item>
-<title>SKY SPORTS</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=82&amp;name=My%20Sports&amp;url=sss</jsonrpc>
-<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]CAA Football[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2FNCAAF.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DCAA+Football%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=https%3A%2F%2Fgoo.gl%2FRzWGds
+</jsonrpc>
+	<thumbnail>https://goo.gl/RzWGds</thumbnail>
 </item>
-<favourite name="My Sports">ActivateWindow(10025,&quot;plugin://plugin.video.ZemTV-shani/?mode=82&amp;name=My%20Sports&amp;url=sss&quot;,return)</favourite>
-
-<!--
-	<favourite name="" thumb="">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DF%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dight+Pass%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F626557560666095616%2FXaueCX62.jpg&quot;,return)</favourite>	
-	<favourite name="[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL[/COLOR][/B]" thumb="http://dragonstr.com/new_ds/images/NFL.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DFL%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNFL.png&quot;,return)</favourite>	
-	<favourite name="[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]BA[/COLOR][/B]" thumb="http://dragonstr.com/new_ds/images/NBA.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2Fnba1.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DBA%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNBA.png&quot;,return)</favourite>	
-	<favourite name="[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]CAA Football[/COLOR][/B]" thumb="https://goo.gl/RzWGds">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2FNCAAF.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DCAA+Football%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=https%3A%2F%2Fgoo.gl%2FRzWGds&quot;,return)</favourite>	
-	<favourite name="[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]ASCAR + NHRA[/COLOR][/B]" thumb="https://assets.primesport.com/prod/images/kansas-speedway-logo.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2FNascar.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DASCAR+%2B+NHRA%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=https%3A%2F%2Fassets.primesport.com%2Fprod%2Fimages%2Fkansas-speedway-logo.png&quot;,return)</favourite>
-	<favourite name="[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]HL[/COLOR][/B]" thumb="http://dragonstr.com/new_ds/images/NHL.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FHockey%2FMenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DHL%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNHL.png&quot;,return)</favourite>	
-	<favourite name="[B][COLOR=FF00FF00]W[/COLOR][COLOR=blue]WE[/COLOR][/B]" thumb="http://dragonstr.com/WWE/WWE.jpg">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FWWE%2FMenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DW%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DWE%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fdragonstr.com%2FWWE%2FWWE.jpg&quot;,return)</favourite>	
-	<favourite name="[B][COLOR=FF00FF00]M[/COLOR][COLOR=blue]LB [/COLOR][/B]" thumb="http://goo.gl/Vpc2IA">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2Fmlbmenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DM%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DLB+%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fgoo.gl%2FVpc2IA&quot;,return)</favourite>
-	<favourite name="[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]AC Networks[/COLOR][/B]" thumb="http://dragonstr.com/new_ds/images/PacNetworks.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=pac_networks&mode=1&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DP%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DAC+Networks%5B%2FCOLOR%5D%5BCOLOR%3Dred%5D%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FPacNetworks.png&quot;,return)</favourite>	
-	<favourite name="[B][COLOR=FF00FF00]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]" thumb="http://dragonstr.com/new_ds/images/Replays.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=dragon_sports_replays&mode=1&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DR%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Deplays%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FReplays.png&quot;,return)</favourite>	
-	<favourite name="[B][COLOR=FF00FF00]L[/COLOR][COLOR=blue]ive Sports Channels + Other Events [/COLOR][/B]" thumb="http://dragonstr.com/new_ds/images/Television.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Fchan%2FSChan.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DL%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dive+Sports+Channels+%2B+Other+Events+%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FTelevision.png&quot;,return)</favourite>
-	<favourite name="[COLOR=blue]MLB info[/COLOR]" thumb="http://www.clker.com/cliparts/B/r/u/H/w/O/information-icon-hi.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FMLB.html&mode=11&name=%5BCOLOR%3Dblue%5DClick+here+for+MLB+info+%28Fixed+sorry+Jen+A.%29%5B%2FCOLOR%5D&iconimage=http%3A%2F%2Fwww.clker.com%2Fcliparts%2FB%2Fr%2Fu%2FH%2Fw%2FO%2Finformation-icon-hi.png&quot;,return)</favourite>
-	<favourite name="[COLOR=blue]UFC info[/COLOR]" thumb="https://lh4.googleusercontent.com/-QeD1gcM_f7k/AAAAAAAAAAI/AAAAAAABL_U/c-JbniQlcKQ/s0-c-k-no-ns/photo.jpg">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FFight.html&mode=11&name=%5BCOLOR%3Dblue%5DClick+here+for+UFC+info%5B%2FCOLOR%5D&iconimage=https%3A%2F%2Flh4.googleusercontent.com%2F-QeD1gcM_f7k%2FAAAAAAAAAAI%2FAAAAAAABL_U%2Fc-JbniQlcKQ%2Fs0-c-k-no-ns%2Fphoto.jpg&quot;,return)</favourite>
-	<favourite name="[COLOR=blue]NBA info[/COLOR]" thumb="http://data.apkhere.com/data/94/com.nbadigital.gametimelite/6.06/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FNBA.html&mode=11&name=%5BCOLOR%3Dblue%5DClick+here+for+NBA+info%5B%2FCOLOR%5D&iconimage=http%3A%2F%2Fdata.apkhere.com%2Fdata%2F94%2Fcom.nbadigital.gametimelite%2F6.06%2Ficon.png&quot;,return)</favourite>
-	<favourite name="[COLOR=blue]NHL info[/COLOR]" thumb="http://vsetreneri.ru/upload/medialibrary/72e/72eae1fe868fbe38bdf9c40aecaaed2b.jpg">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FNHL.html&mode=11&name=%5BCOLOR%3Dblue%5DClick+here+for+NHL+info%5B%2FCOLOR%5D&iconimage=http%3A%2F%2Fvsetreneri.ru%2Fupload%2Fmedialibrary%2F72e%2F72eae1fe868fbe38bdf9c40aecaaed2b.jpg&quot;,return)</favourite>
--->
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]ASCAR + NHRA[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2FNascar.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DASCAR+%2B+NHRA%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=https%3A%2F%2Fassets.primesport.com%2Fprod%2Fimages%2Fkansas-speedway-logo.png
+</jsonrpc>
+	<thumbnail>https://assets.primesport.com/prod/images/kansas-speedway-logo.png</thumbnail>
+</item>
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]HL[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FHockey%2FMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DHL%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNHL.png
+</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/NHL.png</thumbnail>
+</item>
+<item><title>[B][COLOR=FF00FF00]W[/COLOR][COLOR=blue]WE[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FWWE%2FMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DW%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DWE%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2FWWE%2FWWE.jpg
+</jsonrpc>
+	<thumbnail>http://dragonstr.com/WWE/WWE.jpg</thumbnail>
+</item>
+<item><title>[B][COLOR=FF00FF00]M[/COLOR][COLOR=blue]LB [/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2Fmlbmenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DM%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DLB+%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fgoo.gl%2FVpc2IA
+</jsonrpc>
+	<thumbnail>http://goo.gl/Vpc2IA</thumbnail>
+</item>
+<item><title>[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]AC Networks[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=pac_networks&amp;mode=1&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DP%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DAC+Networks%5B%2FCOLOR%5D%5BCOLOR%3Dred%5D%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FPacNetworks.png
+</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/PacNetworks.png</thumbnail>
+</item>
+<item><title>[B][COLOR=FF00FF00]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=dragon_sports_replays&amp;mode=1&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DR%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Deplays%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FReplays.png
+</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+</item>
+<item><title>[B][COLOR=FF00FF00]L[/COLOR][COLOR=blue]ive Sports Channels + Other Events [/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Fchan%2FSChan.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DL%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dive+Sports+Channels+%2B+Other+Events+%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FTelevision.png</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Television.png</thumbnail>
+</item>
+<item><title>[COLOR=blue]MLB info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FMLB.html&amp;mode=11&amp;name=%5BCOLOR%3Dblue%5DClick+here+for+MLB+info+%28Fixed+sorry+Jen+A.%29%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fwww.clker.com%2Fcliparts%2FB%2Fr%2Fu%2FH%2Fw%2FO%2Finformation-icon-hi.png</jsonrpc>
+	<thumbnail>http://www.clker.com/cliparts/B/r/u/H/w/O/information-icon-hi.png</thumbnail>
+</item>
+<item><title>[COLOR=blue]UFC info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FFight.html&amp;mode=11&amp;name=%5BCOLOR%3Dblue%5DClick+here+for+UFC+info%5B%2FCOLOR%5D&amp;iconimage=https%3A%2F%2Flh4.googleusercontent.com%2F-QeD1gcM_f7k%2FAAAAAAAAAAI%2FAAAAAAABL_U%2Fc-JbniQlcKQ%2Fs0-c-k-no-ns%2Fphoto.jpg</jsonrpc>
+	<thumbnail>https://lh4.googleusercontent.com/-QeD1gcM_f7k/AAAAAAAAAAI/AAAAAAABL_U/c-JbniQlcKQ/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+<item><title>[COLOR=blue]NBA info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FNBA.html&amp;mode=11&amp;name=%5BCOLOR%3Dblue%5DClick+here+for+NBA+info%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fdata.apkhere.com%2Fdata%2F94%2Fcom.nbadigital.gametimelite%2F6.06%2Ficon.png</jsonrpc>
+	<thumbnail>http://data.apkhere.com/data/94/com.nbadigital.gametimelite/6.06/icon.png</thumbnail>
+</item>
+<item><title>[COLOR=blue]NHL info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Finfo%2FNHL.html&amp;mode=11&amp;name=%5BCOLOR%3Dblue%5DClick+here+for+NHL+info%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fvsetreneri.ru%2Fupload%2Fmedialibrary%2F72e%2F72eae1fe868fbe38bdf9c40aecaaed2b.jpg</jsonrpc>
+	<thumbnail>http://vsetreneri.ru/upload/medialibrary/72e/72eae1fe868fbe38bdf9c40aecaaed2b.jpg</thumbnail>
+</item>
+<item><title>[COLOR blue]Dragon Streams VIP[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.program.super.favourites/?label=[COLOR blue]Dragon Streams VIP[/COLOR]&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CDragon%20Streams%20VIP&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.super.favourites%5Cfanart.jpg</jsonrpc>
+	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
+</item>
