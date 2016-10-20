@@ -56,15 +56,24 @@ http://dragonstr.com/FuckOff/GayMenu.html</externallink>
 
 <item><title>2Dragon Streams</title>
 	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.program.super.favourites/?label=%5bCOLOR%20blue%5dDragon%20Streams%20Pwned5b%2fCOLOR%5d&amp;mode=400&amp;folder=Dragon%20Streams%20Pwned&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.super.favourites%5Cfanart.jpg%26_options_sf&quot;</jsonrpc>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DFL%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNFL.png</jsonrpc>
 	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
 </item>
+<favourite name="[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL[/COLOR][/B]" thumb="http://dragonstr.com/new_ds/images/NFL.png">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DFL%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNFL.png&quot;,return)</favourite>
 <item>
 <title>SKY SPORTS</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=62&amp;name=%5bCOLOR%20red%5dSky%20sports%5b%2fCOLOR%5d&amp;url=Sky%20Sports</jsonrpc>
 <thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
 </item>
+
+<item>
+<title>SKY SPORTS</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=82&amp;name=My%20Sports&amp;url=sss</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+</item>
+<favourite name="My Sports">ActivateWindow(10025,&quot;plugin://plugin.video.ZemTV-shani/?mode=82&amp;name=My%20Sports&amp;url=sss&quot;,return)</favourite>
 
 <!--
 	<favourite name="" thumb="">ActivateWindow(10025,&quot;plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DF%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dight+Pass%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F626557560666095616%2FXaueCX62.jpg&quot;,return)</favourite>	
