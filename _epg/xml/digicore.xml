@@ -183,26 +183,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>INVESTIGATION DISCOVERY</title>
-<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY VELOCITY</title>
-<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>NASA</title>
-<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
-</item>
-
 <!-- news -->
 
 <item>
@@ -498,6 +478,23 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>INVESTIGATION DISCOVERY</title>
+<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY VELOCITY</title>
+<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
+</item>
+
+<item>
+<title>NASA</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
+</item>
 <item>
 <title>[COLOR blue]FX[/COLOR]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8</link>
