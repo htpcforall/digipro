@@ -30,8 +30,15 @@ http://dragonstr.com/FuckOff/GayMenu.html</externallink>
 <item>
 	<title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]1goodfellas[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink>plugin://plugin.video.goodfellas/?fanart=http%3a%2f%2fwww.pixhoster.info%2ff%2f2016-09%2f2090af2b0fcb99445142f90601a4ef8e.png&amp;mode=1&amp;name=Other%20Sports&amp;url=http%3a%2f%2fgoo.gl%2fim7PT1</externallink>
+	<externallink>plugin%3A%2F%2Fplugin.video.youtube%2Fchannel%2FUCWXYAGB9SadlL6p5Bb66wWw%2Fplaylists%2F&mode=53&name=%5BB%5DPlaylists%5B%2FB%5D&fanart=image%3A%2F%2Fhttps%253a%252f%252fyt3.ggpht.com%252f--4x_L3quLc0%252fVx6hfM4UN4I%252fAAAAAAAAGII%252fHniZj-VEVqo3lJ4_xshpDB-VTSWr5VpdwCL8B%252fw1280-fcrop64%253d1%252c00000000ffffffff-nd-c0xffffffff-rj-k-no%252fPBC_YoutubeCover.jpg%2F</externallink>
 	<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
+</item>
+
+<item>
+<title>ds test</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DF%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dight+Pass%5B%2FCOLOR%5D%5B%2FB%5D</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
 </item>
 
 <!--
