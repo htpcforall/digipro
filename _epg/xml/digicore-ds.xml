@@ -54,10 +54,10 @@ http://dragonstr.com/FuckOff/GayMenu.html</externallink>
 <thumbnail></thumbnail>
 </item>
 
-<item><title>lshunter.tv</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Fchan%2FSChan.html&mode=11&name=%5BB%5D%5BCOLOR%3DFF00FF00%5DL%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dive+Sports+Channels+%2B+Other+Events+%5B%2FCOLOR%5D%5B%2FB%5D</jsonrpc>
-<thumbnail></thumbnail>
+<item><title>Dragon Streams</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.program.super.favourites/?label=[COLOR blue]Dragon Streams VIP[/COLOR]&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CDragon%20Streams%20VIP&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.super.favourites%5Cfanart.jpg%26_options_sf&quot;</jsonrpc>
+	<thumbnail></thumbnail>
 </item>
 
 
