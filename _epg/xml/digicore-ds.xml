@@ -1,7 +1,7 @@
 <!-- DIGICORE DS -->
 
 <item>
-    <title>[B][COLOR red]Welcome to Dragon Streams[/COLOR][/B]</title>
+    <title>[B][COLOR red]Dragon Streams Mod - You must have the Dragon Streams add-on for this to work[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<externallink></externallink>
 	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
@@ -16,7 +16,13 @@
 <item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2FFuckOff%2FGayMenu.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DFL%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNFL.png</jsonrpc>
-	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
+	<thumbnail>http://dragonstr.com/new_ds/images/NFL.png</thumbnail>
+</item>
+
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]NFL HD Bonus Pack Live & Replays[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.bulldogstreams/?fanart&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20limegreen%5dNFL%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fwww.bulldogstreams.football%2fnfl.php</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/NFL.png</thumbnail>
 </item>
 
 <item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]BA[/COLOR][/B]</title>
@@ -65,6 +71,12 @@
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=dragon_sports_replays&amp;mode=1&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DR%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Deplays%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FReplays.png</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+</item>
+
+<item><title>[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]roject D Replays[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.projectd</jsonrpc>
+	<thumbnail>special://home/addons\plugin.video.projectd\icon.png</thumbnail>
 </item>
 
 <item><title>[B][COLOR=FF00FF00]L[/COLOR][COLOR=blue]ive Sports Channels + Other Events [/COLOR][/B]</title>
