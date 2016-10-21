@@ -2,7 +2,7 @@
 
 <item>
     <title>[B][COLOR red]Dragon Streams Mod [/COLOR][COLOR=white]- You need the Dragon Streams add-on for this to work. Select System, Add-ons, Install from zip file, DigiPro, dsmod.zip, Enjoy.[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
+	<link>http://google.com</link>
 	<externallink></externallink>
 	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
 </item>
@@ -19,7 +19,7 @@
 	<thumbnail>http://dragonstr.com/new_ds/images/NFL.png</thumbnail>
 </item>
 
-<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL HD Bonus Pack Live & Replays[/COLOR][/B]</title>
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL Extra[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.bulldogstreams/?fanart&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20limegreen%5dNFL%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fwww.bulldogstreams.football%2fnfl.php</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/NFL.png</thumbnail>

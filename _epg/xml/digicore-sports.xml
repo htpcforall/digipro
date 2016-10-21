@@ -21,7 +21,7 @@
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2Fnba1.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DBA%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FNBA.png</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/NBA.png</thumbnail>
 </item>
-<item><title>[B][COLOR=FF00FF00]L[/COLOR][COLOR=blue]ive Sports Channels + Other Events [/COLOR][/B]</title>
+<item><title>[B][COLOR=FF00FF00]S[/COLOR][COLOR=blue]ports Channels + Other Events [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Fchan%2FSChan.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DL%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dive+Sports+Channels+%2B+Other+Events+%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FTelevision.png</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/Television.png</thumbnail>
