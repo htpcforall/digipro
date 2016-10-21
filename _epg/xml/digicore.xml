@@ -10,20 +10,14 @@
 <info>DigiPro </info>
 <items>
 -->
+<!--
 <item>
-<title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon [/COLOR][COLOR=FF00FF00]S[/COLOR][COLOR=blue]treams[/COLOR][/B]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-ds.xml</externallink>
-<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
-</item>
-
-<item>
-<title>[B]->[COLOR blue]HQ LIVE TV[/COLOR]<-[COLOR white]1000+ HD Down for now. Still lots of good TV.[/COLOR][/B]</title>
+<title>[B]-> [COLOR blue]HQ LIVE TV[/COLOR] <-[COLOR white][/COLOR][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicoress.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
-
+-->
 <item> 
 	<title>ABC</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=ABC&amp;url=%2Fwww.arconaitv.me%2Fabcde%2F&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.digilive%2Ffanart.jpg%26meta%3Dlabel%253DABC%2526title%253DABC%26winID%3D10025%26_options_sf&quot;</link>
