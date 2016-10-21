@@ -1,10 +1,10 @@
 <!-- DIGICORE-SPORTS -->
 
 <item>
-<title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon [/COLOR][COLOR=FF00FF00]S[/COLOR][COLOR=blue]treams[/COLOR][/B]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-ds.xml</externallink>
-<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
+    <title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon [/COLOR][COLOR=FF00FF00]S[/COLOR][COLOR=blue]treams[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-ds.xml</externallink>
+	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
 </item>
 <item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
