@@ -38,7 +38,8 @@
 <item>
 <title>NBC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.mpegts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>
+
 <fanart></fanart>
 </item>
 
@@ -106,9 +107,9 @@
 </item>
 
 <item> 
-	<title>ESPN</title>
-	<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/43.m3u8</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+<title>ESPN</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/43.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
 <item>
@@ -169,7 +170,7 @@
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -217,7 +218,7 @@
 <item>
 <title>TLC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.mpegts</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
 <fanart></fanart>
 </item>
 
