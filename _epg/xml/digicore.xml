@@ -1,16 +1,9 @@
 ﻿<item>
-<title>[B][COLOR yellow]** NEW **[/COLOR][COLOR limegreen][B] =====USA LIVE TV=====[/B][/COLOR]</title>
+<title>[B][COLOR yellow]** NEW HD TV **[/COLOR][COLOR limegreen][B] =====USA LIVE TV=====[/B][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink>
 <link>http://Ignoreme</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
-</item>
-
-<item>
-<title>[B]-> [COLOR yellow]NEW HD TV[/COLOR] <-[COLOR white][/COLOR][/B]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicoress.xml</externallink>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
 <item>
