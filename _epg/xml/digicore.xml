@@ -476,7 +476,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+<item>
 <title>STARZ EDGE</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/32.mpegts</link>
 <thumbnail></thumbnail>
@@ -487,6 +487,13 @@
 <title>[COLOR limegreen][B]=====SPORTS HD=====[/B][/COLOR]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+
+<item>
+<title>VERSUS HD</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -618,4 +625,43 @@
 <title>[B][COLOR=gray]ESPNU[/COLOR][/B]</title>
 <link>http://content-ausc2.uplynk.com/channel/852f3e08953a485d90f8c924a101b668/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1476547090&amp;ptid=ESPN_tvOS_VDMS&amp;rn=685664813&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=e3ads&amp;ad.csid=watchespn:chromecast:e3ads&amp;ad.caid=a19276650&amp;eid=espn_espnu&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=72ea3ce264718451debbe27d0665e28911cf781b1275676191345b51a2a65ea1&amp;pbs=3efca81b75fa48749c1f835f5b36327d&amp;mode=15</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+
+<item>
+<title>TOROS</title>
+<link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<regex>
+<name>start</name>
+<expres></expres>
+<page>$doregex[stream]</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>stream</name>
+<expres>source src="(.*?)"</expres>
+<page>http://privatestream.tv/player?streamname=torosch</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+</regex>
+</item>
+
+<item>
+<title>TOROS ALT</title>
+<link>http://163.172.37.71:8789/live/teste/teste/804.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+</item>
+
+<item>
+<title>TOROS ALT 2</title>
+<link>http://37.187.167.137/live/1/1/2525.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+</item>
+
+<item>
+<title>TOROS ALT 3</title>
+<link>http://37.187.167.137/live/blok/blok/2525.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
