@@ -372,6 +372,13 @@
 </item>
 
 <item>
+<title>RT DOCUMENTARY</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR limegreen][B]=====PREMIUM CHANNELS=====[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail>/thumbnail>
@@ -477,15 +484,138 @@
 </item>
 
 <item>
-<title>[COLOR limegreen][B]=====DOCUMENTARIES CHANNELS=====[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR limegreen][B]=====SPORTS HD=====[/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
 <item>
-<title>RT DOCUMENTARY</title>
-<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>ESPN</title>
+<link>http://content-ausc1.uplynk.com/channel/da4bad1d50c64efa93266fc7de244a5e/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1476547159&amp;ptid=ESPN_tvOS_VDMS&amp;rn=105629424&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=e3ads&amp;ad.csid=watchespn:chromecast:e3ads&amp;ad.caid=a18111192&amp;eid=espn_espn2&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=aba3496b2669cdb0e30dcaf04dae042cb222d8b9f9d2872f236fb32207c04eb1&amp;pbs=8e70f909276b413f841fb9f46a954fe2&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>ESPN</title>
+<link>http://content-ausc1.uplynk.com/channel/940d785137f746c28751daac1e03e5b1/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1476547211&amp;ptid=ESPN_tvOS_VDMS&amp;rn=46225393&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=espnews&amp;ad.csid=watchespn:chromecast:espnews&amp;ad.caid=a19269597&amp;eid=espn_espnews&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=9fce6009edd98b45d4ea765aa745852f780723767583867f39eb87bce7dfe6a8&amp;pbs=5f4943a7660546519c5188df041002cb&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>FOX SPORTS</title>
+<link>http://hlslinear-akc.med1.foxsportsgo.com/ls02/foxsports/FOX_SPORTS_1/live/2016/10/07/12574838/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ODg5MDU3MzgtOTlhNC00ZjUyLWFlZDAtOTk5YjRjMTk4MDY2OjY2MGEwZjFhLTk3OTYtNGI1NC1hYmEwLTE1ODU0YjQ2ODUxNCIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiMDk3NWZkMDAtOGNkYy0xMWU2LTg3OGUtMTIzNzE1NWVlMWUzIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiNzEuMTE5LjE5LjI0OCIsImRldmljZSI6eyJpZCI6ImlhcFJlY2VpcHREZXZpY2U6RGV2aWNlOjg4OTA1NzM4LTk5YTQtNGY1Mi1hZWQwLTk5OWI0YzE5ODA2Njo2NjBhMGYxYS05Nzk2LTRiNTQtYWJhMC0xNTg1NGI0Njg1MTQiLCJwbGF0Zm9ybSI6Imlvcy10YWJsZXQifSwidXNlciI6eyJpZCI6IjdjNjIyOTVmLWY2ZDItNDk3Mi1hNjQwLTZiMDUyM2RlNmMzYi0xODUwNTAtNTFkZjlmNGM4NzE1MmQzMWFkNmI4NTkyZTBiZDMzNTAyZjZiMDMzNCIsImlwaWQiOiJpYXBSZWNlaXB0RGV2aWNlOkRldmljZTo4ODkwNTczOC05OWE0LTRmNTItYWVkMC05OTliNGMxOTgwNjY6NjYwYTBmMWEtOTc5Ni00YjU0LWFiYTAtMTU4NTRiNDY4NTE0IiwiYmlsbGluZ19sb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjgwNjQzIn0sInJlZ2lzdHJhdGlvbiI6eyJhdXRoX3Byb3ZpZGVyIjoiRFRWIiwiZW50aXRsZW1lbnRzIjpbImZzMiIsImZiYy1mb3giLCJmczEiXSwiZXhwaXJlc19vbiI6IjIwMTYtMTEtMDZUMDY6MTI6MTAuMDAwKzAwMDAifX0sImdlbmVyYXRlZF9vbiI6IjIwMTYtMTAtMDdUMjI6MTg6NTYuMDgwKzAwMDAiLCJ1cGRhdGVkX29uIjoiMjAxNi0xMC0wN1QyMjoxOTozNC4yODErMDAwMCIsImV4cGlyZXNfb24iOiIyMDE2LTEwLTA4VDAyOjE5OjM0LjI4MSswMDAwIiwiYXZhaWxhYmxlX2NvbnRlbnQiOnsibmF0aW9uYWwiOnsiY2FsbF9zaWducyI6WyJCSUdFIiwiRlMxIiwiRlMyIiwiRlNHTyIsIkZYREVQIiwiVVNPUEVOIiwiRlNQIl19LCJnZW8iOnsibG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI5MDAwNiIsImNvdW50cnlfY29kZSI6InVzIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc3B0IiwiZnN3Il0sInJzbl9jYWxsX3NpZ25zIjpbIkZTVyIsIlBSSU1FIl0sImFmZmlsaWF0ZV9jYWxsX3NpZ25zIjpbIktUVFYiXX0sImhvbWUiOnsibG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI4MDY0MyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsiIl0sInJzbl9jYWxsX3NpZ25zIjpbIiJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJLRFZSIl0sInRlYW1zIjpbXX19fSwiaXBBZGRyZXNzIjoiNzEuMTE5LjE5LjI0OCIsImV4cCI6MTQ3NTg5MzE3NCwidHlwZSI6IlVzZXIiLCJ1c2VyaWQiOiI3YzYyMjk1Zi1mNmQyLTQ5NzItYTY0MC02YjA1MjNkZTZjM2ItMTg1MDUwLTUxZGY5ZjRjODcxNTJkMzFhZDZiODU5MmUwYmQzMzUwMmY2YjAzMzQiLCJpYXQiOjE0NzU4Nzg3MzYsInZlcnNpb24iOiJ2MS4wIn0.ds702Ja841o0nhAekbTxkFmqddxR2_6gUzXOb-SuCZ4&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>PAC</title>
+<link>http://hlslive-akc.med2.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEDIA_2_WWE_Dual_Linear_Event_20160912/4500K/4500_slide.m3u8|Cookie:SESSION_1=wf_flowId===account.login~stage===7~flowId===account.login;appacc=wwe;fprt=MElqaG1rV2RFMjJuU2RaN3RTR2pFZjZySkVJPXwxNDczOTEwMDUwOTc0fGlwdD1lbWFpbC1wYXNzd29yZA==;guid=538d753d0f374f0b91d07045e4694622;ipid=10205715;mai=firstName=[Ed],lastName=[Kaighn, Jr],parental_control_sw=[N],_useruuid=[a6faf7589d08e2d52b119135f5da4dfe];mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa33edb0372349d80eafc5fddae66a956b30d82c81513fe01e63aa63b8e9c105f6f818b4ec90f64abc88b0be70da209420a0117a0382f7186a34a748903910fd12842c2e66d9da93f471f2f4ca20bc643e674422471289bdb3f4d7db14369461ed3f5614ab9c15315511f47df530095055029fa53e75865c6d639f5c6d1dd850cd0951d4742106e70e56ef44049166b9a5f0754859bc72b6549f7b0397b046e59d77ebae352948420e46879c55749825ea831c79e5b749af9033d29dfcf4e832d6d6ae708ad064d688a0fcb5ac70fb0a7e44a91d4f26ea2ef732bddf73dba91f00a420ff91283032b631c2d3b345820035874e9e6058da0ccc950dc6a548c60e1bb5e77755bad5fb3c49cd26499060f2513a766e10d96689a4b223ef50569721234103fc9105fc79e7491ae0322521917fbef362b57a1ba7c8a14be077e7eea51d1d1d64c22eb737d2f7b32a090c0ceb7bea1bba26bc586d57cf5a7f3a949d93e9f74ca48c624f3a2c65fe1a6bdef71a34c5c9b1fa6f267308ee63524d0e9b34357357ef7737aa4555998edaaf834ab15d4f4bd08fa179b5854f13c07c3595aad91ec426aaf87030a7b5d23ae67bd4f6909cf640abcba82c6127a2df8c5acd35c568a93604a9f13918c4a31f6b81deb16c28d930aeea7708e35;actionxCookie={"fired":true}&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>NBCN US</title>
+<link>http://50.18.244.186/server/play/golfxctgstg/4296000/prog.m3u8?anvack=nbcu_nbcsn_liveextra_ios_prod_cbe77b80ed3c34525e416e1d5e83545d3c3a2f7a&amp;eud=lS2xYg2I fn1dBRCScIZDTpYmRYN4BR8f0UgXKU3Bgf2CvOMhndEEhSHmhwMzfnT/mxud3uutBNgpDzpEwlrVOHZjV4V6zI4rZWDiyJu5ahJd7/mE8n/PDyKs/OMwyUV&amp;anvauth=tb=0~te=1472236990~sgn=0d6f9a5641699454e32ccb218df3bd961d051439eb3976674dc61ee66cb3ab44&amp;t=1472236900|User-Agent=AppleCoreMedia/1.0.0.12H143 (iPhone; U; CPU OS 8_4 like Mac OS X; en_us)&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>ESPN US</title>
+<link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&amp;fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&amp;fw_csid=nbc_directv_web_live&amp;fw_caid=nbc_Live_12345&amp;anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&amp;fw_prof=169843:nbcu_anvato_web&amp;fw_network=169843&amp;fw_ltlg=&amp;fw_mvpd_id=DTV&amp;fw_sdk_flag= slcb vicb&amp;fw_metr=7&amp;_dev=web&amp;fw_sdk_flag_safe= slcb vicb&amp;_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&amp;_tkx_callsign=nbcpacific&amp;_tkx_hzip=03249&amp;_tkx_ehzip=undefined&amp;anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&amp;t=1474409235&amp;X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]F[/COLOR][COLOR=blue]S 2 US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]M[/COLOR][COLOR=blue]LB NETWORK US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]S[/COLOR][COLOR=blue]PORTS US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]T[/COLOR][COLOR=blue]SN 1 CA[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]T[/COLOR][COLOR=blue]SN 2 CA[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]T[/COLOR][COLOR=blue]SN 4 CA[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]T[/COLOR][COLOR=blue]SN 5 CA[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]F[/COLOR][COLOR=blue]OX SPORTS US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]S[/COLOR][COLOR=blue]N CENTRAL US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/60.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]S[/COLOR][COLOR=blue]NWL US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]S[/COLOR][COLOR=blue]N 1 US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]T[/COLOR][COLOR=blue]SN 3 CA[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]W[/COLOR][COLOR=blue]WE US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]N[/COLOR][COLOR=blue]BA TV US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]F[/COLOR][COLOR=blue]S 1 US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]E[/COLOR][COLOR=blue]SPN US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=gray]N[/COLOR][COLOR=blue]BCSN US[/COLOR][/B]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=red]S[/COLOR][COLOR=blue]EC[/COLOR][/B]</title>
+<link>http://content-ausc2.uplynk.com/channel/82d2dea077b04e08af98c124692fafd7/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1476547298&amp;ptid=SEC_LINEAR_VDMS&amp;rn=546396372&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=secnetwork&amp;ad.csid=watchespn:chromecast:secnetwork&amp;ad.caid=a18319527&amp;eid=espn_SEC&amp;euid=SEC_VDMS&amp;ct=c&amp;sig=cff4d768720a0c4517024722ce257ba3b1349f873a7d6d85f8deafbcae25dbd9&amp;pbs=c12885a4ed624ee0be9f4733afd5836&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=red]E[/COLOR][COLOR=blue]SPN Goal Line[/COLOR][/B</title>
+<link>http://content-ausc2.uplynk.com/channel/5d2e8a8a73034d15863560093f5119f3/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1475951102&amp;ptid=ESPN_tvOS_VDMS&amp;rn=106511004&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=e3ads&amp;ad.csid=watchespn:chromecast:e3ads&amp;ad.caid=g20161008&amp;eid=espn_bbgl&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=e667fe708fe92fa534fedb1d43194aef8af8912d084d703e05f9a29301722681&amp;pbs=36ef011fdb1c43a3a48f5dbc1c61fa38&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR=red]E[/COLOR][COLOR=blue]SPNU[/COLOR]</title>
+<link>http://content-ausc2.uplynk.com/channel/852f3e08953a485d90f8c924a101b668/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1476547090&amp;ptid=ESPN_tvOS_VDMS&amp;rn=685664813&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=e3ads&amp;ad.csid=watchespn:chromecast:e3ads&amp;ad.caid=a19276650&amp;eid=espn_espnu&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=72ea3ce264718451debbe27d0665e28911cf781b1275676191345b51a2a65ea1&amp;pbs=3efca81b75fa48749c1f835f5b36327d&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
