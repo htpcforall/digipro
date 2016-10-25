@@ -1,5 +1,5 @@
 ﻿<item>
-<title>[B][COLOR yellow]** NEW HD TV **[/COLOR][COLOR limegreen][B] =====USA LIVE TV=====[/B][/COLOR]</title>
+<title>[B][COLOR yellow]** UPDATE! ** New HD channels marked with * can take a few clicks to play, but worth it.[/COLOR][COLOR limegreen][B] ==USA LIVE TV==[/B][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink>
 <link>http://Ignoreme</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>* ABC Alt</title>
+<title>* ABC</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=883&amp;title=ABC</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
@@ -160,14 +160,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>-E!</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/6.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vrrvwt1436890500.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>* ESPN HD</title>
 <link>http://Ignoreme</link>
@@ -186,13 +186,6 @@
 <item>
 <title>FOX NEWS</title>
 <link>http://163.172.37.71:8789/live/karimos/test/620.ts</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
-</item>
-
-<item>
-<title>* FOX NEWS</title>
-<link>http://158.69.228.76:8081/livetv/US_FOX_NEWS_CHANNEL/l_25_21304915_4845.ts?nimblesessionid=1170752&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjI1OjQ2IFBNJmhhc2hfdmFsdWU9dUE4aWpxM1J4TG8wR2dZUy9UMjYvUT09JnZhbGlkbWludXRlcz0x
-</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
@@ -305,13 +298,6 @@
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5023&amp;title=NICKELODEON</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>SPIKE</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.mpegts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
 
