@@ -5,7 +5,7 @@
 	<link>http://google.com</link>
 	<externallink></externallink>
 	<thumbnail>special://home/addons\plugin.video.dragon.sports\icon.png</thumbnail>
-	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/dz.png</fanart>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.png</fanart>
 </item>
 
 <item><title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
