@@ -44,7 +44,7 @@
 
 <item>
 <title>* FOX</title>
-<link>http://158.69.228.76:8081/livetv/US_FOX/l_11871_8784007_2196.ts?nimblesessionid=1170998&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjUxIFBNJmhhc2hfdmFsdWU9aWN1ZjQrVnJ3eTh5dm01K2ZHOUFGZz09JnZhbGlkbWludXRlcz0x
+<link>http://158.69.228.76:8081/livetv/US_FOX/chunks.m3u8??nimblesessionid=1170998&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjUxIFBNJmhhc2hfdmFsdWU9aWN1ZjQrVnJ3eTh5dm01K2ZHOUFGZz09JnZhbGlkbWludXRlcz0x
 </link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>
 <fanart></fanart>
@@ -114,8 +114,8 @@
 <fanart></fanart>
 </item>
 <item>
-<title>* DISCOVERY</title>
-<link>http://158.69.228.76:8081/livetv/US_DISCOVERY_CHANNEL/l_286_21924673_5344.ts?nimblesessionid=1170826&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjAyIFBNJmhhc2hfdmFsdWU9S0ZPOXRCRG9VMVdvRVJMSGlYRzFKQT09JnZhbGlkbWludXRlcz0x
+<title>** DISCOVERY</title>
+<link>http://158.69.228.76:8081/livetv/US_DISCOVERY_CHANNEL/chunks.m3u8?nimblesessionid=1170826&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjAyIFBNJmhhc2hfdmFsdWU9S0ZPOXRCRG9VMVdvRVJMSGlYRzFKQT09JnZhbGlkbWludXRlcz0x
 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
@@ -137,7 +137,7 @@
 
 <item>
 <title>* ESPN HD</title>
-<link>http://158.69.228.76:8081/livetv/US_ESPN/l_289_21953927_5345.ts?nimblesessionid=1170933&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjMyIFBNJmhhc2hfdmFsdWU9aEFsLzA0cU4zcjZQRXFVWDh2emxqQT09JnZhbGlkbWludXRlcz0x
+<link>http://158.69.228.76:8081/livetv/US_ESPN/chunks.m3u8??nimblesessionid=1170933&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjMyIFBNJmhhc2hfdmFsdWU9aEFsLzA0cU4zcjZQRXFVWDh2emxqQT09JnZhbGlkbWludXRlcz0x
 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 <fanart></fanart>
