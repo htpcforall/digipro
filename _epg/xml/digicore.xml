@@ -14,6 +14,14 @@
 </item>
 
 <item>
+<title>* ABC</title>
+<link>http://158.69.228.76:8081/livetv/US_FOX/l_11871_8784007_2196.ts?nimblesessionid=1170998&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjUxIFBNJmhhc2hfdmFsdWU9aWN1ZjQrVnJ3eTh5dm01K2ZHOUFGZz09JnZhbGlkbWludXRlcz0x
+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>CBS</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1516.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
@@ -31,7 +39,14 @@
 <title>FOX</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>* FOX</title>
+<link>http://158.69.228.76:8081/livetv/US_FOX/l_11871_8784007_2196.ts?nimblesessionid=1170998&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjUxIFBNJmhhc2hfdmFsdWU9aWN1ZjQrVnJ3eTh5dm01K2ZHOUFGZz09JnZhbGlkbWludXRlcz0x
+</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -98,6 +113,13 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>* DISCOVERY</title>
+<link>http://158.69.228.76:8081/livetv/US_DISCOVERY_CHANNEL/l_286_21924673_5344.ts?nimblesessionid=1170826&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjAyIFBNJmhhc2hfdmFsdWU9S0ZPOXRCRG9VMVdvRVJMSGlYRzFKQT09JnZhbGlkbWludXRlcz0x
+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>E!</title>
@@ -114,6 +136,14 @@
 </item>
 
 <item>
+<title>* ESPN HD</title>
+<link>http://158.69.228.76:8081/livetv/US_ESPN/l_289_21953927_5345.ts?nimblesessionid=1170933&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjMyIFBNJmhhc2hfdmFsdWU9aEFsLzA0cU4zcjZQRXFVWDh2emxqQT09JnZhbGlkbWludXRlcz0x
+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>FOOD NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/319.mpegts</link>
 <thumbnail></thumbnail>
@@ -123,6 +153,13 @@
 <item>
 <title>FOX NEWS</title>
 <link>http://163.172.37.71:8789/live/karimos/test/620.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
+</item>
+
+<item>
+<title>* FOX NEWS</title>
+<link>http://158.69.228.76:8081/livetv/US_FOX_NEWS_CHANNEL/l_25_21304915_4845.ts?nimblesessionid=1170752&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjI1OjQ2IFBNJmhhc2hfdmFsdWU9dUE4aWpxM1J4TG8wR2dZUy9UMjYvUT09JnZhbGlkbWludXRlcz0x
+</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
@@ -215,7 +252,13 @@
 <thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<item>
+<title>* TNT-</title>
+<link>http://158.69.228.214:8081/livetv/US_TNT/l_245_20428276_977.ts?nimblesessionid=662318&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjExOjA3IFBNJmhhc2hfdmFsdWU9czVFUGJDbnh6bW9lWUI0bzNOeCtlUT09JnZhbGlkbWludXRlcz0x
+</link>
+<thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>TLC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.mpegts</link>
@@ -226,6 +269,14 @@
 <item>
 <title>USA</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/428.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>* USA</title>
+<link>http://158.69.228.46:8081/livetv/US_USA/l_104_20593906_3342.ts?nimblesessionid=685750&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjEzOjI3IFBNJmhhc2hfdmFsdWU9ZVFtOUdmY0RKZzZUSG5Ib3RYNE9Sdz09JnZhbGlkbWludXRlcz0x
+</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -291,6 +342,13 @@
 <item>
 <title>ABC NEWS HD</title>
 <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CBS NEWS</title>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -526,6 +584,7 @@
 <link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&amp;fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&amp;fw_csid=nbc_directv_web_live&amp;fw_caid=nbc_Live_12345&amp;anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&amp;fw_prof=169843:nbcu_anvato_web&amp;fw_network=169843&amp;fw_ltlg=&amp;fw_mvpd_id=DTV&amp;fw_sdk_flag= slcb vicb&amp;fw_metr=7&amp;_dev=web&amp;fw_sdk_flag_safe= slcb vicb&amp;_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&amp;_tkx_callsign=nbcpacific&amp;_tkx_hzip=03249&amp;_tkx_ehzip=undefined&amp;anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&amp;t=1474409235&amp;X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch&amp;mode=15</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR=gray]FS 2 US[/COLOR][/B]</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8</link>
