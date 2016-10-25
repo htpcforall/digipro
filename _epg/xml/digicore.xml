@@ -252,13 +252,23 @@
 <thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
 <fanart></fanart>
 </item>
+l_245_20428276_977.ts?nimblesessionid=662318&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjExOjA3IFBNJmhhc2hfdmFsdWU9czVFUGJDbnh6bW9lWUI0bzNOeCtlUT09JnZhbGlkbWludXRlcz0x
 <item>
-<title>* TNT-</title>
-<link>http://158.69.228.214:8081/livetv/US_TNT/l_245_20428276_977.ts?nimblesessionid=662318&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjExOjA3IFBNJmhhc2hfdmFsdWU9czVFUGJDbnh6bW9lWUI0bzNOeCtlUT09JnZhbGlkbWludXRlcz0x
+<title>** TNT-</title>
+<link>http://158.69.228.214:8081/livetv/US_TNT/playlist.m3u8
 </link>
 <thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>** TNT-</title>
+<link>http://158.69.228.214:8081/livetv/US_TNT/chunks.m3u8?nimblesessionid=662318&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjExOjA3IFBNJmhhc2hfdmFsdWU9czVFUGJDbnh6bW9lWUI0bzNOeCtlUT09JnZhbGlkbWludXRlcz0x
+</link>
+<thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>TLC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.mpegts</link>
