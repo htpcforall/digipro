@@ -15,7 +15,7 @@
 
 <item>
 <title>* ABC</title>
-<link>http://158.69.228.46:8081/livetv/US_ABC/chunks.m3u8?nimblesessionid=686232&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM4OjAxIFBNJmhhc2hfdmFsdWU9cTA0M1JqcFdzWjlXUDBaN1FiV2dEZz09JnZhbGlkbWludXRlcz0x
+<link>http://158.69.228.46:8081/livetv/US_ABC/chunks.m3u8?nimblesessionid=686232&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM4OjAxIFBNJmhhc2hfdmFsdWU9cTA0M1JqcFdzWjlXUDBaN1FiV2dEZz09JnZhbGlkbWludXRlcz0x
 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
@@ -44,7 +44,7 @@
 
 <item>
 <title>* FOX</title>
-<link>http://158.69.228.76:8081/livetv/US_FOX/l_11871_8784007_2196.ts?nimblesessionid=1170998&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjUxIFBNJmhhc2hfdmFsdWU9aWN1ZjQrVnJ3eTh5dm01K2ZHOUFGZz09JnZhbGlkbWludXRlcz0x
+<link>http://158.69.228.76:8081/livetv/US_FOX/l_11871_8784007_2196.ts?nimblesessionid=1170998&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjUxIFBNJmhhc2hfdmFsdWU9aWN1ZjQrVnJ3eTh5dm01K2ZHOUFGZz09JnZhbGlkbWludXRlcz0x
 </link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>
 <fanart></fanart>
