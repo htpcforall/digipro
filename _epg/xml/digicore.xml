@@ -7,16 +7,8 @@
 </item>
 
 <item>
-<title>ABC</title>
+<title>-ABC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/3.mpegts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>** ABC</title>
-<link>http://158.69.228.46:8081/livetv/US_ABC/chunks.m3u8?nimblesessionid=686232&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM4OjAxIFBNJmhhc2hfdmFsdWU9cTA0M1JqcFdzWjlXUDBaN1FiV2dEZz09JnZhbGlkbWludXRlcz0x
-</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -36,30 +28,21 @@
 </item>
 
 <item>
-<title>FOX</title>
+<title>-FOX</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>
 <fanart></fanart>
-</item>
+</item>x
 
 <item>
-<title>* FOX</title>
-<link>http://158.69.228.76:8081/livetv/US_FOX/chunks.m3u8??nimblesessionid=1170998&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjUxIFBNJmhhc2hfdmFsdWU9aWN1ZjQrVnJ3eTh5dm01K2ZHOUFGZz09JnZhbGlkbWludXRlcz0x
-</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>NBC</title>
+<title>-NBC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>
-
 <fanart></fanart>
 </item>
 
 <item>
-<title>A & E</title>
+<title>-A & E</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 <fanart></fanart>
@@ -73,14 +56,14 @@
 </item>
 
 <item>
-<title>ANIMAL PLANET</title>
+<title>-ANIMAL PLANET</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail> 
 <fanart></fanart>
 </item>
 
 <item>
-<title>BRAVO</title>
+<title>-BRAVO</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/5.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png</thumbnail> 
 <fanart></fanart>
@@ -101,7 +84,7 @@
 </item>
 
 <item>
-<title>COMEDY CENTRAL</title>
+<title>-COMEDY CENTRAL</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxqwpq1445015855.png</thumbnail> 
 <fanart></fanart>
@@ -113,16 +96,9 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
-<item>
-<title>** DISCOVERY</title>
-<link>http://158.69.228.76:8081/livetv/US_DISCOVERY_CHANNEL/chunks.m3u8?nimblesessionid=1170826&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjAyIFBNJmhhc2hfdmFsdWU9S0ZPOXRCRG9VMVdvRVJMSGlYRzFKQT09JnZhbGlkbWludXRlcz0x
-</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
-<title>E!</title>
+<title>-E!</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/6.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vrrvwt1436890500.png</thumbnail>
 <fanart></fanart>
@@ -130,14 +106,16 @@
 
 <item>
 <title>ESPN HD</title>
-<link>http://content-ausc2.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1474214815&amp;ptid=ESPN_tvOS_VDMS&amp;rn=82872664&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=e3ads&amp;ad.csid=watchespn:chromecast:e3ads&amp;ad.caid=a18030441&amp;eid=espn_espn1&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=e78446e90d5228de65144b352258ca268184170c8320f9b87cbabd38e59f698c&amp;pbs=4a7d26c638b34345ada53f08580cc376&amp;mode=15</link>
+<link>http://Ignoreme</link>
+	<jsonrpc>http://content-ausc2.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1474214815&amp;ptid=ESPN_tvOS_VDMS&amp;rn=82872664&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=e3ads&amp;ad.csid=watchespn:chromecast:e3ads&amp;ad.caid=a18030441&amp;eid=espn_espn1&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=e78446e90d5228de65144b352258ca268184170c8320f9b87cbabd38e59f698c&amp;pbs=4a7d26c638b34345ada53f08580cc376&amp;mode=15</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>* ESPN HD</title>
-<link>http://158.69.228.76:8081/livetv/US_ESPN/chunks.m3u8??nimblesessionid=1170933&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjM2OjMyIFBNJmhhc2hfdmFsdWU9aEFsLzA0cU4zcjZQRXFVWDh2emxqQT09JnZhbGlkbWludXRlcz0x
+<link>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5017&amp;title=ESPN
+
 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 <fanart></fanart>
@@ -234,7 +212,8 @@
 
 <item>
 <title>SYFY</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.mpegts</link>
+<link>http://158.69.228.214:8081/livetv/US_SYFY/chunks.m3u8?nimblesessionid=662616&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjE3OjQxIFBNJmhhc2hfdmFsdWU9TjMybUx4bmIwSkpxMXl6MnI5bm9PQT09JnZhbGlkbWludXRlcz0x
+</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
