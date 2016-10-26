@@ -86,6 +86,13 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
+<item><title>[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]AC Networks[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports%2f%3furl%3dhttp%253A%252F%252Fdragonstr.com%252Fchan%252FPAC.html%26mode%3d11%26name%3d%255BB%255D%255BCOLOR%253Dred%255DP%255B%252FCOLOR%255D%255BCOLOR%253Dblue%255DAC%2bNetworks%255B%252FCOLOR%255D%255B%252FB%255D%26iconimage%3dhttp%253A%252F%252Feversport.tv%252Fsites%252Fdefault%252Ffiles%252Flogo-pac-12-conference.png</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/PacNetworks.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
 <item><title>[B][COLOR=FF00FF00]L[/COLOR][COLOR=blue]ive Sports Channels + Other Events [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Fchan%2FSChan.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DL%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dive+Sports+Channels+%2B+Other+Events+%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FTelevision.png</jsonrpc>
@@ -101,13 +108,6 @@
 </item>
 
 <!--
-<item><title>[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]AC Networks[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fPacNetworks.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dP%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dAC%20Networks%5b%2fCOLOR%5d%5bCOLOR%3dred%5d%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=pac_networks</jsonrpc>
-	<thumbnail>http://dragonstr.com/new_ds/images/PacNetworks.png</thumbnail>
-	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
-</item>
-
 <item><title>[B][COLOR=FF00FF00]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fReplays.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dR%5b%2fCOLOR%5d%5bCOLOR%3dblue%5deplays%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=dragon_sports_replays</jsonrpc>

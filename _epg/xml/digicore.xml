@@ -1,19 +1,25 @@
 ﻿<item>
-<title>[B][COLOR yellow]UPDATED again. Less channels but all should be working.[/COLOR][COLOR limegreen][B] ==USA LIVE TV==[/B][/COLOR]</title>
+<title>[B][COLOR yellow]-All Working-. Less channels - more stable.[COLOR limegreen][B] ==USA LIVE TV==[/B]</title>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink>
 <link>http://Ignoreme</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
-<title>* ABC</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5001&amp;title=ABC</jsonrpc>
+<title>NBC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ABC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>CBS</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1516.mpegts</link>
@@ -21,63 +27,32 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>CW</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/138.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
-<fanart></fanart>
 </item>
 
-<!--
 <item>
-<title>* FOX</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5004&amp;title=FOX</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fox.png</thumbnail>
+<title>AMC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>* NBC</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5005&amp;title=NBC</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/nbc.png</thumbnail>
+<title>BRAVO</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>* A&E</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5008&amp;title=AETV</jsonrpc>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
+<title>FOX</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title>* AMC</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5009&amp;title=AMC</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail> 
-<fanart></fanart>
-</item>
-
-<item>
-<title>* ANIMAL PLANET</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5010&amp;title=ANIMAL PLANET</jsonrpc>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail> 
-<fanart></fanart>
-</item>
-
-<item>
-<title>* BRAVO</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5011&amp;title=BRAVO</jsonrpc>
-<thumbnail>https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png</thumbnail> 
-<fanart></fanart>
-</item>
--->
 
 <item>
 <title>CARTOON NETWORK</title>
@@ -87,43 +62,46 @@
 </item>
 
 <item>
+<title>COMEDY CENTRAL</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>CNN</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1505.mpegts</link>
 <referer></referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
-<!--
+
 <item>
-<title>* COMEDY CENTRAL</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5015&amp;title=COMEDY CENTRAL</jsonrpc>
-<thumbnail>https://www.thelogodb.com/images/media/logo/wxqwpq1445015855.png</thumbnail> 
+<title>DISNEY CHANNEL</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.mpegts<link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ruywvx1435106173.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
+<item>
+<title>DISNEY XD </title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.mpegts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>DISCOVERY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/476.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
-
-<!--
-<item>
-<title>-E!</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/6.mpegts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vrrvwt1436890500.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>* ESPN HD</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5017&amp;title=ESPN</jsonrpc>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
-<fanart></fanart>
-</item>
--->
 
 <item>
 <title>FOOD NETWORK</title>
@@ -138,16 +116,6 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
-<!--
-<item>
-<title>* FOX NEWS</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5018&amp;title=FOX NEWS</jsonrpc>
-<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
-<fanart></fanart>
-</item>
--->
-
 <item>
 <title>FX</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/337.mpegts</link>
@@ -156,9 +124,58 @@
 </item>
 
 <item>
-<title>FXX HD</title>
+<title>FX</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FXX</title>
+<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvyvsx1434502420.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FXX</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/782.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LIFETIME</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<item>
+<title>TLC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
+<title>TRUTV</title>
+<link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SPIKE</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>SYFY</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -168,134 +185,78 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
-
 <item>
-<title>HISTORY 2</title>
+<title>H2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8<link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>H2</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/375.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
-<title>* LIFETIME</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5021&amp;title=LIFETIME</jsonrpc>
-<thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
+<title>NATIONAL GEOGRAPHIC</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>NATIONAL GEOGRAPHIC</title>
+<link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NAT GEO WILD</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+<item>
+<title>NAT GEO WILD</title>
+<link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>MY9</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
--->
-<!--
-<item>
-<title>* NATIONAL GEOGRAPHIC</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=2373&amp;title=NATIONAL GEOGRAPHIC</jsonrpc>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
+<title>[COLOR blue]ANIMAL PLANET [/COLOR]</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8<link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
-<title>* NATIONAL GEOGRAPHIC CHANNEL</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5022&amp;title=NATIONAL GEOGRAPHIC CHANNEL</jsonrpc>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
-<fanart></fanart>
-</item>
--->
 <item>
 <title>NICKELODEON</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1503.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
-<!--
-<item>
-<title>* SPIKE</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5024&amp;title=SPIKE</jsonrpc>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
-<title>* SYFY</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5025&amp;title=SYFY</jsonrpc>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
-<fanart></fanart>
+<title>USA</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
-<item>
-<title>* TBS</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5026&amp;title=TBS</jsonrpc>
-<thumbnail>http://mymagicstack.com/moveit/static/pics/tbs.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>* TNT</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5027&amp;title=TNT</jsonrpc>
-</link>
-<thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/tnt-logo-2015.png</thumbnail>
-<fanart></fanart>
-</item>
--->
 <item>
 <title>USA</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/428.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
-<title>* USA</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=5028&amp;title=USA</jsonrpc>
+<title>USA</title>
+<link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
--->
 
 <item>
-<title>DISNEY CHANNEL</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.mpegts</link>
-<referer></referer>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DISNEY XD</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.mpegts</link>
-<referer></referer>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ID</title>
+<title>INVESTIGATION DISCOVERY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/477.mpegts</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
-<title>* ID EXTRA</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://program.apollo/?action=apollo&amp;imdb=9999&amp;season=392&amp;title=ID EXTRA</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
--->
-
-<item>
-<title>NASA</title>
-<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -303,7 +264,7 @@
 <!--NEWS-->
 
 <item>
-<title>[COLOR limegreen][B]=====NEWS CHANNELS=====[/B][/COLOR]</title>
+<title>[COLOR limegreen][B]=====NEWS CHANNELS=====[/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -323,19 +284,30 @@
 </item>
 
 <item>
-<title>BLOOMBERG</title>
-<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+<title>CNN</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1505.mpegts</link>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
-<!--
+
+<item> 
+	<title>CNN</title>
+	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DCNN%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
+</item>
+
 <item>
-<title>CNBC</title>
-<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
-<referer></referer>
-<thumbnail></thumbnail>
+<title>NBC NEWS</title>
+<link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&amp;fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&amp;fw_csid=nbc_directv_web_live&amp;fw_caid=nbc_Live_12345&amp;anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&amp;fw_prof=169843:nbcu_anvato_web&amp;fw_network=169843&amp;fw_ltlg=&amp;fw_mvpd_id=DTV&amp;fw_sdk_flag= slcb vicb&amp;fw_metr=7&amp;_dev=web&amp;fw_sdk_flag_safe= slcb vicb&amp;_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&amp;_tkx_callsign=nbcpacific&amp;_tkx_hzip=03249&amp;_tkx_ehzip=undefined&amp;anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&amp;t=1474409235&amp;X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch&amp;mode=15</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
--->
+
+<item>
+<title>THE WEATHER CHANNEL</title>
+<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8></link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
+</item>
+
 <item>
 <title>WEATHER NATION</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
@@ -344,31 +316,12 @@
 </item>
 
 <item>
-<title>HSN</title>
-<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31</link>
+<title>NASA</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
-<title>HSN 2</title>
-<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>THE WEATHER CHANNEL</title>
-<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8></link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
-</item>
-<!--
-<item>
-<title>ABC NEWS</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
-<thumbnail>http://cdn.abclocal.go.com/assets/news/global/images/partners/abc/default_800x450.jpg</thumbnail>
-</item>
--->
 <item> 
 	<title>ALJAZEERA</title>
 	<link>plugin://plugin.video.israelive/?url=4%3Fmode%3D1%26ignorefilmonguide%3D1&amp;mode=10&amp;name=%5BCOLOR+yellow%5D%5BB%5DAl+Jazeera%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F4%2Fextra_big_logo.png&amp;description=&amp;displayname=Al+Jazeera&amp;categoryid=10359&quot;)</link>
@@ -393,6 +346,22 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
 </item>
 
+<item>
+<title>BLOOMBERG</title>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<!--
+<item>
+<title>CNBC</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+-->
+
 <item> 
 	<title>NHK WORLD</title>
 	<link>plugin://plugin.video.israelive/?url=http%3A%2F%2Fweb-cache.stream.ne.jp%2Fwww11%2Fnhkworld-tv%2Fglobal%2F222714%2Flive.m3u8&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DNHK+World+HD%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic-cdn1.ustream.tv%2Fi%2Fchannel%2Fpicture%2F7%2F4%2F9%2F7%2F7497266%2F7497266_nhk_world_logo2_1299927691%2C640x360%2Cr%3A1.jpg&amp;description=&amp;displayname=NHK+World+HD&amp;categoryid=Favourites&amp;sf_options=meta%3Depisode%253DS0%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526season%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526studio%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DNHK%252BWorld%252BHD%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526duration%253D0%26winID%3D10025%26_options_sf&quot;</link>
@@ -406,39 +375,102 @@
 <fanart></fanart>
 </item>
 
+<!-- PREMIUM  -------------------------------->
+
 <item>
-<title>[COLOR limegreen][B]=====PREMIUM CHANNELS=====[/B][/COLOR]</title>
+<title>[COLOR limegreen][B]=====PREMIUM CHANNELS=====[/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail>/thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
-<title>SHOWTIME SHOWCASE</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/172.mpegts
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>SHOWTIME 2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
--->
+
 <item>
 <title>SHOWTIME EXTREME</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/173.mpegts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
+<item>
+<title>SHOWTIME SHOWCASE</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+
+<item>
+<title>STARZ EAST</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzhd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>STARZ WEST</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/169.mpegts</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzhd.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>STARZ CINEMA</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/179.mpegts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzcinema.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
-<title>[COLOR limegreen][B]=====SPORTS HD=====[/B][/COLOR]</title>
+<title>STARZ ENCORE</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+
+<!-- SPORTS ----------------------->
+
+<item>
+<title>[COLOR limegreen][B]=====SPORTS HD=====[/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK HD</title>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_4500.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item>
+	<title>NFL NETWORK HD 2</title>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_3000.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item> 
+	<title>NFL NETWORK</title>
+	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_1600.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
+<item>
+<title>NBC GOLF</title>
+<link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8</link>
+<thumbnail>https://digixstreamusa.com/wp-content/uploads/2016/10/nbx-golx.png?x22524</thumbnail>
+</item>
+
+<item>
+<title>NBC GOLF ALT</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8</link>
+<thumbnail>https://digixstreamusa.com/wp-content/uploads/2016/10/nbx-golx.png?x22524</thumbnail>
+</item>
+<item>
+<title>FS2</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
 </item>
 
 <item>
@@ -447,6 +479,14 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>FOX SPORTS NEWS</title>
+<link>plugin://plugin.video.ProjectCypher/?url=http%3A%2F%2Ffoxsportshlsg01-lh.akamaihd.net%2Fi%2Ffsnewshls_0%40301672%2Fmaster.m3u8%3F%7CX-Forwarded-For%3D110.33.122.75&amp;mode=12&quot;)
+</link>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/fox-sports-news-hero.png</thumbnail>
+</item>
+
 <!--
 <item>
 <title>ESPN</title>
@@ -481,27 +521,23 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 -->
-<item>
-<title>NBCSN?</title>
-<link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&amp;fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&amp;fw_csid=nbc_directv_web_live&amp;fw_caid=nbc_Live_12345&amp;anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&amp;fw_prof=169843:nbcu_anvato_web&amp;fw_network=169843&amp;fw_ltlg=&amp;fw_mvpd_id=DTV&amp;fw_sdk_flag= slcb vicb&amp;fw_metr=7&amp;_dev=web&amp;fw_sdk_flag_safe= slcb vicb&amp;_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&amp;_tkx_callsign=nbcpacific&amp;_tkx_hzip=03249&amp;_tkx_ehzip=undefined&amp;anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&amp;t=1474409235&amp;X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch&amp;mode=15</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
-</item>
+
 <!--
 <item>
-<title>[B][COLOR=gray]SEC[/COLOR][/B]</title>
+<title>[B][COLOR=gray]SEC[/B]</title>
 <link>http://content-ausc2.uplynk.com/channel/82d2dea077b04e08af98c124692fafd7/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1476547298&amp;ptid=SEC_LINEAR_VDMS&amp;rn=546396372&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=secnetwork&amp;ad.csid=watchespn:chromecast:secnetwork&amp;ad.caid=a18319527&amp;eid=espn_SEC&amp;euid=SEC_VDMS&amp;ct=c&amp;sig=cff4d768720a0c4517024722ce257ba3b1349f873a7d6d85f8deafbcae25dbd9&amp;pbs=c12885a4ed624ee0be9f4733afd5836&amp;mode=15</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 -->
 <!--
 <item>
-<title>[B][COLOR=gray]ESPN Goal Line[/COLOR][/B]</title>
+<title>[B][COLOR=gray]ESPN Goal Line[/B]</title>
 <link>http://content-ausc2.uplynk.com/channel/5d2e8a8a73034d15863560093f5119f3/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1475951102&amp;ptid=ESPN_tvOS_VDMS&amp;rn=106511004&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=e3ads&amp;ad.csid=watchespn:chromecast:e3ads&amp;ad.caid=g20161008&amp;eid=espn_bbgl&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=e667fe708fe92fa534fedb1d43194aef8af8912d084d703e05f9a29301722681&amp;pbs=36ef011fdb1c43a3a48f5dbc1c61fa38&amp;mode=15</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR=gray]ESPNU[/COLOR][/B]</title>
+<title>[B][COLOR=gray]ESPNU[/B]</title>
 <link>http://content-ausc2.uplynk.com/channel/852f3e08953a485d90f8c924a101b668/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&amp;exp=1476547090&amp;ptid=ESPN_tvOS_VDMS&amp;rn=685664813&amp;tc=1&amp;oid=d09b16c953aa40c98dd8c513526aca5a&amp;linearv=4&amp;ad=e3ads&amp;ad.csid=watchespn:chromecast:e3ads&amp;ad.caid=a19276650&amp;eid=espn_espnu&amp;euid=ESPN3_VDMS&amp;ct=c&amp;sig=72ea3ce264718451debbe27d0665e28911cf781b1275676191345b51a2a65ea1&amp;pbs=3efca81b75fa48749c1f835f5b36327d&amp;mode=15</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
