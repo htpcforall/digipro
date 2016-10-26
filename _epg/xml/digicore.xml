@@ -203,17 +203,20 @@
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
+
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>NAT GEO WILD</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
+
 <item>
 <title>NAT GEO WILD</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
@@ -253,17 +256,26 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/41.mpegts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/477.mpegts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>ADULT SWIM</title>
+<link>http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8</link>
+<thumbnail>http://i.cdn.turner.com/adultswim/big/img/global/adultswim.jpg</thumbnail>
+<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
 <!--NEWS-->
@@ -548,6 +560,60 @@
 </item>
 -->
 <!----------------------------------------->
+<item>
+<title>[COLOR limegreen][B]=====TESTING=====[/COLOR][/B]</title>
+<link>http://www.youtube.com</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Sports  [COLOR orange] Sportsnet Ontario Android [/COLOR]</title>
+<link>http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_ontario/as/live/sn_ontario_hd_ipad.m3u8</link>
+<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ON.png</thumbnail>
+<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
+</item>
+
+<item>
+<title>Sports  [COLOR orange] Sportsnet 360 - Android [/COLOR]</title>
+<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
+<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-360.png</thumbnail>
+<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
+</item>
+
+<item>
+<title>Sports  [COLOR orange] Sportsnet East - Android [/COLOR]</title>
+<link>http://nlds186.cdnak.neulion.com/nlds/sportsnetnow/sn_east/as/live/sn_east_hd_ipad.m3u8</link>
+<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-EAST.png</thumbnail>
+<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
+</item>
+
+<item>
+<title>Sports  [COLOR orange] Sportsnet West - Android [/COLOR]</title>
+<link>http://nlds189.cdnak.neulion.com/nlds/sportsnetnow/sn_west/as/live/sn_west_hd_ipad.m3u8</link>
+<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-WEST.png</thumbnail>
+<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
+</item>
+
+<item>
+<title>Sports  [COLOR orange] Sportsnet Pacific - Android [/COLOR]</title>
+<link>http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_ipad.m3u8</link>
+<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-PAC.png</thumbnail>
+<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
+</item>
+
+<item>
+<title>Sports  [COLOR orange] Sportsnet One - Android [/COLOR]</title>
+<link>http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_ipad.m3u8</link>
+<thumbnail>http://i438.photobucket.com/albums/qq102/krazykraz/SN-ONE.png</thumbnail>
+<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
+</item>
+
+<item>
+<title>Sports  [COLOR orange] Sportsnet World - Android [/COLOR]</title>
+<link>http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_ipad.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxwxvv1433429786.png</thumbnail>
+<fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
+</item>
 
 <item>
 <title>TOROS</title>
