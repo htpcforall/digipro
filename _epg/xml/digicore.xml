@@ -253,7 +253,12 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<item>
+<title>INVESTIGATION DISCOVERY</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/41.mpegts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/477.mpegts</link>
@@ -383,13 +388,13 @@
 <thumbnail>/thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>SHOWTIME 2</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>SHOWTIME EXTREME</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/173.mpegts</link>
