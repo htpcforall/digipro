@@ -1,5 +1,5 @@
 ﻿<item>
-<title>[B][COLOR yellow]-All Working-. Less channels - more stable.[COLOR limegreen][B] ==USA LIVE TV==[/B]</title>
+<title>[B][COLOR yellow]-All Working-. Less channels - more stable.[/COLOR][COLOR limegreen]==USA LIVE TV==[/COLOR][/B]</title>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink>
 <link>http://Ignoreme</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
@@ -264,7 +264,7 @@
 <!--NEWS-->
 
 <item>
-<title>[COLOR limegreen][B]=====NEWS CHANNELS=====[/B]</title>
+<title>[COLOR limegreen][B]=====NEWS CHANNELS=====[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -378,7 +378,7 @@
 <!-- PREMIUM  -------------------------------->
 
 <item>
-<title>[COLOR limegreen][B]=====PREMIUM CHANNELS=====[/B]</title>
+<title>[COLOR limegreen][B]=====PREMIUM CHANNELS=====[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail>/thumbnail>
 <fanart></fanart>
@@ -433,7 +433,7 @@
 <!-- SPORTS ----------------------->
 
 <item>
-<title>[COLOR limegreen][B]=====SPORTS HD=====[/B]</title>
+<title>[COLOR limegreen][B]=====SPORTS HD=====[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
