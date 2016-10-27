@@ -9,7 +9,7 @@
 <item>
 <title>NBC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -26,13 +26,13 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>CW</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/138.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>A/E</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8</link>
@@ -82,7 +82,7 @@
 <item>
 <title>COMEDY CENTRAL</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wvsprt1433941265.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -293,7 +293,7 @@
 <item>
 <title>UNIVERSAL</title>
 <link>http://216.31.255.235/hlsl/12/UNIVERSAL/03.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/wpyvps1434506150.png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png</thumbnail>
 </item>
 
 
@@ -314,15 +314,15 @@
 </item>
 
 <item>
-<title>ABC NEWS HD</title>
+<title>ABC NEWS</title>
 <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
-<thumbnail>http://cdn.abclocal.go.com/assets/news/global/images/partners/abc/default_800x450.jpg</thumbnail><fanart></fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tusqrx1477576863.png</thumbnail><fanart></fanart>
 </item>
 
 <item>
 <title>CBS NEWS</title>
 <link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/svpqxs1476101931.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -342,7 +342,7 @@
 <item>
 <title>NBC NEWS</title>
 <link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&amp;fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&amp;fw_csid=nbc_directv_web_live&amp;fw_caid=nbc_Live_12345&amp;anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&amp;fw_prof=169843:nbcu_anvato_web&amp;fw_network=169843&amp;fw_ltlg=&amp;fw_mvpd_id=DTV&amp;fw_sdk_flag= slcb vicb&amp;fw_metr=7&amp;_dev=web&amp;fw_sdk_flag_safe= slcb vicb&amp;_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&amp;_tkx_callsign=nbcpacific&amp;_tkx_hzip=03249&amp;_tkx_ehzip=undefined&amp;anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&amp;t=1474409235&amp;X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch&amp;mode=15</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 </item>
 
 <item>
@@ -354,7 +354,7 @@
 <item>
 <title>NASA</title>
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -385,8 +385,7 @@
 <item>
 <title>BLOOMBERG</title>
 <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
-<referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
 </item>
 
 <!--
@@ -407,7 +406,7 @@
 <item>
 <title>RT DOCUMENTARY</title>
 <link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uyyvps1434018285.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -429,41 +428,41 @@
 <item>
 <title>SHOWTIME EXTREME</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/173.mpegts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qxxrrp1433428085.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SHOWTIME SHOWCASE</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qussys1467823036.png</thumbnail>
 </item>
 
 <item>
 <title>STARZ EAST</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzhd.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ WEST</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/169.mpegts</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzhd.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ CINEMA</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/179.mpegts</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/starzcinema.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ ENCORE</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
 <!-- SPORTS ----------------------->
@@ -527,26 +526,26 @@ plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sp
 <item>
 <title>NBC GOLF</title>
 <link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8</link>
-<thumbnail>https://digixstreamusa.com/wp-content/uploads/2016/10/nbx-golx.png?x22524</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxpxr1476105545.png</thumbnail>
 </item>
 
 <item>
 <title>NBC GOLF ALT</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8</link>
-<thumbnail>https://digixstreamusa.com/wp-content/uploads/2016/10/nbx-golx.png?x22524</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxpxr1476105545.png</thumbnail>
 </item>
 
 <item>
 <title>VERSUS HD</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/vers-us.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>WWE</title>
 <link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2.ts</link>
-<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/WWE-Network-Logo.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 <fanart></fanart>
 </item>
 
