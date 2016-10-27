@@ -1,5 +1,5 @@
 ﻿<item>
-<title>[B][COLOR yellow]* Updated List 10-27-16 *[/COLOR][COLOR limegreen]==USA LIVE TV==[/COLOR][/B]</title>
+<title>[B][COLOR yellow]* Updated 10-27-16 *[/COLOR][COLOR limegreen]=== LIVE TV ===[/COLOR][/B]</title>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink>
 <link>http://Ignoreme</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
@@ -102,8 +102,7 @@
 <item>
 <title>DISNEY XD </title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.mpegts</link>
-<referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
 <item>
@@ -116,7 +115,7 @@
 <item>
 <title>FOOD NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/319.mpegts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
 <!--
@@ -159,7 +158,7 @@
 <item>
 <title>LIFETIME</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
 
@@ -307,7 +306,7 @@
 <!--NEWS-->
 
 <item>
-<title>[COLOR limegreen][B]=====NEWS CHANNELS=====[/COLOR][/B]</title>
+<title>[COLOR limegreen][B]=== NEWS ===[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -413,7 +412,7 @@
 <!-- PREMIUM  -------------------------------->
 
 <item>
-<title>[COLOR limegreen][B]=====PREMIUM CHANNELS=====[/B][/COLOR]</title>
+<title>[COLOR limegreen][B]=== PREMIUM ===[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail>/thumbnail>
 <fanart></fanart>
@@ -468,7 +467,7 @@
 <!-- SPORTS ----------------------->
 
 <item>
-<title>[COLOR limegreen][B]=====SPORTS HD=====[/COLOR][/B]</title>
+<title>[COLOR limegreen][B]=== SPORTS ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
@@ -634,7 +633,7 @@ plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sp
 
 <!----------------------------------------->
 <item>
-<title>[COLOR limegreen][B]=====TESTING=====[/COLOR][/B]</title>
+<title>[COLOR limegreen][B]=== TESTING ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
