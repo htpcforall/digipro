@@ -277,6 +277,13 @@
 <fanart>http://gamerlimit.com/wp-content/uploads/2016/04/original.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORgreen]*[/COLOR]POKER CENTRAL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/88.ts&amp;streamtype=TSDOWNLOADER;name=POKER CENTRAL</link>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/20150813104750_poker-central-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <!--NEWS-->
 
 <item>
@@ -322,13 +329,6 @@
 <title>THE WEATHER CHANNEL</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
-</item>
-
-<item>
-<title>WEATHER NATION</title>
-<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
-<referer></referer>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -461,7 +461,7 @@
 </item>
 
 <item>
-	<title>NFL NETWORK HD 2</title>
+	<title>NFL NETWORK HD</title>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_3000.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
@@ -472,6 +472,19 @@
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
+<item>
+<title>NFL NETWORK</title>
+<link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/90.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NHL NETWORK</title>
+<link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/90.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>NBC GOLF</title>
 <link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8</link>
@@ -496,7 +509,52 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>TSN 1</title>
+<link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/92.ts</link>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>TSN 2</title>
+<link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/93.ts</link>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TSN 3</title>
+<link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/94.ts</link>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TSN 3</title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link></link>
+<thumbnailhttp://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 4</title>
+<link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/95.ts</link>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 5</title>
+<link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/96.ts</link>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>WWE</title>
+<link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2.ts</link>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/WWE-Network-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <!--
 <item>
