@@ -1,15 +1,21 @@
 <!-- DIGICORE DS -->
 
 <item>
-    <title>[B][COLOR grey]-=[/COLOR][COLOR red]Dragon [/COLOR][COLOR white]Streams [/COLOR][COLOR blue] Mod[/COLOR][COLOR grey]=-[/COLOR][/B]</title>
+    <title>[B][COLOR grey]-= [/COLOR][COLOR red]Dragon [/COLOR][COLOR white]Streams [/COLOR][COLOR blue]Mod[/COLOR][COLOR grey] =-[/COLOR][/B]</title>
 	<link>http://google.com</link>
 	<externallink></externallink>
 	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item>
-    <title>[B][COLOR grey] Better than the real thing.[/COLOR][/B]</title>
+<item><title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3a%2f%2fdragonstr.com%2findex2%2fFightMenu.html&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dF%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dight%20Pass%5b%2fCOLOR%5d%5b%2fB%5d&amp;iconimage=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F626557560666095616%2FXaueCX62.jpg</jsonrpc>
+	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[B][COLOR grey] Better than the real thing.[/COLOR][/B]</title>
 	<link>http://google.com</link>
 	<externallink></externallink>
 	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
@@ -58,13 +64,6 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3a%2f%2fdragonstr.com%2findex2%2fFightMenu.html&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dF%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dight%20Pass%5b%2fCOLOR%5d%5b%2fB%5d&amp;iconimage=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F626557560666095616%2FXaueCX62.jpg</jsonrpc>
-	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
-	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
-</item>
-
 <item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]ASCAR + NHRA[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Findex2%2FNascar.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DASCAR+%2B+NHRA%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=https%3A%2F%2Fassets.primesport.com%2Fprod%2Fimages%2Fkansas-speedway-logo.png</jsonrpc>
@@ -86,21 +85,14 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]AC Networks[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports%2f%3furl%3dhttp%253A%252F%252Fdragonstr.com%252Fchan%252FPAC.html%26mode%3d11%26name%3d%255BB%255D%255BCOLOR%253Dred%255DP%255B%252FCOLOR%255D%255BCOLOR%253Dblue%255DAC%2bNetworks%255B%252FCOLOR%255D%255B%252FB%255D%26iconimage%3dhttp%253A%252F%252Feversport.tv%252Fsites%252Fdefault%252Ffiles%252Flogo-pac-12-conference.png</jsonrpc>
-	<thumbnail>http://dragonstr.com/new_ds/images/PacNetworks.png</thumbnail>
-	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
-</item>
-
-<item><title>[B][COLOR=FF00FF00]L[/COLOR][COLOR=blue]ive Sports Channels + Other Events [/COLOR][/B]</title>
+<item><title>[B][COLOR=FF00FF00]L[/COLOR][COLOR=blue]ive Sports Channels & Events [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Fchan%2FSChan.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DL%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dive+Sports+Channels+%2B+Other+Events+%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=http%3A%2F%2Fdragonstr.com%2Fnew_ds%2Fimages%2FTelevision.png</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/Television.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]ews[/COLOR][/B]</title>
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]ews Networks[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Fchan%2FNews.html&amp;mode=11&amp;name=%5BB%5D%5BCOLOR%3DFF00FF00%5DN%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5Dews%5B%2FCOLOR%5D%5B%2FB%5D</jsonrpc>
 	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
