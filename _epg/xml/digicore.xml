@@ -1,5 +1,5 @@
 ﻿<item>
-<title>[B][COLOR yellow]* Updated 10-27-16 *[/COLOR][COLOR limegreen]=== LIVE TV ===[/COLOR][/B]</title>
+<title>[B][COLOR yellow]* Updated 10-31-16 *[/COLOR][COLOR limegreen]=== LIVE TV ===[/COLOR][/B]</title>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink>
 <link>http://Ignoreme</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
@@ -19,34 +19,41 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>CBS</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1516.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/1516.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
--->
-<!--
+
+
 <item>
 <title>CW</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/138.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/138.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
--->
+
+<item>
+<title>MY9</title>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/1501.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>A/E</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>AMC</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8<link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/372.mpegts<link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>BRAVO</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8<link>
@@ -67,73 +74,88 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+<!--backup
 <item>
-<title>ADULT SWIM</title>
-<link>http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8</link>
-<thumbnail>http://i.cdn.turner.com/adultswim/big/img/global/adultswim.jpg</thumbnail>
+<title>FOX</title>
+<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/139.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
+<fanart></fanart>
 </item>
 -->
-<!--
+
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://root-iptv.is-found.org:25461/live/zJyBiulPMV/Avxs812Ff9/814.ts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/471.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
--->
+
 <item>
 <title>COMEDY CENTRAL</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--backup
+<item>
+<title>COMEDY CENTRAL</title>
+<link></link>http://usaiptv.ddns.net:9090/load/32e3be66b3d7/645.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<fanart></fanart>
+</item>
+-->
 <item> 
 	<title>CNN</title>
-	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=CNN&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/1505.mpegts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.mpegts<link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/424.mpegts<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DISNEY XD </title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/422.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/476.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/476.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>FOOD NETWORK</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/319.mpegts</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
+<title>DIY CHANNEL</title>
+<link></link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/204.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>FOOD NETWORK</title>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/319.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
+<fanart></fanart>
+</item>
+<!--
 <item>
 <title>FOX NEWS</title>
 <link>http://163.172.37.71:8789/live/karimos/test/620.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>FX</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/337.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/337.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>FX</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8<link>
@@ -141,21 +163,21 @@
 <fanart></fanart>
 </item>
 -->
+<!--
 <item>
 <title>FXX</title>
 <link>http://216.31.255.235/hlsl/4/FXX/03.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
-</thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
-<title>FXX</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/782.mpegts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
 -->
+<item>
+<title>FXX</title>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/782.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>LIFETIME</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8</link>
@@ -190,28 +212,28 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>HISTORY</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/469.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/469.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>H2</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>H2</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/375.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8</link>
@@ -223,40 +245,41 @@
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>NAT GEO WILD</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
-<thumbnailhttps://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
+</thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>ANIMAL PLANET</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>NICKELODEON</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1503.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/1503.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
--->
-<!--
+
+
 <item>
 <title>USA</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/428.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
--->
+<!--
 <item>
 <title>USA</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 <!--
 <item>
 <title>INVESTIGATION DISCOVERY</title>
@@ -319,14 +342,20 @@
 <fanart></fanart>
 </item>
 
-<!--
+<item>
+<title>CNBC</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>CNN</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1505.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/1505.mpegts</link>
 <referer></referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
--->
+
 <item> 
 	<title>CNN</title>
 	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DCNN%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
