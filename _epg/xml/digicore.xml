@@ -531,7 +531,14 @@
 <item>
 <title>MLB NETWORK</title>
 <link>
-plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sports%2F%3Furl%3Dhttp%253A%252F%252F46.166.162.35%253A9090%252Fload%252Fb0922f3fa8aa%252F48.m3u8%26mode%3D15%26name%3D%255BB%255D%255BCOLOR%253Dgray%255DM%255B%252FCOLOR%255D%255BCOLOR%253Dblue%255DLB%2BNETWORK%2BUS%255B%252FCOLOR%255D%255B%252FB%255D%26iconimage%3D...&amp;mode=12&amp;iconimage=image%3A%2F%2F...%2F
+plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sports%2F%3Furl%3Dhttp%253A%252F%252F46.166.162.35%253A9090%252Fload%252Fb0922f3fa8aa%252F48.m3u8%26mode%3D15%26name%3D%255BB%255D%255BCOLOR%253Dgray%255DM%255B%252FCOLOR%255D%255BCOLOR%253Dblue%255DLB%2BNETWORK%2BUS%255B%252FCOLOR%255D%255B%252FB%255D%26iconimage%3D...&amp;mode=12&amp;iconimage=image%3A%2F%2F...%2F</link>
+</thumbnail>
+</item>
+
+<item>
+<title>NBA</title>
+<link>
+http://nlds290.cdnak.neulion.com/nlds/nba/tor/as/live/tor_hd_4500_ipad.m3u8?hdnea=expires=1477956575~access=/nlds/nba/tor/as/live/*~md5=7c93e2530b88e530dcd7b27f94bfa8a5&amp;nltid=nba&amp;nltdt=6&amp;uid=51083|Cookie=nlqptid=hdnea=expires=1477956575~access=/nlds/nba/tor/as/live/*~md5=7c93e2530b88e530dcd7b27f94bfa8a5&amp;nltid=nba&amp;nltdt=6&amp;uid=51083</link>
 </thumbnail>
 </item>
 
