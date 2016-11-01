@@ -36,7 +36,7 @@
 <item>
 <title>A/E</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 <!--
 <item>
@@ -86,10 +86,10 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>CNN</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1505.mpegts</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
+<item> 
+	<title>CNN</title>
+	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DCNN%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
 <item>
@@ -324,13 +324,14 @@
 <fanart></fanart>
 </item>
 
+<!--
 <item>
 <title>CNN</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1505.mpegts</link>
 <referer></referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
-
+-->
 <item> 
 	<title>CNN</title>
 	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DCNN%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
