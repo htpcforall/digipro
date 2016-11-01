@@ -346,14 +346,12 @@
 <item>
 <title>CNBC</title>
 <link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
-<referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
 
 <item>
 <title>CNN</title>
 <link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/1505.mpegts</link>
-<referer></referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
@@ -385,7 +383,7 @@
 <item> 
 	<title>ALJAZEERA</title>
 	<link>plugin://plugin.video.israelive/?url=4%3Fmode%3D1%26ignorefilmonguide%3D1&amp;mode=10&amp;name=%5BCOLOR+yellow%5D%5BB%5DAl+Jazeera%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F4%2Fextra_big_logo.png&amp;description=&amp;displayname=Al+Jazeera&amp;categoryid=10359&quot;)</link>
-	<thumbnail>http://www.aljazeera.com/mritems/Images/2014/10/26/beefc69a4b0d4b6aac13938ee98f0103_18.jpg</thumbnail>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
 </item>
 
 <item> 
