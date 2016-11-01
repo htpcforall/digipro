@@ -339,7 +339,13 @@
 <item>
 <title>CBS NEWS</title>
 <link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/svpqxs1476101931.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wsrvtw1477991820.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>CBSN</title>
+<link>https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/index_4000_av-p.m3u8?sd=10&rebase=o</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wsrvtw1477991820.png</thumbnail>
 <fanart></fanart>
 </item>
 
