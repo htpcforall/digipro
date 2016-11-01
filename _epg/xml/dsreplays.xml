@@ -1,0 +1,21 @@
+
+<item><title>[COLOR=FF00FF00]M[/COLOR][COLOR=blue]MA Replays[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fReplays.png&amp;mode=11&amp;name=%5bCOLOR%3dFF00FF00%5dM%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dMA%20Replays%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fdragonstr.com%2findex2%2fMMAReplays.html</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[COLOR=FF00FF00]M[/COLOR][COLOR=blue]MA/Boxing Replays[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fReplays.png&amp;mode=11&amp;name=%5bCOLOR%3dFF00FF00%5dM%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dMA%2fBoxing%20Replays%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fdragonstr.com%2findex2%2fMMAReplays2.html</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[COLOR=FF00FF00]W[/COLOR][COLOR=blue]restling Replays[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fReplays.png&amp;mode=11&amp;name=%5bCOLOR%3dFF00FF00%5dW%5b%2fCOLOR%5d%5bCOLOR%3dblue%5drestling%20Replays%20(New%20WIP)%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fdragonstr.com%2fWWE%2fReplays.html</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>

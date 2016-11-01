@@ -78,6 +78,13 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
+<item><title>[COLOR=FF00FF00]R[/COLOR][COLOR=blue]eplays[/COLOR]</title>
+    <link>http://Ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/dsreplays.xml</externallink>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
 <item><title>[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]roject D Replays[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.projectd</jsonrpc>
