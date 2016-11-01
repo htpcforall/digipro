@@ -325,7 +325,7 @@
 
 <item>
 <title>[COLOR limegreen][B]=== NEWS ===[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -438,48 +438,125 @@
 
 <item>
 <title>[COLOR limegreen][B]=== PREMIUM ===[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<link></link>
 <thumbnail>/thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
+<item>
+<title>ACTION MAX</title>
+<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/187.mpegts</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/7/7a/ActionMax_logo.svg/revision/latest?cb=20100322084951</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CINEMAX EAST</title>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/183.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CINEMAX 5</title>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/186.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO EAST</title>
+<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/189.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wrvxwy1465733105.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO COMEDY</title>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/194.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/quutxp1477987872.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO FAMILY</title>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/195.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO SIGNATURE</title>
+<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/192.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxtryu1477987973.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO ZONE</title>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/193.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SHOWTIME EAST</title>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/169.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>SHOWTIME 2</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/170.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/tqxvux1467823026.png</thumbnail>
+<fanart></fanart>
 </item>
--->
+
 <item>
 <title>SHOWTIME EXTREME</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/173.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/173.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxxrrp1433428085.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SHOWTIME SHOWCASE</title>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/172.mpegts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qussys1467823036.png</thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>SHOWTIME SHOWCASE</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qussys1467823036.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>STARZ EAST</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/182.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/182.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ WEST</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/169.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/169.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ CINEMA</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/179.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/179.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>STARZ EDGE</title>
+<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/180.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png</thumbnail>
 <fanart></fanart>
 </item>
 
