@@ -19,13 +19,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>CBS</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1516.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 <!--
 <item>
 <title>CW</title>
@@ -61,17 +62,18 @@
 </item>
 
 <item>
-<title>FOX</title>
+<title>FOX 43</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>ADULT SWIM</title>
 <link>http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8</link>
 <thumbnail>http://i.cdn.turner.com/adultswim/big/img/global/adultswim.jpg</thumbnail>
 </item>
+-->
 <!--
 <item>
 <title>CARTOON NETWORK</title>
@@ -88,10 +90,10 @@
 
 <item> 
 	<title>CNN</title>
-	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=%5BCOLOR+yellow%5D%5BB%5DCNN%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<link>plugin://plugin.video.israelive/?url=217%3B%3Bcnnint%3Fmode%3D6&amp;mode=11&amp;name=CNN&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F115%2Fextra_big_logo.png&amp;description=&amp;displayname=CNN&amp;categoryid=Favourites&amp;sf_options=meta%3Dduration%253D0%2526label%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%2526title%253D%25255BCOLOR%252Byellow%25255D%25255BB%25255DCNN%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>DISNEY CHANNEL</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.mpegts<link>
@@ -128,7 +130,7 @@
 <item>
 <title>FX</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/337.mpegts</link>
-<thumbnail>https://digixstreamusa.com/wp-content/uploads/2016/10/nbx-golx.png?x22524</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -138,8 +140,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
-
-
+-->
 <item>
 <title>FXX</title>
 <link>http://216.31.255.235/hlsl/4/FXX/03.m3u8<link>
@@ -147,14 +148,14 @@
 </thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>FXX</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/782.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>LIFETIME</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8</link>
@@ -179,24 +180,24 @@
 <item>
 <title>SPIKE</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SYFY</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>HISTORY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/469.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>H2</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8<link>
@@ -218,13 +219,6 @@
 </item>
 
 <item>
-<title>NATIONAL GEOGRAPHIC</title>
-<link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8<link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>NAT GEO WILD</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
@@ -233,7 +227,7 @@
 <item>
 <title>NAT GEO WILD</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
+<thumbnailhttps://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -243,12 +237,13 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>NICKELODEON</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1503.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
+-->
 <!--
 <item>
 <title>USA</title>
@@ -262,14 +257,14 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/477.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
