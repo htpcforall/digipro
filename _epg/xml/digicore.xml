@@ -583,25 +583,25 @@ http://usaiptv.ddns.net:9090/load/974e8154d838/50.m3u8
 </item>
 
 <item> 
-	<title>NFL NETWORK HD</title>
+	<title>NFL NETWORK HD </title>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_4500.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
 <item>
-	<title>NFL NETWORK HD</title>
+	<title>NFL NETWORK HD ALT1</title>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_3000.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
 <item> 
-	<title>NFL NETWORK</title>
-	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_1600.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BSD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<title>NFL NETWORK HD ALT2</title>
+	<link>http://iptvsensation.ns01.biz:6500/live/roxanne/roxanne/8693.ts</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 </item>
 
 <item>
-<title>NFL NETWORK</title>
+<title>NFL NETWORK HD ALT3</title>
 <link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/90.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 <fanart></fanart>
@@ -666,10 +666,17 @@ plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sp
 
 <item>
 <title>WWE</title>
-<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/79.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
+<link>http://iptvsensation.ns01.biz:6500/live/roxanne/roxanne/9530.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item> 
+	<title>WWE ALT</title>
+	<link>http://iptvsensation.ns01.biz:6500/live/roxanne/roxanne/8693.ts</link>
+	<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png</thumbnail>
+</item>
+
 <item>
 <title>SKY SPORTS BOX </title>
 <link>http://usaiptv.ddns.net:9090/load/974e8154d838/446.m3u8</link>
