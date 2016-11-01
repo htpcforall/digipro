@@ -82,7 +82,12 @@
 <fanart></fanart>
 </item>
 -->
-http://usaiptv.ddns.net:9090/load/974e8154d838/50.m3u8
+<item>
+<title>BOOMERANG</title>
+<link>http://151.80.105.182:8000/live/bentley/bentley/10806.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rprpvr1434469005.png</thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>CARTOON NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/974e8154d838/50.mpegts</link>
@@ -317,11 +322,17 @@ http://usaiptv.ddns.net:9090/load/974e8154d838/50.m3u8
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png</thumbnail>
 </item>
 
-
 <item>
 <title>POKER CENTRAL</title>
 <link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/88.ts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/pkercntrl.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ADULT SWIM</title>
+<link>http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8</link>
+<thumbnail>http://i.cdn.turner.com/adultswim/big/img/global/adultswim.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
