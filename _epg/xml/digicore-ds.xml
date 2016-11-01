@@ -8,16 +8,16 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3a%2f%2fdragonstr.com%2findex2%2fFightMenu.html&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dF%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dight%20Pass%5b%2fCOLOR%5d%5b%2fB%5d&amp;iconimage=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F626557560666095616%2FXaueCX62.jpg</jsonrpc>
+<item><title>[B][COLOR grey] Better than the real thing.[/COLOR][/B]</title>
+	<link>http://google.com</link>
+	<externallink></externallink>
 	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR grey] Better than the real thing.[/COLOR][/B]</title>
-	<link>http://google.com</link>
-	<externallink></externallink>
+<item><title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3a%2f%2fdragonstr.com%2findex2%2fFightMenu.html&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dF%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dight%20Pass%5b%2fCOLOR%5d%5b%2fB%5d&amp;iconimage=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F626557560666095616%2FXaueCX62.jpg</jsonrpc>
 	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
