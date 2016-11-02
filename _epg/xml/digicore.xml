@@ -634,19 +634,19 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
 
-
 <item>
 <title>MLB NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/974e8154d838/456.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>NBA</title>
 <link>
 http://nlds310.cdnak.neulion.com/nlds/nba/lac/as/live/lac_hd_4500_ipad.m3u8?hdnea=expires=1477964829~access=/nlds/nba/lac/as/live/md5=882ca2e3e11572efccfa4e728c4766d9&amp;nltid=nba&amp;nltdt=6&amp;uid=51083|Cookie=nlqptid=hdnea=expires=1477964829~access=/nlds/nba/lac/as/live/md5=882ca2e3e11572efccfa4e728c4766d9&amp;nltid=nba&amp;nltdt=6&amp;uid=51083</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqwyyy1433429142.png</thumbnail>
 </item>
+-->
 <item> 
 <title>FOX SPORTS NEWS</title>
 <link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
