@@ -400,7 +400,11 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<item> 
+	<title>ALJAZEERA</title>
+	<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
+</item>
 <item> 
 	<title>ALJAZEERA</title>
 	<link>plugin://plugin.video.israelive/?url=4%3Fmode%3D1%26ignorefilmonguide%3D1&amp;mode=10&amp;name=%5BCOLOR+yellow%5D%5BB%5DAl+Jazeera%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F4%2Fextra_big_logo.png&amp;description=&amp;displayname=Al+Jazeera&amp;categoryid=10359&quot;)</link>
@@ -695,7 +699,6 @@ plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sp
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>SPORTSNET EAST</title>
 <link>plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sports%2F%3Furl%3Dhttp%253A%252F%252Fnlds186.cdnak.neulion.com%252Fnlds%252Fsportsnetnow%252Fsn_east%252Fas%252Flive%252Fsn_east_hd_3000.m3u8%257CUser-Agent%253D%2522Mozilla%252F5.0%2B%2528Linux%253B%2BAndroid%2B4.0.4%253B%2BGalaxy%2BNexus%2BBuild%252FIMM76B%2529%2BAppleWebKit%252F535.19%2B%2528KHTML%252C%2Blike%2BGecko%2529%2BChrome%252F18.0.1025.133%2BMobile%2BSafari%252F535.19%2522%26mode%3D15%26name%3D%255BB%255D%255BCOLOR%253DFF00FF00%255DS%255B%252FCOLOR%255D%255BCOLOR%253Dblue%255Dportsnet%2BEast%255B%252FCOLOR%255D%255BCOLOR%253Dwhite%255D%2BHD%255B%252FCOLOR%255D%255B%252FB%255D%26iconimage%3D...&amp;mode=12&amp;iconimage=image%3A%2F%2F...%2F</link>
@@ -716,7 +719,13 @@ plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sp
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<item>
+<title>SPORTSNET WORLD </title>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8
+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>PAC</title>
