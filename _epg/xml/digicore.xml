@@ -82,13 +82,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>BOOMERANG</title>
 <link>http://151.80.105.182:8000/live/bentley/bentley/10806.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rprpvr1434469005.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 <item>
 <title>CARTOON NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/974e8154d838/50.mpegts</link>
@@ -191,7 +192,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
-
+<!--
 <item>
 <title>TLC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
@@ -199,13 +200,13 @@
 <fanart></fanart>
 </item>
 <item>
-
+-->
 <title>TRUTV</title>
 <link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>SPIKE</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8<link>
@@ -219,47 +220,47 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>HISTORY</title>
 <link>http://usaiptv.ddns.net:9090/load/974e8154d838/469.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>H2</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+-->
 <item>
 <title>H2</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/375.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/375.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>NAT GEO WILD</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
-<!--
+-->
 <item>
 <title>NAT GEO WILD</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/03.m3u8<link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>ANIMAL PLANET</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8<link>
@@ -278,19 +279,21 @@
 <link>http://usaiptv.ddns.net:9090/load/974e8154d838/419.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/usvqpr1433780215.png</thumbnail>
 </item>
+<!--
 <item>
 <title>USA</title>
-<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/428.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/428.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
-<!--
+-->
+
 <item>
 <title>USA</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <!--
 <item>
 <title>INVESTIGATION DISCOVERY</title>
@@ -322,14 +325,14 @@
 <link>http://216.31.255.235/hlsl/12/UNIVERSAL/03.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>POKER CENTRAL</title>
 <link>http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/88.ts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/pkercntrl.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>ADULT SWIM</title>
 <link>http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8</link>
