@@ -8,7 +8,7 @@
 
 <item>
 <title>NBC</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8<link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/9.mpegts<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -43,7 +43,7 @@
 
 <item>
 <title>A/E</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/974e8154d838/300.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
@@ -67,21 +67,22 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>FOX 43</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--backup
+-->
+
 <item>
 <title>FOX</title>
 <link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/139.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>BOOMERANG</title>
 <link>http://151.80.105.182:8000/live/bentley/bentley/10806.ts</link>
@@ -169,21 +170,21 @@
 <fanart></fanart>
 </item>
 -->
-<!--
+
 <item>
 <title>FXX</title>
 <link>http://216.31.255.235/hlsl/4/FXX/03.m3u8<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+<!--
 <item>
 <title>FXX</title>
 <link>http://usaiptv.ddns.net:9090/load/974e8154d838/782.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>LIFETIME</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8</link>
@@ -340,8 +341,8 @@
 
 <item>
 <title>[COLOR limegreen][B]=== NEWS ===[/COLOR][/B]</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>http://www.youtube.com</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -461,8 +462,8 @@
 
 <item>
 <title>[COLOR limegreen][B]=== PREMIUM ===[/B][/COLOR]</title>
-<link></link>
-<thumbnail>/thumbnail>
+<link>http://www.youtube.com</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -770,7 +771,7 @@ http://nlds310.cdnak.neulion.com/nlds/nba/lac/as/live/lac_hd_4500_ipad.m3u8?hdne
 
 <item>
 <title>SPORTSNET PACIFIC</title>
-<link>http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
+<link>http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_4500.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -788,7 +789,7 @@ http://nlds310.cdnak.neulion.com/nlds/nba/lac/as/live/lac_hd_4500_ipad.m3u8?hdne
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>SPORTSNET EAST</title>
 <link>http://nlds186.cdnak.neulion.com/nlds/sportsnetnow/sn_east/as/live/sn_east_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19</link>
@@ -841,7 +842,7 @@ http://nlds310.cdnak.neulion.com/nlds/nba/lac/as/live/lac_hd_4500_ipad.m3u8?hdne
 <link>http://hlslive-akc.med2.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEDIA_2_WWE_Dual_Linear_Event_20160912/4500K/4500_slide.m3u8|Cookie:SESSION_1=wf_flowId===account.login~stage===7~flowId===account.login;appacc=wwe;fprt=MElqaG1rV2RFMjJuU2RaN3RTR2pFZjZySkVJPXwxNDczOTEwMDUwOTc0fGlwdD1lbWFpbC1wYXNzd29yZA==;guid=538d753d0f374f0b91d07045e4694622;ipid=10205715;mai=firstName=[Ed],lastName=[Kaighn, Jr],parental_control_sw=[N],_useruuid=[a6faf7589d08e2d52b119135f5da4dfe];mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa33edb0372349d80eafc5fddae66a956b30d82c81513fe01e63aa63b8e9c105f6f818b4ec90f64abc88b0be70da209420a0117a0382f7186a34a748903910fd12842c2e66d9da93f471f2f4ca20bc643e674422471289bdb3f4d7db14369461ed3f5614ab9c15315511f47df530095055029fa53e75865c6d639f5c6d1dd850cd0951d4742106e70e56ef44049166b9a5f0754859bc72b6549f7b0397b046e59d77ebae352948420e46879c55749825ea831c79e5b749af9033d29dfcf4e832d6d6ae708ad064d688a0fcb5ac70fb0a7e44a91d4f26ea2ef732bddf73dba91f00a420ff91283032b631c2d3b345820035874e9e6058da0ccc950dc6a548c60e1bb5e77755bad5fb3c49cd26499060f2513a766e10d96689a4b223ef50569721234103fc9105fc79e7491ae0322521917fbef362b57a1ba7c8a14be077e7eea51d1d1d64c22eb737d2f7b32a090c0ceb7bea1bba26bc586d57cf5a7f3a949d93e9f74ca48c624f3a2c65fe1a6bdef71a34c5c9b1fa6f267308ee63524d0e9b34357357ef7737aa4555998edaaf834ab15d4f4bd08fa179b5854f13c07c3595aad91ec426aaf87030a7b5d23ae67bd4f6909cf640abcba82c6127a2df8c5acd35c568a93604a9f13918c4a31f6b81deb16c28d930aeea7708e35;actionxCookie={"figray":true}&amp;mode=15</link>
 <thumbnail>http://www.rubber-sol.com/.a/6a00d8341cb54353ef0176173ff8ea970c-pi</thumbnail>
 </item>
-
+-->
 
 <!----------------------------------------->
 <item>
