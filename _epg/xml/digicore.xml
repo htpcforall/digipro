@@ -8,7 +8,7 @@
 
 <item>
 <title>NBC</title>
-<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/9.mpegts<link>
+<link>http://51.255.70.112:8000/live/cbrown/cbrown/1855.ts<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -63,7 +63,7 @@
 
 <item>
 <title>E!</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8<link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/468.mpegts<link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -263,7 +263,7 @@
 -->
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8<link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/373.mpegts<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -328,7 +328,7 @@
 
 <item>
 <title>POKER CENTRAL</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8&amp;mode=12</link>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/pkercntrl.png</thumbnail>
 <fanart></fanart>
 </item>
