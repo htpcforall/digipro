@@ -14,83 +14,82 @@
 <fanart></fanart>
 </item>
 
-<!--
-!!<item>
+
+<item>
 <title>NBC</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1855.ts<link>
+<link>http://51.255.70.112:8000/live/cbrown/cbrown/1855.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
 
-!<item>
+<item>
 <title>ABC</title>
-<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/9.mpegts<link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/9.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
 
-!!<item>
+<item>
 <title>CBS</title>
-<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/1516.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1516.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
 
-!<item>
+<item>
 <title>CW</title>
-<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/138.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/138.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
 
-!<item>
+<item>
 <title>MY9</title>
-<link>http://usaiptv.ddns.net:9090/load/974e8154d838/1501.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
 
-!<item>
+<item>
 <title>A/E</title>
-<link>http://usaiptv.ddns.net:9090/load/974e8154d838/300.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
-!!<item>
+<item>
 <title>AMC</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1867.ts<link>
+<link>http://51.255.70.112:8000/live/cbrown/cbrown/1867.ts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
-
-!!<item>
+<!--
+<item>
 <title>BRAVO</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8<link>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
-
-!<item>
+-->
+<item>
 <title>E!</title>
-<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/468.mpegts<link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>FOX 43</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8<link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-!<item>
-<title>FOX</title>
-<link>http://usaiptv.ddns.net:9090/load/96dcb440f7bd/139.mpegts</link>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
 -->
+<item>
+<title>FOX</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/139.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>CARTOON NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/50.m3u8</link>
@@ -99,7 +98,7 @@
 <!--
 !!<item>
 <title>COMEDY CENTRAL</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -116,14 +115,14 @@
 <link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/1505.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
-
-!<item>
+-->
+<item>
 <title>DISNEY CHANNEL</title>
-<link>http://usaiptv.ddns.net:9090/load/974e8154d838/424.mpegts<link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 
 !<item>
 <title>DISNEY XD </title>
@@ -167,7 +166,7 @@
 
 <item>
 <title>FX</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8<link>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -175,7 +174,7 @@
 
 <item>
 <title>FXX</title>
-<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8<link>
+<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -196,14 +195,14 @@
 
 <item>
 <title>TLC</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8<link>
+<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
 -->
 <item>
 <title>TRUTV</title>
-<link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8<link>
+<link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -211,14 +210,14 @@
 <!--
 <item>
 <title>SPIKE</title>
-<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/338.mpegts<link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/338.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SYFY</title>
-<link>http://ipsatpro.com:8000/live/00/00/1154.ts<link>
+<link>http://ipsatpro.com:8000/live/00/00/1154.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
