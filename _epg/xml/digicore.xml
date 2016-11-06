@@ -90,13 +90,13 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://usaiptv.ddns.net:9090/load/974e8154d838/50.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/50.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
-
+<!--
 !!<item>
 <title>COMEDY CENTRAL</title>
 <link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8<link>
