@@ -1,5 +1,5 @@
 ﻿<item>
-<title>[B][COLOR limegreen]=== LIVE TV ===[/COLOR][COLOR yellow]Updated 11-06-16[/COLOR][/B]</title>
+<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Updated 11-06-16[/COLOR][/B]</title>  
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
@@ -133,7 +133,7 @@
 <fanart></fanart>
 </item>
 
-!<item>
+<item>
 <title>FOOD NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/319.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
