@@ -802,7 +802,7 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/1427.mpegts</link>
 
 <item>
 <title>TSN 2</title>
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/343.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/343.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -821,6 +821,7 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/343.mpegts</link>
 </item>
 
 <item>
+<title>TSN 5</title>
 http://usaiptv.ddns.net:9090/load/3adb3a92788d/346.mpegts
 <link>http://ipsatpro.com:8000/live/00/00/1176.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
