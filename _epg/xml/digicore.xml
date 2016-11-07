@@ -836,11 +836,18 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/346.mpegts
 </item>
 -->
 
-<!----------------------------------------->
+<!------------------testing----------------------->
 <item>
 <title>[COLOR limegreen][B]=== TESTING ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+</item>
+
+<item>
+<title>UFC test</title>
+<link>http://nlds50.cdnllnwnl.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8?nltid=ufc&nltdt=6&nltnt=1&hdnea=expires=1468118988~access=/nlds/ufc/camera0/as/live/*~md5=09228dc7ec4da1ff66b4e59c1ab9140e
+</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
