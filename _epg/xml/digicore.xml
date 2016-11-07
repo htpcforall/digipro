@@ -1,6 +1,6 @@
 ﻿<item>
 <title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Updated 11-06-16[/COLOR][/B]</title>  
-<link>plugin://plugin.video.live.streamspro/?fanart=special%3a%2f%2fhome%2faddons%2fplugin.video.digipro%2ffanart.jpg&amp;mode=1&amp;name=DigiPro%20Live&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhtpcforall%2fdigipro%2fmaster%2f_epg%2fxml%2fdigicore.xml&quot;,return)</link>
+<link>plugin://plugin.video.live.streamspro/?fanart=special%3a%2f%2fhome%2faddons%2fplugin.video.digipro%2ffanart.jpg&amp;mode=1&amp;name=DigiPro%20Live&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhtpcforall%2fdigipro%2fmaster%2f_epg%2fxml%2fdigicore.xml</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
