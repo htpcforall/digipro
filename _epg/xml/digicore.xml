@@ -143,7 +143,7 @@
 
 <item>
 <title>FOX NEWS</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1875.ts</link>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/512.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
@@ -526,14 +526,14 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqxvux1467823026.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>SHOWTIME EXTREME</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/173.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxxrrp1433428085.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>SHOWTIME SHOWCASE</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/172.mpegts</link>
@@ -542,9 +542,8 @@
 </item>
 
 <item>
-<title>SHOWTIME SHOWCASE</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1684.ts
-</link>
+<title>SHOWTIME SHOWCASE ALT</title>
+<link>http://51.255.70.112:8000/live/cbrown/cbrown/1684.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qussys1467823036.png</thumbnail>
 </item>
 
