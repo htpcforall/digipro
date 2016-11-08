@@ -59,14 +59,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>E!</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>FOX</title>
 <link>http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4008.ts</link>
@@ -93,27 +93,27 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DISNEY CHANNEL</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
-<title>DISNEY CHANNEL ALT</title>
+<title>DISNEY CHANNEL</title>
 <link>http://51.255.70.112:8000/live/cbrown/cbrown/405.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DISNEY XD </title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>DISCOVERY</title>
 <link>http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/139.ts</link>
@@ -143,7 +143,7 @@
 
 <item>
 <title>FOX NEWS ALT</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/440.mpegts</link>
+<link>http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/127.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
@@ -167,14 +167,13 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>LIFETIME</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/475.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
-<item>
-
+-->
 <item>
 <title>TLC</title>
 <link>http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/86.ts</link>
@@ -276,13 +275,13 @@ https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <link>http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/891.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>NICK JR</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/419.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/usvqpr1433780215.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>TNT</title>
 <link>http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/122.ts</link>
@@ -662,10 +661,10 @@ https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_3000.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
-<!--
+
 <item>
 	<title>NFL NETWORK HD ALT2</title>
-	<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1190.mpegts</link>
+	<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/90.ts</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
@@ -680,15 +679,16 @@ https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sports%2F%3Furl%3Dhttp%253A%252F%252Fcontent-ausc2.uplynk.com%252Fchannel%252Fd0695f6fa2f143eb95c7a41d96d581c4%252Fh.m3u8%253Fad.kv%253D_fw_ae%252C975cd70e2de25291acc0efc98a48935e%252C_fw_euid%252Cnull%2526exp%253D1474214815%2526ptid%253DESPN_tvOS_VDMS%2526rn%253D82872664%2526tc%253D1%2526oid%253Dd09b16c953aa40c98dd8c513526aca5a%2526linearv%253D4%2526ad%253De3ads%2526ad.csid%253Dwatchespn%253Achromecast%253Ae3ads%2526ad.caid%253Da18030441%2526eid%253Despn_espn1%2526euid%253DESPN3_VDMS%2526ct%253Dc%2526sig%253De78446e90d5228de65144b352258ca268184170c8320f9b87cbabd38e59f698c%2526pbs%253D4a7d26c638b34345ada53f08580cc376%26mode%3D15%26name%3D%255BB%255D%255BCOLOR%253Dred%255DE%255B%252FCOLOR%255D%255BCOLOR%253Dblue%255DSPN%255B%252FCOLOR%255D%255B%252FB%255D%26iconimage%3Dhttp%253A%252F%252Fdragonstr.com%252Fimages%252FNFL%252F.jpg&amp;mode=12&amp;iconimage=image%3A%2F%2Fhttp%253a%252f%252fdragonstr.com%252fimages%252fNFL%252f.jpg%2F</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
+
 <item>
 <title>ESPN 2</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/466.m3u8</link>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/121.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
 
 <item>
 <title>MLB NETWORK</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/456.m3u8</link>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/4006.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
 </item>
 
@@ -780,8 +780,7 @@ https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 
 <item>
 <title>VERSUS</title>
-<link>
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/1427.mpegts</link>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/398.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqwyyy1433429142.png</thumbnail>
 </item>
 
@@ -856,35 +855,34 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/1427.mpegts</link>
 -->
 <item>
 <title>TSN 1</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/342.mpegts</link>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/92.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 2</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/343.mpegts</link>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/93.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 3</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/344.mpegts</link>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/94.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/345.mpegts</link>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/95.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 5</title>
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/346.mpegts
-<link>http://ipsatpro.com:8000/live/00/00/1176.ts</link>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/96.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 <fanart></fanart>
 </item>
