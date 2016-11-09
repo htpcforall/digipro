@@ -1,5 +1,5 @@
 ﻿<item>
-<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]11-9-2016 Channels being fixed![/COLOR][/B]</title>
+<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Fixed 11-9-2016[/COLOR][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink> 
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
@@ -8,18 +8,18 @@
 
 <item>
 <title>NBC</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1855.ts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/1.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>ABC</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/9.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/3.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>CBS</title>
 <link>http://51.255.70.112:8000/live/cbrown/cbrown/1852.ts</link>
@@ -39,64 +39,57 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>AETV</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/2.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
 <item>
 <title>AMC</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1867.ts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/4.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>BRAVO</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/369.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>E!</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/5.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOX</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/139.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/6.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>CARTOON NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/471.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
-<!--
-<item>
-<title>COMEDY CENTRAL</title>
-<link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
 -->
 <item>
 <title>COMEDY CENTRAL</title>
-<link></link>http://usaiptv.ddns.net:9090/load/32e3be66b3d7/645.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/14.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item> 
 <title>CNN</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1505.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/16.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
@@ -106,9 +99,9 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
-<title>DISNEY CHANNEL ALT</title>
+<title>DISNEY CHANNEL</title>
 <link>http://51.255.70.112:8000/live/cbrown/cbrown/405.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
@@ -119,14 +112,14 @@
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>DISCOVERY</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/476.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/49.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DIY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/204.mpegts</link>
@@ -148,7 +141,7 @@
 </item>
 
 <item>
-<title>FOX NEWS ALT</title>
+<title>FOX NEWS</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/440.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
@@ -159,10 +152,10 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>FX</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/337.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/7.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -173,28 +166,28 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>FXX</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/782.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>LIFETIME</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/475.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/15.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
-
+<!--
 <item>
 <title>TLC</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/347.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>TRUTV</title>
 <link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8</link>
@@ -204,41 +197,48 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1872.ts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/12.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SYFY</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1869.ts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/11.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
+<title>TNT</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/13.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>HISTORY</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1865.ts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/24.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
 
 <item>
 <title>H2</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1820.ts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/25.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/473.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/26.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
 
 <item>
 <title>NAT GEO WILD</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/474.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/48.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
 <!--
@@ -251,11 +251,11 @@
 -->
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/373.m3u8<link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/27.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>NICKELODEON</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1503.mpegts</link>
@@ -267,10 +267,16 @@
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/419.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/usvqpr1433780215.png</thumbnail>
 </item>
+-->
+<item>
+<title>TBS</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/42.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
+</item>
 
 <item>
 <title>USA NETWORK</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/428.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/10.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
 
@@ -283,7 +289,7 @@
 
 <item>
 <title>INVESTIGATION DISCOVERY</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/477.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/28.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -362,7 +368,7 @@
 
 <item>
 <title>CNN</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1505.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/16.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
