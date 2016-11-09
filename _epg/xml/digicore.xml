@@ -895,12 +895,26 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/1427.mpegts</link>
 
 <item>
 <title>T1</title>
-<link>http://live.usachannels.tv:1935/live/nick.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE2IDU6NTU6MzkgUE0maGFzaF92YWx1ZT00UWVsT1ZpVFlES0lydUl0LzNscTB3PT0mdmFsaWRtaW51dGVzPTIw</link>
+<link>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzo4&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DNick%5B%2FCOLOR%5D&quot;)</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>T2</title>
-<link>http://live.usachannels.tv:1935/live/cn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE2IDU6NTU6MzAgUE0maGFzaF92YWx1ZT1ZU1IzZXlZNCsvT3g4N214cytoZm5BPT0mdmFsaWRtaW51dGVzPTIw</link>
+<link>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoxMQ==&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DNick%5B%2FCOLOR%5D&quot;)</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>T3</title>
+<link>
+plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoxMg==&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DNick%5B%2FCOLOR%5D&quot;)</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>T4</title>
+<link>
+plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoxMw==&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DNick%5B%2FCOLOR%5D&quot;)</link>
 <thumbnail></thumbnail>
 </item>
