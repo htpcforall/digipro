@@ -892,3 +892,15 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/1427.mpegts</link>
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 <description>Dig into the underground world of White Supremacy with Scott Gold, leader of "Blanco Basura", one of the largest skin head white trash gangs.</description>
 </item>
+
+<item>
+<title>T1</title>
+<link>http://live.usachannels.tv:1935/live/nick.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE2IDU6NTU6MzkgUE0maGFzaF92YWx1ZT00UWVsT1ZpVFlES0lydUl0LzNscTB3PT0mdmFsaWRtaW51dGVzPTIw</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>T2</title>
+<link>http://live.usachannels.tv:1935/live/cn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE2IDU6NTU6MzAgUE0maGFzaF92YWx1ZT1ZU1IzZXlZNCsvT3g4N214cytoZm5BPT0mdmFsaWRtaW51dGVzPTIw</link>
+<thumbnail></thumbnail>
+</item>
