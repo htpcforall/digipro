@@ -623,17 +623,16 @@
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/466.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>MLB NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/456.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
 </item>
-
+-->
 <item> 
 <title>FOX SPORTS NEWS</title>
-<link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
-</link>
+<link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ryxyst1478046362.png</thumbnail>
 </item>
 
@@ -794,7 +793,7 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/1427.mpegts</link>
 -->
 <item>
 <title>TSN 1</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/342.mpegts</link>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/631.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -821,19 +820,10 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/1427.mpegts</link>
 
 <item>
 <title>TSN 5</title>
-http://usaiptv.ddns.net:9090/load/3adb3a92788d/346.mpegts
-<link>http://ipsatpro.com:8000/live/00/00/1176.ts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/346.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 <fanart></fanart>
 </item>
-
-<!--
-<item>
-<title>PAC</title>
-<link>http://hlslive-akc.med2.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEDIA_2_WWE_Dual_Linear_Event_20160912/4500K/4500_slide.m3u8|Cookie:SESSION_1=wf_flowId===account.login~stage===7~flowId===account.login;appacc=wwe;fprt=MElqaG1rV2RFMjJuU2RaN3RTR2pFZjZySkVJPXwxNDczOTEwMDUwOTc0fGlwdD1lbWFpbC1wYXNzd29yZA==;guid=538d753d0f374f0b91d07045e4694622;ipid=10205715;mai=firstName=[Ed],lastName=[Kaighn, Jr],parental_control_sw=[N],_useruuid=[a6faf7589d08e2d52b119135f5da4dfe];mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa33edb0372349d80eafc5fddae66a956b30d82c81513fe01e63aa63b8e9c105f6f818b4ec90f64abc88b0be70da209420a0117a0382f7186a34a748903910fd12842c2e66d9da93f471f2f4ca20bc643e674422471289bdb3f4d7db14369461ed3f5614ab9c15315511f47df530095055029fa53e75865c6d639f5c6d1dd850cd0951d4742106e70e56ef44049166b9a5f0754859bc72b6549f7b0397b046e59d77ebae352948420e46879c55749825ea831c79e5b749af9033d29dfcf4e832d6d6ae708ad064d688a0fcb5ac70fb0a7e44a91d4f26ea2ef732bddf73dba91f00a420ff91283032b631c2d3b345820035874e9e6058da0ccc950dc6a548c60e1bb5e77755bad5fb3c49cd26499060f2513a766e10d96689a4b223ef50569721234103fc9105fc79e7491ae0322521917fbef362b57a1ba7c8a14be077e7eea51d1d1d64c22eb737d2f7b32a090c0ceb7bea1bba26bc586d57cf5a7f3a949d93e9f74ca48c624f3a2c65fe1a6bdef71a34c5c9b1fa6f267308ee63524d0e9b34357357ef7737aa4555998edaaf834ab15d4f4bd08fa179b5854f13c07c3595aad91ec426aaf87030a7b5d23ae67bd4f6909cf640abcba82c6127a2df8c5acd35c568a93604a9f13918c4a31f6b81deb16c28d930aeea7708e35;actionxCookie={"figray":true}&amp;mode=15</link>
-<thumbnail>http://www.rubber-sol.com/.a/6a00d8341cb54353ef0176173ff8ea970c-pi</thumbnail>
-</item>
--->
 
 <!------------------testing----------------------->
 <item>
