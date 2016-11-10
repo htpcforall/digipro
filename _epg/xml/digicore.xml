@@ -82,7 +82,7 @@
 -->
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/14.m3u8</link>
+<link>http://http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -162,7 +162,7 @@
 
 <item>
 <title>FXX</title>
-<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/4/FXX/FXX.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -190,7 +190,7 @@
 -->
 <item>
 <title>TRUTV</title>
-<link>http://216.31.255.235/hlsl/7/TRUTV/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/7/TRUTV/TRUTV.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -238,7 +238,7 @@
 
 <item>
 <title>NAT GEO WILD</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/48.m3u8</link>
+<link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
 <!--
@@ -295,26 +295,26 @@
 </item>
 
 <item>
-<title>INVESTIGATION DISCOVERY ALT</title>
-<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
+<title>INVESTIGATION DISCOVERY</title>
+<link>http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY VELOCITY</title>
-<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/6/VELOCITY/VELOCITY.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
 </item>
 
 <item>
 <title>UNIVERSAL</title>
-<link>http://216.31.255.235/hlsl/12/UNIVERSAL/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png</thumbnail>
 </item>
 
@@ -729,8 +729,8 @@ http://usaiptv.ddns.net:9090/load/3adb3a92788d/1427.mpegts</link>
 </item>
 
 <item>
-<title>WWE</title>
-<link>http://89.163.148.31:8000/live/stakenborg/stakenborg/8536.ts</link>
+<title>WWE1</title>
+<link>rtmp://178.18.31.59:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 <fanart></fanart>
 </item>
