@@ -66,17 +66,17 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>FOX</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/139.m3u8</link>
+<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/36.m3u</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/471.m3u8</link>
+<link>http://live.softiptv.com:9900/live/jagdish/jagdish/18047.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -86,17 +86,17 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>COMEDY CENTRAL</title>
 <link>http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.m3u8</link>
+<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/41.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -144,11 +144,11 @@
 <!--
 <item>
 <title>FXX</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/782.mpegm3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/782.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>LIFETIME</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/15.m3u8</link>
@@ -169,7 +169,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>SPIKE</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/12.m3u8</link>
@@ -207,7 +207,7 @@
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/26.m3u8</link>
+<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/28.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
 
@@ -236,19 +236,13 @@
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19400.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
-
-<item>
-<title>NICKELODEON ?</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19421.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
-</item>
-
+<!--
 <item>
 <title>NICK JR</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d//419.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/usvqpr1433780215.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>TBS</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19390.m3u8</link>
@@ -260,23 +254,23 @@
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19401.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>USA NETWORK ALT</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/28.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
-<title>INVESTIGATION DISCOVERY ALT</title>
+<title>INVESTIGATION DISCOVERY</title>
 <link>http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 </item>
@@ -766,24 +760,23 @@
 
 <item>
 <title>VERSUS</title>
-<link>
-http://live.softiptv.com:9900/live/Julian/Julian/1427.mpegm3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/1427.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqwyyy1433429142.png</thumbnail>
 </item>
 
 <item>
-<title>WWE1</title>
+<title>WWE</title>
 <link>rtmp://178.18.31.59:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item> 
 <title>WWE ALT</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/79.mpegm3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/12617.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 </item>
--->
+-
 <item>
 <title>SPORTSNET ONE </title>
 <link>http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
