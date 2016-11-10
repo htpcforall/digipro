@@ -39,13 +39,13 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>AE</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>AMC</title>
 <link>http://live.softiptv.com:9900/live/jagdish/jagdish/19419.m3u8</link>
@@ -60,7 +60,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>E!</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.m3u8</link>
@@ -80,7 +80,7 @@
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/471.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>COMEDY CENTRAL</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8
@@ -95,7 +95,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DISNEY CHANNEL</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.m3u8</link>
@@ -115,7 +115,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>FOOD NETWORK</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19428.m3u8</link>
