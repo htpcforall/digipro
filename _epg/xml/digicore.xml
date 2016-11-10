@@ -1,6 +1,6 @@
 ﻿<item>
-<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Click Here to Force List Update[/COLOR][/B]</title>
-<link>RunScript(special://home/addons/xonfluence/cleartempcache.py)</link>
+<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Click Here to Force List Update.[/COLOR][/B]</title>
+<link>XBMC.RunScript(special://home/addons/xonfluence/cleartempcache.py)</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
