@@ -1,5 +1,5 @@
 ﻿<item>
-<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Fixed 11-9-2016[/COLOR][/B]</title>
+<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Fixed 11-10-2016[/COLOR][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink> 
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
@@ -42,13 +42,13 @@
 -->
 <item>
 <title>AE</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/2.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
 <item>
 <title>AMC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/17404.ts</link>
+<link>http://live.softiptv.com:9900/live/jagdish/jagdish/19419.ts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -59,7 +59,7 @@
 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
-
+<!--
 <item>
 <title>E!</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/5.m3u8</link>
@@ -73,7 +73,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 
 <!--
 <item>
@@ -84,7 +84,7 @@
 -->
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.ts
 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
@@ -119,7 +119,7 @@
 -->
 <item>
 <title>DISCOVERY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/49.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/49.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -138,13 +138,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>FX</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/337.mpegts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
-<fanart></fanart>
-</item>
--->
 <item>
 <title>FX</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19425.ts</link>
