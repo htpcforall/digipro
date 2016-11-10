@@ -14,22 +14,36 @@
 </item>
 -->
 <item>
+<title>ABC 27 test</title>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/4.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ABC 27 test2</title>
+<link>http://iptvfree1.com:6969/live/9/www.iptvrestream.net/4008.ts
+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>ABC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19412.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19412.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CBS</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19408.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19408.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CW</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19405.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
 <!--
@@ -73,6 +87,8 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
+
+
 <!--
 <item>
 <title>CARTOON NETWORK</title>
@@ -82,7 +98,7 @@
 -->
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.ts
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8
 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
@@ -97,7 +113,7 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/424.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/424.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -134,12 +150,6 @@
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19429.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
-</item>
-
-<item>
-<title>FOX NEWS</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/440.mpegts</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
 <item>
@@ -400,13 +410,13 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 </item>
 
 <item>
-<title>FOX NEWS ALT</title>
+<title>FOX NEWS (link2)</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/12613.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
 <item>
-<title>FOX NEWS ALT3</title>
+<title>FOX NEWS (link3)</title>
 <link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/512.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
@@ -425,15 +435,15 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 </item>
 
 <item> 
-	<title>ALJAZEERA</title>
-	<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
+<title>ALJAZEERA</title>
+<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
 </item>
 
 <item> 
-	<title>ALJAZEERA ALT</title>
-	<link>http://live.softiptv.com:9900/live/Julian/Julian/17405.ts</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
+<title>ALJAZEERA ALT</title>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/17405.ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
 </item>
 <!--
 <item> 
@@ -449,9 +459,9 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 </item>
 -->
 <item> 
-	<title>BLOOMBERG</title>
-	<link>http://live.softiptv.com:9900/live/Julian/Julian/17492.ts</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
+<title>BLOOMBERG</title>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/17492.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
 </item>
 
 <item>
