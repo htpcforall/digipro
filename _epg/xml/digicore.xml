@@ -1377,14 +1377,9 @@ http://live.softiptv.com:9900/live/Julian/Julian/1427.mpegts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 <item>
-<title>..</title>
+<title>world</title>
 <link>http://Ignoreme</link>
 <externallink>http://89.163.148.31:8000/get.php?username=paul&amp;password=paul&amp;type=m3u</externallink>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
-<item>
-<title>worldtv</title>
-<link>http://Ignoreme</link>
-<externallink>http://62.4.21.70:8000/get.php?username=raji&amp;password=raji&amp;type=m3</externallink>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
-</item>
+
