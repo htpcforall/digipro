@@ -35,20 +35,20 @@
 <!--
 <item>
 <title>MY9</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/1501.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/1501.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
 -->
 <item>
 <title>AE</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.ts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
 <item>
 <title>AMC</title>
-<link>http://live.softiptv.com:9900/live/jagdish/jagdish/19419.ts</link>
+<link>http://live.softiptv.com:9900/live/jagdish/jagdish/19419.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -78,7 +78,7 @@
 <!--
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/471.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/471.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 -->
@@ -113,34 +113,34 @@
 <!--
 <item>
 <title>DISNEY XD </title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/422.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/422.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 -->
 <item>
 <title>DISCOVERY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/49.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/49.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOOD NETWORK</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19428.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19428.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DIY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19429.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19429.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FX</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19425.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19425.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -154,7 +154,7 @@
 <!--
 <item>
 <title>FXX</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/782.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/782.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -168,7 +168,7 @@
 <!--
 <item>
 <title>TLC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/347.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/347.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -189,35 +189,35 @@
 
 <item>
 <title>SYFY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19399.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19399.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TNT</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19398.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19398.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>-HISTORY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19402.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19402.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
 
 <item>
 <title>H2</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19424.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19424.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
 <!--
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/26.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/26.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
 -->
@@ -243,13 +243,13 @@
 
 <item>
 <title>NICKELODEON</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19400.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19400.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
 <item>
 <title>NICKELODEON ?</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19421.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19421.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <!--
@@ -293,7 +293,7 @@
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19430.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19430.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
@@ -359,19 +359,19 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>CNBC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/1506.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/1506.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
 
 <item>
 <title>CNN</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19405.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19405.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
 <item>
 <title>CNN</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/17399.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/17399.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
@@ -390,7 +390,7 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>FOX NEWS (link2)</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/12403.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/12403.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
@@ -421,7 +421,7 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item> 
 <title>ALJAZEERA ALT</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/17405.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/17405.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
 </item>
 <!--
@@ -439,7 +439,7 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 -->
 <item> 
 <title>BLOOMBERG</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/17492.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/17492.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
 </item>
 
@@ -473,28 +473,28 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>ACTION MAX</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/187.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/187.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CINEMAX EAST</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19431.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19431.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CINEMAX 5</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/186.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/186.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CINEMAX ACTION</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/187.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/187.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -502,103 +502,103 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>HBO EAST</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/189.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/189.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wrvxwy1465733105.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HBO COMEDY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/194.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/194.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quutxp1477987872.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HBO FAMILY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/195.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/195.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HBO SIGNATURE</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/192.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/192.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rxtryu1477987973.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HBO ZONE</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/193.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/193.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SHOWTIME EAST</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/169.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/169.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SHOWTIME 2</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/170.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/170.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqxvux1467823026.png</thumbnail>
 <fanart></fanart>
 </item>
 <!--
 <item>
 <title>SHOWTIME EXTREME</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/173.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/173.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxxrrp1433428085.png</thumbnail>
 <fanart></fanart>
 </item>
 -->
 <item>
 <title>SHOWTIME</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/17339.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/17339.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qussys1467823036.png</thumbnail>
 <fanart></fanart>
 </item>
 <!--
 <item>
 <title>SHOWTIME SHOWCASE ALT</title>
-<link>http://51.255.70.112:8000/live/cbrown/cbrown/1684.ts</link>
+<link>http://51.255.70.112:8000/live/cbrown/cbrown/1684.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qussys1467823036.png</thumbnail>
 </item>
 
 <item>
 <title>STARZ EAST</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/182.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/182.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ WEST</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/169.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/169.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ CINEMA</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/179.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/179.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <title>STARZ EDGE</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/180.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/180.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ ENCORE</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/464.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/464.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
@@ -612,13 +612,13 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>FIGHT NETWORK</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19389.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19389.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>FIGHT SPORT</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19388.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19388.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -636,13 +636,13 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 	<title>NFL NETWORK HD ALT2</title>
-	<link>http://live.softiptv.com:9900/live/Julian/Julian/1190.mpegts</link>
+	<link>http://live.softiptv.com:9900/live/Julian/Julian/1190.mpegm3u8</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
 <item>
 	<title>NFL NOW</title>
-	<link>http://live.softiptv.com:9900/live/Julian/Julian/1066.mpegts</link>
+	<link>http://live.softiptv.com:9900/live/Julian/Julian/1066.mpegm3u8</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
@@ -654,7 +654,7 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>ESPN ALT</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19404.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19404.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
 
@@ -684,7 +684,7 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>FS1 ALT</title>
-<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/514.ts</link>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/514.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
 </item>
 
@@ -697,7 +697,7 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>FS2 ALT</title>
-<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/514.ts</link>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/514.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
 </item>
 
@@ -771,7 +771,7 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 <item>
 <title>VERSUS</title>
 <link>
-http://live.softiptv.com:9900/live/Julian/Julian/1427.mpegts</link>
+http://live.softiptv.com:9900/live/Julian/Julian/1427.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqwyyy1433429142.png</thumbnail>
 </item>
 
@@ -784,7 +784,7 @@ http://live.softiptv.com:9900/live/Julian/Julian/1427.mpegts</link>
 <!--
 <item> 
 <title>WWE ALT</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/79.mpegts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/79.mpegm3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 </item>
 -->
@@ -846,41 +846,41 @@ http://live.softiptv.com:9900/live/Julian/Julian/1427.mpegts</link>
 -->
 <item>
 <title>TSN 1</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19387.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19387.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 <fanart></fanart>
 </item>
 <!--
 <item>
 <title>TSN 1</title>
-<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/631.ts</link>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/631.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 <fanart></fanart>
 </item>
 -->
 <item>
 <title>TSN 2</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19386.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19386.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 3</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19385.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19385.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19384.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19384.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 5</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19383.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19383.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -922,26 +922,26 @@ http://live.softiptv.com:9900/live/Julian/Julian/1427.mpegts</link>
 
 <item>
 <title>TOROS ALT</title>
-<link>http://www.t12v.com:8000/live/8080/8080/796.ts</link>
+<link>http://www.t12v.com:8000/live/8080/8080/796.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 
 <item>
 <title>TOROS ALT</title>
-<link>http://151.80.27.59:8000/live/ali/12345/796.ts</link>
+<link>http://151.80.27.59:8000/live/ali/12345/796.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 <item>
 <title>TOROS ALT 2</title>
-<link>http://devcon.1dns1.com:8080/live/clinecenter.com1/0L800LGYVu/2654.ts</link>
+<link>http://devcon.1dns1.com:8080/live/clinecenter.com1/0L800LGYVu/2654.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
 <item>
 <title>TOROS ALT 3</title>
-<link>http://www.t12v.com:8000/live/9090/9090/796.ts</link>
+<link>http://www.t12v.com:8000/live/9090/9090/796.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
 
