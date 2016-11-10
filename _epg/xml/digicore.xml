@@ -32,14 +32,14 @@
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>MY9</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/1501.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>AE</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.m3u8</link>
@@ -59,29 +59,28 @@
 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
-<!--
+</item>
+
 <item>
 <title>E!</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/5.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOX</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/6.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/139.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
--->
 
-<!--
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/471.mpegm3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/471.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
--->
+
 <item>
 <title>COMEDY CENTRAL</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19406.ts
@@ -99,27 +98,20 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/424.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>DISNEY CHANNEL</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/424.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
 <title>DISNEY XD </title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/422.mpegm3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
--->
+
 <item>
 <title>DISCOVERY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/49.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/49.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -161,18 +153,18 @@
 -->
 <item>
 <title>LIFETIME</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/15.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/15.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
-<!--
+
 <item>
 <title>TLC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/347.mpegm3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/347.mpegm3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>TRUTV</title>
 <link>http://216.31.255.235/hlsl/7/TRUTV/TRUTV.m3u8</link>
@@ -182,7 +174,7 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/12.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/12.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -202,7 +194,7 @@
 </item>
 
 <item>
-<title>-HISTORY</title>
+<title>HISTORY</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19402.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
@@ -214,13 +206,13 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/26.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/26.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
--->
+
 <item>
 <title>NAT GEO WILD</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8</link>
@@ -252,13 +244,13 @@
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19421.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>NICK JR</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/419.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d//419.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/usvqpr1433780215.png</thumbnail>
 </item>
--->
+
 <item>
 <title>TBS</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19390.m3u8</link>
@@ -280,13 +272,13 @@
 
 <item>
 <title>INVESTIGATION DISCOVERY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/28.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/28.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>INVESTIGATION DISCOVERY</title>
+<title>INVESTIGATION DISCOVERY ALT</title>
 <link>http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 </item>
@@ -305,7 +297,7 @@
 
 <item>
 <title>SCIENCE CHANNEL</title>
-http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
+<link>http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -383,19 +375,25 @@ http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
 
 <item>
 <title>FOX NEWS</title>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/440.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
+</item>
+
+<item>
+<title>FOX NEWS (link2)</title>
 <link>http://188.93.239.20:8012/play/a014</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>FOX NEWS (link2)</title>
+<title>FOX NEWS (link3)</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/12403.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
 <item>
-<title>FOX NEWS (link3)</title>
+<title>FOX NEWS (link4)</title>
 <link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/512.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
