@@ -35,14 +35,14 @@
 
 <item>
 <title>MY9</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.hls</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>AE</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.hls</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
@@ -63,7 +63,7 @@
 
 <item>
 <title>E!</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.hls</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
