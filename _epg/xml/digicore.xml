@@ -74,24 +74,23 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>CARTOON NETWORK</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/471.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
--->
+<!--
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8
-</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8</link>
+<link>http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
