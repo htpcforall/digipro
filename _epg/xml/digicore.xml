@@ -1,7 +1,6 @@
 ﻿<item>
-<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Fixed 11-10-2016[/COLOR][/B]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore.xml</externallink> 
+<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Click Here to Clear Cache[/COLOR][/B]</title>
+<link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;)</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
