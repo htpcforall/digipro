@@ -42,7 +42,7 @@
 
 <item>
 <title>AE</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
@@ -228,7 +228,7 @@
 -->
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19410.ts<link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19410.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
