@@ -4,14 +4,14 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>NBC</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/140.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>ABC</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19412.m3u8</link>
@@ -28,10 +28,10 @@
 
 <item>
 <title>CW</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19405.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>MY9</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts&lkj=m3u8</link>
@@ -44,7 +44,7 @@
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts&lkj=lll.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>AMC</title>
 <link>http://live.softiptv.com:9900/live/jagdish/jagdish/19419.m3u8</link>
@@ -54,18 +54,18 @@
 
 <item>
 <title>BRAVO</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19409.m3u</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19409.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>E!</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>FOX</title>
 <link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/36.ts</link>
@@ -75,13 +75,13 @@
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://live.softiptv.com:9900/live/jagdish/jagdish/18047.ts</link>
+<link>http://live.softiptv.com:9900/live/jagdish/jagdish/18047.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -99,7 +99,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DISNEY XD </title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.ts</link>
@@ -112,24 +112,24 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>FOOD NETWORK</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19428.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19428.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DIY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19429.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19429.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FX</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19425.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19425.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -147,13 +147,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>LIFETIME</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/15.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
+
 <item>
 <title>TLC</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/347.mpegts</link>
@@ -167,7 +168,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>TRUTV</title>
 <link>http://216.31.255.235/hlsl/7/TRUTV/TRUTV.m3u8</link>
@@ -369,13 +370,13 @@
 <link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&amp;fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&amp;fw_csid=nbc_directv_web_live&amp;fw_caid=nbc_Live_12345&amp;anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&amp;fw_prof=169843:nbcu_anvato_web&amp;fw_network=169843&amp;fw_ltlg=&amp;fw_mvpd_id=DTV&amp;fw_sdk_flag= slcb vicb&amp;fw_metr=7&amp;_dev=web&amp;fw_sdk_flag_safe= slcb vicb&amp;_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&amp;_tkx_callsign=nbcpacific&amp;_tkx_hzip=03249&amp;_tkx_ehzip=undefined&amp;anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&amp;t=1474409235&amp;X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch&amp;mode=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>FOX NEWS</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/440.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>FOX NEWS (link2)</title>
 <link>http://188.93.239.20:8012/play/a014</link>
@@ -778,7 +779,7 @@
 
 <item> 
 <title>WWE ALT</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/12617.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/12617.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 </item>
 -
@@ -946,10 +947,11 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 </item>
-
+<!--
 <item>
 <title>ABC 27 test</title>
 <link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/9.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
