@@ -1,5 +1,5 @@
 ﻿<item>
-<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR white]*[/COLOR][COLOR yellow]Click to Refresh List[/COLOR][COLOR white]*[/COLOR][COLOR green] Exit list and return to see changes.[/COLOR][/B]</title>
+<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]*[/COLOR][COLOR grey]Click to Update List[/COLOR][COLOR yellow]*[/COLOR][/B]</title>
 <link>plugin://script.schoonmaak/?url=url&amp;mode=2&amp;name=%5BB%5DC%5B%2FB%5Dlear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
