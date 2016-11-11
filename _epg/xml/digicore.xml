@@ -47,28 +47,28 @@
 -->
 <item>
 <title>AMC</title>
-<link>http://live.softiptv.com:9900/live/jagdish/jagdish/19419.m3u8</link>
+<link>http://live.softiptv.com:9900/live/jagdish/jagdish/19419.ts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>BRAVO</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19409.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19409.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
 <!--
 <item>
 <title>E!</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
 -->
 <item>
 <title>FOX</title>
-<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/36.m3u</link>
+<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/36.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -81,62 +81,62 @@
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8</link>
+<link>http://216.31.255.235/hlsl/1/COMEDY/COMEDY.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/41.m3u8</link>
+<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/41.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DISNEY XD </title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/49.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/49.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>FOOD NETWORK</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19428.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19428.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DIY</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19429.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19429.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FX</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19425.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19425.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FXX</title>
-<link>http://216.31.255.235/hlsl/4/FXX/FXX.m3u8</link>
+<link>http://216.31.255.235/hlsl/4/FXX/FXX.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
