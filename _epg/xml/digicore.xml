@@ -1,6 +1,6 @@
 ﻿<item>
-<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Click Here to Force List Update![/COLOR][/B]</title>
-<link>XBMC.RunScript(special://home/addons/skin.xonfluence/cleartempcache.py)</link>
+<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR yellow]Click Here to Resfresh List.[/COLOR][/B]</title>
+<link>plugin://script.schoonmaak/?url=url&amp;mode=2&amp;name=%5BB%5DC%5B%2FB%5Dlear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
