@@ -7,28 +7,28 @@
 <!--
 <item>
 <title>NBC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/1.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/1.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
 -->
 <item>
 <title>ABC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19412.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19412.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CBS</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19408.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19408.ts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CW</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19405.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19405.ts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
 <!--
