@@ -7,7 +7,7 @@
 
 <item>
 <title>NBC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/1.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/140.mpegts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -154,11 +154,17 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
-
 <item>
 <title>TLC</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/347.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TRAVEL CHANNEL HD</title>
+<link>http://iptvtt.ddns.net:8000/live/fabrica/fabrica/713.ts</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
