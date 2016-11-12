@@ -6,16 +6,8 @@
 </item>
 
 <item>
-<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR red]*[/COLOR][COLOR grey] Click to Update List [/COLOR][COLOR red]*[/COLOR][/B]</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/digicore.xml</externallink>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>NBC</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/17380.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/17380.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -26,18 +18,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>CBS</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19408.ts</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>-CBS</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19408.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>CW</title>
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19405.m3u8</link>
@@ -46,14 +34,14 @@
 
 <item>
 <title>MY9</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>AE</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts&type=m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
@@ -73,14 +61,14 @@
 
 <item>
 <title>E!</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.ts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOX</title>
-<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/36.ts</link>
+<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/36.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -100,27 +88,27 @@
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://216.31.255.235/hlsl/1/COMEDY/COMEDY.ts</link>
+<link>http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/41.ts</link>
+<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/41.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
 <!--
 <item>
 <title>DISNEY XD </title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.ts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/422.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/49.ts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/49.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -155,7 +143,7 @@
 
 <item>
 <title>FXX</title>
-<link>http://216.31.255.235/hlsl/4/FXX/FXX.ts</link>
+<link>http://216.31.255.235/hlsl/4/FXX/FXX.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -183,7 +171,7 @@
 
 <item>
 <title>TRAVEL CHANNEL HD</title>
-<link>http://iptvtt.ddns.net:8000/live/fabrica/fabrica/713.ts</link>
+<link>http://iptvtt.ddns.net:8000/live/fabrica/fabrica/713.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -232,7 +220,7 @@
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/28.ts</link>
+<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/28.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
 
@@ -997,7 +985,7 @@
 
 <item>
 <title>SPORTSNET</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/47.ts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/47.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
