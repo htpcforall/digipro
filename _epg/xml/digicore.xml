@@ -947,11 +947,31 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>ABC 27 test</title>
-<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/9.m3u8</link>
+<title>ABC 27</title>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/9.mp4</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+http://free-premium-iptv.ddns.net:9090/load/free123/47.m2ts
+
+<item>
+<title>DISCOVERY</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/49.m2ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISCOVERY</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/49.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
