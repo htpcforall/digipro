@@ -954,25 +954,31 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
-http://free-premium-iptv.ddns.net:9090/load/free123/47.m2ts
 
 <item>
-<title>DISCOVERY</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/49.m2ts</link>
+<title>SPORTSNET</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/47.m2ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>DISCOVERY</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/49.mpegts</link>
+<title>SPORTSNET</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/47.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>DISCOVERY</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/49.ts</link>
+<title>SPORTSNET</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/47.mpegts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SPORTSNET</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/47.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
