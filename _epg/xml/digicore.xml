@@ -15,7 +15,7 @@
 
 <item>
 <title>NBC</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/140.ts</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/17380.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -43,20 +43,20 @@
 <link>http://live.softiptv.com:9900/live/Julian/Julian/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>MY9</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts&lkj=m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/1501.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>AE</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts&lkj=lll.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/300.mpegts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
--->
+
 <item>
 <title>AMC</title>
 <link>http://live.softiptv.com:9900/live/jagdish/jagdish/19419.m3u8</link>
@@ -70,14 +70,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>E!</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>FOX</title>
 <link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/36.ts</link>
