@@ -4,6 +4,15 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR red]*[/COLOR][COLOR grey] Click to Update List [/COLOR][COLOR red]*[/COLOR][/B]</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/digicore.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <!--
 <item>
 <title>NBC</title>
