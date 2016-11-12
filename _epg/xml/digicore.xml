@@ -14,24 +14,24 @@
 
 <item>
 <title>ABC</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19412.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6227.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CBS</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19408.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6222.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>CW</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19405.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>MY9</title>
 <link>http://usaiptv.ddns.net:9090/yanis0910@hotmail.fr/dVKWJ437Ls/1501.m3u8</link>
@@ -47,7 +47,7 @@
 
 <item>
 <title>AMC</title>
-<link>http://151.80.29.203:9900/live/jagdish/jagdish/19419.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8009.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -61,21 +61,21 @@
 
 <item>
 <title>E!</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/468.m3u8</link>
+<link>http://iptvtt.ddns.net:8000/live/fabrica/fabrica/977.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOX</title>
-<link>http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/36.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8005.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://151.80.29.203:9900/live/jagdish/jagdish/18047.m3u8</link>
+<link>http://iptvtt.ddns.net:8000/live/fabrica/fabrica/804.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -115,28 +115,21 @@
 
 <item>
 <title>FOOD NETWORK</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19428.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
-<title>FOOD NETWORK</title>
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6229.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>DIY</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19429.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8004.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FX</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19425.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7997.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -148,11 +141,6 @@
 <fanart></fanart>
 </item>
 <item>
-<title>FXX</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/782.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
-<fanart></fanart>
-</item>
 -->
 
 <item>
@@ -192,42 +180,42 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/12.m3u</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7989.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SYFY</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19399.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7988.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TNT</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19398.m3u</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7986.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HISTORY</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19402.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19402.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
 
 <item>
 <title>H2</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19424.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19424.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/5811.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/5811.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
 
@@ -246,14 +234,14 @@
 -->
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19410.m3u8<link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19410.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NICKELODEON</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19400.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19400.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <!--
@@ -265,13 +253,13 @@
 -->
 <item>
 <title>TBS</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19390.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19390.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
 
 <item>
 <title>USA NETWORK</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19401.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19401.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
 <!--
@@ -297,7 +285,7 @@
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19430.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19430.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
@@ -375,7 +363,7 @@
 
 <item>
 <title>CNN</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19405.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19405.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
@@ -400,7 +388,7 @@
 
 <item>
 <title>FOX NEWS ALT1</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/12403.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/12403.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
@@ -437,7 +425,7 @@
 
 <item> 
 <title>ALJAZEERA ALT</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/17405.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/17405.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
 </item>
 <!--
@@ -455,7 +443,7 @@
 -->
 <item> 
 <title>BLOOMBERG</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/17492.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/17492.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
 </item>
 
@@ -489,28 +477,28 @@
 
 <item>
 <title>ACTION MAX</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/187.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/187.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CINEMAX EAST</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19431.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19431.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CINEMAX 5</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/186.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/186.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CINEMAX ACTION</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/187.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/187.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -524,42 +512,42 @@
 
 <item>
 <title>HBO EAST</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/189.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/189.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wrvxwy1465733105.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HBO COMEDY</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/194.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/194.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quutxp1477987872.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HBO FAMILY</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/195.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/195.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HBO SIGNATURE</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/192.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/192.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rxtryu1477987973.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HBO ZONE</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/193.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/193.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SHOWTIME EAST</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/169.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/169.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -573,21 +561,21 @@
 
 <item>
 <title>SHOWTIME</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/17339.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/17339.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SHOWTIME 2</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/170.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/170.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqxvux1467823026.png</thumbnail>
 <fanart></fanart>
 </item>
 <!--
 <item>
 <title>SHOWTIME EXTREME</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/173.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/173.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxxrrp1433428085.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -602,34 +590,34 @@
 
 <item>
 <title>STARZ EAST</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/182.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/182.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ WEST</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/169.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/169.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ CINEMA</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/179.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/179.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <title>STARZ EDGE</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/180.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/180.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ ENCORE</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/464.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/464.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
@@ -643,13 +631,13 @@
 
 <item>
 <title>FIGHT NETWORK</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19389.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19389.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>FIGHT SPORT</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19388.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19388.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -673,13 +661,13 @@
 
 <item>
 	<title>NFL NETWORK HD ALT2</title>
-	<link>http://151.80.29.203:9900/live/Julian/Julian/1190.m3u8</link>
+	<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/1190.m3u8</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
 <item>
 <title>NFL NOW</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/1066.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/1066.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
@@ -697,19 +685,19 @@
 
 <item>
 <title>ESPN ALT</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19404.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19404.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN 2</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19391.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19391.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
 <!--
 <item>
 <title>MLB NETWORK</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/456.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/456.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
 </item>
 -->
@@ -819,7 +807,7 @@
 
 <item>
 <title>VERSUS</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/1427.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/1427.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqwyyy1433429142.png</thumbnail>
 </item>
 
@@ -832,7 +820,7 @@
 
 <item> 
 <title>WWE ALT</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/12617.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/12617.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 </item>
 -
@@ -887,34 +875,34 @@
 
 <item>
 <title>TSN 1</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19387.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19387.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 2</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19386.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19386.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 3</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19385.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19385.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19384.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19384.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 5</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19383.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19383.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 <fanart></fanart>
 </item>
