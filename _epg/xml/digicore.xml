@@ -28,13 +28,13 @@
 <!--
 <item>
 <title>CW</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19405.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
 
 <item>
 <title>MY9</title>
-<link>http://usaiptv.ddns.net:9090/yanis0910@hotmail.fr/dVKWJ437Ls/1501.m3u8</link>
+<link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -75,7 +75,7 @@
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://iptvtt.ddns.net:8000/live/fabrica/fabrica/804.ts</link>
+<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/471.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -246,9 +246,9 @@
 </item>
 <!--
 <item>
-<title>NICK JR</title>
+<title>NICKTOONS</title>
 <link>http://usaiptv.ddns.net:9090/load/3adb3a92788d//419.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/usvqpr1433780215.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 -->
 <item>
@@ -270,13 +270,7 @@
 <fanart></fanart>
 </item>
 <!--
-<item>
-<title>INVESTIGATION DISCOVERY</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/28.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
-<fanart></fanart>
-</item>
--->
+
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8</link>
