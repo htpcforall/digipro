@@ -33,9 +33,8 @@
 <fanart></fanart>
 </item>
 <item>
-<title>CBS</title>
-<link>http://176.31.227.54:25461//streaming/clients_live.php?username=Julian&password=Julian&stream=19408&extension=mpegts&hash=206b250b7ae008b4cb122b4e0245188e&time=0&pid=7715&external_device=&on_demand=0&isp=&bitrate=3936
-</link>
+<title>-CBS</title>
+<link>http://176.31.227.54:25461//streaming/clients_live.php?username=Julian&password=Julian&stream=19408&extension=mpegts&hash=206b250b7ae008b4cb122b4e0245188e&time=0&pid=7715&external_device=&on_demand=0&isp=&bitrate=3936</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
