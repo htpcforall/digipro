@@ -908,6 +908,57 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<regex>
+<name>get-text</name>
+<expres><![CDATA[#$pyFunction
+import requests,xbmcgui,xbmc
+import re,os,time
+import xbmcaddon,xbmc
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ text=takeInputFortext('Enter filter string')
+
+ return text
+
+def takeInputFortext(txt):
+ addon = xbmcaddon.Addon('plugin.video.live.streamspro')
+ addon_version = addon.getAddonInfo('version')
+ profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+ solver = InputWindow( txt=txt)
+ solution = solver.get()
+ return solution
+
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+
+        
+        self.txt = kwargs.get('txt','')
+
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+
+
+
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+        
+]]></expres>
+<page></page>
+</regex>
+
 <!------------------testing----------------------->
 <item>
 <title>[COLOR limegreen][B]=== TESTING ===[/COLOR][/B]</title>
