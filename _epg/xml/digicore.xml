@@ -917,7 +917,7 @@ import re,os,time
 import xbmcaddon,xbmc
 def GetLSProData(page_data,Cookie_Jar,m):
 
- text=takeInputFortext('Enter filter string')
+ text=takeInputFortext('Enter search string')
 
  return text
 
