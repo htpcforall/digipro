@@ -25,13 +25,13 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>CW</title>
-<link></link>
+<link>http://151.80.29.203:9900/live/Julian/Julian/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>MY9</title>
 <link></link>
@@ -75,7 +75,7 @@
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/471.m3u8</link>
+<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/471.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -234,14 +234,14 @@
 -->
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19410.m3u8<link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/49.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NICKELODEON</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19400.m3u8</link>
+<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7991.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <!--
@@ -269,7 +269,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+-->
 
 <item>
 <title>INVESTIGATION DISCOVERY</title>
@@ -898,6 +898,14 @@
 <title>TSN 5</title>
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19383.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SPORTSTEST</title>
+<link>http://89.33.8.194/swf/7979.m3u8?sf=NTdkZjJiNzgxY2FlNA==&token=DqezwNJaiIMSR7dKuJTpqg
+6.11.2016|Referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
