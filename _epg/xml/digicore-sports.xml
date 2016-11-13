@@ -3,7 +3,7 @@
 <item>
     <title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon [/COLOR][COLOR=FF00FF00]S[/COLOR][COLOR=blue]treams[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fSports.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dragon%20Sports%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=dragon_sports</jsonrpc>
+	<jsonrpc>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-ds.xml</jsonrpc>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/dz.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
