@@ -29,7 +29,7 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL Extra[/COLOR][/B]</title>
+<item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]FL Replays[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.bulldogstreams/?fanart&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20limegreen%5dNFL%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fwww.bulldogstreams.football%2fnfl.php</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/NFL.png</thumbnail>
@@ -74,14 +74,14 @@
 <item><title>[B][COLOR=FF00FF00]P[/COLOR][COLOR=blue]AC Networks[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fPacNetworks.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dP%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dAC%20Networks%5b%2fCOLOR%5d%5bCOLOR%3dred%5d%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=pac_networks</jsonrpc>
-	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<thumbnail>http://dragonstr.com/new_ds/images/PacNetworks.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
 <item><title>[B][COLOR=FF00FF00]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fReplays.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dR%5b%2fCOLOR%5d%5bCOLOR%3dblue%5deplays%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=dragon_sports_replays</jsonrpc>
-	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
