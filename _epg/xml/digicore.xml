@@ -1,6 +1,6 @@
 ﻿<item>
 <title>[B][COLOR limegreen]=== LIVE TV === [/COLOR][COLOR red]*[/COLOR][COLOR grey] Click to Update List [/COLOR][COLOR red]*[/COLOR][/B]</title>
-<link>plugin://script.schoonmaak/?url=url&amp;mode=2&amp;name=%5BB%5DC%5B%2FB%5Dlear+Cache&quot;</link>
+<link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
