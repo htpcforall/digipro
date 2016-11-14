@@ -81,18 +81,11 @@
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8003.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
-<title>COMEDY CENTRAL</title>
 <link>http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>DISNEY CHANNEL</title>
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8701.m3u8</link>
@@ -166,7 +159,7 @@
 
 <item>
 <title>TRAVEL CHANNEL HD</title>
-<link>http://iptvtt.ddns.net:8000/live/fabrica/fabrica/713.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/12585.ts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -201,14 +194,14 @@
 
 <item>
 <title>HISTORY</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19402.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8504.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
 
 <item>
 <title>H2</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19424.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8498.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -253,23 +246,23 @@
 -->
 <item>
 <title>TBS</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19390.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8516.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>USA NETWORK</title>
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19401.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
-<!--
+-->
 <item>
 <title>USA NETWORK ALT</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 
 <item>
 <title>INVESTIGATION DISCOVERY</title>
@@ -279,7 +272,7 @@
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19430.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/12587.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
