@@ -639,19 +639,19 @@
 
 <item> 
 	<title>NFL NETWORK HD </title>
-	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_4500.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_4500.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
 <item>
 	<title>NFL NETWORK HD ALT1</title>
-	<link>plugin://plugin.video.bulldogstreams/?url=http%3A%2F%2Fnlds21.cdnak.neulion.com%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2Fnfltv_hd_3000.m3u8%3Fnltid%3Dnflgp%26nltdt%3D6%26nltnt%3D1%26uid%3D716458%26hdnea%3Dexpires%3D1474309313%7Eaccess%3D%2Fnlds%2Fnfl%2Fnfltv%2Fas%2Flive%2F%2A%7Emd5%3D4f168d439aba73344c5a37b2a406bad8%7CUser-Agent%3DSafari%2F537.36+Mozilla%2F5.0+AppleWebKit%2F537.36+Chrome%2F31.0.1650.57&amp;mode=12&amp;sf_options=meta%3Dduration%253D0%2526label%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%2526title%253DNFL%252BNetwork%252B-%252BLive%252B%25255BHD%25255D%26winID%3D10025%26_options_sf&quot;</link>
+	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
 <item>
 	<title>NFL NETWORK HD ALT21</title>
-	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_1600.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
@@ -772,7 +772,7 @@
 
 <item>
 <title>FOX SPORTS OHIO</title>
-<link>http%253A%252F%252Fhlslinear-akc.med1.foxsportsgo.com%252Fls02%252Ffoxsports%252FFOXSPORTS_LINEAR_107%252Flive%252F2016%252F10%252F12%252F12606991%252F5000K%252F5000_slide_ads.m3u8%257CCookie%253DAuthorization%253DeyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiYzU5YmFkNTAtOWJjNy0xMWU2LWJhZWMtMTIxZTU5NDY1NzVlIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsInBsYXRmb3JtIjoid2ViIn0sInVzZXIiOnsiaWQiOiI5NTc5YmE4ZC03NzU1LTRiOTgtYmVhNy02ZDgzMDVkZjNmNzItMjI1NDkwLTI4ZjJmYjE0NTU0MmY3NjE0ZTAwZWJjNjJlODFlZTExY2JhY2I2MjgiLCJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImJpbGxpbmdfbG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI0ODA4MCJ9LCJyZWdpc3RyYXRpb24iOnsiYXV0aF9wcm92aWRlciI6IkRUViIsImVudGl0bGVtZW50cyI6WyJmYmMtZm94IiwiZnMyIiwiZnNkIiwiZnMxIl0sImV4cGlyZXNfb24iOiIyMDE2LTExLTI1VDIyOjAxOjMxLjAwMCswMDAwIn19LCJnZW5lcmF0ZWRfb24iOiIyMDE2LTEwLTI2VDIyOjAxOjM5Ljc0OSswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTYtMTAtMjZUMjI6MDk6MTQuNDc5KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxNi0xMC0yN1QwMjowOToxNC40NzkrMDAwMCIsImF2YWlsYWJsZV9jb250ZW50Ijp7Im5hdGlvbmFsIjp7ImNhbGxfc2lnbnMiOlsiQklHRSIsIkZTMSIsIkZTMiIsIkZTR08iLCJGWERFUCIsIlVTT1BFTiIsIkZTUCJdfSwiZ2VvIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiNDk2ODUiLCJjb3VudHJ5X2NvZGUiOiJ1cyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsiZnNkIl0sInJzbl9jYWxsX3NpZ25zIjpbIkZTRCIsIkZTRFBMVVMiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiV0ZRWCJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjQ4MDgwIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2QiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNEIiwiRlNEUExVUyJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJXSkJLIl0sInRlYW1zIjpbeyJpZCI6IjNiNzg4YTBkLTQyZTEtNDgzNi04YzU1LTdjZWQ3MzJjOTgyMyIsIm5hbWUiOiJEZXRyb2l0IFBpc3RvbnMiLCJzcG9ydCI6Ik5CQSJ9LHsiaWQiOiI4NjQxYTcyYi0yOTdjLTQ0YzMtYjdkOC02MTM0ZTk2MTgzZTYiLCJuYW1lIjoiRGV0cm9pdCBSZWQgV2luZ3MiLCJzcG9ydCI6Ik5ITCJ9LHsiaWQiOiI0MGQ1ODY5ZC0zYTA4LTQ1YjktOWJkYS02ZGMwZjIyMWVhYWYiLCJuYW1lIjoiRGV0cm9pdCBUaWdlcnMiLCJzcG9ydCI6Ik1MQiJ9XX19fSwiaXBBZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZXhwIjoxNDc3NTM0MTU0LCJ0eXBlIjoiVXNlciIsInVzZXJpZCI6Ijk1NzliYThkLTc3NTUtNGI5OC1iZWE3LTZkODMwNWRmM2Y3Mi0yMjU0OTAtMjhmMmZiMTQ1NTQyZjc2MTRlMDBlYmM2MmU4MWVlMTFjYmFjYjYyOCIsImlhdCI6MTQ3NzUxOTI5OSwidmVyc2lvbiI6InYxLjAifQ.MahoJ4XqtkE2i_wn1kh89xZAuyi2rKNnDjQ0G1LjXZQ%2526path%253D%252F%2526domain%253Dmedia-api.foxsportsgo.com</link>
+<link>http://hlslinear-akc.med1.foxsportsgo.com/ls02/foxsports/FOXSPORTS__LINEAR_107%252Flive%252F2016%252F10%252F12%252F12606991%252F5000K%252F5000_slide_ads.m3u8%257CCookie%253DAuthorization%253DeyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiYzU5YmFkNTAtOWJjNy0xMWU2LWJhZWMtMTIxZTU5NDY1NzVlIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsInBsYXRmb3JtIjoid2ViIn0sInVzZXIiOnsiaWQiOiI5NTc5YmE4ZC03NzU1LTRiOTgtYmVhNy02ZDgzMDVkZjNmNzItMjI1NDkwLTI4ZjJmYjE0NTU0MmY3NjE0ZTAwZWJjNjJlODFlZTExY2JhY2I2MjgiLCJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImJpbGxpbmdfbG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI0ODA4MCJ9LCJyZWdpc3RyYXRpb24iOnsiYXV0aF9wcm92aWRlciI6IkRUViIsImVudGl0bGVtZW50cyI6WyJmYmMtZm94IiwiZnMyIiwiZnNkIiwiZnMxIl0sImV4cGlyZXNfb24iOiIyMDE2LTExLTI1VDIyOjAxOjMxLjAwMCswMDAwIn19LCJnZW5lcmF0ZWRfb24iOiIyMDE2LTEwLTI2VDIyOjAxOjM5Ljc0OSswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTYtMTAtMjZUMjI6MDk6MTQuNDc5KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxNi0xMC0yN1QwMjowOToxNC40NzkrMDAwMCIsImF2YWlsYWJsZV9jb250ZW50Ijp7Im5hdGlvbmFsIjp7ImNhbGxfc2lnbnMiOlsiQklHRSIsIkZTMSIsIkZTMiIsIkZTR08iLCJGWERFUCIsIlVTT1BFTiIsIkZTUCJdfSwiZ2VvIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiNDk2ODUiLCJjb3VudHJ5X2NvZGUiOiJ1cyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsiZnNkIl0sInJzbl9jYWxsX3NpZ25zIjpbIkZTRCIsIkZTRFBMVVMiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiV0ZRWCJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjQ4MDgwIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2QiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNEIiwiRlNEUExVUyJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJXSkJLIl0sInRlYW1zIjpbeyJpZCI6IjNiNzg4YTBkLTQyZTEtNDgzNi04YzU1LTdjZWQ3MzJjOTgyMyIsIm5hbWUiOiJEZXRyb2l0IFBpc3RvbnMiLCJzcG9ydCI6Ik5CQSJ9LHsiaWQiOiI4NjQxYTcyYi0yOTdjLTQ0YzMtYjdkOC02MTM0ZTk2MTgzZTYiLCJuYW1lIjoiRGV0cm9pdCBSZWQgV2luZ3MiLCJzcG9ydCI6Ik5ITCJ9LHsiaWQiOiI0MGQ1ODY5ZC0zYTA4LTQ1YjktOWJkYS02ZGMwZjIyMWVhYWYiLCJuYW1lIjoiRGV0cm9pdCBUaWdlcnMiLCJzcG9ydCI6Ik1MQiJ9XX19fSwiaXBBZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZXhwIjoxNDc3NTM0MTU0LCJ0eXBlIjoiVXNlciIsInVzZXJpZCI6Ijk1NzliYThkLTc3NTUtNGI5OC1iZWE3LTZkODMwNWRmM2Y3Mi0yMjU0OTAtMjhmMmZiMTQ1NTQyZjc2MTRlMDBlYmM2MmU4MWVlMTFjYmFjYjYyOCIsImlhdCI6MTQ3NzUxOTI5OSwidmVyc2lvbiI6InYxLjAifQ.MahoJ4XqtkE2i_wn1kh89xZAuyi2rKNnDjQ0G1LjXZQ%2526path%253D%252F%2526domain%253Dmedia-api.foxsportsgo.com</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yqvwrs1467886378.png</thumbnail>
 </item>
 
@@ -903,11 +903,21 @@
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
+<item>
+<title>nfl</title>
+<link>http://158.69.228.214:8081/livetv/US_COMEDY_CENTRAL/playlist.m3u8?wmsAuthSign=server_time=10/25/2016 3:07:14 PM&hash_value=ChQ7/jt4VPXMSI9V97eJcg==&validminutes=1</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>UFC test</title>
-<link>http://nlds50.cdnllnwnl.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8?nltid=ufc&nltdt=6&nltnt=1&hdnea=expires=1468118988~access=/nlds/ufc/camera0/as/live/*~md5=09228dc7ec4da1ff66b4e59c1ab9140e
-</link>
+<link>http://nlds50.cdnllnwnl.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8?nltid=ufc&nltdt=6&nltnt=1&hdnea=expires=1468118988~access=/nlds/ufc/camera0/as/live/*~md5=09228dc7ec4da1ff66b4e59c1ab9140e|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>nfl</title>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_1600.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
 <thumbnail></thumbnail>
 </item>
 
