@@ -8,17 +8,17 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR grey] Better than the real thing. 11-13-2016 update[/COLOR][/B]</title>
+<item><title>[B][COLOR grey] Better than the real thing. 11-16-2016 update[/COLOR][/B]</title>
 	<link>http://google.com</link>
 	<externallink></externallink>
-	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/dz.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
 <item><title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fFight%2fimages%2f205.jpg&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dred%5dUFC%3a%20%5b%2fCOLOR%5d%5bCOLOR%3dwhite%5dR%5b%2fCOLOR%5d%5bCOLOR%3dblue%5deplays%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fdragonstr.com%2fFight%2fReplay.html</jsonrpc>
-	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
@@ -89,13 +89,6 @@
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fDragonStreams.png&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dN%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dews%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fdragonstr.com%2fchan%2fNews.html</jsonrpc>
 	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
-	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
-</item>
-
-<item><title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon Sports[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fSports.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dragon%20Sports%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=dragon_sports</jsonrpc>
-	<thumbnail>http://dragonstr.com/new_ds/images/Sports.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
