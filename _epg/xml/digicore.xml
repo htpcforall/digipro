@@ -903,11 +903,6 @@
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
-<item>
-<title>nfl</title>
-<link>http://158.69.228.214:8081/livetv/US_COMEDY_CENTRAL/playlist.m3u8?wmsAuthSign=server_time=10/25/2016 3:07:14 PM&hash_value=ChQ7/jt4VPXMSI9V97eJcg==&validminutes=1</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>UFC1</title>
@@ -918,7 +913,6 @@
 <item>
 <title>nfl</title>
 <link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_1600.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
-http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_1600.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57
 <thumbnail></thumbnail>
 </item>
 
