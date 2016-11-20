@@ -964,3 +964,11 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 </item>
+
+<item>
+<title>EXTRA</title>
+<link>http://ingnoreme</link>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/pack.bntv.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
+<fanart></fanart>
+</item>
