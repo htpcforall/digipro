@@ -17,14 +17,14 @@
 
 <item>
 <title>ABC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19412.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19412.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CBS</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19408.ts</link>
+<link>http://151.80.29.203:9900/live/Julian/Julian/19408.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -57,7 +57,7 @@
 
 <item>
 <title>BRAVO</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19409.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19409.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -91,7 +91,7 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.ts
+<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.m3u8
 </link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
@@ -99,34 +99,34 @@
 
 <item>
 <title>DISNEY XD </title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8364.ts</link>
+<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8364.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19416.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOOD NETWORK</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19428.ts</link>
+<link>http://151.80.29.203:9900/live/Julian/Julian/19428.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DIY</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19429.ts</link>
+<link>http://151.80.29.203:9900/live/Julian/Julian/19429.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FX</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19425.ts</link>
+<link>http://151.80.29.203:9900/live/Julian/Julian/19425.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -149,7 +149,7 @@
 -->
 <item>
 <title>LIFETIME</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8505.ts</link>
+<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8505.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
@@ -184,7 +184,7 @@
 
 <item>
 <title>SYFY</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19399.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19399.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -198,7 +198,7 @@
 
 <item>
 <title>HISTORY</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19402.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19402.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
@@ -231,7 +231,7 @@
 
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19410.ts<link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19410.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -250,13 +250,13 @@
 
 <item>
 <title>TBS</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19390.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19390.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
 </item>
 
 <item>
 <title>USA NETWORK</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19401.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19401.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
 <!--
@@ -354,7 +354,7 @@
 
 <item>
 <title>CNN</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19407.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19407.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
@@ -366,7 +366,7 @@
 
 <item>
 <title>FOX NEWS</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19403.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19403.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
@@ -676,7 +676,7 @@
 
 <item>
 <title>ESPN ALT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19404.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19404.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
 
@@ -908,13 +908,6 @@
 <item>
 <title>UFC12</title>
 <link>http://nlds21.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8?nltid=ufc&nltdt=6&nltnt=1&hdnea=expires=1474309313~access=/nlds/ufc/camera0/as/live/*~md5=09228dc7ec4da1ff66b4e59c1ab9140e|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DS1</title>
-<link>http://Ignoreme</link>
-<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1E:B4:AE&method=dragon_sports|UserAgent=00:11:6c:00:14:a5</externallink>
 <thumbnail></thumbnail>
 </item>
 
