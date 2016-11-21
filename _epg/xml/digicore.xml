@@ -10,28 +10,28 @@
 
 <item>
 <title>NBC</title>
-<link>http://62.210.248.96:11000/live/fabiozeta36@gmail.com_it/fabiozeta36@gmail.com-it/7992.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>ABC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19412.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CBS</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19408.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CW</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19405.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
 
@@ -44,13 +44,13 @@
 
 <item>
 <title>AE</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8011.m3u8</link>
+<link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
 <item>
 <title>AMC1</title>
-<link>http://usaiptv.ddns.net:9090/load/3adb3a92788d/372.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -64,21 +64,21 @@
 
 <item>
 <title>E!</title>
-<link>http://iptvtt.ddns.net:8000/live/fabrica/fabrica/977.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOX</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8005.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/471.m3u8</link>
+<link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -91,8 +91,7 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.m3u8
-</link>
+<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -142,7 +141,7 @@
 
 <item>
 <title>FXX</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8000.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *8000.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -156,14 +155,14 @@
 
 <item>
 <title>TLC</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6695.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *6695.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TRAVEL CHANNEL HD</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/5907.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *5907.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -177,7 +176,7 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7989.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *7989.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -191,7 +190,7 @@
 
 <item>
 <title>TNT</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7986.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *7986.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -212,7 +211,7 @@
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/5811.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *5811.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
 
@@ -224,7 +223,7 @@
 
 <item>
 <title>NAT GEO WILD</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6184.m3u8<link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *6184.m3u8<link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -238,13 +237,13 @@
 
 <item>
 <title>NICKELODEON</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7991.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *7991.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
 <item>
 <title>NICKTOONS</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6690.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *6690.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -275,7 +274,7 @@
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6102.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *6102.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
@@ -341,13 +340,13 @@
 
 <item>
 <title>CNBC</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8702.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *8702.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
 
 <item>
 <title>CNN</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6113.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *6113.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
@@ -390,7 +389,7 @@
 
 <item>
 <title>THE WEATHER CHANNEL</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7655.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *7655.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
 </item>
 
@@ -415,13 +414,13 @@
 
 <item> 
 <title>ALJAZEERA ALT</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/17405.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *17405.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
 </item>
 
 <item> 
 	<title>BBC NEWS</title>
-	<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6662.m3u8</link>
+	<link>http://live.softiptv.com:9900/live/3month/3month/ *6662.m3u8</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
 </item>
 
@@ -433,7 +432,7 @@
 
 <item> 
 <title>BLOOMBERG</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/17492.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *17492.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
 </item>
 
@@ -544,7 +543,7 @@
 
 <item>
 <title>SHOWTIME WEST</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6122.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *6122.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -565,7 +564,7 @@
 
 <item>
 <title>SHOWTIME EXTREME</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/173.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *173.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxxrrp1433428085.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -580,34 +579,34 @@
 
 <item>
 <title>STARZ EAST</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/182.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *182.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ WEST</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/169.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *169.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ CINEMA</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/179.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *179.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <title>STARZ EDGE</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/180.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *180.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ ENCORE</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/464.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *464.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
@@ -621,19 +620,19 @@
 
 <item>
 <title>FIGHT NETWORK</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7839.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *7839.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>FIGHT SPORT</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6957.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *6957.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>OLYMIC CHANNEL</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/9236.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *9236.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -657,13 +656,13 @@
 
 <item>
 <title>NFL NOW</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/1066.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *1066.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
 <item>
 <title>NFL NOW ALT</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/9014.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *9014.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
@@ -681,13 +680,13 @@
 
 <item>
 <title>ESPN 2</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/3173.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *3173.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
 
 <item>
 <title>MLB NETWORK</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/456.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *456.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
 </item>
 
@@ -699,7 +698,7 @@
 
 <item> 
 <title>FOX SPORTS 506 HD</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7502.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *7502.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -797,7 +796,7 @@
 
 <item>
 <title>VERSUS</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/1427.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *1427.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqwyyy1433429142.png</thumbnail>
 </item>
 
@@ -810,7 +809,7 @@
 
 <item> 
 <title>WWE ALT</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/12617.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *12617.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 </item>
 -
@@ -865,34 +864,34 @@
 
 <item>
 <title>TSN 1</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19387.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *19387.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 2</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19386.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *19386.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 3</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19385.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *19385.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19384.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *19384.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 5</title>
-<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/19383.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/ *19383.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 <fanart></fanart>
 </item>
