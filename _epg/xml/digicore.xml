@@ -993,12 +993,11 @@ http://nlds290.cdnak.neulion.com/nlds/nba/sac/as/live/sac_hd_800_ipad.m3u8?hdnea
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>EXTRA1</title>
+<title>3 MONTH</title>
 <link>http://ingnoreme</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/pack.bntv3.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/3month-filter-2.m3u</externallink>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
--->
