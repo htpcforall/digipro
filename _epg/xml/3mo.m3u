@@ -1,82 +1,167 @@
 ﻿#EXTM3U
-#EXTINF:-1,ABC http://live.softiptv.com:9900/live/3month/3month/19412.m3u8
-#EXTINF:-1,ABC News http://live.softiptv.com:9900/live/3month/3month/12582.m3u8
-#EXTINF:-1,AL JAZERRA http://live.softiptv.com:9900/live/3month/3month/17405.m3u8
-#EXTINF:-1,AMC http://live.softiptv.com:9900/live/3month/3month/19419.m3u8
-#EXTINF:-1,ANIMAL PLANET http://live.softiptv.com:9900/live/3month/3month/19410.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT 1 http://live.softiptv.com:9900/live/3month/3month/12618.m3u8
-#EXTINF:-1,BEIN SPORT HD11 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8687.m3u8
-#EXTINF:-1,BEIN SPORT HD3 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8680.m3u8
-#EXTINF:-1,BEIN SPORT HD5 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8682.m3u8
-#EXTINF:-1,BEIN SPORT HD7 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8684.m3u8
-#EXTINF:-1,BEIN SPORTS CA http://live.softiptv.com:9900/live/3month/3month/19435.m3u8
-#EXTINF:-1,BEIN SPORTS HD1 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1412.m3u8
-#EXTINF:-1,BEIN SPORTS HD2 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1413.m3u8
-#EXTINF:-1,BEIN SPORTS HD2 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8679.m3u8
-#EXTINF:-1,BLOOMBERG http://live.softiptv.com:9900/live/3month/3month/17402.m3u8
-#EXTINF:-1,BRAVO http://live.softiptv.com:9900/live/3month/3month/19409.m3u8
-#EXTINF:-1,BYU TV http://live.softiptv.com:9900/live/3month/3month/19418.m3u8
-#EXTINF:-1,CBS http://live.softiptv.com:9900/live/3month/3month/12604.m3u8
-#EXTINF:-1,CBS http://live.softiptv.com:9900/live/3month/3month/19408.m3u8
-#EXTINF:-1,CINEMAX EAST http://live.softiptv.com:9900/live/3month/3month/19431.m3u8
-#EXTINF:-1,CNN http://live.softiptv.com:9900/live/3month/3month/19407.m3u8
-#EXTINF:-1,CNN http://live.softiptv.com:9900/live/3month/3month/5821.m3u8
-#EXTINF:-1,COMEDY CENTRAL http://live.softiptv.com:9900/live/3month/3month/19406.m3u8
-#EXTINF:-1,CW http://live.softiptv.com:9900/live/3month/3month/19405.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL http://live.softiptv.com:9900/live/3month/3month/19416.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE http://live.softiptv.com:9900/live/3month/3month/12587.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE http://live.softiptv.com:9900/live/3month/3month/19430.m3u8
-#EXTINF:-1,DIY NETWORK http://live.softiptv.com:9900/live/3month/3month/19429.m3u8
-#EXTINF:-1,ESPN 2 http://live.softiptv.com:9900/live/3month/3month/19391.m3u8
-#EXTINF:-1,ESPN http://live.softiptv.com:9900/live/3month/3month/19397.m3u8
-#EXTINF:-1,ESPN http://live.softiptv.com:9900/live/3month/3month/19404.m3u8
-#EXTINF:-1,ESPNU http://live.softiptv.com:9900/live/3month/3month/19434.m3u8
-#EXTINF:-1,FAMILY CHANNEL http://live.softiptv.com:9900/live/3month/3month/17391.m3u8
-#EXTINF:-1,FIGHTBOX http://live.softiptv.com:9900/live/3month/3month/19388.m3u8
-#EXTINF:-1,FOOD NETWORK http://live.softiptv.com:9900/live/3month/3month/19428.m3u8
-#EXTINF:-1,FOX NEWS http://live.softiptv.com:9900/live/3month/3month/19403.m3u8
-#EXTINF:-1,FS1 http://live.softiptv.com:9900/live/3month/3month/12610.m3u8
-#EXTINF:-1,FS1 http://live.softiptv.com:9900/live/3month/3month/5816.m3u8
-#EXTINF:-1,FS1 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7272.m3u8
-#EXTINF:-1,FS2 http://live.softiptv.com:9900/live/3month/3month/12611.m3u8
-#EXTINF:-1,FX http://live.softiptv.com:9900/live/3month/3month/19425.m3u8
-#EXTINF:-1,H2 http://live.softiptv.com:9900/live/3month/3month/19424.m3u8
-#EXTINF:-1,HBO East http://live.softiptv.com:9900/live/3month/3month/19415.m3u8
-#EXTINF:-1,HBO http://live.softiptv.com:9900/live/3month/3month/19414.m3u8
-#EXTINF:-1,HISTORY http://live.softiptv.com:9900/live/3month/3month/19402.m3u8
-#EXTINF:-1,NAT GEO WILD http://live.softiptv.com:9900/live/3month/3month/5811.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHY http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7252.m3u8
-#EXTINF:-1,NBC GOLF http://live.softiptv.com:9900/live/3month/3month/17361.m3u8
-#EXTINF:-1,NBCSN http://live.softiptv.com:9900/live/3month/3month/19422.m3u8
-#EXTINF:-1,NHL NETWORK http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7255.m3u8
-#EXTINF:-1,NICKELODEN http://live.softiptv.com:9900/live/3month/3month/19400.m3u8
-#EXTINF:-1,NICKELODEN http://live.softiptv.com:9900/live/3month/3month/19421.m3u8
-#EXTINF:-1,PAC 12 Arizona http://live.softiptv.com:9900/live/3month/3month/19396.m3u8
-#EXTINF:-1,PAC 12 Bay Area http://live.softiptv.com:9900/live/3month/3month/19395.m3u8
-#EXTINF:-1,PAC 12 http://live.softiptv.com:9900/live/3month/3month/19390.m3u8
-#EXTINF:-1,PAC 12 http://live.softiptv.com:9900/live/3month/3month/19391.m3u8
-#EXTINF:-1,PAC 12 http://live.softiptv.com:9900/live/3month/3month/19392.m3u8
-#EXTINF:-1,PAC 12 Los Angeles http://live.softiptv.com:9900/live/3month/3month/19394.m3u8
-#EXTINF:-1,PAC 12 Oregon http://live.softiptv.com:9900/live/3month/3month/19393.m3u8
-#EXTINF:-1,SHOWTIME 2 http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7258.m3u8
-#EXTINF:-1,SHOWTIME http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7270.m3u8
-#EXTINF:-1,SHOWTIME SHOWCASE http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7257.m3u8
-#EXTINF:-1,Spike http://live.softiptv.com:9900/live/3month/3month/12594.m3u8
-#EXTINF:-1,SYFY http://live.softiptv.com:9900/live/3month/3month/19399.m3u8
-#EXTINF:-1,TBS http://live.softiptv.com:9900/live/3month/3month/12583.m3u8
-#EXTINF:-1,TBS http://live.softiptv.com:9900/live/3month/3month/19390.m3u8
-#EXTINF:-1,TNT http://live.softiptv.com:9900/live/3month/3month/19398.m3u8
-#EXTINF:-1,TSN 1 http://live.softiptv.com:9900/live/3month/3month/19387.m3u8
-#EXTINF:-1,TSN 3 http://live.softiptv.com:9900/live/3month/3month/19385.m3u8
-#EXTINF:-1,TSN 4 http://live.softiptv.com:9900/live/3month/3month/12599.m3u8
-#EXTINF:-1,TSN 4 http://live.softiptv.com:9900/live/3month/3month/19384.m3u8
-#EXTINF:-1,TSN 5 http://live.softiptv.com:9900/live/3month/3month/12600.m3u8
-#EXTINF:-1,TSN 5 http://live.softiptv.com:9900/live/3month/3month/19383.m3u8
-#EXTINF:-1,TSN3 http://live.softiptv.com:9900/live/3month/3month/12598.m3u8
-#EXTINF:-1,UCTV http://live.softiptv.com:9900/live/3month/3month/17368.m3u8
-#EXTINF:-1,USA NETWORK http://live.softiptv.com:9900/live/3month/3month/19401.m3u8
-#EXTINF:-1,USA NETWORK http://live.softiptv.com:9900/live/3month/3month/19420.m3u8
-#EXTINF:-1,VERSUS http://live.softiptv.com:9900/live/3month/3month/17381.m3u8
-#EXTINF:-1,VERSUS http://live.softiptv.com:9900/live/3month/3month/19392.m3u8
-#EXTINF:-1,VIRGIN http://live.softiptv.com:9900/live/3month/3month/17366.m3u8
-#EXTINF:-1,WWE NETWORK http://live.softiptv.com:9900/live/3month/3month/12617.m3u8 
+#EXTINF:-1,A&E CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/143.ts
+#EXTINF:-1,ABC
+http://live.softiptv.com:9900/live/3month/3month/143.m3u8
+#EXTINF:-1,ABC
+http://live.softiptv.com:9900/live/3month/3month/19412.m3u8
+#EXTINF:-1,ABC News
+http://live.softiptv.com:9900/live/3month/3month/12582.m3u8
+#EXTINF:-1,AL JAZERRA
+http://live.softiptv.com:9900/live/3month/3month/17405.m3u8
+#EXTINF:-1,AMC
+http://live.softiptv.com:9900/live/3month/3month/19419.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://live.softiptv.com:9900/live/3month/3month/19410.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT
+http://live.softiptv.com:9900/live/3month/3month/12618.m3u8
+#EXTINF:-1,BEIN SPORT HD11
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8687.m3u8
+#EXTINF:-1,BEIN SPORT HD3
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8680.m3u8
+#EXTINF:-1,BEIN SPORT HD5
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8682.m3u8
+#EXTINF:-1,BEIN SPORT HD7
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8684.m3u8
+#EXTINF:-1,BEIN SPORTS CA
+http://live.softiptv.com:9900/live/3month/3month/19435.m3u8
+#EXTINF:-1,BEIN SPORTS HD1
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1412.m3u8
+#EXTINF:-1,BEIN SPORTS HD2
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1413.m3u8
+#EXTINF:-1,BEIN SPORTS HD2
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8679.m3u8
+#EXTINF:-1,BLOOMBERG
+http://live.softiptv.com:9900/live/3month/3month/17402.m3u8
+#EXTINF:-1,BRAVO
+http://live.softiptv.com:9900/live/3month/3month/19409.m3u8
+#EXTINF:-1,BYU TV
+http://live.softiptv.com:9900/live/3month/3month/19418.m3u8
+#EXTINF:-1,CBS
+http://live.softiptv.com:9900/live/3month/3month/12604.m3u8
+#EXTINF:-1,CBS
+http://live.softiptv.com:9900/live/3month/3month/19408.m3u8
+#EXTINF:-1,CINEMAX EAST
+http://live.softiptv.com:9900/live/3month/3month/19431.m3u8
+#EXTINF:-1,CNN
+http://live.softiptv.com:9900/live/3month/3month/19407.m3u8
+#EXTINF:-1,CNN
+http://live.softiptv.com:9900/live/3month/3month/5821.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://live.softiptv.com:9900/live/3month/3month/19406.m3u8
+#EXTINF:-1,CW
+http://live.softiptv.com:9900/live/3month/3month/19405.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://live.softiptv.com:9900/live/3month/3month/19416.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://live.softiptv.com:9900/live/3month/3month/12587.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://live.softiptv.com:9900/live/3month/3month/19430.m3u8
+#EXTINF:-1,DIY NETWORK
+http://live.softiptv.com:9900/live/3month/3month/19429.m3u8
+#EXTINF:-1,ESPN 2
+http://live.softiptv.com:9900/live/3month/3month/19391.m3u8
+#EXTINF:-1,ESPN
+http://live.softiptv.com:9900/live/3month/3month/19397.m3u8
+#EXTINF:-1,ESPN
+http://live.softiptv.com:9900/live/3month/3month/19404.m3u8
+#EXTINF:-1,ESPNU
+http://live.softiptv.com:9900/live/3month/3month/19434.m3u8
+#EXTINF:-1,FAMILY CHANNEL
+http://live.softiptv.com:9900/live/3month/3month/17391.m3u8
+#EXTINF:-1,FIGHTBOX
+http://live.softiptv.com:9900/live/3month/3month/19388.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://live.softiptv.com:9900/live/3month/3month/19428.m3u8
+#EXTINF:-1,FOX NEWS
+http://live.softiptv.com:9900/live/3month/3month/19403.m3u8
+#EXTINF:-1,FS1
+http://live.softiptv.com:9900/live/3month/3month/12610.m3u8
+#EXTINF:-1,FS1
+http://live.softiptv.com:9900/live/3month/3month/5816.m3u8
+#EXTINF:-1,FS1
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7272.m3u8
+#EXTINF:-1,FS2
+http://live.softiptv.com:9900/live/3month/3month/12611.m3u8
+#EXTINF:-1,FX
+http://live.softiptv.com:9900/live/3month/3month/19425.m3u8
+#EXTINF:-1,H2
+http://live.softiptv.com:9900/live/3month/3month/19424.m3u8
+#EXTINF:-1,HBO East
+http://live.softiptv.com:9900/live/3month/3month/19415.m3u8
+#EXTINF:-1,HBO
+http://live.softiptv.com:9900/live/3month/3month/19414.m3u8
+#EXTINF:-1,HISTORY
+http://live.softiptv.com:9900/live/3month/3month/19402.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://live.softiptv.com:9900/live/3month/3month/5811.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHY
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7252.m3u8
+#EXTINF:-1,NBC GOLF
+http://live.softiptv.com:9900/live/3month/3month/17361.m3u8
+#EXTINF:-1,NBCSN
+http://live.softiptv.com:9900/live/3month/3month/19422.m3u8
+#EXTINF:-1,NHL NETWORK
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7255.m3u8
+#EXTINF:-1,NICKELODEN
+http://live.softiptv.com:9900/live/3month/3month/19400.m3u8
+#EXTINF:-1,NICKELODEN
+http://live.softiptv.com:9900/live/3month/3month/19421.m3u8
+#EXTINF:-1,PAC 12 Arizona
+http://live.softiptv.com:9900/live/3month/3month/19396.m3u8
+#EXTINF:-1,PAC 12 Bay Area
+http://live.softiptv.com:9900/live/3month/3month/19395.m3u8
+#EXTINF:-1,PAC 12
+http://live.softiptv.com:9900/live/3month/3month/19390.m3u8
+#EXTINF:-1,PAC 12
+http://live.softiptv.com:9900/live/3month/3month/19391.m3u8
+#EXTINF:-1,PAC 12
+http://live.softiptv.com:9900/live/3month/3month/19392.m3u8
+#EXTINF:-1,PAC 12 Los Angeles
+http://live.softiptv.com:9900/live/3month/3month/19394.m3u8
+#EXTINF:-1,PAC 12 Oregon
+http://live.softiptv.com:9900/live/3month/3month/19393.m3u8
+#EXTINF:-1,SHOWTIME 2
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7258.m3u8
+#EXTINF:-1,SHOWTIME
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7270.m3u8
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7257.m3u8
+#EXTINF:-1,Spike
+http://live.softiptv.com:9900/live/3month/3month/12594.m3u8
+#EXTINF:-1,SYFY
+http://live.softiptv.com:9900/live/3month/3month/19399.m3u8
+#EXTINF:-1,TBS
+http://live.softiptv.com:9900/live/3month/3month/12583.m3u8
+#EXTINF:-1,TBS
+http://live.softiptv.com:9900/live/3month/3month/19390.m3u8
+#EXTINF:-1,TNT
+http://live.softiptv.com:9900/live/3month/3month/19398.m3u8
+#EXTINF:-1,TSN 1
+http://live.softiptv.com:9900/live/3month/3month/19387.m3u8
+#EXTINF:-1,TSN 3
+http://live.softiptv.com:9900/live/3month/3month/19385.m3u8
+#EXTINF:-1,TSN 4
+http://live.softiptv.com:9900/live/3month/3month/12599.m3u8
+#EXTINF:-1,TSN 4
+http://live.softiptv.com:9900/live/3month/3month/19384.m3u8
+#EXTINF:-1,TSN 5
+http://live.softiptv.com:9900/live/3month/3month/12600.m3u8
+#EXTINF:-1,TSN 5
+http://live.softiptv.com:9900/live/3month/3month/19383.m3u8
+#EXTINF:-1,TSN3
+http://live.softiptv.com:9900/live/3month/3month/12598.m3u8
+#EXTINF:-1,UCTV
+http://live.softiptv.com:9900/live/3month/3month/17368.m3u8
+#EXTINF:-1,USA NETWORK
+http://live.softiptv.com:9900/live/3month/3month/19401.m3u8
+#EXTINF:-1,USA NETWORK
+http://live.softiptv.com:9900/live/3month/3month/19420.m3u8
+#EXTINF:-1,VERSUS
+http://live.softiptv.com:9900/live/3month/3month/17381.m3u8
+#EXTINF:-1,VERSUS
+http://live.softiptv.com:9900/live/3month/3month/19392.m3u8
+#EXTINF:-1,VIRGIN
+http://live.softiptv.com:9900/live/3month/3month/17366.m3u8
+#EXTINF:-1,WWE NETWORK
+http://live.softiptv.com:9900/live/3month/3month/12617.m3u8 
