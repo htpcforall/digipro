@@ -912,13 +912,32 @@
 </item>
 
 <item>
-<title>nfl</title>
+<title>nba test</title>
 <link>
-http://nlds286.cdnak.neulion.com/nlds/nba/lal/as/live/lal_hd_800_ipad.m3u8?nltid=nba&nltdt=6&uid=7972817&hdnea=expires=1478041218~access=/nlds/nba/lal/as/live/*~md5=c8ba64abdab8dc744cefbc33ee0b475e Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19</link>
+</link>
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>nba test1</title>
+<link>
+http://nlds294.cdnak.neulion.com/nlds/nba/den/as/live/den_hd_800_ipad.m3u8?hdnea=expires=1479693109~access=/nlds/nba/den/as/live/*~md5=1eb553e1b05714fe62c515e7a37c1143&nltid=nba&nltdt=6&uid=7972817</link>
+<thumbnail></thumbnail>
+</item>
 
+<item>
+<title>nba test2</title>
+<link>
+http://nlds294.cdnak.neulion.com/nlds/nba/den/as/live/den_hd_800_ipad.m3u8?hdnea=expires=1479693109~access=/nlds/nba/den/as/live/*~md5=1eb553e1b05714fe62c515e7a37c1143&nltid=nba&nltdt=6&uid=7972817 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>nba test3</title>
+<link>
+http://nlds290.cdnak.neulion.com/nlds/nba/sac/as/live/sac_hd_800_ipad.m3u8?hdnea=expires=1479693190~access=/nlds/nba/sac/as/live/*~md5=3b31f2d64d612d649aba0849e554cb0a&nltid=nba&nltdt=6&uid=7972817 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>TOROS</title>
