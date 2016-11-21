@@ -8,7 +8,6 @@
 <fanart></fanart>
 </item>
 
-<!--
 <item>
 <title>NBC</title>
 <link>http://62.210.248.96:11000/live/fabiozeta36@gmail.com_it/fabiozeta36@gmail.com-it/7992.m3u8</link>
@@ -35,7 +34,7 @@
 <link>http://151.80.29.203:9900/live/Julian/Julian/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>MY9</title>
 <link></link>
@@ -131,7 +130,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>FXX</title>
 <link>http://216.31.255.235/hlsl/4/FXX/FXX.m3u8</link>
@@ -139,8 +138,8 @@
 <fanart></fanart>
 </item>
 <item>
--->
-<!--
+
+
 <item>
 <title>FXX</title>
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8000.m3u8</link>
@@ -260,7 +259,7 @@
 <link>http://live.softiptv.com:9900/live/3month/3month/19401.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>USA NETWORK ALT</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
@@ -312,7 +311,7 @@
 <fanart></fanart>
 </item>
 
-<!--NEWS
+<!--NEWS-->
 
 <item>
 <title>[COLOR limegreen][B]=== NEWS ===[/COLOR][/B]</title>
@@ -425,7 +424,7 @@
 	<link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/6662.m3u8</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
 </item>
-<!--
+
 <item> 
 	<title>BBC WORLD NEWS</title>
 	<link>plugin://plugin.video.israelive/?url=3268%3Fmode%3D1%26ignorefilmonguide%3D1%26filmonmethod%3D1&amp;mode=10&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+World+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fnews.bbcimg.co.uk%2Fmedia%2Fimages%2F45482000%2Fjpg%2F_45482922_worldnews512.jpg&amp;description=&amp;displayname=BBC+World+News&amp;categoryid=10359&quot;)</link>
@@ -457,7 +456,7 @@
 <fanart></fanart>
 </item>
 
-<!-- PREMIUM
+<!-- PREMIUM -->
 
 <item>
 <title>[COLOR limegreen][B]=== PREMIUM ===[/B][/COLOR]</title>
@@ -563,16 +562,16 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqxvux1467823026.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>SHOWTIME EXTREME</title>
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/173.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxxrrp1433428085.png</thumbnail>
 <fanart></fanart>
 </item>
--->
 
-<!--
+
+
 <item>
 <title>SHOWTIME SHOWCASE ALT</title>
 <link>http://51.255.70.112:8000/live/cbrown/cbrown/1684.m3u8</link>
@@ -612,7 +611,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
-<!-- SPORTS
+<!-- SPORTS -->
 
 <item>
 <title>[COLOR limegreen][B]=== SPORTS ===[/COLOR][/B]</title>
@@ -655,7 +654,7 @@
 	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_1600.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>NFL NOW</title>
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/1066.m3u8</link>
@@ -685,7 +684,7 @@
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/3173.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>MLB NETWORK</title>
 <link>http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/456.m3u8</link>
@@ -722,7 +721,7 @@
 <link>http://hlslinear-l3c.med1.foxsportsgo.com/ls02/foxsports/FOX_SPORTS_2/live/2016/10/11/12602958/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YmUzNThmYmUtNDE5YS00MzgwLTk4NTktODllYTFiZjZiMmY5OmY3ZjIwMTdmLWMxZGYtNDkxMy05MDUxLTU5Y2FmOTczMTE4MiIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiZWRhZDE3ZTAtOWNiMC0xMWU2LWJhZWMtMTIxZTU5NDY1NzVlIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiMTYyLjI0NC44MC4yMjkiLCJkZXZpY2UiOnsiaWQiOiJpYXBSZWNlaXB0RGV2aWNlOkRldmljZTpiZTM1OGZiZS00MTlhLTQzODAtOTg1OS04OWVhMWJmNmIyZjk6ZjdmMjAxN2YtYzFkZi00OTEzLTkwNTEtNTljYWY5NzMxMTgyIiwicGxhdGZvcm0iOiJpb3MtdGFibGV0In0sInVzZXIiOnsiaWQiOiI4NDAxYTFkNy02ZmUyLTQ5MTItYTI0MS0xM2Y1Nzg0ZjQxYzItNTA0MTcyLTJkMGM1ZmVjOWFiMmM0NGViYTI0ZjVlZDQ2NjdhYWVmM2NiNzc0NGEiLCJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YmUzNThmYmUtNDE5YS00MzgwLTk4NTktODllYTFiZjZiMmY5OmY3ZjIwMTdmLWMxZGYtNDkxMy05MDUxLTU5Y2FmOTczMTE4MiIsImJpbGxpbmdfbG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI3NjU1MCJ9LCJyZWdpc3RyYXRpb24iOnsiYXV0aF9wcm92aWRlciI6IkRUViIsImVudGl0bGVtZW50cyI6WyJmczIiLCJmc3MiLCJmYmMtZm94IiwiZnMxIl0sImV4cGlyZXNfb24iOiIyMDE2LTExLTI2VDE2OjE4OjI2LjAwMCswMDAwIn19LCJnZW5lcmF0ZWRfb24iOiIyMDE2LTEwLTI4VDAxOjUwOjM5LjcxMCswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTYtMTAtMjhUMDI6MjU6MTEuNzQ1KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxNi0xMC0yOFQwNjoyNToxMS43NDUrMDAwMCIsImF2YWlsYWJsZV9jb250ZW50Ijp7Im5hdGlvbmFsIjp7ImNhbGxfc2lnbnMiOlsiQklHRSIsIkZTMSIsIkZTMiIsIkZTR08iLCJGWERFUCIsIlVTT1BFTiIsIkZTUCJdfSwiZ2VvIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiMTEyMjYiLCJjb3VudHJ5X2NvZGUiOiJ1cyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsieWVzIl0sInJzbl9jYWxsX3NpZ25zIjpbIllFUyJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJXTllXIl19LCJob21lIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiNzY1NTAifSwicnNuX2NoYW5uZWxfZ3JvdXBzIjpbImZzcyJdLCJyc25fY2FsbF9zaWducyI6WyJGU1MzIiwiRlNTVFg4Il0sImFmZmlsaWF0ZV9jYWxsX3NpZ25zIjpbIktUQkMiXSwidGVhbXMiOlt7ImlkIjoiMDUwYjkwZTMtYmJmMS00M2Q0LWE2ZmMtNmYwOWE5ZWI1Y2IzIiwibmFtZSI6IkRhbGxhcyBNYXZlcmlja3MiLCJzcG9ydCI6Ik5CQSJ9LHsiaWQiOiIxMzg5MDQ4OC1lOTQwLTRmM2QtYWZjOC00MGIwYjFlNjgyODEiLCJuYW1lIjoiRGFsbGFzIFN0YXJzIiwic3BvcnQiOiJOSEwifSx7ImlkIjoiYzMwMjg2MGItMzRlOC00M2YwLTljNGEtM2JiMWE2MTQyMTkxIiwibmFtZSI6IlNhbiBBbnRvbmlvIFNwdXJzIiwic3BvcnQiOiJOQkEifSx7ImlkIjoiMDk4NjJkNDktY2RkZC00MmRhLThlNzktNmRhNTY0Y2EwNzBlIiwibmFtZSI6IlRleGFzIFJhbmdlcnMiLCJzcG9ydCI6Ik1MQiJ9XX19fSwiaXBBZGRyZXNzIjoiMTYyLjI0NC44MC4yMjkiLCJleHAiOjE0Nzc2MzU5MTEsInR5cGUiOiJVc2VyIiwidXNlcmlkIjoiODQwMWExZDctNmZlMi00OTEyLWEyNDEtMTNmNTc4NGY0MWMyLTUwNDE3Mi0yZDBjNWZlYzlhYjJjNDRlYmEyNGY1ZWQ0NjY3YWFlZjNjYjc3NDRhIiwiaWF0IjoxNDc3NjE5NDM5LCJ2ZXJzaW9uIjoidjEuMCJ9.rPOPcRDlTxWrDPPwX1IDM_M2wPHPYyiFRECHq9GJmEI</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>FS2 ALT</title>
 <link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/514.m3u8</link>
@@ -898,7 +897,7 @@
 <fanart></fanart>
 </item>
 
-<!------------------testing
+<!-- TEST -->
 <item>
 <title>[COLOR limegreen][B]=== TESTING ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
@@ -993,11 +992,11 @@ http://nlds290.cdnak.neulion.com/nlds/nba/sac/as/live/sac_hd_800_ipad.m3u8?hdnea
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 </item>
--->
+
 <item>
-<title>3 MONTH</title>
+<title>3MO</title>
 <link>http://ingnoreme</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/3month-filter-2.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/3mo.m3u</externallink>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
