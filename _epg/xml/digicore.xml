@@ -10,28 +10,30 @@
 
 <item>
 <title>NBC</title>
-<link></link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8770.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>ABC</title>
-<link></link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19412.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CBS</title>
-<link></link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19408.m3u8
+</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CW</title>
-<link></link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19405.m3u8
+</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
 
@@ -44,13 +46,14 @@
 
 <item>
 <title>AE</title>
-<link></link>
+<link>http://portal.onlineiptv.net:5210/live/star/star/143.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
 <item>
-<title>AMC1</title>
-<link></link>
+<title>AMC</title>
+<link>http://live.softiptv.com:9900/live/3month/3month/19419.m3u8
+</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -64,14 +67,15 @@
 
 <item>
 <title>E!</title>
-<link></link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8366.m3u8
+</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOX</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19427.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -91,14 +95,14 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8362.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DISNEY XD </title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8364.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8364.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
@@ -111,28 +115,28 @@
 
 <item>
 <title>FOOD NETWORK</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19428.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19428.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DIY</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19429.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19429.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FX</title>
-<link>http://151.80.29.203:9900/live/Julian/Julian/19425.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19425.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FXX</title>
-<link>http://216.31.255.235/hlsl/4/FXX/FXX.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -141,21 +145,21 @@
 
 <item>
 <title>FXX</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *8000.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>LIFETIME</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8505.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8505.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
 
 <item>
 <title>TLC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *6695.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8447.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -176,7 +180,7 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *7989.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/12594.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -190,7 +194,8 @@
 
 <item>
 <title>TNT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *7986.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19398.m3u8
+</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -204,14 +209,14 @@
 
 <item>
 <title>H2</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8498.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8498.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *5811.m3u8</link>
+<link>http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7252.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 </item>
 
@@ -223,7 +228,8 @@
 
 <item>
 <title>NAT GEO WILD</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *6184.m3u8<link>
+<link>http://live.softiptv.com:9900/live/3month/3month/5811.m3u8
+<link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -237,13 +243,13 @@
 
 <item>
 <title>NICKELODEON</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *7991.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19400.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 
 <item>
 <title>NICKTOONS</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *6690.m3u8</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
@@ -258,14 +264,14 @@
 <link>http://live.softiptv.com:9900/live/3month/3month/19401.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>USA NETWORK ALT</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8</link>
@@ -274,7 +280,8 @@
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *6102.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8
+</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
@@ -340,13 +347,14 @@
 
 <item>
 <title>CNBC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *8702.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8530.m3u8
+</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
 
 <item>
 <title>CNN</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *6113.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8519.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
@@ -377,24 +385,12 @@
 
 <item>
 <title>FOX NEWS ALT1</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8372.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
-</item>
-
-<item>
-<title>FOX NEWS ALT2</title>
-<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/512.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8372.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
 <item>
 <title>THE WEATHER CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *7655.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
-</item>
-
-<item>
-<title>THE WEATHER CHANNEL ALT1</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
 </item>
@@ -414,13 +410,13 @@
 
 <item> 
 <title>ALJAZEERA ALT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *17405.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/17405.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
 </item>
 
 <item> 
 	<title>BBC NEWS</title>
-	<link>http://live.softiptv.com:9900/live/3month/3month/ *6662.m3u8</link>
+	<link></link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
 </item>
 
@@ -431,12 +427,6 @@
 </item>
 
 <item> 
-<title>BLOOMBERG</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *17492.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
-</item>
-
-<item>
 <title>BLOOMBERG</title>
 <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png</thumbnail>
@@ -515,7 +505,7 @@
 
 <item>
 <title>HBO FAMILY</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8501.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8501.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -536,7 +526,7 @@
 
 <item>
 <title>SHOWTIME EAST</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8480.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8480.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -550,7 +540,7 @@
 
 <item>
 <title>SHOWTIME</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8773.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8773.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -934,7 +924,7 @@ http://nlds294.cdnak.neulion.com/nlds/nba/den/as/live/den_hd_800_ipad.m3u8?hdnea
 <item>
 <title>nba test3</title>
 <link>
-http://nlds290.cdnak.neulion.com/nlds/nba/sac/as/live/sac_hd_800_ipad.m3u8?hdnea=expires=1479693190~access=/nlds/nba/sac/as/live/*~md5=3b31f2d64d612d649aba0849e554cb0a&nltid=nba&nltdt=6&uid=7972817 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19</link>
+rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=1477829936 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://dotstream.tv/player.php?streampage=natgeooo&width=600&height=450</link>
 <thumbnail></thumbnail>
 </item>
 
