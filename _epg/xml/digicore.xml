@@ -618,40 +618,47 @@
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8772.m3u8</link>
 <thumbnail></thumbnail>
 </item>
+
 <item>
 <title>FIGHT NETWORK</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8497.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>FIGHT SPORT</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8506.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>OLYMIC CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/9236.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
 <item> 
-	<title>NFL NETWORK HD </title>
-	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_4500.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
+<title>NFL NETWORK HD </title>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_4500.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
 <item>
-	<title>NFL NETWORK HD ALT1</title>
-	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
+<title>NFL NETWORK HD ALT1</title>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
 <item>
-	<title>NFL NETWORK HD ALT2</title>
-	<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_1600.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
-	<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
+<title>NFL NETWORK HD ALT2</title>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_1600.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
+</item>
+
+<item>
+<title>NFL REDZONE</title>
+<link>http://nlds3.cdnak.neulion.com/nlds/nfl/redzone/as/live/redzone_hd_4500.m3u8?nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/redzone/as/live/*~md5=5894d1378a07454f0073631cb14aa1fc|Connection=keep-alive&Cookie=nlqptid=nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/redzone/as/live/*~md5=5894d1378a07454f0073631cb14aa1fc|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
+</item>
+
+<item>
+<title>NFL REDZONE test</title>
+<link>http://nlds3.cdnak.neulion.com/nlds/nfl/redzone/as/live/redzone_hd_4500.m3u8?nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/redzone/as/live/*~md5=5894d1378a07454f0073631cb14aa1fc|Connection=keep-alive&Cookie=nlqptid=nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/redzone/as/live/*~md5=5894d1378a07454f0073631cb14aa1fc&Accept-encoding=identity, gzip, deflate&User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
+</item>
+
+<item>
+<title>NFL REDZONE</title>
+<link>http://nlds3.cdnak.neulion.com/nlds/nfl/redzone/as/live/redzone_hd_2400.m3u8?nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/redzone/as/live/*~md5=fd0a3d407370043058aad946a3e47072|Connection=keep-alive&Cookie=nlqptid=nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/redzone/as/live/*~md5=fd0a3d407370043058aad946a3e47072&Accept-encoding=identity, gzip, deflate&User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
 <item>
@@ -662,7 +669,7 @@
 
 <item>
 <title>ESPN</title>
-<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/nfltv/as/live/*~md5=be1dbee25a53dca6060128d6d71d3873|Connection=keep-alive&Cookie=nlqptid=nltid=nflgp&nltdt=6&nltnt=1&&hdnea=expires=1479659691~access=/nlds/nfl/nfltv/as/live/*~md5=be1dbee25a53dca6060128d6d71d3873&Accept-encoding=identity, gzip, deflate&User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&hdnea=expires=1479659691~access=/nlds/nfl/nfltv/as/live/*~md5=be1dbee25a53dca6060128d6d71d3873|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
@@ -689,8 +696,6 @@
 <link>http://content-ause4.uplynk.com/channel/da4bad1d50c64efa93266fc7de244a5e/h.m3u8?ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_fw_euid,null&exp=1478818862&ptid=ESPN_tvOS_VDMS&rn=358654055&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=e3ads&ad.csid=watchespn:chromecast:e3ads&ad.caid=a18688786&eid=espn_espn2&euid=ESPN3_VDMS&ct=c&sig=f06cab2a8f75c4fed44915f730b12c302de2773866e5b12adfde18f25f65a633&pbs=cfc68a15e0324d738e11595574db7cf9</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
 </item>
-
-
 
 <item>
 <title>ESPN 3</title>
@@ -764,13 +769,13 @@
 <link>http://hlslinear-akc.med1.foxsportsgo.com/ls02/foxsports/FOXSPORTS_LINEAR_207/live/2016/10/13/12612609/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiYzU5YmFkNTAtOWJjNy0xMWU2LWJhZWMtMTIxZTU5NDY1NzVlIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsInBsYXRmb3JtIjoid2ViIn0sInVzZXIiOnsiaWQiOiI5NTc5YmE4ZC03NzU1LTRiOTgtYmVhNy02ZDgzMDVkZjNmNzItMjI1NDkwLTI4ZjJmYjE0NTU0MmY3NjE0ZTAwZWJjNjJlODFlZTExY2JhY2I2MjgiLCJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImJpbGxpbmdfbG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI0ODA4MCJ9LCJyZWdpc3RyYXRpb24iOnsiYXV0aF9wcm92aWRlciI6IkRUViIsImVudGl0bGVtZW50cyI6WyJmYmMtZm94IiwiZnMyIiwiZnNkIiwiZnMxIl0sImV4cGlyZXNfb24iOiIyMDE2LTExLTI1VDIyOjAxOjMxLjAwMCswMDAwIn19LCJnZW5lcmF0ZWRfb24iOiIyMDE2LTEwLTI2VDIyOjAxOjM5Ljc0OSswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTYtMTAtMjZUMjI6MDk6MTQuNDc5KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxNi0xMC0yN1QwMjowOToxNC40NzkrMDAwMCIsImF2YWlsYWJsZV9jb250ZW50Ijp7Im5hdGlvbmFsIjp7ImNhbGxfc2lnbnMiOlsiQklHRSIsIkZTMSIsIkZTMiIsIkZTR08iLCJGWERFUCIsIlVTT1BFTiIsIkZTUCJdfSwiZ2VvIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiNDk2ODUiLCJjb3VudHJ5X2NvZGUiOiJ1cyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsiZnNkIl0sInJzbl9jYWxsX3NpZ25zIjpbIkZTRCIsIkZTRFBMVVMiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiV0ZRWCJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjQ4MDgwIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2QiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNEIiwiRlNEUExVUyJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJXSkJLIl0sInRlYW1zIjpbeyJpZCI6IjNiNzg4YTBkLTQyZTEtNDgzNi04YzU1LTdjZWQ3MzJjOTgyMyIsIm5hbWUiOiJEZXRyb2l0IFBpc3RvbnMiLCJzcG9ydCI6Ik5CQSJ9LHsiaWQiOiI4NjQxYTcyYi0yOTdjLTQ0YzMtYjdkOC02MTM0ZTk2MTgzZTYiLCJuYW1lIjoiRGV0cm9pdCBSZWQgV2luZ3MiLCJzcG9ydCI6Ik5ITCJ9LHsiaWQiOiI0MGQ1ODY5ZC0zYTA4LTQ1YjktOWJkYS02ZGMwZjIyMWVhYWYiLCJuYW1lIjoiRGV0cm9pdCBUaWdlcnMiLCJzcG9ydCI6Ik1MQiJ9XX19fSwiaXBBZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZXhwIjoxNDc3NTM0MTU0LCJ0eXBlIjoiVXNlciIsInVzZXJpZCI6Ijk1NzliYThkLTc3NTUtNGI5OC1iZWE3LTZkODMwNWRmM2Y3Mi0yMjU0OTAtMjhmMmZiMTQ1NTQyZjc2MTRlMDBlYmM2MmU4MWVlMTFjYmFjYjYyOCIsImlhdCI6MTQ3NzUxOTI5OSwidmVyc2lvbiI6InYxLjAifQ.MahoJ4XqtkE2i_wn1kh89xZAuyi2rKNnDjQ0G1LjXZQ&path=/&domain=media-api.foxsportsgo.com</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rpxtpw1467886489.png</thumbnail>
 </item>
-<!--
+
 <item>
-<title>FOX SPORTS SOUTHWEST bkup</title>
+<title>FOX SPORTS SOUTHWEST ALT1</title>
 <link>http://hlslinear-akc.med1.foxsportsgo.com/ls02/foxsports/FOXSPORTS_LINEAR_207/live/2016/11/01/12792509/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YmUzNThmYmUtNDE5YS00MzgwLTk4NTktODllYTFiZjZiMmY5OmY3ZjIwMTdmLWMxZGYtNDkxMy05MDUxLTU5Y2FmOTczMTE4MiIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiODA4YjU0MTAtYTc5MS0xMWU2LWI5N2YtMGFlNmM4NmRiNGIyIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiMTM2LjAuOTguNDciLCJkZXZpY2UiOnsiaWQiOiJpYXBSZWNlaXB0RGV2aWNlOkRldmljZTpiZTM1OGZiZS00MTlhLTQzODAtOTg1OS04OWVhMWJmNmIyZjk6ZjdmMjAxN2YtYzFkZi00OTEzLTkwNTEtNTljYWY5NzMxMTgyIiwicGxhdGZvcm0iOiJpb3MtdGFibGV0In0sInVzZXIiOnsiaWQiOiI4NDAxYTFkNy02ZmUyLTQ5MTItYTI0MS0xM2Y1Nzg0ZjQxYzItNTA0MTcyLTJkMGM1ZmVjOWFiMmM0NGViYTI0ZjVlZDQ2NjdhYWVmM2NiNzc0NGEiLCJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YmUzNThmYmUtNDE5YS00MzgwLTk4NTktODllYTFiZjZiMmY5OmY3ZjIwMTdmLWMxZGYtNDkxMy05MDUxLTU5Y2FmOTczMTE4MiIsImJpbGxpbmdfbG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI3NjU1MCJ9LCJyZWdpc3RyYXRpb24iOnsiYXV0aF9wcm92aWRlciI6IkRUViIsImVudGl0bGVtZW50cyI6WyJmYmMtZm94IiwiZnMyIiwiZnNzIiwiZnMxIl0sImV4cGlyZXNfb24iOiIyMDE2LTExLTI2VDE2OjE4OjI2LjAwMCswMDAwIn19LCJnZW5lcmF0ZWRfb24iOiIyMDE2LTExLTEwVDIyOjAzOjI1LjAwOSswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTYtMTEtMTBUMjI6MDM6MjUuMDA5KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxNi0xMS0xMVQwMjowMzoyNS4wMDkrMDAwMCIsImF2YWlsYWJsZV9jb250ZW50Ijp7Im5hdGlvbmFsIjp7ImNhbGxfc2lnbnMiOlsiQklHRSIsIkZTMSIsIkZTMiIsIkZTR08iLCJGWERFUCIsIlVTT1BFTiIsIkZTUCJdfSwiZ2VvIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiOTUxMjIiLCJjb3VudHJ5X2NvZGUiOiJ1cyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsiIl0sInJzbl9jYWxsX3NpZ25zIjpbIiJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJLVFZVIl19LCJob21lIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiNzY1NTAifSwicnNuX2NoYW5uZWxfZ3JvdXBzIjpbImZzcyJdLCJyc25fY2FsbF9zaWducyI6WyJGU1MzIiwiRlNTVFg4Il0sImFmZmlsaWF0ZV9jYWxsX3NpZ25zIjpbIktUQkMiXSwidGVhbXMiOlt7ImlkIjoiMDUwYjkwZTMtYmJmMS00M2Q0LWE2ZmMtNmYwOWE5ZWI1Y2IzIiwibmFtZSI6IkRhbGxhcyBNYXZlcmlja3MiLCJzcG9ydCI6Ik5CQSJ9LHsiaWQiOiIxMzg5MDQ4OC1lOTQwLTRmM2QtYWZjOC00MGIwYjFlNjgyODEiLCJuYW1lIjoiRGFsbGFzIFN0YXJzIiwic3BvcnQiOiJOSEwifSx7ImlkIjoiYzMwMjg2MGItMzRlOC00M2YwLTljNGEtM2JiMWE2MTQyMTkxIiwibmFtZSI6IlNhbiBBbnRvbmlvIFNwdXJzIiwic3BvcnQiOiJOQkEifSx7ImlkIjoiMDk4NjJkNDktY2RkZC00MmRhLThlNzktNmRhNTY0Y2EwNzBlIiwibmFtZSI6IlRleGFzIFJhbmdlcnMiLCJzcG9ydCI6Ik1MQiJ9XX19fSwiaXBBZGRyZXNzIjoiMTM2LjAuOTguNDciLCJleHAiOjE0Nzg4Mjk4MDUsInR5cGUiOiJVc2VyIiwidXNlcmlkIjoiODQwMWExZDctNmZlMi00OTEyLWEyNDEtMTNmNTc4NGY0MWMyLTUwNDE3Mi0yZDBjNWZlYzlhYjJjNDRlYmEyNGY1ZWQ0NjY3YWFlZjNjYjc3NDRhIiwiaWF0IjoxNDc4ODE1NDA1LCJ2ZXJzaW9uIjoidjEuMCJ9.qIMXLaYlgNseesKVUqyqe_fD5ibWBSnA639Dz1T30PQ&path=/&domain=media-api.foxsportsgo.com</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rpxtpw1467886489.png</thumbnail>
 </item>
--->
+
 <item>
 <title>FOX SPORTS ARIZONA</title>
 <link>http://hlslinear-akc.med1.foxsportsgo.com/ls02/foxsports/FOXSPORTS_LINEAR_304/live/2016/10/11/12602963/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiYzU5YmFkNTAtOWJjNy0xMWU2LWJhZWMtMTIxZTU5NDY1NzVlIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsInBsYXRmb3JtIjoid2ViIn0sInVzZXIiOnsiaWQiOiI5NTc5YmE4ZC03NzU1LTRiOTgtYmVhNy02ZDgzMDVkZjNmNzItMjI1NDkwLTI4ZjJmYjE0NTU0MmY3NjE0ZTAwZWJjNjJlODFlZTExY2JhY2I2MjgiLCJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImJpbGxpbmdfbG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI0ODA4MCJ9LCJyZWdpc3RyYXRpb24iOnsiYXV0aF9wcm92aWRlciI6IkRUViIsImVudGl0bGVtZW50cyI6WyJmYmMtZm94IiwiZnMyIiwiZnNkIiwiZnMxIl0sImV4cGlyZXNfb24iOiIyMDE2LTExLTI1VDIyOjAxOjMxLjAwMCswMDAwIn19LCJnZW5lcmF0ZWRfb24iOiIyMDE2LTEwLTI2VDIyOjAxOjM5Ljc0OSswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTYtMTAtMjZUMjI6MDk6MTQuNDc5KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxNi0xMC0yN1QwMjowOToxNC40NzkrMDAwMCIsImF2YWlsYWJsZV9jb250ZW50Ijp7Im5hdGlvbmFsIjp7ImNhbGxfc2lnbnMiOlsiQklHRSIsIkZTMSIsIkZTMiIsIkZTR08iLCJGWERFUCIsIlVTT1BFTiIsIkZTUCJdfSwiZ2VvIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiNDk2ODUiLCJjb3VudHJ5X2NvZGUiOiJ1cyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsiZnNkIl0sInJzbl9jYWxsX3NpZ25zIjpbIkZTRCIsIkZTRFBMVVMiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiV0ZRWCJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjQ4MDgwIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2QiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNEIiwiRlNEUExVUyJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJXSkJLIl0sInRlYW1zIjpbeyJpZCI6IjNiNzg4YTBkLTQyZTEtNDgzNi04YzU1LTdjZWQ3MzJjOTgyMyIsIm5hbWUiOiJEZXRyb2l0IFBpc3RvbnMiLCJzcG9ydCI6Ik5CQSJ9LHsiaWQiOiI4NjQxYTcyYi0yOTdjLTQ0YzMtYjdkOC02MTM0ZTk2MTgzZTYiLCJuYW1lIjoiRGV0cm9pdCBSZWQgV2luZ3MiLCJzcG9ydCI6Ik5ITCJ9LHsiaWQiOiI0MGQ1ODY5ZC0zYTA4LTQ1YjktOWJkYS02ZGMwZjIyMWVhYWYiLCJuYW1lIjoiRGV0cm9pdCBUaWdlcnMiLCJzcG9ydCI6Ik1MQiJ9XX19fSwiaXBBZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZXhwIjoxNDc3NTM0MTU0LCJ0eXBlIjoiVXNlciIsInVzZXJpZCI6Ijk1NzliYThkLTc3NTUtNGI5OC1iZWE3LTZkODMwNWRmM2Y3Mi0yMjU0OTAtMjhmMmZiMTQ1NTQyZjc2MTRlMDBlYmM2MmU4MWVlMTFjYmFjYjYyOCIsImlhdCI6MTQ3NzUxOTI5OSwidmVyc2lvbiI6InYxLjAifQ.MahoJ4XqtkE2i_wn1kh89xZAuyi2rKNnDjQ0G1LjXZQ&path=/&domain=media-api.foxsportsgo.com</link>
@@ -818,6 +823,11 @@
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxpxr1476105545.png</thumbnail>
 </item>
+<item>
+<title>NBC GOLF ALT</title>
+<link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&fw_csid=nbc_directv_web_live&fw_caid=nbc_Live_12345&anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&fw_prof=169843:nbcu_anvato_web&fw_network=169843&fw_ltlg=&fw_mvpd_id=DTV&fw_sdk_flag= slcb vicb&fw_metr=7&_dev=web&fw_sdk_flag_safe= slcb vicb&_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&_tkx_callsign=nbcpacific&_tkx_hzip=03249&_tkx_ehzip=undefined&anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&t=1474409235&X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxpxr1476105545.png</thumbnail>
+</item>
 
 <item>
 <title>VERSUS HD</title>
@@ -834,7 +844,7 @@
 
 <item>
 <title>WWE</title>
-<link>rtmp://178.18.31.59:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
+<link>http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=mediaAuth=a06e2dc0e366b956c91a6e3cab8762e8b94e17a748934f1fac6b2c9046a8f2efe73395fa46fff823e1d22444e748767fb9cf92382d9f697462c6cff3e8c011a516f443471ca55cd11beb93e3b934a4ab219715c069736055cd8c08809389747ea305c38d01d62d2a172a0509011a965df4d6966c82197e4c7054086576aee5c1377bd6b6a0fa8a2b8b51c187c679ce6dd181d62f5264485a3895e62d9a9a146071db4e64ef0cece29c56a09dd0cf63555b62e7a1a0bf2deb1ffb31fc21eac2c11b3e9461e90c303eaed310981a151617e6c0c59420cb08146e9ec70c989071d6392d0fd59f63031cb4f4d15a9df8ebb83caf814ac170b6d2d407a424c8d894c23e013e3400a13ed0b743a311490605aa764700cdfa738d99</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -876,6 +886,13 @@
 <item>
 <title>SPORTSNET PACIFIC</title>
 <link>http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_4500.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SPORTSNET PACIFIC</title>
+<link>http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
 <fanart></fanart>
 </item>
