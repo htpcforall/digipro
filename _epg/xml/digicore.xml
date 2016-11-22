@@ -2,7 +2,7 @@
 <layouttype>thumbnail</layouttype>
 
 <item>
-<title>[B][COLOR limegreen]= LIVE TV = [/COLOR]11-21-16 Update [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update List[/COLOR][COLOR red] *[/COLOR][/B]</title>
+<title>[B][COLOR limegreen]= LIVE TV = [/COLOR]11-22-16 Update [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update List[/COLOR][COLOR red] *[/COLOR][/B]</title>
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
@@ -24,16 +24,14 @@
 
 <item>
 <title>CBS</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19408.m3u8
-</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19408.m3u</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CW</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19405.m3u8
-</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
 
@@ -52,8 +50,7 @@
 
 <item>
 <title>AMC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19419.m3u8
-</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19419.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -67,8 +64,7 @@
 
 <item>
 <title>E!</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8366.m3u8
-</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8366.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -82,7 +78,7 @@
 
 <item>
 <title>CARTOON NETWORK</title>
-<link></link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8342.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -193,8 +189,7 @@
 
 <item>
 <title>TNT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19398.m3u8
-</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19398.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -227,8 +222,7 @@
 
 <item>
 <title>NAT GEO WILD</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/5811.m3u8
-<link>
+<link>http://live.softiptv.com:9900/live/3month/3month/5811.m3u8<link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -279,8 +273,7 @@
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8
-</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
@@ -346,8 +339,7 @@
 
 <item>
 <title>CNBC</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8530.m3u8
-</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8530.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
 
@@ -539,7 +531,7 @@
 
 <item>
 <title>SHOWTIME WEST</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *6122.m3u8</link>
+<link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -575,34 +567,34 @@
 
 <item>
 <title>STARZ EAST</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *182.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ WEST</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *169.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ CINEMA</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *179.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <title>STARZ EDGE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *180.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>STARZ ENCORE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *464.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
@@ -616,19 +608,24 @@
 
 <item>
 <title>FIGHT NETWORK</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *7839.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8772.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FIGHT NETWORK</title>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8497.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>FIGHT SPORT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *6957.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8506.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>OLYMIC CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *9236.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/9236.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -670,8 +667,14 @@
 
 <item>
 <title>ESPN ALT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19404.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8520.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN ALT 2</title>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8796.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
 <item>
@@ -681,8 +684,20 @@
 </item>
 
 <item>
+<title>ESPNU</title>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8766.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qwxxut1433431075.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN NEWS</title>
+<link>https://www.thelogodb.com/images/media/logo/vtsutx1434501589.png</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
+</item>
+
+<item>
 <title>MLB NETWORK</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *456.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8814.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
 </item>
 
@@ -694,13 +709,13 @@
 
 <item> 
 <title>FOX SPORTS 506 HD</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *7502.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/7502.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>FS1</title>
-<link>plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.sports%2F%3Furl%3Dhttp%253A%252F%252Fhlslinear-l3c.med1.foxsportsgo.com%252Fls02%252Ffoxsports%252FFOX_SPORTS_1%252Flive%252F2016%252F10%252F12%252F12610242%252F5000K%252F5000_slide_ads.m3u8%257CCookie%253DAuthorization%25253DeyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ZGJiMjczMzEtY2Q3OS00NzM0LWE1ZTQtMzUxZGNjY2Y0MGZkOmZiMTdhNTRmLWVkN2ItNGQ0Ni04OGM5LTNhNjRjMTI3NDNjNCIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiMzcyOWZkMTAtOTcwOC0xMWU2LTljZmQtMGVkZDU4ZGQwYWRjIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiMTcyLjU2LjMwLjYwIiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ZGJiMjczMzEtY2Q3OS00NzM0LWE1ZTQtMzUxZGNjY2Y0MGZkOmZiMTdhNTRmLWVkN2ItNGQ0Ni04OGM5LTNhNjRjMTI3NDNjNCIsInBsYXRmb3JtIjoiaW9zLXRhYmxldCJ9LCJ1c2VyIjp7ImlkIjoiZjYzYjM4ODAtN2JkNi00MTEzLWJlNGEtYWVhNDc5NmY1NjU3LTYyNjAzNS03OWM0NDUxMjhjMmI5ZjUyYTgwY2RjNmQ2N2Y2MDkyYzc5YTM0YjQ3IiwiaXBpZCI6ImlhcFJlY2VpcHREZXZpY2U6RGV2aWNlOmRiYjI3MzMxLWNkNzktNDczNC1hNWU0LTM1MWRjY2NmNDBmZDpmYjE3YTU0Zi1lZDdiLTRkNDYtODhjOS0zYTY0YzEyNzQzYzQiLCJiaWxsaW5nX2xvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiODUzMzEifSwicmVnaXN0cmF0aW9uIjp7ImF1dGhfcHJvdmlkZXIiOiJEVFYiLCJlbnRpdGxlbWVudHMiOlsiZmJjLWZveCIsImZzMiIsImZzYSIsImZzMSJdLCJleHBpcmVzX29uIjoiMjAxNi0xMS0wNlQxMzoyNjozNy4wMDArMDAwMCJ9fSwiZ2VuZXJhdGVkX29uIjoiMjAxNi0xMC0yMFQyMTowMDoyMi4yNDErMDAwMCIsInVwZGF0ZWRfb24iOiIyMDE2LTEwLTIwVDIzOjM3OjU2LjY2NyswMDAwIiwiZXhwaXJlc19vbiI6IjIwMTYtMTAtMjFUMDM6Mzc6NTYuNjY3KzAwMDAiLCJhdmFpbGFibGVfY29udGVudCI6eyJuYXRpb25hbCI6eyJjYWxsX3NpZ25zIjpbIkJJR0UiLCJGUzEiLCJGUzIiLCJGU0dPIiwiRlhERVAiLCJVU09QRU4iLCJGU1AiXX0sImdlbyI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjkxNzg2IiwiY291bnRyeV9jb2RlIjoidXMifSwicnNuX2NoYW5uZWxfZ3JvdXBzIjpbImZzcHQiLCJmc3ciXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNXIiwiUFJJTUUiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiS1RUViJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6Ijg1MzMxIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2EiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNBWiIsIkZTQVpBTFQiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiS1NBWiJdLCJ0ZWFtcyI6W3siaWQiOiJhYzViZGI4Zi02ZDhmLTQyNGMtODFlZC02NmVkZDExYzFjYzkiLCJuYW1lIjoiQXJpem9uYSBEaWFtb25kYmFja3MiLCJzcG9ydCI6Ik1MQiJ9LHsiaWQiOiIxYzZhYzk0Ny1lOWZhLTQyYmItYmU5Mi1iNzljNDcyYWE3NzgiLCJuYW1lIjoiUGhvZW5peCBDb3lvdGVzIiwic3BvcnQiOiJOSEwifSx7ImlkIjoiMWVkNTc2YmItNmE2OS00MTdmLWJhMzItOTlhZTVlNWYzYTlmIiwibmFtZSI6IlBob2VuaXggU3VucyIsInNwb3J0IjoiTkJBIn1dfX19LCJpcEFkZHJlc3MiOiIxNzIuNTYuMzAuNjAiLCJleHAiOjE0NzcwMjEwNzYsInR5cGUiOiJVc2VyIiwidXNlcmlkIjoiZjYzYjM4ODAtN2JkNi00MTEzLWJlNGEtYWVhNDc5NmY1NjU3LTYyNjAzNS03OWM0NDUxMjhjMmI5ZjUyYTgwY2RjNmQ2N2Y2MDkyYzc5YTM0YjQ3IiwiaWF0IjoxNDc2OTk3MjIyLCJ2ZXJzaW9uIjoidjEuMCJ9.kM_ZDLysqOw_rLhDc5cf65yPXuxJpO7bMTViz8KOK0E%26mode%3D15%26name%3D%255BB%255D%255BCOLOR%253DFF00FF00%255DF%255B%252FCOLOR%255D%255BCOLOR%253Dblue%255DS1%255B%252FCOLOR%255D%255B%252FB%255D%26iconimage%3Dhttp%253A%252F%252Fgoo.gl%252FVpc2IA&amp;mode=12&amp;iconimage=image%3A%2F%2Fhttp%253a%252f%252fgoo.gl%252fVpc2IA%2F</link>
+<link>http://hlslinear-l3c.med1.foxsportsgo.com/ls02/foxsports/FOX_SPORTS_1/live/2016/10/12/12610242/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ZGJiMjczMzEtY2Q3OS00NzM0LWE1ZTQtMzUxZGNjY2Y0MGZkOmZiMTdhNTRmLWVkN2ItNGQ0Ni04OGM5LTNhNjRjMTI3NDNjNCIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiMzcyOWZkMTAtOTcwOC0xMWU2LTljZmQtMGVkZDU4ZGQwYWRjIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiMTcyLjU2LjMwLjYwIiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ZGJiMjczMzEtY2Q3OS00NzM0LWE1ZTQtMzUxZGNjY2Y0MGZkOmZiMTdhNTRmLWVkN2ItNGQ0Ni04OGM5LTNhNjRjMTI3NDNjNCIsInBsYXRmb3JtIjoiaW9zLXRhYmxldCJ9LCJ1c2VyIjp7ImlkIjoiZjYzYjM4ODAtN2JkNi00MTEzLWJlNGEtYWVhNDc5NmY1NjU3LTYyNjAzNS03OWM0NDUxMjhjMmI5ZjUyYTgwY2RjNmQ2N2Y2MDkyYzc5YTM0YjQ3IiwiaXBpZCI6ImlhcFJlY2VpcHREZXZpY2U6RGV2aWNlOmRiYjI3MzMxLWNkNzktNDczNC1hNWU0LTM1MWRjY2NmNDBmZDpmYjE3YTU0Zi1lZDdiLTRkNDYtODhjOS0zYTY0YzEyNzQzYzQiLCJiaWxsaW5nX2xvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiODUzMzEifSwicmVnaXN0cmF0aW9uIjp7ImF1dGhfcHJvdmlkZXIiOiJEVFYiLCJlbnRpdGxlbWVudHMiOlsiZmJjLWZveCIsImZzMiIsImZzYSIsImZzMSJdLCJleHBpcmVzX29uIjoiMjAxNi0xMS0wNlQxMzoyNjozNy4wMDArMDAwMCJ9fSwiZ2VuZXJhdGVkX29uIjoiMjAxNi0xMC0yMFQyMTowMDoyMi4yNDErMDAwMCIsInVwZGF0ZWRfb24iOiIyMDE2LTEwLTIwVDIzOjM3OjU2LjY2NyswMDAwIiwiZXhwaXJlc19vbiI6IjIwMTYtMTAtMjFUMDM6Mzc6NTYuNjY3KzAwMDAiLCJhdmFpbGFibGVfY29udGVudCI6eyJuYXRpb25hbCI6eyJjYWxsX3NpZ25zIjpbIkJJR0UiLCJGUzEiLCJGUzIiLCJGU0dPIiwiRlhERVAiLCJVU09QRU4iLCJGU1AiXX0sImdlbyI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjkxNzg2IiwiY291bnRyeV9jb2RlIjoidXMifSwicnNuX2NoYW5uZWxfZ3JvdXBzIjpbImZzcHQiLCJmc3ciXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNXIiwiUFJJTUUiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiS1RUViJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6Ijg1MzMxIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2EiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNBWiIsIkZTQVpBTFQiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiS1NBWiJdLCJ0ZWFtcyI6W3siaWQiOiJhYzViZGI4Zi02ZDhmLTQyNGMtODFlZC02NmVkZDExYzFjYzkiLCJuYW1lIjoiQXJpem9uYSBEaWFtb25kYmFja3MiLCJzcG9ydCI6Ik1MQiJ9LHsiaWQiOiIxYzZhYzk0Ny1lOWZhLTQyYmItYmU5Mi1iNzljNDcyYWE3NzgiLCJuYW1lIjoiUGhvZW5peCBDb3lvdGVzIiwic3BvcnQiOiJOSEwifSx7ImlkIjoiMWVkNTc2YmItNmE2OS00MTdmLWJhMzItOTlhZTVlNWYzYTlmIiwibmFtZSI6IlBob2VuaXggU3VucyIsInNwb3J0IjoiTkJBIn1dfX19LCJpcEFkZHJlc3MiOiIxNzIuNTYuMzAuNjAiLCJleHAiOjE0NzcwMjEwNzYsInR5cGUiOiJVc2VyIiwidXNlcmlkIjoiZjYzYjM4ODAtN2JkNi00MTEzLWJlNGEtYWVhNDc5NmY1NjU3LTYyNjAzNS03OWM0NDUxMjhjMmI5ZjUyYTgwY2RjNmQ2N2Y2MDkyYzc5YTM0YjQ3IiwiaWF0IjoxNDc2OTk3MjIyLCJ2ZXJzaW9uIjoidjEuMCJ9.kM_ZDLysqOw_rLhDc5cf65yPXuxJpO7bMTViz8KOK0E</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
 </item>
 
@@ -767,7 +782,7 @@
 
 <item>
 <title>FOX SPORTS OHIO</title>
-<link>http://hlslinear-akc.med1.foxsportsgo.com/ls02/foxsports/FOXSPORTS__LINEAR_107%252Flive%252F2016%252F10%252F12%252F12606991%252F5000K%252F5000_slide_ads.m3u8%257CCookie%253DAuthorization%253DeyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiYzU5YmFkNTAtOWJjNy0xMWU2LWJhZWMtMTIxZTU5NDY1NzVlIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsInBsYXRmb3JtIjoid2ViIn0sInVzZXIiOnsiaWQiOiI5NTc5YmE4ZC03NzU1LTRiOTgtYmVhNy02ZDgzMDVkZjNmNzItMjI1NDkwLTI4ZjJmYjE0NTU0MmY3NjE0ZTAwZWJjNjJlODFlZTExY2JhY2I2MjgiLCJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImJpbGxpbmdfbG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI0ODA4MCJ9LCJyZWdpc3RyYXRpb24iOnsiYXV0aF9wcm92aWRlciI6IkRUViIsImVudGl0bGVtZW50cyI6WyJmYmMtZm94IiwiZnMyIiwiZnNkIiwiZnMxIl0sImV4cGlyZXNfb24iOiIyMDE2LTExLTI1VDIyOjAxOjMxLjAwMCswMDAwIn19LCJnZW5lcmF0ZWRfb24iOiIyMDE2LTEwLTI2VDIyOjAxOjM5Ljc0OSswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTYtMTAtMjZUMjI6MDk6MTQuNDc5KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxNi0xMC0yN1QwMjowOToxNC40NzkrMDAwMCIsImF2YWlsYWJsZV9jb250ZW50Ijp7Im5hdGlvbmFsIjp7ImNhbGxfc2lnbnMiOlsiQklHRSIsIkZTMSIsIkZTMiIsIkZTR08iLCJGWERFUCIsIlVTT1BFTiIsIkZTUCJdfSwiZ2VvIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiNDk2ODUiLCJjb3VudHJ5X2NvZGUiOiJ1cyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsiZnNkIl0sInJzbl9jYWxsX3NpZ25zIjpbIkZTRCIsIkZTRFBMVVMiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiV0ZRWCJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjQ4MDgwIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2QiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNEIiwiRlNEUExVUyJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJXSkJLIl0sInRlYW1zIjpbeyJpZCI6IjNiNzg4YTBkLTQyZTEtNDgzNi04YzU1LTdjZWQ3MzJjOTgyMyIsIm5hbWUiOiJEZXRyb2l0IFBpc3RvbnMiLCJzcG9ydCI6Ik5CQSJ9LHsiaWQiOiI4NjQxYTcyYi0yOTdjLTQ0YzMtYjdkOC02MTM0ZTk2MTgzZTYiLCJuYW1lIjoiRGV0cm9pdCBSZWQgV2luZ3MiLCJzcG9ydCI6Ik5ITCJ9LHsiaWQiOiI0MGQ1ODY5ZC0zYTA4LTQ1YjktOWJkYS02ZGMwZjIyMWVhYWYiLCJuYW1lIjoiRGV0cm9pdCBUaWdlcnMiLCJzcG9ydCI6Ik1MQiJ9XX19fSwiaXBBZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZXhwIjoxNDc3NTM0MTU0LCJ0eXBlIjoiVXNlciIsInVzZXJpZCI6Ijk1NzliYThkLTc3NTUtNGI5OC1iZWE3LTZkODMwNWRmM2Y3Mi0yMjU0OTAtMjhmMmZiMTQ1NTQyZjc2MTRlMDBlYmM2MmU4MWVlMTFjYmFjYjYyOCIsImlhdCI6MTQ3NzUxOTI5OSwidmVyc2lvbiI6InYxLjAifQ.MahoJ4XqtkE2i_wn1kh89xZAuyi2rKNnDjQ0G1LjXZQ%2526path%253D%252F%2526domain%253Dmedia-api.foxsportsgo.com</link>
+<link>http://hlslinear-akc.med1.foxsportsgo.com/ls02/foxsports/FOXSPORTS__LINEAR_107/live/2016/10/12/12606991/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiYzU5YmFkNTAtOWJjNy0xMWU2LWJhZWMtMTIxZTU5NDY1NzVlIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsInBsYXRmb3JtIjoid2ViIn0sInVzZXIiOnsiaWQiOiI5NTc5YmE4ZC03NzU1LTRiOTgtYmVhNy02ZDgzMDVkZjNmNzItMjI1NDkwLTI4ZjJmYjE0NTU0MmY3NjE0ZTAwZWJjNjJlODFlZTExY2JhY2I2MjgiLCJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6YjQ4YTUyYTAtOWJjNy0xMWU2LWJkYzItZmRlZjY3Yzg2YjI1OmJmMTBjMzZiLTkyOWQtNDA0My1hNjE1LTZjYzAxNGNlOTljOSIsImJpbGxpbmdfbG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI0ODA4MCJ9LCJyZWdpc3RyYXRpb24iOnsiYXV0aF9wcm92aWRlciI6IkRUViIsImVudGl0bGVtZW50cyI6WyJmYmMtZm94IiwiZnMyIiwiZnNkIiwiZnMxIl0sImV4cGlyZXNfb24iOiIyMDE2LTExLTI1VDIyOjAxOjMxLjAwMCswMDAwIn19LCJnZW5lcmF0ZWRfb24iOiIyMDE2LTEwLTI2VDIyOjAxOjM5Ljc0OSswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTYtMTAtMjZUMjI6MDk6MTQuNDc5KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxNi0xMC0yN1QwMjowOToxNC40NzkrMDAwMCIsImF2YWlsYWJsZV9jb250ZW50Ijp7Im5hdGlvbmFsIjp7ImNhbGxfc2lnbnMiOlsiQklHRSIsIkZTMSIsIkZTMiIsIkZTR08iLCJGWERFUCIsIlVTT1BFTiIsIkZTUCJdfSwiZ2VvIjp7ImxvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiNDk2ODUiLCJjb3VudHJ5X2NvZGUiOiJ1cyJ9LCJyc25fY2hhbm5lbF9ncm91cHMiOlsiZnNkIl0sInJzbl9jYWxsX3NpZ25zIjpbIkZTRCIsIkZTRFBMVVMiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiV0ZRWCJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjQ4MDgwIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2QiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNEIiwiRlNEUExVUyJdLCJhZmZpbGlhdGVfY2FsbF9zaWducyI6WyJXSkJLIl0sInRlYW1zIjpbeyJpZCI6IjNiNzg4YTBkLTQyZTEtNDgzNi04YzU1LTdjZWQ3MzJjOTgyMyIsIm5hbWUiOiJEZXRyb2l0IFBpc3RvbnMiLCJzcG9ydCI6Ik5CQSJ9LHsiaWQiOiI4NjQxYTcyYi0yOTdjLTQ0YzMtYjdkOC02MTM0ZTk2MTgzZTYiLCJuYW1lIjoiRGV0cm9pdCBSZWQgV2luZ3MiLCJzcG9ydCI6Ik5ITCJ9LHsiaWQiOiI0MGQ1ODY5ZC0zYTA4LTQ1YjktOWJkYS02ZGMwZjIyMWVhYWYiLCJuYW1lIjoiRGV0cm9pdCBUaWdlcnMiLCJzcG9ydCI6Ik1MQiJ9XX19fSwiaXBBZGRyZXNzIjoiOTcuODUuODguMjI0IiwiZXhwIjoxNDc3NTM0MTU0LCJ0eXBlIjoiVXNlciIsInVzZXJpZCI6Ijk1NzliYThkLTc3NTUtNGI5OC1iZWE3LTZkODMwNWRmM2Y3Mi0yMjU0OTAtMjhmMmZiMTQ1NTQyZjc2MTRlMDBlYmM2MmU4MWVlMTFjYmFjYjYyOCIsImlhdCI6MTQ3NzUxOTI5OSwidmVyc2lvbiI6InYxLjAifQ.MahoJ4XqtkE2i_wn1kh89xZAuyi2rKNnDjQ0G1LjXZQ&path=/&domain=media-api.foxsportsgo.com</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yqvwrs1467886378.png</thumbnail>
 </item>
 
@@ -805,7 +820,7 @@
 
 <item> 
 <title>WWE ALT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *12617.m3u8</link>
+<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8536.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
 </item>
 -
@@ -815,6 +830,15 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>SPORTSNET ONE </title>
+<link>http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_ipad.m3u8?nltid=sportsnetlive&nltdt=6&nltnt=1&hdnea=expires=1440169665~access=/*~md5=80dd5e276ab4706413781e11e2b34b0c|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 <item>
 <title>SPORTSNET 360 </title>
