@@ -142,7 +142,6 @@
 </item>
 <item>
 
-
 <item>
 <title>FXX</title>
 <link></link>
@@ -368,6 +367,13 @@
 <title>NBC NEWS</title>
 <link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&amp;fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&amp;fw_csid=nbc_directv_web_live&amp;fw_caid=nbc_Live_12345&amp;anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&amp;fw_prof=169843:nbcu_anvato_web&amp;fw_network=169843&amp;fw_ltlg=&amp;fw_mvpd_id=DTV&amp;fw_sdk_flag= slcb vicb&amp;fw_metr=7&amp;_dev=web&amp;fw_sdk_flag_safe= slcb vicb&amp;_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&amp;_tkx_callsign=nbcpacific&amp;_tkx_hzip=03249&amp;_tkx_ehzip=undefined&amp;anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&amp;t=1474409235&amp;X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch&amp;mode=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
+</item>
+
+<item>
+<title>FOX 23 NEWS [B][COLOR yellow]|[/B][/COLOR] [B]Tulsa - Oklahoma[/B]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
