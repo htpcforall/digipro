@@ -605,10 +605,10 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
-<!-- SPOR.m3u8 -->
+<!-- SPORTS -->
 
 <item>
-<title>[COLOR limegreen][B]=== SPOR.m3u8 ===[/COLOR][/B]</title>
+<title>[COLOR limegreen][B]=== SPORTS ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
@@ -666,9 +666,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
+<title>ESPN</title>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/nfltv/as/live/*~md5=be1dbee25a53dca6060128d6d71d3873|Connection=keep-alive&Cookie=nlqptid=nltid=nflgp&nltdt=6&nltnt=1&&hdnea=expires=1479659691~access=/nlds/nfl/nfltv/as/live/*~md5=be1dbee25a53dca6060128d6d71d3873&Accept-encoding=identity, gzip, deflate&User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
+</item>
+
 <item>
 <title>ESPN</title>
-<link>plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.dragon.spor.m3u8%2F%3Furl%3Dhttp%253A%252F%252Fcontent-ausc2.uplynk.com%252Fchannel%252Fd0695f6fa2f143eb95c7a41d96d581c4%252Fh.m3u8%253Fad.kv%253D_fw_ae%252C975cd70e2de25291acc0efc98a48935e%252C_fw_euid%252Cnull%2526exp%253D1474214815%2526ptid%253DESPN_tvOS_VDMS%2526rn%253D82872664%2526tc%253D1%2526oid%253Dd09b16c953aa40c98dd8c513526aca5a%2526linearv%253D4%2526ad%253De3ads%2526ad.csid%253Dwatchespn%253Achromecast%253Ae3ads%2526ad.caid%253Da18030441%2526eid%253Despn_espn1%2526euid%253DESPN3_VDMS%2526ct%253Dc%2526sig%253De78446e90d5228de65144b352258ca268184170c8320f9b87cbabd38e59f698c%2526pbs%253D4a7d26c638b34345ada53f08580cc376%26mode%3D15%26name%3D%255BB%255D%255BCOLOR%253Dred%255DE%255B%252FCOLOR%255D%255BCOLOR%253Dblue%255DSPN%255B%252FCOLOR%255D%255B%252FB%255D%26iconimage%3Dhttp%253A%252F%252Fdragonstr.com%252Fimages%252FNFL%252F.jpg&amp;mode=12&amp;iconimage=image%3A%2F%2Fhttp%253a%252f%252fdragonstr.com%252fimages%252fNFL%252f.jpg%2F</link>
+<link>http://content-ausc2.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&exp=1474214815&ptid=ESPN_tvOS_VDMS&rn=82872664&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=e3ads&ad.csid=watchespn:chromecast:e3ads&ad.caid=a18030441&eid=espn_espn1&euid=ESPN3_VDMS&ct=c&sig=e78446e90d5228de65144b352258ca268184170c8320f9b87cbabd38e59f698c&pbs=4a7d26c638b34345ada53f08580cc376</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
@@ -679,17 +684,22 @@
 </item>
 
 <item>
+<title>ESPN 2</title>
+<link>http://content-ause4.uplynk.com/channel/da4bad1d50c64efa93266fc7de244a5e/h.m3u8?ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_fw_euid,null&exp=1478818862&ptid=ESPN_tvOS_VDMS&rn=358654055&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=e3ads&ad.csid=watchespn:chromecast:e3ads&ad.caid=a18688786&eid=espn_espn2&euid=ESPN3_VDMS&ct=c&sig=f06cab2a8f75c4fed44915f730b12c302de2773866e5b12adfde18f25f65a633&pbs=cfc68a15e0324d738e11595574db7cf9</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rrp.m3u8w1433431278.png</thumbnail>
+</item>
+
+<item>
 <title>ESPN ALT 2</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8796..m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
 <item>
-<title>ESPN 2</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *3173.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rrp.m3u8w1433431278.png</thumbnail>
+<title>ESPN 3</title>
+<link>http://content-ausc2.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&exp=1474214815&ptid=ESPN_tvOS_VDMS&rn=82872664&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=e3ads&ad.csid=watchespn:chromecast:e3ads&ad.caid=a18030441&eid=espn_espn1&euid=ESPN3_VDMS&ct=c&sig=e78446e90d5228de65144b352258ca268184170c8320f9b87cbabd38e59f698c&pbs=4a7d26c638b34345ada53f08580cc376</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
-
 <item>
 <title>ESPNU</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8766..m3u8</link>
