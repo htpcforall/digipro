@@ -656,17 +656,11 @@
 
 <item>
 <title>NFL NOW</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *1066.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
 
-<item>
-<title>NFL NOW ALT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/ *9014.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
-</item>
-
-<title>ESPN</title>
+<title>ESPN?</title>
 <link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/nfltv/as/live/*~md5=be1dbee25a53dca6060128d6d71d3873|Connection=keep-alive&Cookie=nlqptid=nltid=nflgp&nltdt=6&nltnt=1&&hdnea=expires=1479659691~access=/nlds/nfl/nfltv/as/live/*~md5=be1dbee25a53dca6060128d6d71d3873&Accept-encoding=identity, gzip, deflate&User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
