@@ -2,12 +2,12 @@
 <layouttype>thumbnail</layouttype>
 
 <item>
-<title>[B][COLOR limegreen]= LIVE TV = [/COLOR]11-22-16 Update [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update List[/COLOR][COLOR red] *[/COLOR][/B]</title>
+<title>[B][COLOR limegreen]= LIVE TV = [/COLOR]UPDATE IN PROGRESS - CHECK BACK LATER [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update List[/COLOR][COLOR red] *[/COLOR][/B]</title>
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>NBC</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8770.m3u8</link>
@@ -71,7 +71,7 @@
 
 <item>
 <title>FOX</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19427.m3u8</link>
+<link>http://151.80.29.203:9900/live/Julian/Julian/19427.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -271,7 +271,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>INVESTIGATION DISCOVERY</title>
 <link>http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8</link>
@@ -316,7 +316,7 @@
 <fanart></fanart>
 </item>
 
-<!--NEWS-->
+<!--NEWS
 
 <item>
 <title>[COLOR limegreen][B]=== NEWS ===[/COLOR][/B]</title>
@@ -337,12 +337,23 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<!--
 <item>
 <title>CBSN</title>
 <link>https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/index_4000_av-p.m3u8?sd=10&rebase=o</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>CBSN</title>
+<link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>CNBC</title>
@@ -382,14 +393,14 @@
 </item>
 
 <item>
-<title>FOX NEWS</title>
+<title>FOX NEWS ALT1</title>
 <link>http://188.93.239.20:8012/play/a014</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>FOX NEWS ALT1</title>
+<title>FOX NEWS ALT2</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8372.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
@@ -450,7 +461,7 @@
 <fanart></fanart>
 </item>
 
-<!-- PREMIUM -->
+<!-- PREMIUM
 
 <item>
 <title>[COLOR limegreen][B]=== PREMIUM ===[/B][/COLOR]</title>
@@ -605,7 +616,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
-<!-- SPORTS -->
+<!-- SPORTS
 
 <item>
 <title>[COLOR limegreen][B]=== SPORTS ===[/COLOR][/B]</title>
@@ -660,7 +671,7 @@
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
--->
+
 <item>
 <title>ESPN</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8796.m3u8</link>
@@ -715,7 +726,7 @@
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
 </item>
--->
+
 <item> 
 <title>FOX SPORTS NEWS</title>
 <link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75</link>
@@ -727,7 +738,7 @@
 <link>http://live.softiptv.com:9900/live/3month/3month/7502.m3u8</link>
 <thumbnail></thumbnail>
 </item>
--->
+
 <item>
 <title>FS1</title>
 <link>http://hlslinear-l3c.med1.foxsportsgo.com/ls02/foxsports/FOX_SPORTS_1/live/2016/10/12/12610242/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ZGJiMjczMzEtY2Q3OS00NzM0LWE1ZTQtMzUxZGNjY2Y0MGZkOmZiMTdhNTRmLWVkN2ItNGQ0Ni04OGM5LTNhNjRjMTI3NDNjNCIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiMzcyOWZkMTAtOTcwOC0xMWU2LTljZmQtMGVkZDU4ZGQwYWRjIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiMTcyLjU2LjMwLjYwIiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ZGJiMjczMzEtY2Q3OS00NzM0LWE1ZTQtMzUxZGNjY2Y0MGZkOmZiMTdhNTRmLWVkN2ItNGQ0Ni04OGM5LTNhNjRjMTI3NDNjNCIsInBsYXRmb3JtIjoiaW9zLXRhYmxldCJ9LCJ1c2VyIjp7ImlkIjoiZjYzYjM4ODAtN2JkNi00MTEzLWJlNGEtYWVhNDc5NmY1NjU3LTYyNjAzNS03OWM0NDUxMjhjMmI5ZjUyYTgwY2RjNmQ2N2Y2MDkyYzc5YTM0YjQ3IiwiaXBpZCI6ImlhcFJlY2VpcHREZXZpY2U6RGV2aWNlOmRiYjI3MzMxLWNkNzktNDczNC1hNWU0LTM1MWRjY2NmNDBmZDpmYjE3YTU0Zi1lZDdiLTRkNDYtODhjOS0zYTY0YzEyNzQzYzQiLCJiaWxsaW5nX2xvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiODUzMzEifSwicmVnaXN0cmF0aW9uIjp7ImF1dGhfcHJvdmlkZXIiOiJEVFYiLCJlbnRpdGxlbWVudHMiOlsiZmJjLWZveCIsImZzMiIsImZzYSIsImZzMSJdLCJleHBpcmVzX29uIjoiMjAxNi0xMS0wNlQxMzoyNjozNy4wMDArMDAwMCJ9fSwiZ2VuZXJhdGVkX29uIjoiMjAxNi0xMC0yMFQyMTowMDoyMi4yNDErMDAwMCIsInVwZGF0ZWRfb24iOiIyMDE2LTEwLTIwVDIzOjM3OjU2LjY2NyswMDAwIiwiZXhwaXJlc19vbiI6IjIwMTYtMTAtMjFUMDM6Mzc6NTYuNjY3KzAwMDAiLCJhdmFpbGFibGVfY29udGVudCI6eyJuYXRpb25hbCI6eyJjYWxsX3NpZ25zIjpbIkJJR0UiLCJGUzEiLCJGUzIiLCJGU0dPIiwiRlhERVAiLCJVU09QRU4iLCJGU1AiXX0sImdlbyI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjkxNzg2IiwiY291bnRyeV9jb2RlIjoidXMifSwicnNuX2NoYW5uZWxfZ3JvdXBzIjpbImZzcHQiLCJmc3ciXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNXIiwiUFJJTUUiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiS1RUViJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6Ijg1MzMxIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2EiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNBWiIsIkZTQVpBTFQiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiS1NBWiJdLCJ0ZWFtcyI6W3siaWQiOiJhYzViZGI4Zi02ZDhmLTQyNGMtODFlZC02NmVkZDExYzFjYzkiLCJuYW1lIjoiQXJpem9uYSBEaWFtb25kYmFja3MiLCJzcG9ydCI6Ik1MQiJ9LHsiaWQiOiIxYzZhYzk0Ny1lOWZhLTQyYmItYmU5Mi1iNzljNDcyYWE3NzgiLCJuYW1lIjoiUGhvZW5peCBDb3lvdGVzIiwic3BvcnQiOiJOSEwifSx7ImlkIjoiMWVkNTc2YmItNmE2OS00MTdmLWJhMzItOTlhZTVlNWYzYTlmIiwibmFtZSI6IlBob2VuaXggU3VucyIsInNwb3J0IjoiTkJBIn1dfX19LCJpcEFkZHJlc3MiOiIxNzIuNTYuMzAuNjAiLCJleHAiOjE0NzcwMjEwNzYsInR5cGUiOiJVc2VyIiwidXNlcmlkIjoiZjYzYjM4ODAtN2JkNi00MTEzLWJlNGEtYWVhNDc5NmY1NjU3LTYyNjAzNS03OWM0NDUxMjhjMmI5ZjUyYTgwY2RjNmQ2N2Y2MDkyYzc5YTM0YjQ3IiwiaWF0IjoxNDc2OTk3MjIyLCJ2ZXJzaW9uIjoidjEuMCJ9.kM_ZDLysqOw_rLhDc5cf65yPXuxJpO7bMTViz8KOK0E</link>
@@ -947,7 +958,7 @@
 <fanart></fanart>
 </item>
 
-<!-- TEST -->
+<!-- TEST
 <item>
 <title>[COLOR limegreen][B]=== TESTING ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
