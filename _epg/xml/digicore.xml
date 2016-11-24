@@ -7,14 +7,14 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>NBC</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8770.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
-
+http://cp.dmbshare.net:8000/live/melih/melih/8362.ts
 <item>
 <title>ABC</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19412.m3u8</link>
@@ -78,7 +78,7 @@
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8342.m3u8</link>
+<link>xs</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -264,7 +264,7 @@
 <link>http://live.softiptv.com:9900/live/3month/3month/19401.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>USA NETWORK ALT</title>
 <link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
@@ -316,7 +316,7 @@
 <fanart></fanart>
 </item>
 
-<!--NEWS
+<!--NEWS-->
 
 <item>
 <title>[COLOR limegreen][B]=== NEWS ===[/COLOR][/B]</title>
@@ -338,7 +338,7 @@
 <fanart></fanart>
 </item>
 
-<!--
+
 <item>
 <title>CBSN</title>
 <link>https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/index_4000_av-p.m3u8?sd=10&rebase=o</link>
@@ -461,7 +461,7 @@
 <fanart></fanart>
 </item>
 
-<!-- PREMIUM
+<!-- PREMIUM-->
 
 <item>
 <title>[COLOR limegreen][B]=== PREMIUM ===[/B][/COLOR]</title>
@@ -616,7 +616,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 </item>
 
-<!-- SPORTS
+<!-- SPORTS -->
 
 <item>
 <title>[COLOR limegreen][B]=== SPORTS ===[/COLOR][/B]</title>
@@ -665,7 +665,7 @@
 <link>http://nlds3.cdnak.neulion.com/nlds/nfl/redzone/as/live/redzone_hd_2400.m3u8?nltid=nflgp&nltdt=6&nltnt=1&hdnea=~access=/nlds/nfl/redzone/as/live/*~md5=fd0a3d407370043058aad946a3e47072|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>NFL NOW</title>
 <link></link>
@@ -708,7 +708,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssysvt1472102855.png</thumbnail>
 </item>
 
-<!--
+
 <item>
 <title>ESPNU</title>
 <link></link>
@@ -732,7 +732,7 @@
 <link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ryxyst1478046362.png</thumbnail>
 </item>
-<!--
+
 <item> 
 <title>FOX SPORTS 506 HD</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/7502.m3u8</link>
@@ -958,7 +958,7 @@
 <fanart></fanart>
 </item>
 
-<!-- TEST
+<!-- TEST -->
 <item>
 <title>[COLOR limegreen][B]=== TESTING ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
