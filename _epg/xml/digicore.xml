@@ -10,11 +10,11 @@
 
 <item>
 <title>NBC</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8770.m3u8</link>
+<link>http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1027.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
-http://cp.dmbshare.net:8000/live/melih/melih/8362.ts
+
 <item>
 <title>ABC</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19412.m3u8</link>
@@ -104,9 +104,23 @@ http://cp.dmbshare.net:8000/live/melih/melih/8362.ts
 </item>
 
 <item>
+<title>DISNEY CHANNEL UK</title>
+<link>http://cp.dmbshare.net:8000/live/melih/melih/8362.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>DISNEY XD </title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8364.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1150.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -679,8 +693,8 @@ http://cp.dmbshare.net:8000/live/melih/melih/8362.ts
 </item>
 
 <item>
-<title>ESPN test</title>
-<link>http://content-ausc2.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&exp=1474214815&ptid=ESPN_tvOS_VDMS&rn=82872664&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=e3ads&ad.csid=watchespn:chromecast:e3ads&ad.caid=a18030441&eid=espn_espn1&euid=ESPN3_VDMS&ct=c&sig=e78446e90d5228de65144b352258ca268184170c8320f9b87cbabd38e59f698c&pbs=4a7d26c638b34345ada53f08580cc376</link>
+<title>ESPN ALT</title>
+<link>http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1032.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 
@@ -964,7 +978,7 @@ http://cp.dmbshare.net:8000/live/melih/melih/8362.ts
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>nfl</title>
 <link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=716458&hdnea=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8|User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
@@ -999,52 +1013,7 @@ http://nlds294.cdnak.neulion.com/nlds/nba/den/as/live/den_hd_800_ipad.m3u8?hdnea
 rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=1477829936 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://dotstream.tv/player.php?streampage=natgeooo&width=600&height=450</link>
 <thumbnail></thumbnail>
 </item>
-
-<item>
-<title>TOROS</title>
-<link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-<regex>
-<name>start</name>
-<expres></expres>
-<page>$doregex[stream]</page>
-<agent>iPhone</agent>
-<referer>http://privatestream.tv/</referer>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>stream</name>
-<expres>source src="(.*?)"</expres>
-<page>http://privatestream.tv/player?streamname=torosch</page>
-<agent>iPhone</agent>
-<referer>http://privatestream.tv/</referer>
-</regex>
-</item>
-
-<item>
-<title>TOROS ALT</title>
-<link>http://www.t12v.com:8000/live/8080/8080/796.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-</item>
-
-
-<item>
-<title>TOROS ALT</title>
-<link>http://151.80.27.59:8000/live/ali/12345/796.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-</item>
-
-<item>
-<title>TOROS ALT 2</title>
-<link>http://devcon.1dns1.com:8080/live/clinecenter.com1/0L800LGYVu/2654.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-</item>
-
-<item>
-<title>TOROS ALT 3</title>
-<link>http://www.t12v.com:8000/live/9090/9090/796.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-</item>
+-->
 
 <item>
 <title>WHITE SUPREMACY GOING UNDER</title>
@@ -1052,11 +1021,4 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 <link>http://viewstationusa.org/white.avi</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
-</item>
-
-<item>
-<title>3MO</title>
-<link>http://726.selfip.com/stalker_portal/server/load.php?action=get_short_epg&ch_id=1484&type=itv&JsHttpRequest=1-xml</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
-<fanart></fanart>
 </item>
