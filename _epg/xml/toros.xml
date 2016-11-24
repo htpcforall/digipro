@@ -1,0 +1,101 @@
+
+<item>
+<title>TOROS ALT</title>
+<link>http://gogobox.eu:8000/live/555/555/6492.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT</title>
+<link>http://gogobox.eu:8000/live/555/555/6492.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT</title>
+<link>http://gogobox.eu:8000/live/555/555/4804.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT</title>
+<link>http://gogobox.eu:8000/live/555/555/6839.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT</title>
+<link>http://37.187.25.213:8000/live/nicolas/nicolas/1756.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT 2</title>
+<link>http://cdnlive001.dp.ua:8080/live/W3JJS6tcuQ/Dag1XlEheF/1192.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT 3</title>
+<link>http://cdnlive001.dp.ua:8080/live/W3JJS6tcuQ/Dag1XlEheF/1104.ts</link>
+<thumbnail>ttps://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT</title>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1049.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+
+<item>
+<title>TOROS ALT</title>
+<link>http://37.187.25.213:8000/live/nicolas/nicolas/1756.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT 2</title>
+<link>http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1192.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<item>
+<title>TOROS ALT 3</title>
+<link>http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1104.ts</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/toros-stadium.jpg</fanart>
+</item>
+
+<!--
+<item>
+<title>TOROS</title>
+<link>https://forums.tvaddons.ag/$doregex[start]$doregex[stream]|Cookie=$get_cookies$</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<regex>
+<name>start</name>
+<expres></expres>
+<page>$doregex[stream]</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>stream</name>
+<expres>source src="(.*?)"</expres>
+<page>http://privatestream.tv/player?streamname=torosch</page>
+<agent>iPhone</agent>
+<referer>http://privatestream.tv/</referer>
+</regex>
+</item>
+-->
