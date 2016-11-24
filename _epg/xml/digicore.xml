@@ -1056,8 +1056,7 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 
 <item>
 <title>3MO</title>
-<link>http://ingnoreme</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/3mo.m3u</externallink>
+<link>http://726.selfip.com/stalker_portal/server/load.php?action=get_short_epg&ch_id=1484&type=itv&JsHttpRequest=1-xml</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
