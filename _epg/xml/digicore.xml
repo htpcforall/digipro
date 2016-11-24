@@ -972,12 +972,21 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[B]-= [COLOR mediumvioletred]Freddie's Toros[COLOR] =-[B]</title>
+<link>http://ignoreme.com</link>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/toros.xml<externallink>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+</item>
+
 <!-- TEST -->
 <item>
 <title>[COLOR limegreen][B]=== TESTING ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
+
+
 <!--
 <item>
 <title>nfl</title>
