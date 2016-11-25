@@ -24,7 +24,7 @@
 
 <item>
 <title>CBS</title>
-<link>http://cp.dmbshare.net:8000/live/melih/melih/8768.m3u8</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher=streams&title=CBS&url=mpd://4d0fadca2686a2cdd4a4a6623212449c.m3u8&cfg=tvone1.tv.cfg@Streams@Channels&videoTitle=CBS&director=tvone1.tv&genre=Live TV&referer=mpd://4d0fadca2686a2cdd4a4a6623212449c.m3u8&definedIn=tvone1.tv.cfg&type=rss</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1016,6 +1016,8 @@ http://nlds294.cdnak.neulion.com/nlds/nba/den/as/live/den_hd_800_ipad.m3u8?hdnea
 rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=1477829936 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://dotstream.tv/player.php?streampage=natgeooo&width=600&height=450</link>
 <thumbnail></thumbnail>
 </item>
+
+http%3A%2F%2F37.187.25.213%3A8000%2Flive%2Fnicolas%2Fnicolas%2F1756.ts
 -->
 
 <item>
