@@ -24,17 +24,17 @@
 
 <item>
 <title>CBS</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19408.m3u8</link>
+<link>http://cp.dmbshare.net:8000/live/melih/melih/8768.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>CW</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19405.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19405.ts</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>MY9</title>
 <link></link>
@@ -44,7 +44,8 @@
 
 <item>
 <title>AE</title>
-<link>http://portal.onlineiptv.net:5210/live/star/star/143.m3u8</link>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1173.m3u8
+</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
@@ -57,7 +58,7 @@
 
 <item>
 <title>BRAVO</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19409.m3u8</link>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1165.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -105,27 +106,20 @@
 
 <item>
 <title>DISNEY CHANNEL UK</title>
-<link>http://cp.dmbshare.net:8000/live/melih/melih/8362.m3u8</link>
+<link>http://37.187.25.213:8000/live/nicolas/nicolas/194.m3u88</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DISNEY XD </title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8364.m3u8</link>
+<link>http://37.187.25.213:8000/live/nicolas/nicolas/112.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY CHANNEL</title>
 <link>http://ipsatpro.com:8000/live/terry2016/terry2016/1150.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>DISCOVERY CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -153,7 +147,7 @@
 
 <item>
 <title>FXX</title>
-<link></link>
+<link>http://216.31.255.235/hlsl/4/FXX/FXX.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -210,7 +204,7 @@
 
 <item>
 <title>TNT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19398.m3u8</link>
+<link>http://otttv.ga:2095/live/myfreeotttv/123456789/17443.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -224,7 +218,7 @@
 
 <item>
 <title>H2</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8498.m3u8</link>
+<link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
 <fanart></fanart>
 </item>
