@@ -24,7 +24,7 @@
 
 <item>
 <title>CBS</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%26url%3dmpd%253A%252F%252F4d0fadca2686a2cdd4a4a6623212449c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F4d0fadca2686a2cdd4a4a6623212449c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&mode=1&quot;,return)</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19408.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -44,8 +44,7 @@
 
 <item>
 <title>AE</title>
-<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1173.m3u8
-</link>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1173.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
@@ -79,7 +78,7 @@
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>xs</link>
+<link>http://work.myvisio.me:9889/live/Client013/24749816/50.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -92,7 +91,7 @@
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19406.m3u8</link>
+<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
