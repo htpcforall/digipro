@@ -24,7 +24,7 @@
 
 <item>
 <title>CBS</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher=streams&title=CBS&url=mpd://4d0fadca2686a2cdd4a4a6623212449c.m3u8&cfg=tvone1.tv.cfg@Streams@Channels&videoTitle=CBS&director=tvone1.tv&genre=Live TV&referer=mpd://4d0fadca2686a2cdd4a4a6623212449c.m3u8&definedIn=tvone1.tv.cfg&type=rss</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%26url%3dmpd%253A%252F%252F4d0fadca2686a2cdd4a4a6623212449c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F4d0fadca2686a2cdd4a4a6623212449c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&mode=1&quot;,return)</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
