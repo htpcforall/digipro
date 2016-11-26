@@ -28,18 +28,25 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>CW</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19405.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19405.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
--->
+
 <item>
 <title>MY9</title>
 <link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>A & E</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%26url%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dA%2526E%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
 
 <item>
@@ -60,6 +67,14 @@
 <link>http://ipsatpro.com:8000/live/terry2016/terry2016/1165.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>E! Entertainment</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dE%2521%2bEntertainment%26url%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dE%2521%2bEntertainment%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
 </item>
 
 <item>
@@ -95,16 +110,16 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DISNEY CHANNEL</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8362.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
-<title>DISNEY CHANNEL UK</title>
+<title>DISNEY CHANNEL</title>
 <link>http://37.187.25.213:8000/live/nicolas/nicolas/194.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
@@ -118,7 +133,7 @@
 
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1150.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -129,17 +144,17 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DIY</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19429.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>FX</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19425.m3u8</link>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1149.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -160,22 +175,30 @@
 </item>
 
 <item>
+<title>LifeTime</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dLifetime%26url%3dmpd%253A%252F%252F171879baa092ef14d5ec8f401aeaffcd.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dLifetime%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F171879baa092ef14d5ec8f401aeaffcd.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-IYhHHOdqGj8/T6GBRZEEoII/AAAAAAAAFNA/PqkQJATLdFU/s1600/Lifetime+logo+2008.png</thumbnail>
+<fanart>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</fanart>
+</item>
+<!--
+<item>
 <title>LIFETIME</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8505.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
-
+-->
 <item>
 <title>TLC</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8447.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/20552.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TRAVEL CHANNEL HD</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8486..m3u8</link>
+<link>http://cp.dmbshare.net:8000/live/wayne/wayne/8486.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -189,7 +212,7 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/12594.m3u8</link>
+<link>http://cp.dmbshare.net:8000/live/wayne/wayne/8442.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -203,7 +226,7 @@
 
 <item>
 <title>TNT</title>
-<link>http://otttv.ga:2095/live/myfreeotttv/123456789/17443.ts</link>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1156.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
