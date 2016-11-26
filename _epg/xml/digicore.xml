@@ -723,13 +723,8 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssysvt1472102855.png</thumbnail>
 </item>
 
-<item>
-<title>ESPN 3</title>
-<link>http://content-ause3.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/f.m3u8?ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_fw_euid,null&exp=1479660418&ptid=ESPN_tvOS_VDMS&rn=264475779&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=e3ads&ad.csid=watchespn:chromecast:e3ads&ad.caid=a18030450&eid=espn_espn1&euid=ESPN3_VDMS&ct=c&sig=ef7fa66b05c40394109e2d8752e9d21ac98a6b48439b6663b30b5cd2d7980c5b&pbs=1ebf8eb1b7914dd78370e6641d584b18</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/ssysvt1472102855.png</thumbnail>
-</item>
 -->
-
+<!--
 <item>
 <title>ESPNU</title>
 <link></link>
@@ -747,7 +742,7 @@
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
 </item>
-
+-->
 <item> 
 <title>FOX SPORTS NEWS</title>
 <link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75</link>
