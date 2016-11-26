@@ -181,7 +181,7 @@
 -->
 <item>
 <title>TLC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/20552.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/20552.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -209,7 +209,7 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://cp.dmbshare.net:8000/live/wayne/wayne/8442.ts</link>
+<link>http://cp.dmbshare.net:8000/live/wayne/wayne/8442.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -596,7 +596,7 @@
 
 <item>
 <title>SHOWTIME</title>
-<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1439.ts</link>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1439.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -617,7 +617,7 @@
 -->
 <item>
 <title>STARZ EAST</title>
-<link>http://iptvfree1.com:6969/live/13/www.iptvrestream.net/3488.ts</link>
+<link>http://iptvfree1.com:6969/live/13/www.iptvrestream.net/3488.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1010,7 +1010,7 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 <thumbnail></thumbnail>
 </item>
 
-http%3A%2F%2F37.187.25.213%3A8000%2Flive%2Fnicolas%2Fnicolas%2F1756.ts
+http%3A%2F%2F37.187.25.213%3A8000%2Flive%2Fnicolas%2Fnicolas%2F1756.m3u8
 -->
 
 <item>
