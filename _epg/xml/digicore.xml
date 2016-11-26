@@ -715,11 +715,11 @@
 <link>http://ignoreme</link>
 <jsnrpc>plugin://plugin.video.SportsDevil/?mode=1&item=catcher=streams&title=ESPN 2&url=http://www.shadow-net.org/channels/ESPN-2.html&cfg=shadownet.ro.cfg@Channels&videoTitle=ESPN 2&director=ShadowNet.ro&genre=Live TV&referer=http://www.shadow-net.org/channels/ESPN-2.html&definedIn=shadownet.ro.cfg&icon.tmp=http://www.shadow-net.org/product_images/a/831/ESPN2_logo__59298_thumb.png&type=rss&icon=http://www.shadow-net.org/product_images/a/831/ESPN2_logo__59298_thumb.png|Referer=http://www.shadow-net.org/&User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36</jsnrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png</thumbnail>
+</item>
 
-<!--
 <item>
 <title>ESPN 3</title>
-<link>http://content-ausc2.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/h.m3u8?ad.kv=_fw_ae,975cd70e2de25291acc0efc98a48935e,_fw_euid,null&exp=1474214815&ptid=ESPN_tvOS_VDMS&rn=82872664&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=e3ads&ad.csid=watchespn:chromecast:e3ads&ad.caid=a18030441&eid=espn_espn1&euid=ESPN3_VDMS&ct=c&sig=e78446e90d5228de65144b352258ca268184170c8320f9b87cbabd38e59f698c&pbs=4a7d26c638b34345ada53f08580cc376</link>
+<link>http://content-ause1.uplynk.com/channel/686d881431ea48bc9e4b0783c24a0858/i.m3u8?ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_fw_euid,null&exp=1480190320&ptid=ESPN3_Events_VDMS&rn=48025674&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=e3ads&ad.csid=watchespn:chromecast:e3ads&ad.caid=a19410985&eid=a19410985&euid=ESPN3_VDMS&ct=c&sig=f8d6c7a73f606dd915be4f93b401081299a608288c79f45df7d2163927392d00&pbs=37613b001e794a94a15181ee5671f6cc</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssysvt1472102855.png</thumbnail>
 </item>
 
