@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<layouttype>thumbnail</layouttype>
 
 <item>
-<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 11-24-16 [COLOR red]*[/COLOR][COLOR grey] Happy Thanksgiving![/COLOR][COLOR red] *[/COLOR][/B]</title>
+<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 11-26-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update[/COLOR][COLOR red] *[/COLOR][/B]</title>
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
