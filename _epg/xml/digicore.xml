@@ -108,15 +108,8 @@
 </item>
 
 <item>
-<title>DISNEY CHANNEL</title>
-<link>http://37.187.25.213:8000/live/nicolas/nicolas/194.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>DISNEY XD </title>
-<link>http://37.187.25.213:8000/live/nicolas/nicolas/112.m3u8</link>
+<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/47.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
@@ -1009,8 +1002,6 @@ http://nlds294.cdnak.neulion.com/nlds/nba/den/as/live/den_hd_800_ipad.m3u8?hdnea
 rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=1477829936 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://dotstream.tv/player.php?streampage=natgeooo&width=600&height=450</link>
 <thumbnail></thumbnail>
 </item>
-
-http%3A%2F%2F37.187.25.213%3A8000%2Flive%2Fnicolas%2Fnicolas%2F1756.m3u8
 -->
 
 <item>
