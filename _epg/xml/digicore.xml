@@ -40,7 +40,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>A & E</title>
 <link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/1.m3u8</link>
@@ -52,7 +52,7 @@
 <link>http://ipsatpro.com:8000/live/terry2016/terry2016/1173.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>AMC</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19419.m3u8</link>
@@ -94,8 +94,36 @@
 </item>
 
 <item>
+<title>COMEDY CENTRAL1</title>
+<link>http://216.31.255.235/hlsl/1/COMEDY/1.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>COMEDY CENTRAL2</title>
+<link>http://216.31.255.235/hlsl/1/COMEDY/2.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>COMEDY CENTRAL3</title>
+<link>http://216.31.255.235/hlsl/1/COMEDY/3.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>COMEDY CENTRAL4</title>
+<link>http://216.31.255.235/hlsl/1/COMEDY/4.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>COMEDY CENTRAL</title>
-<link>http://live.softiptv.com:9900/live/Julian/Julian/19406.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19406.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -315,7 +343,7 @@
 
 <item>
 <title>ID</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/87.m3u8</link>
+<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 </item>
 
