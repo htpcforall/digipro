@@ -137,11 +137,19 @@
 
 <item>
 <title>FX</title>
+<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/73.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FX</title>
 <link>http://ipsatpro.com:8000/live/terry2016/terry2016/1149.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
 
+<!--
 <item>
 <title>FXX</title>
 <link>http://216.31.255.235/hlsl/4/FXX/FXX.m3u8</link>
@@ -149,10 +157,10 @@
 <fanart></fanart>
 </item>
 <item>
-
+-->
 <item>
 <title>FXX</title>
-<link></link>
+<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/77.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -216,7 +224,7 @@
 
 <item>
 <title>TNT</title>
-<link>http://ipsatpro.com:8000/live/terry2016/terry2016/19398.m3u8</link>
+<link>http://ipsatpro.com:8000/live/terry2016/terry2016/19398.m3u</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -263,7 +271,7 @@
 
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/11.m3u8<link>
+<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/11.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
