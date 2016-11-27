@@ -146,7 +146,7 @@
 <title>COMEDY CENTRAL</title>
 <link>http://ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dComedy%2bCentral%26url%3dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dComedy%2bCentral%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -159,7 +159,7 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/20621.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/20621.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -172,7 +172,7 @@
 </item>
 <item>
 <title>DISNEY XD </title>
-<link>http://live.softiptv.com:9900/live/3month/3month/20619.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/20619.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
@@ -277,7 +277,7 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/12594.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/12594.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -358,7 +358,7 @@
 
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/20641.ts</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/20641.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -784,7 +784,7 @@
 -->
 <item>
 <title>ESPN</title>
-<link>http://mediaiptv.xyz:8000/live/tvstreams2/james/1864.ts
+<link>http://mediaiptv.xyz:8000/live/tvstreams2/james/1864.m3u8
 </link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
@@ -797,7 +797,7 @@
 
 <item>
 <title>ESPN</title>
-<link>http://mediaiptv.xyz:8000/live/tvstreams2/james/1748.ts</link>
+<link>http://mediaiptv.xyz:8000/live/tvstreams2/james/1748.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png</thumbnail>
 </item>
 -->
