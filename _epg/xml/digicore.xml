@@ -6,21 +6,37 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<item>
+<title>NBC 4 New York</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%2b4%2bNew%2bYork%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FNBC-4-New-York.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dNBC%2b4%2bNew%2bYork%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fc%252F970%252Fwnbc_nbc4_new_york__88786_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fc%252F970%252Fwnbc_nbc4_new_york__88786_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
+<fanart></fanart>
+</item>
+<!--
 <item>
 <title>NBC</title>
 <link>http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1027.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 
+<item>
+<title>ABC</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dabc%26url%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dabc%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
+<fanart></fanart>
+</item>
+<!--
 <item>
 <title>ABC</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19412.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>CBS</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19408.m3u8</link>
@@ -28,6 +44,14 @@
 <fanart>-</fanart>
 </item>
 
+<item>
+<title>The CW</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dThe%2bCW%26url%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dThe%2bCW%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
+<fanart></fanart>
+</item>
+<!--
 <item>
 <title>CW</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19405.m3u8</link>
@@ -40,19 +64,15 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+-->
 <item>
 <title>A & E</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/1.m3u8</link>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%26url%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dA%2526E%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
+<fanart></fanart>
 </item>
 
-<item>
-<title>AE</title>
-<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1173.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
-</item>
--->
 <item>
 <title>AMC</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19419.m3u8</link>
@@ -62,17 +82,43 @@
 
 <item>
 <title>BRAVO</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBravo%2bTV%26url%3dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBravo%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>BRAVO</title>
 <link>http://ipsatpro.com:8000/live/terry2016/terry2016/1165.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 
 <item>
-<title>E!2</title>
+<title>E!</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dE%2521%2bEntertainment%26url%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dE%2521%2bEntertainment%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>E!</title>
 <link>http://usaiptv.ddns.net:9090/load/e2eb9e867aca/468.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 </item>
+-->
 
+<item>
+<title>FOX</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2b5%2bNY%26url%3dmpd%253A%252F%252F938230615eafe3e2adf33332d1be3940.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dFOX%2b5%2bNY%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F938230615eafe3e2adf33332d1be3940.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
+<fanart></fanart>
+</item>
+<!--
 <item>
 <title>FOX</title>
 <link>http://151.80.29.203:9900/live/Julian/Julian/19427.m3u8</link>
@@ -85,59 +131,46 @@
 <link>http://work.myvisio.me:9889/live/Client013/24749816/50.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
+-->
+<item>
+<title>CARTOON NETWORK</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCartoon%2bNetwork%26url%3dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCartoon%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dComedy%2bCentral%26url%3dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dComedy%2bCentral%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>COMEDY CENTRAL1</title>
-<link>http://216.31.255.235/hlsl/1/COMEDY/01.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>COMEDY CENTRAL2</title>
+<title>COMEDY CENTRAL</title>
 <link>http://216.31.255.235/hlsl/1/COMEDY/02.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>COMEDY CENTRAL3</title>
-<link>http://216.31.255.235/hlsl/1/COMEDY/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>COMEDY CENTRAL4</title>
-<link>http://216.31.255.235/hlsl/1/COMEDY/04.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>COMEDY CENTRAL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19406.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>DISNEY CHANNEL</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/43.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/20621.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<item>
+<title>DISNEY JR</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bChannel%2bUS%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FDisney-Channel-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dDisney%2bChannel%2bUS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FDisney-Channel-US.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fe%252F907%252Fdisney_channel__34733_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fe%252F907%252Fdisney_channel__34733_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>DISNEY XD </title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/47.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/20619.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 
@@ -149,51 +182,56 @@
 </item>
 
 <item>
+<title>DISCOVERY SCIENCE</title>
+<link>http://216.31.255.235/hlsl/11/SCIENCE/02.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxpwqr1433452872.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY VELOCITY</title>
+<link>http://216.31.255.235/hlsl/6/VELOCITY/02.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
+</item>
+
+
+<item>
 <title>FOOD NETWORK</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19428.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DIY</title>
 <link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/49.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title>FX</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/73.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>FX</title>
-<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1149.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!--
-<item>
-<title>FXX</title>
-<link>http://216.31.255.235/hlsl/4/FXX/FXX.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
 -->
 <item>
-<title>FXX</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/77.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
+<title>FX</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFX%26url%3dmpd%253A%252F%252Fd4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dFX%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>LifeTime</title>
+<title>FXX</title>
+<link>http://216.31.255.235/hlsl/4/FXX/02.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
+<item>
+<title>LIFETIME</title>
 <link>http://ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dLifetime%26url%3dmpd%253A%252F%252F171879baa092ef14d5ec8f401aeaffcd.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dLifetime%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F171879baa092ef14d5ec8f401aeaffcd.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>http://2.bp.blogspot.com/-IYhHHOdqGj8/T6GBRZEEoII/AAAAAAAAFNA/PqkQJATLdFU/s1600/Lifetime+logo+2008.png</thumbnail>
@@ -213,7 +251,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>TRAVEL CHANNEL HD</title>
 <link>http://cp.dmbshare.net:8000/live/wayne/wayne/8486.m3u8</link>
@@ -227,17 +265,25 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>TRUTV</title>
-<link>http://216.31.255.235/hlsl/7/TRUTV/TRUTV/</link>
+<link>http://216.31.255.235/hlsl/7/TRUTV/02.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SPIKE</title>
-<link>http://cp.dmbshare.net:8000/live/wayne/wayne/8442.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/12594.ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spike Tv</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%2bTV%26url%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSpike%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -250,15 +296,17 @@
 </item>
 
 <item>
-<title>TNT</title>
-<link>http://ipsatpro.com:8000/live/terry2016/terry2016/19398.m3u</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
+<title>SYFY</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSyFy%26url%3dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSyFy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TNT</title>
-<link>http://ipsatpro.com:8000/live/terry2016/terry2016/1156.m3u8</link>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTNT%2bUSA%26url%3dmpd%253A%252F%252Fb5e39fb359975ce6a68be8a6935d4d7e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTNT%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb5e39fb359975ce6a68be8a6935d4d7e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -273,14 +321,16 @@
 <item>
 <title>H2</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/150px-H2_TV_logo.svg.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/99.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%26url%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+</thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -292,14 +342,30 @@
 
 <item>
 <title>NAT GEO WILD</title>
-<link>http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8</link>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNat%2bGeo%2bWild%2b%2528version%2bin%2bEnglish%2529%26url%3dmpd%253A%252F%252Facf9249594df8395d62a4fee0dd484cb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNat%2bGeo%2bWild%2b%2528version%2bin%2bEnglish%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Facf9249594df8395d62a4fee0dd484cb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NAT GEO WILD</title>
+<link>http://216.31.255.235/hlsl/1/NATWLD/02.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
 
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/11.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/20641.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NICKELODEON</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNickelodeon%26url%3dmpd%253A%252F%252Fa55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNickelodeon%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -310,9 +376,27 @@
 </item>
 
 <item>
-<title>NICKTOONS</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Nicktoons</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNicktoons%2bTV%26url%3dmpd%253A%252F%252Fa5c568b3ed1bce30903f6092519ef949.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNicktoons%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa5c568b3ed1bce30903f6092519ef949.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Nicktoons.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PBS</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPBS%26url%3dmpd%253A%252F%252Ffe22365235b496368609515523bfb971.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dPBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffe22365235b496368609515523bfb971.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>http://www-tc.pbs.org/wgbh/pages/frontline/press/2301_outreach/PBS_logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TBS</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -323,57 +407,28 @@
 
 <item>
 <title>USA NETWORK</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/145.m3u8</link>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dUSA%2bNetwork%26url%3dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dUSA%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>USA NETWORK</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19401.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
-</item>
-<!--
-<item>
-<title>USA NETWORK ALT</title>
-<link>http://216.31.255.235/hlsl/3/USA/USA.m3u8<link>
+<link>http://216.31.255.235/hlsl/3/USA/02.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
--->
 
 <item>
 <title>ID</title>
-<link>http://216.31.255.235/hlsl/8/INVDSC/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/8/INVDSC/02.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 </item>
 
-<item>
-<title>ID</title>
-<link>http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY SCIENCE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY VELOCITY</title>
-<link>http://216.31.255.235/hlsl/6/VELOCITY/VELOCITY.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
-</item>
-<!--
-<item>
-<title>DISCOVERY SCIENCE</title>
-<link>http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/wxpwqr1433452872.png</thumbnail>
-</item>
--->
 <item>
 <title>UNIVERSAL CHANNEL</title>
-<link>http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8</link>
+<link>http://216.31.255.235/hlsl/12/UNIVERSAL/02.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png</thumbnail>
 </item>
 
