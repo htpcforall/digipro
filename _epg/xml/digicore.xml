@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 11-26-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update[/COLOR][COLOR red] *[/COLOR][/B]</title>
+<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 11-26-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<!--NBC 4 NY-->
 <item>
-<title>NBC 4 New York</title>
+<title>NBC</title>
 <link>http://ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%2b4%2bNew%2bYork%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FNBC-4-New-York.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dNBC%2b4%2bNew%2bYork%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fc%252F970%252Fwnbc_nbc4_new_york__88786_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fc%252F970%252Fwnbc_nbc4_new_york__88786_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
