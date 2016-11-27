@@ -6,7 +6,7 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 <fanart></fanart>
 </item>
-
+--
 <!--NBC 4 NY-->
 <item>
 <title>NBC</title>
@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 -->
-
+--
 <item>
 <title>ABC</title>
 <link>http://ignorme</link>
@@ -136,7 +136,7 @@
 -->
 <item>
 <title>CARTOON NETWORK</title>
-<link>ignorame</link>
+<link>http://ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCartoon%2bNetwork%26url%3dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCartoon%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 <fanart></fanart>
@@ -277,15 +277,15 @@
 
 <item>
 <title>SPIKE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/12594.m3u8</link>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%2bTV%26url%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSpike%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SPIKE</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%2bTV%26url%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSpike%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<link>http://live.softiptv.com:9900/live/3month/3month/12594.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
