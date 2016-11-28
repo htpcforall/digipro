@@ -27,7 +27,7 @@
 <item>
 <title>ABC</title>
 <link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dabc%26url%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dabc%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dabc%26url%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dabc%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -49,7 +49,7 @@
 <item>
 <title>CW</title>
 <link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dThe%2bCW%26url%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dThe%2bCW%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dThe%2bCW%26url%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dThe%2bCW%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss</jsonrpc>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -70,7 +70,7 @@
 <item>
 <title>A & E</title>
 <link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%26url%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dA%2526E%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%26url%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dA%2526E%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -84,8 +84,8 @@
 
 <item>
 <title>BRAVO</title>
-<link>ignorame</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBravo%2bTV%26url%3dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBravo%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<link>http://ignorame</link>
+<jsonrpc>plugin://plugin.video.goodfellas/?fanart=http%3a%2f%2fwww.pixhoster.info%2ff%2f2016-09%2fc13d7ae849d063958b83ca332b3d3955.png&amp;mode=53&amp;name=Bravo&amp;url=plugin%3a%2f%2fplugin.video.SportsDevil%2f%3fitem%3dcatcher%253dstreams%2526title%253dBravo%252bTV%2526url%253dmpd%25253A%25252F%25252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%2526cfg%253dtvone1.tv.cfg%252540Streams%252540Channels%2526videoTitle%253dBravo%252bTV%2526director%253dtvone1.tv%2526genre%253dLive%252bTV%2526referer%253dmpd%25253A%25252F%25252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%2526definedIn%253dtvone1.tv.cfg%2526type%253drss</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -101,7 +101,7 @@
 <item>
 <title>E!</title>
 <link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dE%2521%2bEntertainment%26url%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dE%2521%2bEntertainment%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dE%2521%2bEntertainment%26url%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dE%2521%2bEntertainment%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26definedIn%3dtvone1.tv.cfg</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -487,19 +487,19 @@
 
 <item>
 <title>CNBC</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/29.m3u8</link>
+<link>plugin://plugin.video.israelive/?url=rtmp%3A%2F%2Fgirlz.cdn.newschat.tv%2Fedge+playpath%3Dcnbc_live+swfUrl%3Dhttp%3A%2F%2Fnewschat.tv%2Fplayer.swf+swfVfy%3D1+live%3D1+pageUrl%3Dhttp%3A%2F%2Fwww.livenewschat.eu%2Ftwoons+timeout%3D15</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
-
+<!--
 <item>
 <title>CNBC WORLD</title>
 <link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/29.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>CNN</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/33.m3u8</link>
+<link>http://151.80.29.203:9900/live/Julian/Julian/19407.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
 
@@ -1104,12 +1104,7 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 </item>
 
-<item>
-<title>nba test4</title>
-<link>
-http://play.uktvnow.net:1935/live/bravohd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA5OjMyOjAwIFBNJmhhc2hfdmFsdWU9elpiRHFvV1IwSzY4ZUN5TWNjMTVBdz09JnZhbGlkbWludXRlcz0yMA==</link>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title>nba test3</title>
