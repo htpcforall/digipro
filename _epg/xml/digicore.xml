@@ -1042,6 +1042,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 
 <item>
 <title>[B]-= [COLOR mediumvioletred]Freddie's Toros[/COLOR] =-[/B]</title>
@@ -1049,7 +1050,15 @@
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/toros.xml<externallink>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
--->
+
+
+<item>
+<title>[B]DS[/B]</title>
+<link>http://ignoreme.com</link>
+<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go<externallink>
+<thumbnail></thumbnail>
+</item>
+
 
 <!-- TEST -->
 <item>
@@ -1104,7 +1113,7 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 </item>
 
-
+http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go
 
 <item>
 <title>nba test3</title>
