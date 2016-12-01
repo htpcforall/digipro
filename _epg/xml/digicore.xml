@@ -1053,9 +1053,11 @@
 
 
 <item>
-<title>[B]DS[/B]</title>
+<title>[B]DS1[/B]</title>
 <link>http://ignoreme.com</link>
 <externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go<externallink>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<agent>User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
 <thumbnail></thumbnail>
 </item>
 
