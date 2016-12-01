@@ -1052,13 +1052,7 @@
 </item>
 
 
-<item>
-<title>[B]DS2[/B]</title>
-<link>http://ignoreme.com</link>
-<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go&Connection: keep-alive&Upgrade-Insecure-Requests: 1&Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&DNT: 1&Accept-Encoding: gzip, deflate, sdch&Accept-Language: en-US,en;q=0.8|User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
-</externallink>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title>[B]DS3[/B]</title>
@@ -1070,13 +1064,20 @@
 
 
 <!-- TEST -->
+<!--
 <item>
 <title>[COLOR limegreen][B]=== TESTING ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
-
+<item>
+<title>[B]DS2[/B]</title>
+<link>http://ignoreme.com</link>
+<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go&Connection: keep-alive&Upgrade-Insecure-Requests: 1&Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&DNT: 1&Accept-Encoding: gzip, deflate, sdch&Accept-Language: en-US,en;q=0.8|User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+</externallink>
+<thumbnail></thumbnail>
+</item>
 <!--
 <item>
 <title>nfl</title>
@@ -1121,8 +1122,6 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
 </item>
-
-http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go
 
 <item>
 <title>nba test3</title>
