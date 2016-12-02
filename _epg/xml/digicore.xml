@@ -1050,18 +1050,29 @@
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/toros.xml<externallink>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
+<!--
+<item><title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon Streams[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fgoo.gl%2fH6BuuM&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5ragon%20Streams%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=main_menu</jsonrpc>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
 
+<item><title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]agon Sports[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fgoo.gl%2fH6BuuM&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5ragon%20Sports%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=dragon_sports</jsonrpc>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
 
-
-
+<!--
 <item>
 <title>[B]DS3[/B]</title>
 <link>http://ignoreme.com</link>
 <externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go&Connection= keep-alive&Upgrade-Insecure-Requests= 1&Accept= text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&DNT= 1&Accept-Encoding= gzip, deflate, sdch&Accept-Language= en-US,en;q=0.8|User-Agent= Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</externallink>
 <thumbnail></thumbnail>
 </item>
-
-
+-->
 
 <!-- TEST -->
 <!--
