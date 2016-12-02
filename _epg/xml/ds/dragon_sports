@@ -1,0 +1,79 @@
+
+##########################################################################
+t#itle=[B]Click Me For New Details...[/B]
+m#ode=11
+u#rl=http://dragonstr.com/index2/Info3.html
+i#con=https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg
+f#anart=default
+##########################################################################
+title=[B][COLOR=grey]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]
+mode=1
+url=dragon_go
+icon=https://goo.gl/H6BuuM
+fanart=default
+##########################################################################
+title=[B][COLOR=grey]N[/COLOR][COLOR=blue]FL[/COLOR][/B]
+mode=1
+url=nfl
+icon=http://dragonstr.com/new_ds/images/NFL.png
+fanart=default
+##########################################################################
+title=[B][COLOR=grey]N[/COLOR][COLOR=blue]BA[/COLOR][/B]
+mode=11
+url=http://dragonstr.com/index2/nba1.html
+icon=http://dragonstr.com/new_ds/images/NBA.png
+fanart=default
+##########################################################################
+title=[B][COLOR=grey]N[/COLOR][COLOR=blue]CAA (ESPN 3 Events)[/COLOR][/B]
+mode=11
+url=http://dragonstr.com/index2/ESPN3.html
+icon=https://goo.gl/UrbF9X
+fanart=http://i.imgur.com/mR2n8Yn.jpg
+##########################################################################
+title=[B][COLOR=grey]N[/COLOR][COLOR=blue]HL[/COLOR][/B]
+mode=11
+url=http://dragonstr.com/Hockey/Menu.html
+icon=http://dragonstr.com/new_ds/images/NHL.png
+fanart=https://nhl.bamcontent.com/images/photos/280654880/1024x576/cut.jpg
+##########################################################################
+title=[B][COLOR=grey]W[/COLOR][COLOR=blue]WE[/COLOR][/B]
+mode=11
+url=http://dragonstr.com/WWE/Menu.html
+icon=http://dragonstr.com/WWE/WWE.jpg
+fanart=http://hiddenremote.com/files/2015/09/blog5.png
+##########################################################################
+title=[B][COLOR=grey]P[/COLOR][COLOR=blue]AC Networks[/COLOR][COLOR=red][/COLOR][/B]
+mode=1
+url=pac_networks
+icon=http://dragonstr.com/new_ds/images/PacNetworks.png
+fanart=http://static.nfl.com/static/content/public/pg-photo/2014/09/17/0ap3000000396263/ucla-cheerleaders.jpg
+##########################################################################
+title=[B][COLOR=grey]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]
+mode=1
+url=dragon_sports_replays
+icon=http://dragonstr.com/new_ds/images/Replays.png
+fanart=default
+##########################################################################
+title=[B][COLOR=grey]S[/COLOR][COLOR=blue]port Channels[/COLOR][/B]
+mode=11
+url=http://dragonstr.com/chan/SChan.html
+icon=http://dragonstr.com/new_ds/images/Television.png
+fanart=http://tireball.com/wwe/files/2014/06/wweraw.jpeg
+##########################################################################
+title=[B][COLOR=grey]O[/COLOR][COLOR=blue]ther Stuff[/COLOR][/B]
+mode=11
+url=http://dragonstr.com/index2/Nascar.html
+icon=https://assets.primesport.com/prod/images/kansas-speedway-logo.png
+fanart=default
+##########################################################################
+t#itle=[B][COLOR=grey]M[/COLOR][COLOR=blue]LB [/COLOR][/B]
+m#ode=11
+u#rl=http://dragonstr.com/index2/mlbmenu.html
+i#con=http://goo.gl/Vpc2IA
+f#anart=http://mediadownloads.mlb.com/mlbam/2015/09/09/images/mlbf_465023783_th_45.jpg
+##########################################################################
+t#itle=[B][COLOR=grey]U[/COLOR][COLOR=blue]S Open[/COLOR][/B]
+m#ode=11
+u#rl=http://dragonstr.com/index2/Other3.html
+i#con=http://farm9.static.flickr.com/8746/17133918326_8c3cd5f794.jpg
+f#anart=default
