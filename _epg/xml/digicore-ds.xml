@@ -8,16 +8,25 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR grey] Better than the real thing. 11-16-2016 update[/COLOR][/B]</title>
+<item><title>[B][COLOR grey] Better than the real thing. 12-01-2016 update[/COLOR][/B]</title>
 	<link>http://google.com</link>
 	<externallink></externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/dz.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
+<!--
 <item><title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fgoo.gl%2fH6BuuM&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dF%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dight%20Pass%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=dragon_go</jsonrpc>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+-->
+<item>
+	<title>[B][COLOR=FF00FF00]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
+	<link>http://ignoreme.com</link>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/ds/fp.xml<externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
@@ -28,14 +37,14 @@
 	<thumbnail>http://dragonstr.com/new_ds/images/NFL.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
-
+<!--
 <item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]CAA Football[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fgoo.gl%2fRzWGds&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dN%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dCAA%20Football%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fdragonstr.com%2findex2%2fNCAAF.html</jsonrpc>
 	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
-
+-->
 <item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]CAA (ESPN EVENTS)[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fgoo.gl%2fUrbF9X&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dN%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dCAA%20(ESPN%203%20Events)%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fdragonstr.com%2findex2%2fESPN3.html</jsonrpc>
@@ -50,17 +59,17 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR=FF00FF00]O[/COLOR][COLOR=blue]THER STUFF[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fassets.primesport.com%2fprod%2fimages%2fkansas-speedway-logo.png&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dO%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dther%20Stuff%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fdragonstr.com%2findex2%2fNascar.html</jsonrpc>
-	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
-	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
-</item>
-
 <item><title>[B][COLOR=FF00FF00]N[/COLOR][COLOR=blue]HL[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fNHL.png&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dN%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dHL%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fdragonstr.com%2fHockey%2fMenu.html</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/NHL.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[B][COLOR=FF00FF00]M[/COLOR][COLOR=blue]ISC. SPORTS[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fassets.primesport.com%2fprod%2fimages%2fkansas-speedway-logo.png&amp;mode=11&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dO%5b%2fCOLOR%5d%5bCOLOR%3dblue%5dther%20Stuff%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fdragonstr.com%2findex2%2fNascar.html</jsonrpc>
+	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
@@ -84,6 +93,15 @@
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/net.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
+
+<!--
+<item><title>[B][COLOR=FF00FF00]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http%3a%2f%2fdragonstr.com%2fnew_ds%2fimages%2fReplays.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dR%5b%2fCOLOR%5d%5bCOLOR%3dblue%5deplays%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=dragon_sports_replays</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+-->
 
 <item><title>[B][COLOR=FF00FF00]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
