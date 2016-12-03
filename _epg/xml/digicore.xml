@@ -1045,11 +1045,20 @@
 -->
 
 <item>
+<title>test-regex</title>
+<link>http://ignoreme.com</link>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/testregex.xml<externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[B]-= [COLOR mediumvioletred]Freddie's Toros[/COLOR] =-[/B]</title>
 <link>http://ignoreme.com</link>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/toros.xml<externallink>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
+
+
 <!--
 <item><title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon Streams[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
