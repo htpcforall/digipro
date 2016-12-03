@@ -854,13 +854,13 @@
 <link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ryxyst1478046362.png</thumbnail>
 </item>
-<!--
+
 <item> 
 <title>FOX SPORTS 506 HD</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/7502.m3u8</link>
 <thumbnail></thumbnail>
 </item>
--->
+
 <item>
 <title>FS1</title>
 <link>http://hlslinear-l3c.med1.foxsportsgo.com/ls02/foxsports/FOX_SPORTS_1/live/2016/10/12/12610242/5000K/5000_slide_ads.m3u8|Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ZGJiMjczMzEtY2Q3OS00NzM0LWE1ZTQtMzUxZGNjY2Y0MGZkOmZiMTdhNTRmLWVkN2ItNGQ0Ni04OGM5LTNhNjRjMTI3NDNjNCIsImNsaWVudElkIjoic2Vzc2lvbi1zZXJ2aWNlLXYxLjAiLCJjb250ZXh0Ijp7ImlkIjoiMzcyOWZkMTAtOTcwOC0xMWU2LTljZmQtMGVkZDU4ZGQwYWRjIiwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiMTcyLjU2LjMwLjYwIiwiZGV2aWNlIjp7ImlkIjoiaWFwUmVjZWlwdERldmljZTpEZXZpY2U6ZGJiMjczMzEtY2Q3OS00NzM0LWE1ZTQtMzUxZGNjY2Y0MGZkOmZiMTdhNTRmLWVkN2ItNGQ0Ni04OGM5LTNhNjRjMTI3NDNjNCIsInBsYXRmb3JtIjoiaW9zLXRhYmxldCJ9LCJ1c2VyIjp7ImlkIjoiZjYzYjM4ODAtN2JkNi00MTEzLWJlNGEtYWVhNDc5NmY1NjU3LTYyNjAzNS03OWM0NDUxMjhjMmI5ZjUyYTgwY2RjNmQ2N2Y2MDkyYzc5YTM0YjQ3IiwiaXBpZCI6ImlhcFJlY2VpcHREZXZpY2U6RGV2aWNlOmRiYjI3MzMxLWNkNzktNDczNC1hNWU0LTM1MWRjY2NmNDBmZDpmYjE3YTU0Zi1lZDdiLTRkNDYtODhjOS0zYTY0YzEyNzQzYzQiLCJiaWxsaW5nX2xvY2F0aW9uIjp7InR5cGUiOiJaSVBfQ09ERSIsInppcF9jb2RlIjoiODUzMzEifSwicmVnaXN0cmF0aW9uIjp7ImF1dGhfcHJvdmlkZXIiOiJEVFYiLCJlbnRpdGxlbWVudHMiOlsiZmJjLWZveCIsImZzMiIsImZzYSIsImZzMSJdLCJleHBpcmVzX29uIjoiMjAxNi0xMS0wNlQxMzoyNjozNy4wMDArMDAwMCJ9fSwiZ2VuZXJhdGVkX29uIjoiMjAxNi0xMC0yMFQyMTowMDoyMi4yNDErMDAwMCIsInVwZGF0ZWRfb24iOiIyMDE2LTEwLTIwVDIzOjM3OjU2LjY2NyswMDAwIiwiZXhwaXJlc19vbiI6IjIwMTYtMTAtMjFUMDM6Mzc6NTYuNjY3KzAwMDAiLCJhdmFpbGFibGVfY29udGVudCI6eyJuYXRpb25hbCI6eyJjYWxsX3NpZ25zIjpbIkJJR0UiLCJGUzEiLCJGUzIiLCJGU0dPIiwiRlhERVAiLCJVU09QRU4iLCJGU1AiXX0sImdlbyI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6IjkxNzg2IiwiY291bnRyeV9jb2RlIjoidXMifSwicnNuX2NoYW5uZWxfZ3JvdXBzIjpbImZzcHQiLCJmc3ciXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNXIiwiUFJJTUUiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiS1RUViJdfSwiaG9tZSI6eyJsb2NhdGlvbiI6eyJ0eXBlIjoiWklQX0NPREUiLCJ6aXBfY29kZSI6Ijg1MzMxIn0sInJzbl9jaGFubmVsX2dyb3VwcyI6WyJmc2EiXSwicnNuX2NhbGxfc2lnbnMiOlsiRlNBWiIsIkZTQVpBTFQiXSwiYWZmaWxpYXRlX2NhbGxfc2lnbnMiOlsiS1NBWiJdLCJ0ZWFtcyI6W3siaWQiOiJhYzViZGI4Zi02ZDhmLTQyNGMtODFlZC02NmVkZDExYzFjYzkiLCJuYW1lIjoiQXJpem9uYSBEaWFtb25kYmFja3MiLCJzcG9ydCI6Ik1MQiJ9LHsiaWQiOiIxYzZhYzk0Ny1lOWZhLTQyYmItYmU5Mi1iNzljNDcyYWE3NzgiLCJuYW1lIjoiUGhvZW5peCBDb3lvdGVzIiwic3BvcnQiOiJOSEwifSx7ImlkIjoiMWVkNTc2YmItNmE2OS00MTdmLWJhMzItOTlhZTVlNWYzYTlmIiwibmFtZSI6IlBob2VuaXggU3VucyIsInNwb3J0IjoiTkJBIn1dfX19LCJpcEFkZHJlc3MiOiIxNzIuNTYuMzAuNjAiLCJleHAiOjE0NzcwMjEwNzYsInR5cGUiOiJVc2VyIiwidXNlcmlkIjoiZjYzYjM4ODAtN2JkNi00MTEzLWJlNGEtYWVhNDc5NmY1NjU3LTYyNjAzNS03OWM0NDUxMjhjMmI5ZjUyYTgwY2RjNmQ2N2Y2MDkyYzc5YTM0YjQ3IiwiaWF0IjoxNDc2OTk3MjIyLCJ2ZXJzaW9uIjoidjEuMCJ9.kM_ZDLysqOw_rLhDc5cf65yPXuxJpO7bMTViz8KOK0E</link>
@@ -1058,7 +1058,7 @@
 <fanart></fanart>
 </item>
 -->
-
+<!--
 <item>
 <title>3month</title>
 <link>http://ignoreme.com</link>
@@ -1072,6 +1072,7 @@
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/testregex.xml<externallink>
 <thumbnail></thumbnail>
 </item>
+-->
 
 <item>
 <title>[B]-= [COLOR mediumvioletred]Freddie's Toros[/COLOR] =-[/B]</title>
@@ -1079,7 +1080,6 @@
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/toros.xml<externallink>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
 </item>
-
 
 <!--
 <item><title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon Streams[/COLOR][/B]</title>
