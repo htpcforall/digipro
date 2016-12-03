@@ -1045,6 +1045,13 @@
 -->
 
 <item>
+<title>3month</title>
+<link>http://ignoreme.com</link>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/3monthf.m3u<externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>test-regex</title>
 <link>http://ignoreme.com</link>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/testregex.xml<externallink>
