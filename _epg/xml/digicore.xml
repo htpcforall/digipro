@@ -1023,41 +1023,91 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>TSN 1</title>
-<link>http://cp.dmbshare.net:8000/live/melih/melih/8786.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19387.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 2</title>
-<link>http://cp.dmbshare.net:8000/live/melih/melih/8787.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19386.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 3</title>
-<link>http://cp.dmbshare.net:8000/live/melih/melih/8788.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19385.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>http://cp.dmbshare.net:8000/live/melih/melih/8789.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19384.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 5</title>
-<link>http://cp.dmbshare.net:8000/live/melih/melih/8790.m3u8</link>
+<link>http://live.softiptv.com:9900/live/3month/3month/19383.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
+<item>
+<title>PAC12 NETWORK</title>
+<link>http://xrxs.net/video/live-p12netw-4728.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PAC12 Arizona</title>
+<link>http://xrxs.net/video/live-p12ariz-4728.m3u8
+</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PAC12 Bay Area</title>
+<link>http://xrxs.net/video/live-p12baya-4728.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PAC12 LOS ANGELES</title>
+<link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PAC12 MOUNTAIN</title>
+<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PAC12 OREGON</title>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PAC12 WASHINGTON</title>
+<link>http://xrxs.net/video/live-p12wash-4728.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <!--
 <item>
 <title>3month</title>
