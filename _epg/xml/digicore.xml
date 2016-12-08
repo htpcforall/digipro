@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR red]DOWN FOR MAINTENANCE 12-04-2016[/COLOR][/B]</title>
+<title>[B][COLOR limegreen]Updated 12-08-2016[/COLOR]Still working on some channels[/B]</title>
 <!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
@@ -153,18 +153,19 @@
 <fanart></fanart>
 </item>
 
+<!--
 <item>
 <title>FOX</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19427.m3u8</link>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>CARTOON NETWORK</title>
 <link>http://50.7.141.34:8000/live/mama7/mama7/2604.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
-
+-->
 <!--
 <item>
 <title>CARTOON NETWORK</title>
@@ -181,28 +182,29 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>COMEDY CENTRAL</title>
 <link>http://216.31.255.235/hlsl/1/COMEDY/03.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
+<!--
 <item>
 <title>COMEDY CENTRAL</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19406.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>DISNEY CHANNEL</title>
 <link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>DISNEY CHANNEL</title>
 <link>http://50.7.141.34:8000/live/mama7/mama7/2738.m3u8</link>
@@ -229,13 +231,13 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+-->
 <item>
 <title>DISCOVERY SCIENCE</title>
 <link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxpwqr1433452872.png</thumbnail>
 </item>
--->
+<!--
 <item>
 <title>DISCOVERY SCIENCE</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
@@ -268,7 +270,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>FXX</title>
 <link>http://216.31.255.235/hlsl/4/FXX/03.m3u8</link>
@@ -291,7 +293,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 <item>
-
+<!--
 <item>
 <title>TLC</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/20552.m3u8</link>
@@ -306,7 +308,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>TRUTV</title>
 <link>http://216.31.255.235/hlsl/7/TRUTV/02.m3u8</link>
@@ -343,7 +345,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>TNT</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19398.m3u8</link>
@@ -357,7 +359,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>H2</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
@@ -373,6 +375,7 @@
 <fanart></fanart>
 </item>
 -->
+<!--
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/5811.m3u8<link>
@@ -386,13 +389,13 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+-->
 <item>
 <title>NAT GEO WILD</title>
 <link>http://216.31.255.235/hlsl/1/NATWLD/02.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
--->
+<!--
 <item>
 <title>ANIMAL PLANET</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/20641.m3u8</link>
@@ -407,13 +410,13 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>NICKELODEON</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19400.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
-<!--
+-->
 <item>
 <title>Nicktoons</title>
 <link>ignorame</link>
@@ -421,7 +424,7 @@
 <thumbnail>http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Nicktoons.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>PBS</title>
 <link>http://ignorme</link>
@@ -437,7 +440,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>TBS</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19390.m3u8</link>
