@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR limegreen]Updated 12-08-2016[/COLOR]Still working on some channels[/B]</title>
+<title>[B][COLOR limegreen]Updated 12-08-2016[/COLOR] Still working on some channels[/B]</title>
 <!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
