@@ -189,14 +189,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title>COMEDY CENTRAL 2</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19406.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
-
+<!--
 <item>
 <title>COMEDY CENTRAL 3</title>
 <link>http://free-premium-iptv.ddns.net:9090/load/free123/14.m3u8</link>
@@ -358,21 +351,21 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
-
+-->
 <item>
 <title>HISTORY</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19402.m3u8</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/24.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>H2</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/150px-H2_TV_logo.svg.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
 <link>http://ignorme</link>
@@ -380,11 +373,11 @@
 </thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
--->
-<!--
+
+
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/5811.m3u8<link>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/26.m3u8<link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
