@@ -91,7 +91,13 @@
 <fanart></fanart>
 </item>
 -->
-<!--
+<item>
+<title>A & E</title>
+<link>http://stream-145310.appspot.com/arconaitv.me/ae/</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>A & E</title>
 <link>http://ignorme</link>
@@ -99,7 +105,6 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 <fanart></fanart>
 </item>
--->
 
 <!--
 <item>
@@ -126,7 +131,7 @@
 -->
 <item>
 <title>BRAVO</title>
-<link>http://50.7.141.34:8000/live/mama7/mama7/2709.m3u8</link>
+<link>http://167.114.102.27/live/dNQdGi6cUxL63kyO4rEAaQ/1481269403/582b19f3ef5459a2f139ec69ee2053d0.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -223,14 +228,14 @@
 <link>http://live.softiptv.com:9900/live/3month/3month/20619.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
+<link>http://167.114.102.27/live/xNpcV5VwvA3_AITXa0vqAQ/1481269416/075d66993151c178df1ed9840202d983.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>DISCOVERY SCIENCE</title>
 <link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
