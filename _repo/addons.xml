@@ -52,7 +52,7 @@
 		<import addon="script.module.livestreamer" />  	
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides></provides>
+		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Castaway mod for arconaitv</summary>
