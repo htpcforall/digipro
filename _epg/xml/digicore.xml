@@ -65,14 +65,14 @@
 </item>
 
 <item>
-<title>CBS1</title>
+<title>CBS</title>
 <link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CBS&amp;url=%2Fwww.arconaitv.me%2Fceebees%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>CW1</title>
+<title>CW</title>
 <link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=The+CW&amp;url=%2Fwww.arconaitv.me%2Ftcw%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 <fanart></fanart>
@@ -80,16 +80,13 @@
 
 <item>
 <title>MY9</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CBS&amp;url=%2Fwww.arconaitv.me%2Fceebees%2F&amp;site=arconai&amp;mode=play_special&quot;
-</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CBS&amp;url=%2Fwww.arconaitv.me%2Fceebees%2F&amp;site=arconai&amp;mode=play_special</link>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NBC</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=NBC&amp;url=%2Fwww.arconaitv.me%2Fnnnbsee%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=NBC&amp;url=%2Fwww.arconaitv.me%2Fnnnbsee%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -105,24 +102,21 @@
 
 <item>
 <title>PBS</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=PBS&amp;url=%2Fwww.arconaitv.me%2Fppp%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=PBS&amp;url=%2Fwww.arconaitv.me%2Fppp%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>http://www-tc.pbs.org/wgbh/pages/frontline/press/2301_outreach/PBS_logo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>A & E</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=A%26%23038%3BE&amp;url=%2Fwww.arconaitv.me%2Fae%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=A%26%23038%3BE&amp;url=%2Fwww.arconaitv.me%2Fae%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>AMC</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=AMC&amp;url=%2Fwww.arconaitv.me%2Fam%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=AMC&amp;url=%2Fwww.arconaitv.me%2Fam%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -130,8 +124,7 @@
 <!--
 <item>
 <title>A & E</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%26url%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dA%2526E%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss</jsonrpc>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%26url%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dA%2526E%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -153,8 +146,7 @@
 
 <item>
 <title>ANIMAL PLANET</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Animal+Planet&amp;url=%2Fwww.arconaitv.me%2Fap%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Animal+Planet&amp;url=%2Fwww.arconaitv.me%2Fap%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -162,23 +154,21 @@
 <item>
 <title>BRAVO</title>
 <link>http://ignorame</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=BravoTv&amp;url=%2Fwww.arconaitv.me%2Fbraveotv%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=BravoTv&amp;url=%2Fwww.arconaitv.me%2Fbraveotv%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=BravoTv&amp;url=%2Fwww.arconaitv.me%2Fbraveotv%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=BravoTv&amp;url=%2Fwww.arconaitv.me%2Fbraveotv%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CNBC</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CNBC&amp;url=%2Fwww.arconaitv.me%2Fseenbeesee%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CNBC&amp;url=%2Fwww.arconaitv.me%2Fseenbeesee%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -187,23 +177,21 @@
 <item>
 <title>CNN</title>
 <link></link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CNBC&amp;url=%2Fwww.arconaitv.me%2Fseenbeesee%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CNBC&amp;url=%2Fwww.arconaitv.me%2Fseenbeesee%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.live.streamspro/?url=http%3A%2F%2F216.31.255.235%2Fhlsl%2F1%2FCOMEDY%2F3.m3u8&amp;mode=12&amp;iconimage=http%3A%2F%2Fwww.thelogodb.com%2Fimages%2Fmedia%2Flogo%2Fqxxrrp1476083880.png&quot;</jsonrpc>
+<link>plugin://plugin.video.live.streamspro/?url=http%3A%2F%2F216.31.255.235%2Fhlsl%2F1%2FCOMEDY%2F3.m3u8&amp;mode=12&amp;iconimage=http%3A%2F%2Fwww.thelogodb.com%2Fimages%2Fmedia%2Flogo%2Fqxxrrp1476083880.png</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Discovery+Channel&amp;url=%2Fwww.arconaitv.me%2Fdisco%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Discovery+Channel&amp;url=%2Fwww.arconaitv.me%2Fdisco%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -215,17 +203,21 @@
 </item>
 
 <item>
+<title>DISCOVERY VELOCITY</title>
+<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
+</item>
+
+<item>
 <title>FOX NEWS</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fox+News&amp;url=%2Fwww.arconaitv.me%2Ffn%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fox+News&amp;url=%2Fwww.arconaitv.me%2Ffn%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FX</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fx&amp;url=%2Fwww.arconaitv.me%2Ffx%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fx&amp;url=%2Fwww.arconaitv.me%2Ffx%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -240,8 +232,7 @@
 <!--
 <item>
 <title>HISTORY</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CNBC&amp;url=%2Fwww.arconaitv.me%2Fseenbeesee%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CNBC&amp;url=%2Fwww.arconaitv.me%2Fseenbeesee%2F&amp;site=arconai&amp;mode=play_special</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
@@ -263,8 +254,7 @@
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=National+Geographic&amp;url=%2Fwww.arconaitv.me%2Fng%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=National+Geographic&amp;url=%2Fwww.arconaitv.me%2Fng%2F&amp;site=arconai&amp;mode=play_special</link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -277,40 +267,35 @@
 
 <item>
 <title>NICKELODOEN</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Nickelodeon&amp;url=%2Fwww.arconaitv.me%2Fnickie%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Nickelodeon&amp;url=%2Fwww.arconaitv.me%2Fnickie%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SPIKE</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Spike+Tv&amp;url=%2Fwww.arconaitv.me%2Fpointytv%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Spike+Tv&amp;url=%2Fwww.arconaitv.me%2Fpointytv%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>SYFY</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=SyFy&amp;url=%2Fwww.arconaitv.me%2Fsify%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=SyFy&amp;url=%2Fwww.arconaitv.me%2Fsify%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TBS</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=TBS&amp;url=%2Fwww.arconaitv.me%2Fteabees%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=TBS&amp;url=%2Fwww.arconaitv.me%2Fteabees%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TNT</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=TNTUSA&amp;url=%2Fwww.arconaitv.me%2Fteentee%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=TNTUSA&amp;url=%2Fwww.arconaitv.me%2Fteentee%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -324,16 +309,14 @@
 
 <item>
 <title>USA</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=USA+Network&amp;url=%2Fwww.arconaitv.me%2Fusan%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=USA+Network&amp;url=%2Fwww.arconaitv.me%2Fusan%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>LIFETIME</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Lifetime&amp;url=%2Fwww.arconaitv.me%2Flt%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Lifetime&amp;url=%2Fwww.arconaitv.me%2Flt%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 
@@ -344,11 +327,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
-<item>
-<title>DISCOVERY VELOCITY</title>
-<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
-</item>
+
 
 <item>
 <title>FOOD NETWORK</title>
@@ -490,8 +469,7 @@
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%26url%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%26url%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -687,13 +665,13 @@
 <link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/59.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
-<!--
+
 <item>
 <title>THE WEATHER CHANNEL</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
 </item>
--->
+
 <item>
 <title>NASA</title>
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
@@ -721,7 +699,7 @@
 
 <item> 
 	<title>BBC WORLD NEWS</title>
-	<link>plugin://plugin.video.israelive/?url=3268%3Fmode%3D1%26ignorefilmonguide%3D1%26filmonmethod%3D1&amp;mode=10&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+World+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fnews.bbcimg.co.uk%2Fmedia%2Fimages%2F45482000%2Fjpg%2F_45482922_worldnews512.jpg&amp;description=&amp;displayname=BBC+World+News&amp;categoryid=10359&quot;)</link>
+	<link>plugin://plugin.video.israelive/?url=3268%3Fmode%3D1%26ignorefilmonguide%3D1%26filmonmethod%3D1&amp;mode=10&amp;name=%5BCOLOR+yellow%5D%5BB%5DBBC+World+News%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fnews.bbcimg.co.uk%2Fmedia%2Fimages%2F45482000%2Fjpg%2F_45482922_worldnews512.jpg&amp;description=&amp;displayname=BBC+World+News&amp;categoryid=10359)</link>
 	<thumbnail>https://www.thelogodb.com/images/media/logo/tqrqrq1434039323.png</thumbnail>
 </item>
 
