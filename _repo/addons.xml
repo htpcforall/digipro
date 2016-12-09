@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="digipro.repository" name=" [COLOR blue]Digipro[/COLOR] Repository" version="1.0.0" provider-name="digipro">
+<addon id="repository.digipro" name=" [COLOR blue]Digipro[/COLOR] Repository" version="1.0.0" provider-name="digipro">
     <requires>
         <!--<backwards-compatibility abi="12.0"/>-->
         <import addon="xbmc.addon" version="12.0.0" />
