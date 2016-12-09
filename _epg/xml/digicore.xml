@@ -646,20 +646,14 @@
 
 <item>
 <title>FOX NEWS</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19403.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
-</item>
-
-<item>
-<title>FOX NEWS</title>
-<link>http://188.93.239.20:8012/play/a014</link>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fox+News&amp;url=%2Fwww.arconaitv.me%2Ffn%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>FOX BUSINESS</title>
-<link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/59.m3u8</link>
+<title>FOX NEWS ALT</title>
+<link>http://live.softiptv.com:9900/live/3month/3month/19403.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
 </item>
 
@@ -679,12 +673,6 @@
 <item> 
 <title>ALJAZEERA</title>
 <link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
-</item>
-
-<item> 
-<title>ALJAZEERA ALT</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/17405.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qvpqrr1477951703.png</thumbnail>
 </item>
 
@@ -748,7 +736,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 
 <item>
 <title>CINEMAX EAST</title>
@@ -798,7 +786,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>SHOWTIME EAST</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8480.m3u8</link>
@@ -833,7 +821,7 @@
 <link>http://51.255.70.112:8000/live/cbrown/cbrown/1684.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qussys1467823036.png</thumbnail>
 </item>
--->
+
 <item>
 <title>STARZ EAST</title>
 <link>http://iptvfree1.com:6969/live/13/www.iptvrestream.net/3488.m3u8</link>
@@ -848,13 +836,15 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
+
 <item>
 <title>STARZ WEST</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
 <title>STARZ EDGE</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png</thumbnail>
