@@ -212,6 +212,12 @@
 </item>
 
 <item>
+<title>DISCOVERY SCIENCE</title>
+<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxpwqr1433452872.png</thumbnail>
+</item>
+
+<item>
 <title>FOX NEWS</title>
 <link>http://ignorme</link>
 <jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Fox+News&amp;url=%2Fwww.arconaitv.me%2Ffn%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
@@ -226,6 +232,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>FXX</title>
+<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
 <!--
 <item>
 <title>HISTORY</title>
@@ -235,12 +249,33 @@
 <fanart></fanart>
 </item>
 -->
+
+<item>
+<title>HISTORY</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/24.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
+<fanart></fanart>
+</item>
+
+<item>
+<title>H2</title>
+<link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/150px-H2_TV_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
 <link>http://ignorme</link>
 <jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=National+Geographic&amp;url=%2Fwww.arconaitv.me%2Fng%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
 </thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>NAT GEO WILD</title>
+<link>http://216.31.255.235/hlsl/1/NATWLD/02.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
 
 <item>
@@ -267,114 +302,44 @@
 <fanart></fanart>
 </item>
 
-
-<!--
 <item>
-<title>BRAVO</title>
-<link>http://167.114.102.27/live/dNQdGi6cUxL63kyO4rEAaQ/1481269403/582b19f3ef5459a2f139ec69ee2053d0.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>E!</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/20616.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
-</item>
-<!--
-<item>
-<title>E!</title>
+<title>TBS</title>
 <link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dE%2521%2bEntertainment%26url%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dE%2521%2bEntertainment%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26definedIn%3dtvone1.tv.cfg</jsonrpc>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
+<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=TBS&amp;url=%2Fwww.arconaitv.me%2Fteabees%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
+<title>TNT</title>
 <link>http://ignorme</link>
-<title>FOX</title>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2b5%2bNY%26url%3dmpd%253A%252F%252F938230615eafe3e2adf33332d1be3940.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dFOX%2b5%2bNY%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F938230615eafe3e2adf33332d1be3940.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!--
-<item>
-<title>FOX</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19427.m3u8</link>
+<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=TNTUSA&amp;url=%2Fwww.arconaitv.me%2Fteentee%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>CARTOON NETWORK</title>
-<link>http://50.7.141.34:8000/live/mama7/mama7/2604.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+<title>TRUTV</title>
+<link>http://216.31.255.235/hlsl/7/TRUTV/02.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
+<fanart></fanart>
 </item>
--->
-<!--
 
-<!--
 <item>
-<title>COMEDY CENTRAL</title>
+<title>USA</title>
 <link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dComedy%2bCentral%26url%3dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dComedy%2bCentral%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
--->
-<item>
-<title>COMEDY CENTRAL</title>
-<link>http://216.31.255.235/hlsl/1/COMEDY/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
-<title>COMEDY CENTRAL 3</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/14.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=USA+Network&amp;url=%2Fwww.arconaitv.me%2Fusan%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>DISNEY CHANNEL</title>
-<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
-<title>DISNEY CHANNEL</title>
-<link>http://50.7.141.34:8000/live/mama7/mama7/2738.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
-<fanart></fanart>
+<title>LIFETIME</title>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=Lifetime&amp;url=%2Fwww.arconaitv.me%2Flt%2F&amp;site=arconai&amp;mode=play_special&quot;</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 
-<item>
-<title>DISNEY JR</title>
-<link>http://50.7.141.34:8000/live/mama7/mama7/20588.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>DISNEY XD </title>
-<link>http://live.softiptv.com:9900/live/3month/3month/20619.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
-</item>
--->
-<item>
-<title>DISCOVERY CHANNEL</title>
-<link>http://167.114.102.27/live/xNpcV5VwvA3_AITXa0vqAQ/1481269416/075d66993151c178df1ed9840202d983.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>DISCOVERY SCIENCE</title>
-<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/wxpwqr1433452872.png</thumbnail>
-</item>
 <!--
 <item>
 <title>DISCOVERY SCIENCE</title>
@@ -409,22 +374,76 @@
 <fanart></fanart>
 </item>
 -->
-<item>
-<title>FXX</title>
-<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
+
 <!--
 <item>
-<title>LIFETIME</title>
-<link>http://ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dLifetime%26url%3dmpd%253A%252F%252F171879baa092ef14d5ec8f401aeaffcd.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dLifetime%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F171879baa092ef14d5ec8f401aeaffcd.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
-<thumbnail>http://2.bp.blogspot.com/-IYhHHOdqGj8/T6GBRZEEoII/AAAAAAAAFNA/PqkQJATLdFU/s1600/Lifetime+logo+2008.png</thumbnail>
-<fanart>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</fanart>
+<title>BRAVO</title>
+<link>http://167.114.102.27/live/dNQdGi6cUxL63kyO4rEAaQ/1481269403/582b19f3ef5459a2f139ec69ee2053d0.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>E!</title>
+<link>http://live.softiptv.com:9900/live/3month/3month/20616.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png</thumbnail>
+</item>
+
+<item>
+<title>FOX</title>
+<link>http://live.softiptv.com:9900/live/3month/3month/19427.m3u8</link>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CARTOON NETWORK</title>
+<link>http://50.7.141.34:8000/live/mama7/mama7/2604.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+</item>
+
+<item>
+<title>COMEDY CENTRAL</title>
+<link>http://216.31.255.235/hlsl/1/COMEDY/03.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>COMEDY CENTRAL 3</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/free123/14.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>http://50.7.141.34:8000/live/mama7/mama7/2738.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY JR</title>
+<link>http://50.7.141.34:8000/live/mama7/mama7/20588.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY XD </title>
+<link>http://live.softiptv.com:9900/live/3month/3month/20619.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png</thumbnail>
 </item>
 -->
+<!--
+
 <item>
 <title>LIFETIME</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8505.m3u8</link>
@@ -447,15 +466,8 @@
 <fanart></fanart>
 </item>
 -->
-<item>
-<title>TRUTV</title>
-<link>http://216.31.255.235/hlsl/7/TRUTV/02.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
-<fanart></fanart>
-</item>
-<!--
 
--->
+<!--
 <item>
 <title>SPIKE</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/12594.m3u8</link>
@@ -469,8 +481,6 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
 <fanart></fanart>
 </item>
-<!--
-
 
 <item>
 <title>TNT</title>
@@ -479,19 +489,7 @@
 <fanart></fanart>
 </item>
 -->
-<item>
-<title>HISTORY</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/24.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
-<fanart></fanart>
-</item>
 
-<item>
-<title>H2</title>
-<link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/150px-H2_TV_logo.svg.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
@@ -516,11 +514,7 @@
 <fanart></fanart>
 </item>
 -->
-<item>
-<title>NAT GEO WILD</title>
-<link>http://216.31.255.235/hlsl/1/NATWLD/02.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
-</item>
+
 <!--
 <item>
 <title>ANIMAL PLANET</title>
