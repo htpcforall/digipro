@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR limegreen]Updated 12-09-2016[/COLOR] Still working on some channels[/B]</title>
+<title>[B][COLOR limegreen]NEW UPDATE - 12-09-2016[/COLOR] NEW CHANNEL LIST. ENJOY.[/B]</title>
 <!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
@@ -320,6 +320,27 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png</thumbnail>
 </item>
 
+<item>
+<title>ID</title>
+<link>http://216.31.255.235/hlsl/8/INVDSC/02.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
+</item>
+
+<item>
+<title>UNIVERSAL CHANNEL</title>
+<link>http://216.31.255.235/hlsl/12/UNIVERSAL/02.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png</thumbnail>
+</item>
+
+<item>
+<title>POKER CENTRAL</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/pkercntrl.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
 <!--
 <item>
 <title>DISCOVERY SCIENCE</title>
@@ -384,12 +405,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>COMEDY CENTRAL 3</title>
-<link>http://free-premium-iptv.ddns.net:9090/load/free123/14.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>DISNEY CHANNEL</title>
@@ -464,7 +479,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 
 
 <item>
@@ -511,7 +526,7 @@
 <link>http://live.softiptv.com:9900/live/3month/3month/19400.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
--->
+
 <item>
 <title>Nicktoons</title>
 <link>ignorame</link>
@@ -552,12 +567,6 @@
 </item>
 
 <item>
-<title>ID</title>
-<link>http://216.31.255.235/hlsl/8/INVDSC/02.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
-</item>
--->
-<item>
 <title>USA NETWORK</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8797.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
@@ -569,19 +578,7 @@
 <link>http://live.softiptv.com:9900/live/3month/3month/17385.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 </item>
-
-<item>
-<title>UNIVERSAL CHANNEL</title>
-<link>http://216.31.255.235/hlsl/12/UNIVERSAL/02.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png</thumbnail>
-</item>
-
-<item>
-<title>POKER CENTRAL</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/pkercntrl.png</thumbnail>
-<fanart></fanart>
-</item>
+-->
 
 <!--NEWS-->
 
@@ -610,14 +607,14 @@
 </item>
 
 <item>
-<title>CBSN</title>
+<title>CBSN ALT1</title>
 <link>https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/index_4000_av-p.m3u8?sd=10&rebase=o</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>CBSN</title>
+<title>CBSN ALT2</title>
 <link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png</thumbnail>
 <fanart></fanart>
