@@ -7,7 +7,7 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>ABC</title>
 <link>http://ilv12.oedg.ustvnow.com/ilv01/mp4:2B76BWHTMUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6ed731c234c4bb4892ab403fc6ef95bd5475b06f18b9d280f8ad5bfd72a99</link>
@@ -55,17 +55,18 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
+-->
 
-<!--
 <item>
 <title>ABC</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19412.m3u8</link>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=ABC&amp;url=%2Fwww.arconaitv.me%2Fabcde%2F&amp;site=arconai&amp;mode=play_special</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
--->
 
-<!--
+
+
 <item>
 <title>CW</title>
 <link>http://ignorme</link>
@@ -93,11 +94,12 @@
 -->
 <item>
 <title>A & E</title>
-<link>http://stream-145310.appspot.com/arconaitv.me/ae/</link>
+<link>http://ignorme</link>
+<jsonrpc>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=A%26%23038%3BE&amp;url=%2Fwww.arconaitv.me%2Fae%2F&amp;site=arconai&amp;mode=play_special</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>A & E</title>
 <link>http://ignorme</link>
