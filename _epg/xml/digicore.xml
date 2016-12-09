@@ -979,28 +979,6 @@
 <link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/514.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png</thumbnail>
 </item>
-#EXTINF:-1,USA:TSN 5
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1393.ts
-#EXTINF:-1,USA:TSN 4
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1394.ts
-#EXTINF:-1,USA:TSN 3
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1395.ts
-#EXTINF:-1,USA:TSN 2
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1396.ts
-#EXTINF:-1,USA:TSN 1
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1397.ts
-#EXTINF:-1,USA:SPORT NET 360 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1398.ts
-#EXTINF:-1,USA:FOX SPORT 2 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1399.ts
-#EXTINF:-1,USA:FOX SPORT 1 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1400.ts
-#EXTINF:-1,USA:ESPNU HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1401.ts
-#EXTINF:-1,USA:ESPN
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1402.ts
-#EXTINF:-1,USA:BEIN SPORT USA
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 
 <item>
 <title>FS2</title>
@@ -1150,21 +1128,21 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 
 <item>
 <title>TSN 1</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8786.m3u8</link>
+<link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1397.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 2</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8787.m3u8</link>
+<link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1396.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TSN 3</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19385.m3u8</link>
+<link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1395.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png</thumbnail>
 </item>
 
@@ -1181,7 +1159,22 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
 <fanart></fanart>
 </item>
-
+#EXTINF:-1,USA:TSN 5
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1393.ts
+#EXTINF:-1,USA:TSN 4
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1394.ts
+#EXTINF:-1,USA:SPORT NET 360 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1398.ts
+#EXTINF:-1,USA:FOX SPORT 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1399.ts
+#EXTINF:-1,USA:FOX SPORT 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1400.ts
+#EXTINF:-1,USA:ESPNU HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1401.ts
+#EXTINF:-1,USA:ESPN
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1402.ts
+#EXTINF:-1,USA:BEIN SPORT USA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <item>
 <title>PAC12 NETWORK</title>
 <link>http://xrxs.net/video/live-p12netw-4728.m3u8</link>
