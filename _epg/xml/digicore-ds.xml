@@ -26,7 +26,7 @@
 
 <item><title>[B][COLOR=grey]N[/COLOR][COLOR=blue]FL[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/NFL.png&amp;mode=1&amp;name=[B][COLOR=grey]N[/COLOR][COLOR=blue]FL[/COLOR][/B]&amp;url=nfl&quot;,return)</jsonrpc>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/NFL.png&amp;mode=1&amp;name=[B][COLOR=grey]N[/COLOR][COLOR=blue]FL[/COLOR][/B]&amp;url=nfl</jsonrpc>
 	<thumbnail>http://dragonstr.com/new_ds/images/NFL.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
