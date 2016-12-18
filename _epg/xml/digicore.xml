@@ -1262,15 +1262,15 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
+-->
 
-<!--
 <item>
 <title>[B]DS3[/B]</title>
 <link>http://ignoreme.com</link>
-<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go&Connection= keep-alive&Upgrade-Insecure-Requests= 1&Accept= text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&DNT= 1&Accept-Encoding= gzip, deflate, sdch&Accept-Language= en-US,en;q=0.8|User-Agent= Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</externallink>
+<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_go|User-Agent=00:11:6c:00:10:dd</externallink>
 <thumbnail></thumbnail>
 </item>
--->
+
 
 <!-- TEST -->
 <!--
