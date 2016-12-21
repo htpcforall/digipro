@@ -1,0 +1,633 @@
+http://51.254.197.40:25461/live/andy1/andy1/5754.ts
+
+#EXTM3U
+#EXTINF:-1,Sky Sports News
+http://51.255.70.112:8000/live/Lewis/Lewis/1698.ts
+#EXTINF:-1,Sky Sports F1 UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1696.ts
+#EXTINF:-1,Sky Sports Box Office UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1695.ts
+#EXTINF:-1,SkySpBoxOff (PPV Events Only)
+http://51.255.70.112:8000/live/Lewis/Lewis/2328.ts
+#EXTINF:-1,Sky Sports 4 UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1691.ts
+#EXTINF:-1,Sky Sports 3 UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1689.ts
+#EXTINF:-1,Sky Sports 1 UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1685.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/724.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/725.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/726.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/727.ts
+#EXTINF:-1,Sky Sports 4 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/728.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/729.ts
+#EXTINF:-1,BT Sport 1 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/733.ts
+#EXTINF:-1,BT Sport 2 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/732.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://51.255.70.112:8000/live/Lewis/Lewis/731.ts
+#EXTINF:-1,Premier Sports
+http://51.255.70.112:8000/live/Lewis/Lewis/1494.ts
+#EXTINF:-1,Premier HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2313.ts
+#EXTINF:-1,Premier Sports HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2314.ts
+#EXTINF:-1,Racing UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1892.ts
+#EXTINF:-1,Racing UK HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2316.ts
+#EXTINF:-1,At The Races
+http://51.255.70.112:8000/live/Lewis/Lewis/1891.ts
+#EXTINF:-1,BoxNation
+http://51.255.70.112:8000/live/Lewis/Lewis/1842.ts
+#EXTINF:-1,MUTV
+http://51.255.70.112:8000/live/Lewis/Lewis/719.ts
+#EXTINF:-1,Chelsea TV
+http://51.255.70.112:8000/live/Lewis/Lewis/723.ts
+#EXTINF:-1,BT Sports Extra
+http://51.255.70.112:8000/live/Lewis/Lewis/1914.ts
+#EXTINF:-1,BT Sports 1
+http://51.255.70.112:8000/live/Lewis/Lewis/1980.ts
+#EXTINF:-1,BT Sports 2
+http://51.255.70.112:8000/live/Lewis/Lewis/1981.ts
+#EXTINF:-1,BT Sports 3
+http://51.255.70.112:8000/live/Lewis/Lewis/1992.ts
+#EXTINF:-1,EuroSports 1
+http://51.255.70.112:8000/live/Lewis/Lewis/722.ts
+#EXTINF:-1,Eir Sport 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2183.ts
+#EXTINF:-1,Eir Sport 2
+http://51.255.70.112:8000/live/Lewis/Lewis/2182.ts
+#EXTINF:-1,Motors TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2015.ts
+#EXTINF:-1,TCM 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2335.ts
+#EXTINF:-1,Sky Movies Sci-Fi & Horror UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1682.ts
+#EXTINF:-1,Sky Movies Sci-Fi & Horror HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1683.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1681.ts
+#EXTINF:-1,Sky Movies Greats
+http://51.255.70.112:8000/live/Lewis/Lewis/1679.ts
+#EXTINF:-1,Sky Movies Family UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1677.ts
+#EXTINF:-1,Sky Movies Family HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1678.ts
+#EXTINF:-1,Sky Movies Drama & Romance HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1676.ts
+#EXTINF:-1,Sky Movies Disney UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1674.ts
+#EXTINF:-1,Sky Movies Disney HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1675.ts
+#EXTINF:-1,Sky Movies Crime & Thriller HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1673.ts
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://51.255.70.112:8000/live/Lewis/Lewis/1672.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1671.ts
+#EXTINF:-1,Sky Movies Action & Adventure HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1670.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://51.255.70.112:8000/live/Lewis/Lewis/1669.ts
+#EXTINF:-1,Showcase
+http://51.255.70.112:8000/live/Lewis/Lewis/2325.ts
+#EXTINF:-1,Sky1 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2327.ts
+#EXTINF:-1,Film4
+http://51.255.70.112:8000/live/Lewis/Lewis/1766.ts
+#EXTINF:-1,Film4 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2257.ts
+#EXTINF:-1,Movies 4 Men
+http://51.255.70.112:8000/live/Lewis/Lewis/1765.ts
+#EXTINF:-1,mov4men 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2293.ts
+#EXTINF:-1,Movies 24
+http://51.255.70.112:8000/live/Lewis/Lewis/2294.ts
+#EXTINF:-1,True Movies1
+http://51.255.70.112:8000/live/Lewis/Lewis/1760.ts
+#EXTINF:-1,Universal
+http://51.255.70.112:8000/live/Lewis/Lewis/2004.ts
+#EXTINF:-1,CBS Reality
+http://51.255.70.112:8000/live/Lewis/Lewis/1913.ts
+#EXTINF:-1,CBS Drama
+http://51.255.70.112:8000/live/Lewis/Lewis/1912.ts
+#EXTINF:-1,CBS Action
+http://51.255.70.112:8000/live/Lewis/Lewis/1911.ts
+#EXTINF:-1,BBC 1 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1513.ts
+#EXTINF:-1,BBC One
+http://51.255.70.112:8000/live/Lewis/Lewis/755.ts
+#EXTINF:-1,BBC Two
+http://51.255.70.112:8000/live/Lewis/Lewis/756.ts
+#EXTINF:-1,BBC Two HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1478.ts
+#EXTINF:-1,BBC  World News
+http://51.255.70.112:8000/live/Lewis/Lewis/757.ts
+#EXTINF:-1,BBC Four
+http://51.255.70.112:8000/live/Lewis/Lewis/758.ts
+#EXTINF:-1,Channel 4
+http://51.255.70.112:8000/live/Lewis/Lewis/763.ts
+#EXTINF:-1,Channel 4 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2225.ts
+#EXTINF:-1,Channel 5 UK
+http://51.255.70.112:8000/live/Lewis/Lewis/764.ts
+#EXTINF:-1,Five
+http://51.255.70.112:8000/live/Lewis/Lewis/2025.ts
+#EXTINF:-1,ITV 2
+http://51.255.70.112:8000/live/Lewis/Lewis/760.ts
+#EXTINF:-1,ITV2 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2276.ts
+#EXTINF:-1,ITV 3
+http://51.255.70.112:8000/live/Lewis/Lewis/761.ts
+#EXTINF:-1,ITV 3  1
+http://51.255.70.112:8000/live/Lewis/Lewis/2271.ts
+#EXTINF:-1,ITVBe 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2280.ts
+#EXTINF:-1,5STAR 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2204.ts
+#EXTINF:-1,5 Star
+http://51.255.70.112:8000/live/Lewis/Lewis/770.ts
+#EXTINF:-1,RTE Two
+http://51.255.70.112:8000/live/Lewis/Lewis/1498.ts
+#EXTINF:-1,RT2
+http://51.255.70.112:8000/live/Lewis/Lewis/1485.ts
+#EXTINF:-1,UTV HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2344.ts
+#EXTINF:-1,UTV Ireland
+http://51.255.70.112:8000/live/Lewis/Lewis/2345.ts
+#EXTINF:-1,Dave
+http://51.255.70.112:8000/live/Lewis/Lewis/1497.ts
+#EXTINF:-1,More4
+http://51.255.70.112:8000/live/Lewis/Lewis/778.ts
+#EXTINF:-1,Syfy UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1764.ts
+#EXTINF:-1,ITV Be
+http://51.255.70.112:8000/live/Lewis/Lewis/2018.ts
+#EXTINF:-1,E4
+http://51.255.70.112:8000/live/Lewis/Lewis/1816.ts
+#EXTINF:-1,Sky One
+http://51.255.70.112:8000/live/Lewis/Lewis/1823.ts
+#EXTINF:-1,Sky Living
+http://51.255.70.112:8000/live/Lewis/Lewis/1771.ts
+#EXTINF:-1,Sky Alibi
+http://51.255.70.112:8000/live/Lewis/Lewis/768.ts
+#EXTINF:-1,Sky Art 1
+http://51.255.70.112:8000/live/Lewis/Lewis/1772.ts
+#EXTINF:-1,Sky 5 USA
+http://51.255.70.112:8000/live/Lewis/Lewis/769.ts
+#EXTINF:-1,Pick TV
+http://51.255.70.112:8000/live/Lewis/Lewis/1821.ts
+#EXTINF:-1,ComedyCent 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2241.ts
+#EXTINF:-1,ComedyXtra 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2242.ts
+#EXTINF:-1,Disney Chnl
+http://51.255.70.112:8000/live/Lewis/Lewis/2249.ts
+#EXTINF:-1,Disney Chnl 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2250.ts
+#EXTINF:-1,Comedy Central
+http://51.255.70.112:8000/live/Lewis/Lewis/1817.ts
+#EXTINF:-1,CN
+http://51.255.70.112:8000/live/Lewis/Lewis/1859.ts
+#EXTINF:-1,Cartoon Network HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1953.ts
+#EXTINF:-1,Cartoon Network
+http://51.255.70.112:8000/live/Lewis/Lewis/1825.ts
+#EXTINF:-1,Boomerang
+http://51.255.70.112:8000/live/Lewis/Lewis/1826.ts
+#EXTINF:-1,Nick Jr 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2304.ts
+#EXTINF:-1,Nick Jnr Peppa
+http://51.255.70.112:8000/live/Lewis/Lewis/2303.ts
+#EXTINF:-1,Nick Junior
+http://51.255.70.112:8000/live/Lewis/Lewis/2013.ts
+#EXTINF:-1,Nickelodeon
+http://51.255.70.112:8000/live/Lewis/Lewis/1828.ts
+#EXTINF:-1,Baby TV
+http://51.255.70.112:8000/live/Lewis/Lewis/1829.ts
+#EXTINF:-1,POP
+http://51.255.70.112:8000/live/Lewis/Lewis/2311.ts
+#EXTINF:-1,POP 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2312.ts
+#EXTINF:-1,Kix
+http://51.255.70.112:8000/live/Lewis/Lewis/2283.ts
+#EXTINF:-1,Kix 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2284.ts
+#EXTINF:-1,Tiny Pop
+http://51.255.70.112:8000/live/Lewis/Lewis/1763.ts
+#EXTINF:-1,Tiny Pop 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2337.ts
+#EXTINF:-1,Disney XD
+http://51.255.70.112:8000/live/Lewis/Lewis/737.ts
+#EXTINF:-1,Disney XD 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2251.ts
+#EXTINF:-1,Disney Junior
+http://51.255.70.112:8000/live/Lewis/Lewis/738.ts
+#EXTINF:-1,Nat Geo 1hr
+http://51.255.70.112:8000/live/Lewis/Lewis/2302.ts
+#EXTINF:-1,National Geographic
+http://51.255.70.112:8000/live/Lewis/Lewis/1483.ts
+#EXTINF:-1,Nat Geo Wild
+http://51.255.70.112:8000/live/Lewis/Lewis/1482.ts
+#EXTINF:-1,Discovery Channel
+http://51.255.70.112:8000/live/Lewis/Lewis/780.ts
+#EXTINF:-1,Discovery
+http://51.255.70.112:8000/live/Lewis/Lewis/741.ts
+#EXTINF:-1,Discovery 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2248.ts
+#EXTINF:-1,Discovery Shed
+http://51.255.70.112:8000/live/Lewis/Lewis/2027.ts
+#EXTINF:-1,Discovery Turbo
+http://51.255.70.112:8000/live/Lewis/Lewis/1818.ts
+#EXTINF:-1,Disc.Sci 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2247.ts
+#EXTINF:-1,History US
+http://51.255.70.112:8000/live/Lewis/Lewis/1865.ts
+#EXTINF:-1,Animal Planet
+http://51.255.70.112:8000/live/Lewis/Lewis/781.ts
+#EXTINF:-1,History Channel
+http://51.255.70.112:8000/live/Lewis/Lewis/2020.ts
+#EXTINF:-1,tru TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2350.ts
+#EXTINF:-1,True Crime 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2342.ts
+#EXTINF:-1,MTV 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2295.ts
+#EXTINF:-1,MTV 90s
+http://51.255.70.112:8000/live/Lewis/Lewis/2296.ts
+#EXTINF:-1,MTV CLASSIC
+http://51.255.70.112:8000/live/Lewis/Lewis/2297.ts
+#EXTINF:-1,MTV Music
+http://51.255.70.112:8000/live/Lewis/Lewis/2298.ts
+#EXTINF:-1,MTV ROCKS
+http://51.255.70.112:8000/live/Lewis/Lewis/2300.ts
+#EXTINF:-1,MTV Dance
+http://51.255.70.112:8000/live/Lewis/Lewis/734.ts
+#EXTINF:-1,MTV Base
+http://51.255.70.112:8000/live/Lewis/Lewis/735.ts
+#EXTINF:-1,MTV
+http://51.255.70.112:8000/live/Lewis/Lewis/736.ts
+#EXTINF:-1,MTV Hits
+http://51.255.70.112:8000/live/Lewis/Lewis/2014.ts
+#EXTINF:-1,VH1
+http://51.255.70.112:8000/live/Lewis/Lewis/774.ts
+#EXTINF:-1,VIVA
+http://51.255.70.112:8000/live/Lewis/Lewis/2347.ts
+#EXTINF:-1,The Box
+http://51.255.70.112:8000/live/Lewis/Lewis/2336.ts
+#EXTINF:-1,The Vault
+http://51.255.70.112:8000/live/Lewis/Lewis/2008.ts
+#EXTINF:-1,Flava
+http://51.255.70.112:8000/live/Lewis/Lewis/2024.ts
+#EXTINF:-1,Channel AKA
+http://51.255.70.112:8000/live/Lewis/Lewis/2230.ts
+#EXTINF:-1,Channel i
+http://51.255.70.112:8000/live/Lewis/Lewis/2231.ts
+#EXTINF:-1,Chart Show TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2232.ts
+#EXTINF:-1,Chartshw Dnce
+http://51.255.70.112:8000/live/Lewis/Lewis/2233.ts
+#EXTINF:-1,Smash Hits!
+http://51.255.70.112:8000/live/Lewis/Lewis/2329.ts
+#EXTINF:-1,Scuzz
+http://51.255.70.112:8000/live/Lewis/Lewis/2323.ts
+#EXTINF:-1,Vintage TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2346.ts
+#EXTINF:-1,KISS
+http://51.255.70.112:8000/live/Lewis/Lewis/2282.ts
+#EXTINF:-1,Magic
+http://51.255.70.112:8000/live/Lewis/Lewis/2291.ts
+#EXTINF:-1,Flow TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2258.ts
+#EXTINF:-1,NOW Music
+http://51.255.70.112:8000/live/Lewis/Lewis/2308.ts
+#EXTINF:-1,Kerrang!
+http://51.255.70.112:8000/live/Lewis/Lewis/2281.ts
+#EXTINF:-1,Starz TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2330.ts
+#EXTINF:-1,TLC 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2338.ts
+#EXTINF:-1,CBSN HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1945.ts
+#EXTINF:-1,CBS Reality 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2222.ts
+#EXTINF:-1,E4 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2252.ts
+#EXTINF:-1,4seven
+http://51.255.70.112:8000/live/Lewis/Lewis/2202.ts
+#EXTINF:-1,alibi 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2205.ts
+#EXTINF:-1,BEN
+http://51.255.70.112:8000/live/Lewis/Lewis/2213.ts
+#EXTINF:-1,BET:BlackEntTv
+http://51.255.70.112:8000/live/Lewis/Lewis/2214.ts
+#EXTINF:-1,Bike
+http://51.255.70.112:8000/live/Lewis/Lewis/2215.ts
+#EXTINF:-1,Blaze
+http://51.255.70.112:8000/live/Lewis/Lewis/2216.ts
+#EXTINF:-1,Box Upfront
+http://51.255.70.112:8000/live/Lewis/Lewis/2219.ts
+#EXTINF:-1,C4 l
+http://51.255.70.112:8000/live/Lewis/Lewis/2221.ts
+#EXTINF:-1,Challenge
+http://51.255.70.112:8000/live/Lewis/Lewis/2223.ts
+#EXTINF:-1,Challenge 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2224.ts
+#EXTINF:-1,Dave ja vu
+http://51.255.70.112:8000/live/Lewis/Lewis/2245.ts
+#EXTINF:-1,Forces TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2259.ts
+#EXTINF:-1,More4 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2292.ts
+#EXTINF:-1,Lifetime 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2285.ts
+#EXTINF:-1,Irish TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2270.ts
+#EXTINF:-1,RT. News Now
+http://51.255.70.112:8000/live/Lewis/Lewis/2320.ts
+#EXTINF:-1,Notts TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2307.ts
+#EXTINF:-1,QUEST 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2315.ts
+#EXTINF:-1,STV
+http://51.255.70.112:8000/live/Lewis/Lewis/2331.ts
+#EXTINF:-1,STV HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2332.ts
+#EXTINF:-1,Syfy 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2333.ts
+#EXTINF:-1,SYFY HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1969.ts
+#EXTINF:-1,Spike
+http://51.255.70.112:8000/live/Lewis/Lewis/2009.ts
+#EXTINF:-1,True Entertainment
+http://51.255.70.112:8000/live/Lewis/Lewis/2006.ts
+#EXTINF:-1,Drama
+http://51.255.70.112:8000/live/Lewis/Lewis/1770.ts
+#EXTINF:-1,True Drama
+http://51.255.70.112:8000/live/Lewis/Lewis/1762.ts
+#EXTINF:-1,Gold
+http://51.255.70.112:8000/live/Lewis/Lewis/1773.ts
+#EXTINF:-1,GOLD 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2261.ts
+#EXTINF:-1,ID 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2269.ts
+#EXTINF:-1,ID
+http://51.255.70.112:8000/live/Lewis/Lewis/1769.ts
+#EXTINF:-1,Quest
+http://51.255.70.112:8000/live/Lewis/Lewis/1774.ts
+#EXTINF:-1,TLC UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1822.ts
+#EXTINF:-1,3e
+http://51.255.70.112:8000/live/Lewis/Lewis/1824.ts
+#EXTINF:-1,Lifetime
+http://51.255.70.112:8000/live/Lewis/Lewis/2016.ts
+#EXTINF:-1,YESTERDAY 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2349.ts
+#EXTINF:-1,Travel Channel
+http://51.255.70.112:8000/live/Lewis/Lewis/2007.ts
+#EXTINF:-1,History 1 hour
+http://51.255.70.112:8000/live/Lewis/Lewis/2263.ts
+#EXTINF:-1,Home & Leisure
+http://51.255.70.112:8000/live/Lewis/Lewis/2264.ts
+#EXTINF:-1,Home 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2265.ts
+#EXTINF:-1,Horse & Country
+http://51.255.70.112:8000/live/Lewis/Lewis/2268.ts
+#EXTINF:-1,BBC News
+http://51.255.70.112:8000/live/Lewis/Lewis/2210.ts
+#EXTINF:-1,Sky News Arabia
+http://51.255.70.112:8000/live/Lewis/Lewis/2072.ts
+#EXTINF:-1,London Live
+http://51.255.70.112:8000/live/Lewis/Lewis/2286.ts
+#EXTINF:-1,Made In Cardiff
+http://51.255.70.112:8000/live/Lewis/Lewis/2288.ts
+#EXTINF:-1,Made In Tn&Wr
+http://51.255.70.112:8000/live/Lewis/Lewis/2290.ts
+#EXTINF:-1,Made In Bristol
+http://51.255.70.112:8000/live/Lewis/Lewis/2287.ts
+#EXTINF:-1,Good Food
+http://51.255.70.112:8000/live/Lewis/Lewis/2021.ts
+#EXTINF:-1,E! UK
+http://51.255.70.112:8000/live/Lewis/Lewis/1819.ts
+#EXTINF:-1,Sport Klub 3
+http://51.255.70.112:8000/live/Lewis/Lewis/2187.ts
+#EXTINF:-1,Sport Klub 2
+http://51.255.70.112:8000/live/Lewis/Lewis/2188.ts
+#EXTINF:-1,Sport Klub 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2189.ts
+#EXTINF:-1,Real Madrid
+http://51.255.70.112:8000/live/Lewis/Lewis/2040.ts
+#EXTINF:-1,OSN Alkass Sport 5
+http://51.255.70.112:8000/live/Lewis/Lewis/2113.ts
+#EXTINF:-1,OSN Alkass Sport 4
+http://51.255.70.112:8000/live/Lewis/Lewis/2114.ts
+#EXTINF:-1,OSN Alkass Sport 2
+http://51.255.70.112:8000/live/Lewis/Lewis/2116.ts
+#EXTINF:-1,OSN Alkass Sport 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2117.ts
+#EXTINF:-1,Ginx eSports TV (UK)
+http://51.255.70.112:8000/live/Lewis/Lewis/2180.ts
+#EXTINF:-1,GEO Super
+http://51.255.70.112:8000/live/Lewis/Lewis/2181.ts
+#EXTINF:-1,Digi Sport 3
+http://51.255.70.112:8000/live/Lewis/Lewis/2184.ts
+#EXTINF:-1,Digi Sport 2
+http://51.255.70.112:8000/live/Lewis/Lewis/2185.ts
+#EXTINF:-1,BT Sport Extra 6
+http://51.255.70.112:8000/live/Lewis/Lewis/2195.ts
+#EXTINF:-1,BT Sport Extra 4
+http://51.255.70.112:8000/live/Lewis/Lewis/2197.ts
+#EXTINF:-1,BT Sport Extra 3
+http://51.255.70.112:8000/live/Lewis/Lewis/2198.ts
+#EXTINF:-1,Fox Sport 2 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1738.ts
+#EXTINF:-1,Fox Sport 1 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1737.ts
+#EXTINF:-1,LIG TV3
+http://51.255.70.112:8000/live/Lewis/Lewis/2043.ts
+#EXTINF:-1,LIG TV2
+http://51.255.70.112:8000/live/Lewis/Lewis/2044.ts
+#EXTINF:-1,LIG TV1
+http://51.255.70.112:8000/live/Lewis/Lewis/2045.ts
+#EXTINF:-1,US SPORTSNET ONTARIO
+http://51.255.70.112:8000/live/Lewis/Lewis/1974.ts
+#EXTINF:-1,TSN 2
+http://51.255.70.112:8000/live/Lewis/Lewis/1743.ts
+#EXTINF:-1,NBC
+http://51.255.70.112:8000/live/Lewis/Lewis/1855.ts
+#EXTINF:-1,NBA TV
+http://51.255.70.112:8000/live/Lewis/Lewis/2042.ts
+#EXTINF:-1,LIG TV4
+http://51.255.70.112:8000/live/Lewis/Lewis/2046.ts
+#EXTINF:-1,BEIN Sports 1 HD France
+http://51.255.70.112:8000/live/Lewis/Lewis/1222.ts
+#EXTINF:-1,BEIN Sports 2 HD France
+http://51.255.70.112:8000/live/Lewis/Lewis/1223.ts
+#EXTINF:-1,BEIN Sports 3 HD France
+http://51.255.70.112:8000/live/Lewis/Lewis/1224.ts
+#EXTINF:-1,BEIN SPORTS 1
+http://51.255.70.112:8000/live/Lewis/Lewis/2061.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://51.255.70.112:8000/live/Lewis/Lewis/2060.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://51.255.70.112:8000/live/Lewis/Lewis/2057.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://51.255.70.112:8000/live/Lewis/Lewis/2056.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://51.255.70.112:8000/live/Lewis/Lewis/2055.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://51.255.70.112:8000/live/Lewis/Lewis/2053.ts
+#EXTINF:-1,BEIN SPORTS 11
+http://51.255.70.112:8000/live/Lewis/Lewis/2051.ts
+#EXTINF:-1,BEIN SPORTS 12
+http://51.255.70.112:8000/live/Lewis/Lewis/2050.ts
+#EXTINF:-1,WWE HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1903.ts
+#EXTINF:-1,Astro Sports 4
+http://51.255.70.112:8000/live/Lewis/Lewis/1893.ts
+#EXTINF:-1,Astro Sport 3
+http://51.255.70.112:8000/live/Lewis/Lewis/1741.ts
+#EXTINF:-1,Astro Sport 2
+http://51.255.70.112:8000/live/Lewis/Lewis/1740.ts
+#EXTINF:-1,Astro Sport 1
+http://51.255.70.112:8000/live/Lewis/Lewis/1739.ts
+#EXTINF:-1,Super Sport 4 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1897.ts
+#EXTINF:-1,Super Sport 1 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1894.ts
+#EXTINF:-1,Mio Sports
+http://51.255.70.112:8000/live/Lewis/Lewis/1879.ts
+#EXTINF:-1,mio Stadium 106
+http://51.255.70.112:8000/live/Lewis/Lewis/1886.ts
+#EXTINF:-1,mio Stadium 103
+http://51.255.70.112:8000/live/Lewis/Lewis/1883.ts
+#EXTINF:-1,BEIN Sports 1 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1177.ts
+#EXTINF:-1,BEIN Sports 2 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1178.ts
+#EXTINF:-1,BEIN Sports 4 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/1180.ts
+#EXTINF:-1,Bein Sport USA
+http://51.255.70.112:8000/live/Lewis/Lewis/1736.ts
+#EXTINF:-1,Arena Sport 1
+http://51.255.70.112:8000/live/Lewis/Lewis/789.ts
+#EXTINF:-1,Arena Sport 2
+http://51.255.70.112:8000/live/Lewis/Lewis/790.ts
+#EXTINF:-1,Star Sports 1 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/493.ts
+#EXTINF:-1,Star Sports 2 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/486.ts
+#EXTINF:-1,Star Sports 4 HD
+http://51.255.70.112:8000/live/Lewis/Lewis/491.ts
+#EXTINF:-1,Arena Sport 1 Serbia
+http://51.255.70.112:8000/live/Lewis/Lewis/1192.ts
+#EXTINF:-1,Arena Sport 2 Serbia
+http://51.255.70.112:8000/live/Lewis/Lewis/1193.ts
+#EXTINF:-1,Arena Sport 3 Serbia
+http://51.255.70.112:8000/live/Lewis/Lewis/1194.ts
+#EXTINF:-1,Arena Sport 4 Serbia
+http://51.255.70.112:8000/live/Lewis/Lewis/1195.ts
+#EXTINF:-1,Arena Sport 5 Serbia
+http://51.255.70.112:8000/live/Lewis/Lewis/1845.ts
+#EXTINF:-1,Fox Sports 2
+http://51.255.70.112:8000/live/Lewis/Lewis/416.ts
+#EXTINF:-1,Fox Sports 3
+http://51.255.70.112:8000/live/Lewis/Lewis/417.ts
+#EXTINF:-1,Fox Sports 4
+http://51.255.70.112:8000/live/Lewis/Lewis/418.ts
+#EXTINF:-1,C Golf
+http://51.255.70.112:8000/live/Lewis/Lewis/2352.ts
+#EXTINF:-1,C MORE FOTBALL
+http://51.255.70.112:8000/live/Lewis/Lewis/2353.ts
+#EXTINF:-1,C MORE LIVE HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2354.ts
+#EXTINF:-1,C MORE SPORT HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2355.ts
+#EXTINF:-1,Canal  Golf
+http://51.255.70.112:8000/live/Lewis/Lewis/2356.ts
+#EXTINF:-1,CNBC
+http://51.255.70.112:8000/live/Lewis/Lewis/1861.ts
+#EXTINF:-1,Fox Sport 1 Malaysia
+http://51.255.70.112:8000/live/Lewis/Lewis/2359.ts
+#EXTINF:-1,Fox Sport 2 Malaysia
+http://51.255.70.112:8000/live/Lewis/Lewis/2360.ts
+#EXTINF:-1,FOX SPORTS 1 Thailand
+http://51.255.70.112:8000/live/Lewis/Lewis/2361.ts
+#EXTINF:-1,FOX SPORTS 2 Thailand
+http://51.255.70.112:8000/live/Lewis/Lewis/2362.ts
+#EXTINF:-1,GOLF HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2363.ts
+#EXTINF:-1,NHL NETWORK
+http://51.255.70.112:8000/live/Lewis/Lewis/2371.ts
+#EXTINF:-1,SPFL: Celtic FC TV (matchtime)
+http://51.255.70.112:8000/live/Lewis/Lewis/2372.ts
+#EXTINF:-1,SPORTSNET-360HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2374.ts
+#EXTINF:-1,SPORTSNET-ONTARIOHD
+http://51.255.70.112:8000/live/Lewis/Lewis/2376.ts
+#EXTINF:-1,SPORTSNET-PACIFIC HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2377.ts
+#EXTINF:-1,SPORTSNET-WEST HD
+http://51.255.70.112:8000/live/Lewis/Lewis/2378.ts
+#EXTINF:-1,Ten Golf
+http://51.255.70.112:8000/live/Lewis/Lewis/2379.ts
+#EXTINF:-1,Ziggo Sport eXtra 2
+http://51.255.70.112:8000/live/Lewis/Lewis/2384.ts
+#EXTINF:-1,Ziggo Sport Golf
+http://51.255.70.112:8000/live/Lewis/Lewis/2385.ts
+#EXTINF:-1,Ziggo Sport Voetbal
+http://51.255.70.112:8000/live/Lewis/Lewis/2386.ts
+#EXTINF:-1,SKYNET SPORTS 2 SD
+http://51.255.70.112:8000/live/Lewis/Lewis/2419.ts
+#EXTINF:-1,SKYNET SPORTS 4 SD
+http://51.255.70.112:8000/live/Lewis/Lewis/2420.ts
+#EXTINF:-1,FX
+http://51.255.70.112:8000/live/Lewis/Lewis/1848.ts
+#EXTINF:-1,MY9
+http://51.255.70.112:8000/live/Lewis/Lewis/1849.ts
+#EXTINF:-1,Bravo
+http://51.255.70.112:8000/live/Lewis/Lewis/1850.ts
+#EXTINF:-1,CW
+http://51.255.70.112:8000/live/Lewis/Lewis/1853.ts
+#EXTINF:-1,PBS
+http://51.255.70.112:8000/live/Lewis/Lewis/1856.ts
+#EXTINF:-1,AETV
+http://51.255.70.112:8000/live/Lewis/Lewis/1857.ts
+#EXTINF:-1,Cormcen
+http://51.255.70.112:8000/live/Lewis/Lewis/1862.ts
+#EXTINF:-1,AMC
+http://51.255.70.112:8000/live/Lewis/Lewis/1867.ts
+#EXTINF:-1,ABC
+http://51.255.70.112:8000/live/Lewis/Lewis/1851.ts
+#EXTINF:-1,USA-
+http://51.255.70.112:8000/live/Lewis/Lewis/1873.ts
+#EXTINF:-1,TBS US
+http://51.255.70.112:8000/live/Lewis/Lewis/1870.ts
+#EXTINF:-1,Syfy US
+http://51.255.70.112:8000/live/Lewis/Lewis/1869.ts
+#EXTINF:-1,Spike US
+http://51.255.70.112:8000/live/Lewis/Lewis/1872.ts
+#EXTINF:-1,Nick US
+http://51.255.70.112:8000/live/Lewis/Lewis/1868.ts
+#EXTINF:-1,Nat Geo US
+http://51.255.70.112:8000/live/Lewis/Lewis/1874.ts
+#EXTINF:-1,Lifetime US
+http://51.255.70.112:8000/live/Lewis/Lewis/1866.ts
+#EXTINF:-1,FOX US
+http://51.255.70.112:8000/live/Lewis/Lewis/1854.ts
+#EXTINF:-1,ESPN US
+http://51.255.70.112:8000/live/Lewis/Lewis/1864.ts
+#EXTINF:-1,Discovery US
+http://51.255.70.112:8000/live/Lewis/Lewis/1863.ts
+#EXTINF:-1,CNN US
+http://51.255.70.112:8000/live/Lewis/Lewis/1860.ts
+#EXTINF:-1,ABC News U
+http://51.255.70.112:8000/live/Lewis/Lewis/1876.ts
