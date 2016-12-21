@@ -1,11 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR limegreen]NEW UPDATE - 12-09-2016[/COLOR] NEW CHANNEL LIST. ENJOY.[/B]</title>
+<title>[B][COLOR limegreen]NEW UPDATE - 12-21-2016[/COLOR] NEW CHANNEL LIST USA and UK[/B]</title>
 <!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=blue]-> NEW CHANNELS HERE[/COLOR][/B]</title>
+	<link>http://ignoreme.com</link>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/gordon-lewis.xml<externallink>
 </item>
 <!--
 <item>
@@ -55,7 +61,6 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
--->
 
 <item>
 <title>ABC</title>
@@ -83,7 +88,7 @@
 <link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=CBS&amp;url=%2Fwww.arconaitv.me%2Fceebees%2F&amp;site=arconai&amp;mode=play_special</link>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>NBC</title>
 <link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=NBC&amp;url=%2Fwww.arconaitv.me%2Fnnnbsee%2F&amp;site=arconai&amp;mode=play_special</link>
@@ -98,7 +103,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 
 <item>
 <title>PBS</title>
@@ -142,7 +147,7 @@
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/amc.png</thumbnail>
 <fanart></fanart>
 </item>
--->
+
 
 <item>
 <title>ANIMAL PLANET</title>
@@ -236,7 +241,7 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
 <fanart></fanart>
 </item>
--->
+
 
 <item>
 <title>HISTORY</title>
