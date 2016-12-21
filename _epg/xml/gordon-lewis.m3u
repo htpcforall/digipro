@@ -1,46 +1,62 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1,ABC
 http://51.255.70.112:8000/live/Lewis/Lewis/1851.ts
-#EXTINF:-1,ABC News
-http://51.254.197.40:25461/live/gordon/gordon/1784.ts
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000001
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000002
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000003
 #EXTINF:-1,ABC News
 http://51.255.70.112:8000/live/Lewis/Lewis/1876.ts
-#EXTINF:-1,AETV
-http://51.255.70.112:8000/live/Lewis/Lewis/1857.ts
-#EXTINF:-1,AMC
-http://51.255.70.112:8000/live/Lewis/Lewis/1867.ts
-#EXTINF:-1,Animal Planet
-http://51.255.70.112:8000/live/Lewis/Lewis/781.ts
-#EXTINF:-1,Boomerang
-http://51.254.197.40:25461/live/gordon/gordon/8207.ts
-#EXTINF:-1,Boomerang
-http://51.255.70.112:8000/live/Lewis/Lewis/1826.ts
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000004
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000005
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000006
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000007
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000008
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000009
 #EXTINF:-1,Bravo
 http://51.255.70.112:8000/live/Lewis/Lewis/1850.ts
-#EXTINF:-1,Cartoon Network HD
-http://51.255.70.112:8000/live/Lewis/Lewis/1953.ts
-#EXTINF:-1,Cartoon Network
-http://51.254.197.40:25461/live/gordon/gordon/1769.ts
-#EXTINF:-1,Cartoon Network
-http://51.255.70.112:8000/live/Lewis/Lewis/1825.ts
+#EXTINF:-1,NBC-27.10.16 09:42
+c:\records\nbc (27-10-2016 09-42-14) - 87357361\00000010
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000001
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000002
 #EXTINF:-1,CBSN HD
 http://51.255.70.112:8000/live/Lewis/Lewis/1945.ts
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000003
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000004
 #EXTINF:-1,CN
 http://51.255.70.112:8000/live/Lewis/Lewis/1859.ts
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000005
 #EXTINF:-1,CNBC
 http://51.255.70.112:8000/live/Lewis/Lewis/1861.ts
 #EXTINF:-1,CNN US
 http://51.255.70.112:8000/live/Lewis/Lewis/1860.ts
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000006
 #EXTINF:-1,Comedy Central 1
 http://51.255.70.112:8000/live/Lewis/Lewis/2241.ts
-#EXTINF:-1,Comedy Central
-http://51.254.197.40:25461/live/gordon/gordon/1852.ts
-#EXTINF:-1,Comedy Central
-http://51.255.70.112:8000/live/Lewis/Lewis/1817.ts
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000007
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000008
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000009
 #EXTINF:-1,Comedy Extra
 http://51.254.197.40:25461/live/gordon/gordon/1851.ts
-#EXTINF:-1,Crime Investigation
-http://51.254.197.40:25461/live/gordon/gordon/1850.ts
+#EXTINF:-1,n-27.10.16 10:14
+c:\records\n (27-10-2016 10-14-40) - 89303489\00000010
 #EXTINF:-1,CW
 http://51.255.70.112:8000/live/Lewis/Lewis/1853.ts
 #EXTINF:-1,Discovery Science
@@ -49,14 +65,8 @@ http://51.255.70.112:8000/live/Lewis/Lewis/2247.ts
 http://51.255.70.112:8000/live/Lewis/Lewis/2248.ts
 #EXTINF:-1,Discovery Channel
 http://51.255.70.112:8000/live/Lewis/Lewis/780.ts
-#EXTINF:-1,Discovery History
-http://51.254.197.40:25461/live/gordon/gordon/8215.ts
 #EXTINF:-1,Discovery Home&Health
 http://51.254.197.40:25461/live/gordon/gordon/8214.ts
-#EXTINF:-1,Discovery
-http://51.254.197.40:25461/live/gordon/gordon/8216.ts
-#EXTINF:-1,Discovery
-http://51.255.70.112:8000/live/Lewis/Lewis/741.ts
 #EXTINF:-1,Discovery Investigation HD
 http://51.254.197.40:25461/live/gordon/gordon/9967.ts
 #EXTINF:-1,Discovery Science HD
@@ -66,13 +76,9 @@ http://51.254.197.40:25461/live/gordon/gordon/1880.ts
 #EXTINF:-1,Discovery Shed
 http://51.255.70.112:8000/live/Lewis/Lewis/2027.ts
 #EXTINF:-1,Discovery Turbo
-http://51.254.197.40:25461/live/gordon/gordon/1878.ts
-#EXTINF:-1,Discovery Turbo
 http://51.255.70.112:8000/live/Lewis/Lewis/1818.ts
 #EXTINF:-1,Discovery US
 http://51.255.70.112:8000/live/Lewis/Lewis/1863.ts
-#EXTINF:-1,Disney Chnl 1
-http://51.255.70.112:8000/live/Lewis/Lewis/2250.ts
 #EXTINF:-1,Disney Chnl
 http://51.255.70.112:8000/live/Lewis/Lewis/2249.ts
 #EXTINF:-1,Disney Junior
@@ -80,17 +86,11 @@ http://51.255.70.112:8000/live/Lewis/Lewis/738.ts
 #EXTINF:-1,Disney XD 1
 http://51.255.70.112:8000/live/Lewis/Lewis/2251.ts
 #EXTINF:-1,Disney XD
-http://51.254.197.40:25461/live/gordon/gordon/10051.ts
-#EXTINF:-1,Disney XD
 http://51.255.70.112:8000/live/Lewis/Lewis/737.ts
-#EXTINF:-1,DisneyChnl
-http://51.254.197.40:25461/live/gordon/gordon/9119.ts
 #EXTINF:-1,DisneyJunior
 http://51.254.197.40:25461/live/gordon/gordon/8206.ts
 #EXTINF:-1,E! Entertainment
 http://51.254.197.40:25461/live/gordon/gordon/1846.ts
-#EXTINF:-1,E!
-http://51.255.70.112:8000/live/Lewis/Lewis/1819.ts
 #EXTINF:-1,ESPN HD 2
 http://51.254.197.40:25461/live/gordon/gordon/5747.ts
 #EXTINF:-1,ESPN US
@@ -108,8 +108,6 @@ http://51.254.197.40:25461/live/gordon/gordon/9120.ts
 #EXTINF:-1,History Channel
 http://51.255.70.112:8000/live/Lewis/Lewis/2020.ts
 #EXTINF:-1,History
-http://51.254.197.40:25461/live/gordon/gordon/1838.ts
-#EXTINF:-1,History
 http://51.255.70.112:8000/live/Lewis/Lewis/2263.ts
 #EXTINF:-1,History US
 http://51.255.70.112:8000/live/Lewis/Lewis/1865.ts
@@ -119,8 +117,6 @@ http://51.255.70.112:8000/live/Lewis/Lewis/2269.ts
 http://51.254.197.40:25461/live/gordon/gordon/1835.ts
 #EXTINF:-1,ID
 http://51.255.70.112:8000/live/Lewis/Lewis/1769.ts
-#EXTINF:-1,KISS
-http://51.255.70.112:8000/live/Lewis/Lewis/2282.ts
 #EXTINF:-1,Lifetime 1
 http://51.255.70.112:8000/live/Lewis/Lewis/2285.ts
 #EXTINF:-1,Lifetime
@@ -135,8 +131,6 @@ http://51.255.70.112:8000/live/Lewis/Lewis/2295.ts
 http://51.255.70.112:8000/live/Lewis/Lewis/2296.ts
 #EXTINF:-1,MTV Base
 http://51.255.70.112:8000/live/Lewis/Lewis/735.ts
-#EXTINF:-1,MTV CLASSIC
-http://51.255.70.112:8000/live/Lewis/Lewis/2297.ts
 #EXTINF:-1,MTV Dance
 http://51.255.70.112:8000/live/Lewis/Lewis/734.ts
 #EXTINF:-1,MTV Hits
@@ -154,25 +148,13 @@ http://51.255.70.112:8000/live/Lewis/Lewis/2302.ts
 #EXTINF:-1,Nat Geo US
 http://51.255.70.112:8000/live/Lewis/Lewis/1874.ts
 #EXTINF:-1,Nat Geo Wild
-http://51.254.197.40:25461/live/gordon/gordon/1877.ts
-#EXTINF:-1,Nat Geo Wild
 http://51.255.70.112:8000/live/Lewis/Lewis/1482.ts
-#EXTINF:-1,Nat Geographic HD
-http://51.254.197.40:25461/live/gordon/gordon/10004.ts
-#EXTINF:-1,National Geographic
-http://51.254.197.40:25461/live/gordon/gordon/1876.ts
 #EXTINF:-1,National Geographic
 http://51.255.70.112:8000/live/Lewis/Lewis/1483.ts
-#EXTINF:-1,NBA TV
-http://51.255.70.112:8000/live/Lewis/Lewis/2042.ts
 #EXTINF:-1,NBC
 http://51.255.70.112:8000/live/Lewis/Lewis/1855.ts
 #EXTINF:-1,NFL NETWORK HD
 http://51.254.197.40:25461/live/gordon/gordon/5743.ts
-#EXTINF:-1,NHL NETWORK
-http://51.255.70.112:8000/live/Lewis/Lewis/2371.ts
-#EXTINF:-1,Nick
-http://51.254.197.40:25461/live/gordon/gordon/1760.ts
 #EXTINF:-1,Nick Jnr Peppa
 http://51.255.70.112:8000/live/Lewis/Lewis/2303.ts
 #EXTINF:-1,Nick Jr 1
@@ -185,10 +167,6 @@ http://51.254.197.40:25461/live/gordon/gordon/1761.ts
 http://51.255.70.112:8000/live/Lewis/Lewis/2013.ts
 #EXTINF:-1,Nick US
 http://51.255.70.112:8000/live/Lewis/Lewis/1868.ts
-#EXTINF:-1,Nickelodeon
-http://51.255.70.112:8000/live/Lewis/Lewis/1828.ts
-#EXTINF:-1,NickToons
-http://51.254.197.40:25461/live/gordon/gordon/1759.ts
 #EXTINF:-1,PBS
 http://51.255.70.112:8000/live/Lewis/Lewis/1856.ts
 #EXTINF:-1,Spike
@@ -201,8 +179,6 @@ http://51.255.70.112:8000/live/Lewis/Lewis/1872.ts
 http://51.255.70.112:8000/live/Lewis/Lewis/2333.ts
 #EXTINF:-1,SYFY HD
 http://51.255.70.112:8000/live/Lewis/Lewis/1969.ts
-#EXTINF:-1,SyFy
-http://51.254.197.40:25461/live/gordon/gordon/1812.ts
 #EXTINF:-1,Syfy UK
 http://51.255.70.112:8000/live/Lewis/Lewis/1764.ts
 #EXTINF:-1,Syfy US
@@ -217,44 +193,24 @@ http://51.255.70.112:8000/live/Lewis/Lewis/2335.ts
 http://51.254.197.40:25461/live/gordon/gordon/1811.ts
 #EXTINF:-1,TLC 1
 http://51.255.70.112:8000/live/Lewis/Lewis/2338.ts
-#EXTINF:-1,TLC
-http://51.254.197.40:25461/live/gordon/gordon/9935.ts
 #EXTINF:-1,TLC UK
 http://51.255.70.112:8000/live/Lewis/Lewis/1822.ts
 #EXTINF:-1,Travel Channel 1
 http://51.254.197.40:25461/live/gordon/gordon/1808.ts
 #EXTINF:-1,Travel Channel
 http://51.255.70.112:8000/live/Lewis/Lewis/2007.ts
-#EXTINF:-1,TruTV
-http://51.255.70.112:8000/live/Lewis/Lewis/2350.ts
 #EXTINF:-1,Universal
 http://51.255.70.112:8000/live/Lewis/Lewis/2004.ts
 #EXTINF:-1,USA
 http://51.255.70.112:8000/live/Lewis/Lewis/1873.ts
-#EXTINF:-1,USA NETWORK HD
-http://51.254.197.40:25461/live/gordon/gordon/5740.ts
-#EXTINF:-1,USA Network HD
-http://51.254.197.40:25461/live/gordon/gordon/5754.ts
 #EXTINF:-1,VH1
 http://51.255.70.112:8000/live/Lewis/Lewis/774.ts
 #EXTINF:-1,Al Jazeera News English
 http://51.254.197.40:25461/live/gordon/gordon/1783.ts
-#EXTINF:-1,BBC News
-http://51.254.197.40:25461/live/gordon/gordon/1782.ts
-#EXTINF:-1,MOVIES SHOW CASE
-http://51.254.197.40:25461/live/gordon/gordon/9975.ts
-#EXTINF:-1,Sky Cinema Action & Adventure HD
-http://51.254.197.40:25461/live/gordon/gordon/4878.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://51.254.197.40:25461/live/gordon/gordon/8310.ts
 #EXTINF:-1,Sky Cinema Crime & Thriller HD
 http://51.254.197.40:25461/live/gordon/gordon/4876.ts
 #EXTINF:-1,Sky Cinema Disney HD
 http://51.254.197.40:25461/live/gordon/gordon/4875.ts
-#EXTINF:-1,Sky Cinema Drama n Romance HD
-http://51.254.197.40:25461/live/gordon/gordon/4874.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://51.254.197.40:25461/live/gordon/gordon/8309.ts
 #EXTINF:-1,Sky Cinema Hits HD
 http://51.254.197.40:25461/live/gordon/gordon/4871.ts
 #EXTINF:-1,Sky Cinema Premiere HD
@@ -271,12 +227,8 @@ http://51.255.70.112:8000/live/Lewis/Lewis/1669.ts
 http://51.254.197.40:25461/live/gordon/gordon/5657.ts
 #EXTINF:-1,Sky Movies Comedy HD
 http://51.255.70.112:8000/live/Lewis/Lewis/1671.ts
-#EXTINF:-1,Sky Movies Crime & Thriller HD
-http://51.255.70.112:8000/live/Lewis/Lewis/1673.ts
 #EXTINF:-1,Sky Movies Crime & Thriller
 http://51.255.70.112:8000/live/Lewis/Lewis/1672.ts
-#EXTINF:-1,Sky Movies Disney HD
-http://51.255.70.112:8000/live/Lewis/Lewis/1675.ts
 #EXTINF:-1,Sky Movies Disney UK
 http://51.255.70.112:8000/live/Lewis/Lewis/1674.ts
 #EXTINF:-1,Sky Movies Drama & Romance HD
@@ -285,16 +237,10 @@ http://51.255.70.112:8000/live/Lewis/Lewis/1676.ts
 http://51.254.197.40:25461/live/gordon/gordon/5656.ts
 #EXTINF:-1,Sky Movies Family HD
 http://51.254.197.40:25461/live/gordon/gordon/5654.ts
-#EXTINF:-1,Sky Movies Family HD
-http://51.255.70.112:8000/live/Lewis/Lewis/1678.ts
 #EXTINF:-1,Sky Movies Family UK
 http://51.255.70.112:8000/live/Lewis/Lewis/1677.ts
-#EXTINF:-1,Sky Movies Greats
-http://51.255.70.112:8000/live/Lewis/Lewis/1679.ts
 #EXTINF:-1,Sky Movies Premiere HD
 http://51.255.70.112:8000/live/Lewis/Lewis/1681.ts
-#EXTINF:-1,Sky Movies Sci-Fi & Horror HD
-http://51.255.70.112:8000/live/Lewis/Lewis/1683.ts
 #EXTINF:-1,Sky Movies Sci-Fi & Horror UK
 http://51.255.70.112:8000/live/Lewis/Lewis/1682.ts
 #EXTINF:-1,Sky Movies Select HD
@@ -303,8 +249,6 @@ http://51.254.197.40:25461/live/gordon/gordon/5653.ts
 http://51.254.197.40:25461/live/gordon/gordon/3304.ts
 #EXTINF:-1,Sky News HD
 http://51.254.197.40:25461/live/gordon/gordon/1772.ts
-#EXTINF:-1,SPORTSNET 360 HD
-http://51.255.70.112:8000/live/Lewis/Lewis/2374.ts
 #EXTINF:-1,BEIN SPORT 1 HD
 http://51.254.197.40:25461/live/gordon/gordon/1729.ts
 #EXTINF:-1,BEIN SPORT 10 HD
@@ -313,14 +257,10 @@ http://51.254.197.40:25461/live/gordon/gordon/1728.ts
 http://51.254.197.40:25461/live/gordon/gordon/1727.ts
 #EXTINF:-1,BEIN SPORT 13 HD
 http://51.254.197.40:25461/live/gordon/gordon/1725.ts
-#EXTINF:-1,BEIN SPORT 15 HD
-http://51.254.197.40:25461/live/gordon/gordon/1723.ts
 #EXTINF:-1,BEIN SPORT 2 HD
 http://51.254.197.40:25461/live/gordon/gordon/1722.ts
 #EXTINF:-1,BEIN SPORT 3 HD
 http://51.254.197.40:25461/live/gordon/gordon/1721.ts
-#EXTINF:-1,BEIN SPORT 4 HD
-http://51.254.197.40:25461/live/gordon/gordon/1720.ts
 #EXTINF:-1,BeIN Sport 5 HD
 http://51.254.197.40:25461/live/gordon/gordon/4722.ts
 #EXTINF:-1,BEIN SPORT 6 HD
@@ -331,14 +271,10 @@ http://51.254.197.40:25461/live/gordon/gordon/1717.ts
 http://51.254.197.40:25461/live/gordon/gordon/1716.ts
 #EXTINF:-1,BeIN Sport 9 HD
 http://51.254.197.40:25461/live/gordon/gordon/1715.ts
-#EXTINF:-1,Bein Sport USA
-http://51.255.70.112:8000/live/Lewis/Lewis/1736.ts
 #EXTINF:-1,BEIN Sports 1 HD France
 http://51.255.70.112:8000/live/Lewis/Lewis/1222.ts
 #EXTINF:-1,BEIN Sports 1 HD
 http://51.255.70.112:8000/live/Lewis/Lewis/1177.ts
-#EXTINF:-1,BEIN SPORTS 1
-http://51.255.70.112:8000/live/Lewis/Lewis/2061.ts
 #EXTINF:-1,BEIN SPORTS 11
 http://51.255.70.112:8000/live/Lewis/Lewis/2051.ts
 #EXTINF:-1,BEIN SPORTS 12
@@ -347,28 +283,14 @@ http://51.255.70.112:8000/live/Lewis/Lewis/2050.ts
 http://51.255.70.112:8000/live/Lewis/Lewis/1223.ts
 #EXTINF:-1,BEIN Sports 2 HD
 http://51.255.70.112:8000/live/Lewis/Lewis/1178.ts
-#EXTINF:-1,BEIN SPORTS 2
-http://51.255.70.112:8000/live/Lewis/Lewis/2060.ts
 #EXTINF:-1,BEIN Sports 3 HD France
 http://51.255.70.112:8000/live/Lewis/Lewis/1224.ts
 #EXTINF:-1,BEIN Sports 4 HD
 http://51.255.70.112:8000/live/Lewis/Lewis/1180.ts
-#EXTINF:-1,BEIN SPORTS 5
-http://51.255.70.112:8000/live/Lewis/Lewis/2057.ts
-#EXTINF:-1,BEIN SPORTS 6
-http://51.255.70.112:8000/live/Lewis/Lewis/2056.ts
-#EXTINF:-1,BEIN SPORTS 7
-http://51.255.70.112:8000/live/Lewis/Lewis/2055.ts
-#EXTINF:-1,BEIN SPORTS 9
-http://51.255.70.112:8000/live/Lewis/Lewis/2053.ts
 #EXTINF:-1,Box Nation
 http://51.254.197.40:25461/live/gordon/gordon/8205.ts
 #EXTINF:-1,BoxNation
 http://51.255.70.112:8000/live/Lewis/Lewis/1842.ts
-#EXTINF:-1,British Eurosport
-http://51.254.197.40:25461/live/gordon/gordon/1708.ts
-#EXTINF:-1,British Eurosport2
-http://51.254.197.40:25461/live/gordon/gordon/1707.ts
 #EXTINF:-1,BT Sport 1 HD
 http://51.255.70.112:8000/live/Lewis/Lewis/733.ts
 #EXTINF:-1,BT Sport 1
@@ -389,8 +311,6 @@ http://51.255.70.112:8000/live/Lewis/Lewis/2198.ts
 http://51.255.70.112:8000/live/Lewis/Lewis/2197.ts
 #EXTINF:-1,BT Sport Extra 6
 http://51.255.70.112:8000/live/Lewis/Lewis/2195.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://51.254.197.40:25461/live/gordon/gordon/1758.ts
 #EXTINF:-1,BT Sports 1
 http://51.255.70.112:8000/live/Lewis/Lewis/1980.ts
 #EXTINF:-1,BT SPORTS 2 HD
@@ -405,24 +325,8 @@ http://51.254.197.40:25461/live/gordon/gordon/8204.ts
 http://51.254.197.40:25461/live/gordon/gordon/1702.ts
 #EXTINF:-1,BT Sports Extra 1
 http://51.254.197.40:25461/live/gordon/gordon/1701.ts
-#EXTINF:-1,BT Sports Extra
-http://51.255.70.112:8000/live/Lewis/Lewis/1914.ts
-#EXTINF:-1,BTN SPORTS HD
-http://51.254.197.40:25461/live/gordon/gordon/5752.ts
 #EXTINF:-1,BTN SPORTS HD
 http://51.254.197.40:25461/live/gordon/gordon/9837.ts
-#EXTINF:-1,Euro Sports 2
-http://51.254.197.40:25461/live/gordon/gordon/4810.ts
-#EXTINF:-1,Fox Sport 1 HD
-http://51.255.70.112:8000/live/Lewis/Lewis/1737.ts
-#EXTINF:-1,Fox Sport 1 Malaysia
-http://51.255.70.112:8000/live/Lewis/Lewis/2359.ts
-#EXTINF:-1,FOX SPORT 2 HD
-http://51.254.197.40:25461/live/gordon/gordon/9849.ts
-#EXTINF:-1,Fox Sport 2 HD
-http://51.255.70.112:8000/live/Lewis/Lewis/1738.ts
-#EXTINF:-1,Fox Sport 2 Malaysia
-http://51.255.70.112:8000/live/Lewis/Lewis/2360.ts
 #EXTINF:-1,Fox Sports 1 HD
 http://51.254.197.40:25461/live/gordon/gordon/5746.ts
 #EXTINF:-1,FOX SPORTS 1 Thailand
@@ -431,8 +335,6 @@ http://51.255.70.112:8000/live/Lewis/Lewis/2361.ts
 http://51.254.197.40:25461/live/gordon/gordon/5745.ts
 #EXTINF:-1,Fox Sports 2
 http://51.255.70.112:8000/live/Lewis/Lewis/416.ts
-#EXTINF:-1,FOX SPORTS 2 Thailand
-http://51.255.70.112:8000/live/Lewis/Lewis/2362.ts
 #EXTINF:-1,Fox Sports 3
 http://51.255.70.112:8000/live/Lewis/Lewis/417.ts
 #EXTINF:-1,Fox Sports 4
@@ -443,8 +345,6 @@ http://51.254.197.40:25461/live/gordon/gordon/1822.ts
 http://51.255.70.112:8000/live/Lewis/Lewis/2327.ts
 #EXTINF:-1,SKY BOX OFFICE 1 ( PPV )
 http://51.254.197.40:25461/live/gordon/gordon/8054.ts
-#EXTINF:-1,SKY BOX OFFICE 2 (PPV)
-http://51.254.197.40:25461/live/gordon/gordon/8053.ts
 #EXTINF:-1,SKY SPORTS 1 HD
 http://51.254.197.40:25461/live/gordon/gordon/1697.ts
 #EXTINF:-1,Sky Sports 1 HD
@@ -481,20 +381,14 @@ http://51.255.70.112:8000/live/Lewis/Lewis/729.ts
 http://51.254.197.40:25461/live/gordon/gordon/1689.ts
 #EXTINF:-1,Sky Sports Box Office (PPV Events Only)
 http://51.255.70.112:8000/live/Lewis/Lewis/2328.ts
-#EXTINF:-1,SKY SPORTS BOX OFFICE PPV
-http://51.254.197.40:25461/live/gordon/gordon/8965.ts
 #EXTINF:-1,Sky Sports Box Office UK
 http://51.255.70.112:8000/live/Lewis/Lewis/1695.ts
-#EXTINF:-1,SKY SPORTS F1 HD
-http://51.254.197.40:25461/live/gordon/gordon/1684.ts
 #EXTINF:-1,Sky Sports F1 HD
 http://51.255.70.112:8000/live/Lewis/Lewis/724.ts
 #EXTINF:-1,Sky Sports F1
 http://51.254.197.40:25461/live/gordon/gordon/1686.ts
 #EXTINF:-1,Sky Sports F1 UK
 http://51.255.70.112:8000/live/Lewis/Lewis/1696.ts
-#EXTINF:-1,Sky sports news backup
-http://51.254.197.40:25461/live/gordon/gordon/5718.ts
 #EXTINF:-1,SKY SPORTS NEWS HD
 http://51.254.197.40:25461/live/gordon/gordon/1683.ts
 #EXTINF:-1,Sky Sports News
@@ -517,39 +411,17 @@ http://51.254.197.40:25461/live/gordon/gordon/9399.ts
 http://51.254.197.40:25461/live/gordon/gordon/9400.ts
 #EXTINF:-1,Sportsnet World HD
 http://51.254.197.40:25461/live/gordon/gordon/9401.ts
-#EXTINF:-1,SPORTSNET-ONTARIOHD
-http://51.255.70.112:8000/live/Lewis/Lewis/2376.ts
-#EXTINF:-1,SPORTSNET-PACIFIC HD
-http://51.255.70.112:8000/live/Lewis/Lewis/2377.ts
-#EXTINF:-1,SPORTSNET-WEST HD
-http://51.255.70.112:8000/live/Lewis/Lewis/2378.ts
-#EXTINF:-1,Ten Golf
-http://51.255.70.112:8000/live/Lewis/Lewis/2379.ts
-#EXTINF:-1,TSN 2
-http://51.255.70.112:8000/live/Lewis/Lewis/1743.ts
-#EXTINF:-1,TSN 3 HD
-http://51.254.197.40:25461/live/gordon/gordon/9846.ts
-#EXTINF:-1,TSN 4 HD
-http://51.254.197.40:25461/live/gordon/gordon/9847.ts
 #EXTINF:-1,TSN 5 HD
 http://51.254.197.40:25461/live/gordon/gordon/9848.ts
 #EXTINF:-1,TSN HD 1
 http://51.254.197.40:25461/live/gordon/gordon/10039.ts
-#EXTINF:-1,TSN HD 2
-http://51.254.197.40:25461/live/gordon/gordon/10038.ts
 #EXTINF:-1,TSN HD 3
 http://51.254.197.40:25461/live/gordon/gordon/10037.ts
-#EXTINF:-1,TSN HD 4
-http://51.254.197.40:25461/live/gordon/gordon/10036.ts
 #EXTINF:-1,TSN HD 5
 http://51.254.197.40:25461/live/gordon/gordon/10035.ts
-#EXTINF:-1,UFC Fight pass
-http://51.254.197.40:25461/live/gordon/gordon/5717.ts
 #EXTINF:-1,WILLOW CRICKET HD
 http://51.254.197.40:25461/live/gordon/gordon/5739.ts
 #EXTINF:-1,WWE HD
 http://51.254.197.40:25461/live/gordon/gordon/5738.ts
-#EXTINF:-1,WWE HD
-http://51.255.70.112:8000/live/Lewis/Lewis/1903.ts
 #EXTINF:-1,WWE Network HD
 http://51.254.197.40:25461/live/gordon/gordon/5722.ts
