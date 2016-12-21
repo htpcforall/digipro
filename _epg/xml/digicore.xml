@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR limegreen]NEW UPDATE - 12-21-2016[/COLOR] NEW CHANNEL LIST USA and UK[/B]</title>
+<title>[B][COLOR limegreen]NEW UPDATE - 12-21-2016[/COLOR] Testing USTVNOW channels - More comming soon.[/B]</title>
 <!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
@@ -9,59 +9,53 @@
 </item>
 
 <item>
-	<title>[B][COLOR=blue]-> NEW CHANNELS HERE[/COLOR][/B]</title>
-	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/gordon-lewis.m3u</externallink>
-</item>
-<!--
-<item>
 <title>ABC</title>
-<link>http://ilv12.oedg.ustvnow.com/ilv01/mp4:2B76BWHTMUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6ed731c234c4bb4892ab403fc6ef95bd5475b06f18b9d280f8ad5bfd72a99</link>
+<link>http://ilv12.oedg.ustvnow.com/ilv01/mp4:2E850WHTMUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30774ef6eb73743800fcb9123a780ea6816676136bc4f06727066eb59f94cfb655c9&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODIzMTcwMTcsInRva2VuIjoib2VhZWp1ZWR5d2p1Z3lwaXhjZjV3dGdwZ3lrZyIsImlwIjoiNTAuMTEzLjkwLjE5OSIsInNjb2RlIjoid2h0bSJ9.QnRI-U5zzp5QQJu2ohd7RkRotl0LYilfQX0J5-Pkbx0</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>CBS</title>
-<link>http://ilv05.oedg.ustvnow.com/ilv05/mp4:A894CWHP0USTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6e079f0b1eb2abeadecbdd89c8eac2d59b19edaced138218907ca9a200385</link>
+<link>http://ilvc02.ec.ustvnow.com/ilv05/pr/~~e/mp4:42A63WHP0USTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30774ef6eb73743800fcb9123a780ea6816676136bc4f06727066eb59f94cfb655c9&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODIzMTcwMTcsInRva2VuIjoib2VhZWp1ZWR5d2p1Z3lwaXhjZjV3dGdwZ3lrZyIsImlwIjoiNTAuMTEzLjkwLjE5OSIsInNjb2RlIjoid2hwIn0.NyDCWZRGhHrCTMhy3ltLojJXRblfASUOxcZrREHWXfo</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cbs21.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>CW</title>
-<link>http://ilv10.oedg.ustvnow.com/ilv10/mp4:63CF8WLYHUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6e079f0b1eb2abeadecbdd89c8eac2d59b19edaced138218907ca9a200385</link>
+<link>http://ilv10.oedg.ustvnow.com/ilv10/mp4:7B3CDWLYHUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30774ef6eb73743800fcb9123a780ea6816676136bc4f06727066eb59f94cfb655c9&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODIzMTcwMTgsInRva2VuIjoib2VhZWp1ZWR5d2p1Z3lwaXhjZjV3dGdwZ3lrZyIsImlwIjoiNTAuMTEzLjkwLjE5OSIsInNjb2RlIjoid2x5aCJ9.b1IEZsw1flV6Kv7hjlYhC-edY39Byn7mSHkd03NaZjY</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>FOX</title>
-<link>http://ilv10.oedg.ustvnow.com/ilv10/mp4:08660WPMTUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6e079f0b1eb2abeadecbdd89c8eac2d59b19edaced138218907ca9a200385</link>
+<link>http://ilv10.oedg.ustvnow.com/ilv10/mp4:FCA26WPMTUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30774ef6eb73743800fcb9123a780ea6816676136bc4f06727066eb59f94cfb655c9</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NBC</title>
-<link>http://ilv05.oedg.ustvnow.com/ilv05/mp4:346E7WGALUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6e079f0b1eb2abeadecbdd89c8eac2d59b19edaced138218907ca9a200385</link>
+<link>http://ilv05.oedg.ustvnow.com/ilv05/mp4:7C769WGALUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6e079f0b1eb2abeadecbdd89c8eac2d59b19edaced138218907ca9a200385</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>PBS</title>
-<link>http://ilv11.oedg.ustvnow.com/ilv11/mp4:8A1F0WPSUUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6ed731c234c4bb4892ab403fc6ef95bd5475b06f18b9d280f8ad5bfd72a99</link>
+<link>http://ilv11.oedg.ustvnow.com/ilv11/mp4:12FFBWPSUUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30774ef6eb73743800fcb9123a780ea6816676136bc4f06727066eb59f94cfb655c9</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vvrrur1480815041.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>MY9</title>
-<link>http://ilv12.oedg.ustvnow.com/ilv01/mp4:D1CF9WHVLUSTVNOW3/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30744ff6ed731c234c4bb4892ab403fc6ef95bd5475b06f18b9d280f8ad5bfd72a99</link>
+<link>http://ilv12.oedg.ustvnow.com/ilv01/mp4:BBEA7WHVLUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae30774ef6eb73743800fcb9123a780ea6816676136bc4f06727066eb59f94cfb655c9</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vwwxus1434505559.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>ABC</title>
 <link>plugin://plugin.video.digilive/?play=True&amp;img=C%3A%5CUsers%5C1%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.digilive%2Fresources%2Fmedia%2Farconai.png&amp;title=ABC&amp;url=%2Fwww.arconaitv.me%2Fabcde%2F&amp;site=arconai&amp;mode=play_special</link>
@@ -1246,6 +1240,11 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 </item>
 -->
 
+<item>
+	<title>[B][COLOR=blue]-> NEW CHANNELS HERE[/COLOR][/B]</title>
+	<link>http://ignoreme.com</link>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/gordon-lewis.m3u</externallink>
+</item>
 <item>
 <title>[B]-= [COLOR mediumvioletred]Freddie's Toros[/COLOR] =-[/B]</title>
 <link>http://ignoreme.com</link>
