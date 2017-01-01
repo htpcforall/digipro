@@ -1,15 +1,14 @@
 <item>
-<title>[COLOR yellow] DRAGON TEST 4[/COLOR]</title>
+<title>[COLOR yellow] DRAGON TEST 5[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[makelist.param1]</title>
+        <title>[COLOR skyblue]link[makelist.param1][/COLOR]</title>
         <link>$doregex[makelist2]</link>
-        <thumbnail></thumbnail>
-		<fanart></fanart>
+        <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)\n]]></expres>
+<expres><![CDATA[title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)]]></expres>
 <page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&amp;method=dragon_sports</page>
 <cookieJar></cookieJar>
 </regex>
