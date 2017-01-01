@@ -1271,9 +1271,8 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 -->
 
 <item>
-<title>[B]DS3[/B]</title>
-<link>http://ignoreme.com</link>
-<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_go|User-Agent=00:11:6c:00:10:dd</externallink>
+<title>[B]bangels[/B]</title>
+<link>http://nlds128.cdnak.neulion.com/nlds/nfl/bengals/as/live/bengals_hd_4500.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=1662555&hdnea=expires=1483292147~access=/nlds/nfl/bengals/as/live/*~md5=2cb98a2f4747e30d55b90baabb76d1a7|Connection=keep-alive&Cookie=nlqptid=nltid=nflgp&nltdt=6&nltnt=1&uid=1662555&hdnea=expires%3D1483292147%7Eaccess%3D%2Fnlds%2Fnfl%2Fbengals%2Fas%2Flive%2F*%7Emd5%3D2cb98a2f4747e30d55b90baabb76d1a7&Accept-encoding=identity,+gzip,+deflate&User-Agent=Safari/537.36+Mozilla/5.0+AppleWebKit/537.36+Chrome/31.0.1650.574500 </link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1305,6 +1304,8 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <cookieJar></cookieJar>
 </regex>
 </item>
+
+
 
 <!-- TEST -->
 <!--
