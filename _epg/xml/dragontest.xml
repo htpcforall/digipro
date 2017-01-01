@@ -1,16 +1,16 @@
 <item>
-<title>[COLOR yellow] DRAGON GO TEST[/COLOR]</title>
+<title>[COLOR yellow]TEST[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>http:/[makelist.param3]</link>
-<referer>http://dragonstr.com/</referer>
+<referer>http://viewstationusa.org/</referer>
 <thumbnail>[makelist.param4]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)\s]]></expres>
-<page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&amp;method=dragon_sports</page>
+<page>http://stream-145310.appspot.com/viewstationusa.org/new/test_stream.html</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
