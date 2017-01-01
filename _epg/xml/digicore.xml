@@ -1277,20 +1277,18 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 </item>
 
 <item>
-<title>DRAGON TEST</title>
+<title>[COLOR yellow] DRAGON TEST 2[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[makelist.param1]</title>
         <link>$doregex[makelist2]</link>
-        <thumbnail>http://gnula.se/img/logo.png</thumbnail>
+        <thumbnail>[makelist.param2]</thumbnail>
+		<fanart>[makelist.param3]</fanart>
 ]]></listrepeat>
-<expres><![CDATA[title=(.+?.*)]]></expres>
-<page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03</page>
-<referer>http://dragonstr.com/</referer>
-<useragent>00:11:6c:00:10:dd</useragent>
-<method>dragon_sports</method>
+<expres><![CDATA[title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)\s]]></expres>
+<page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_sports</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -1299,10 +1297,11 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
   <listrepeat><![CDATA[
         <title>[makelist2.param1]</title>
         <link>$doregex[makelist3]</link>
-        <thumbnail>http://gnula.se/img/logo.png</thumbnail>
+        <thumbnail>[makelist2.param4]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
 ]]></listrepeat>
-<expres><![CDATA[url=(.+?.*)]]></expres>
-<page>[makelist.param2]</page>
+<expres><![CDATA[title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)\s]]></expres>
+<page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_sports</page>
 <referer>http://dragonstr.com/</referer>
 <cookieJar></cookieJar>
 </regex>
