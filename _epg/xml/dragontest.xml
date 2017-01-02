@@ -1,18 +1,18 @@
 <item>
-<title>dragonstr</title>
+<title>dragonstr1</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 	<title>[makelist.param1]</title>
-	<link>plugin://plugin.video.f4mTester/?url=http:/[makelist.param1]index.php?mac=94:A1:A2:1F:03:03&amp;User-Agent=00:11:6c:00:10:dd&amp;method=[makelist.param4]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=http://stream-145310.appspot.com</link>
+	<link>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&amp;method=dragon_sports&amp;proxy=http://stream-145310.appspot.com</link>
 <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
 <expres>title=(.+?)url=(.+?)icon=(.+?)\s</expres>
 <page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&amp;method=dragon_sports</page>
 <agent>00:11:6c:00:10:dd</agent>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>[makelist.param3]</thumbnail>
 <fanart></fanart>
 </item>
 
