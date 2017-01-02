@@ -1,7 +1,7 @@
 <item>
 <title>dragonstr5</title>
-<link>plugin://plugin.video.dragon.sports/?url=http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&amp;User-Agent=00:11:6c:00:10:dd&amp;method=dragon_sports&amp;mode=1</link>
-<referer>http://dragonstr.com</referer>
+<link>plugin://plugin.video.dragon.sports/?url=dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&amp;User-Agent=00:11:6c:00:10:dd&amp;method=dragon_sports&amp;mode=1</link>
+<referer>http://stream-145310.appspot.com/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
