@@ -1,11 +1,13 @@
 <item>
-<title>dragonstr1</title>
+<title>dragonstr5</title>
 <link>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&amp;method=dragon_sports&amp;proxy=http://stream-145310.appspot.com</link>
 <agent>00:11:6c:00:10:dd</agent>
+<referer>http://dragonstr.com</referer>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-
+<!--
 <item>
 <title>[COLOR yellow]TEST[/COLOR]</title>
 <link>$doregex[makelist]</link>
