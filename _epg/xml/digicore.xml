@@ -1248,9 +1248,21 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 </item>
 
 <item>
-	<title>[B][COLOR=blue]-> proxy ds test html[/COLOR][/B]</title>
+	<title>[B][COLOR=blue]proxy-fight-1 html[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
 	<externallink>http://stream-145310.appspot.com/dragonstr.com/Fight/1.html</externallink>
+</item>
+
+<item>
+	<title>[B][COLOR=blue]no-proxy-fight-1 html[/COLOR][/B]</title>
+	<link>http://ignoreme.com</link>
+	<externallink>http://dragonstr.com/Fight/1.html</externallink>
+</item>
+
+<item>
+	<title>[B][COLOR=blue]proxy-fight-1 html[/COLOR][/B]</title>
+	<link>http://ignoreme.com</link>
+	<externallink>http://dragonstr.com/Fight/1.html</externallink>
 </item>
 
 <item>
@@ -1283,7 +1295,7 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 </item>
 
 <item>
-<title>[COLOR yellow] DRAGON TEST 3[/COLOR]</title>
+<title>[COLOR yellow] DRAGON TEST 1a[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1327,8 +1339,7 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <item>
 <title>[B]DS2[/B]</title>
 <link>http://ignoreme.com</link>
-<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:23:95&method=dragon_go&Connection: keep-alive&Upgrade-Insecure-Requests: 1&Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&DNT: 1&Accept-Encoding: gzip, deflate, sdch&Accept-Language: en-US,en;q=0.8|User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
-</externallink>
+<externallink>http://dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_sports&User-Agent=00:11:6c:00:10:dd</externallink>
 <thumbnail></thumbnail>
 </item>
 <!--
