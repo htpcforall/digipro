@@ -1302,11 +1302,45 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
   <listrepeat><![CDATA[
         <title>[makelist.param1]</title>
         <link>$doregex[makelist2]</link>
-        <thumbnail>[makelist.param2]</thumbnail>
-		<fanart>[makelist.param3]</fanart>
+        <thumbnail>[makelist.param3]</thumbnail>
+		<fanart>[makelist.param4]</fanart>
 ]]></listrepeat>
 <expres><![CDATA[title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)\s]]></expres>
-<page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_sports</page>
+<page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_sports&User-Agent=00:11:6c:00:10:dd</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow] DRAGON TEST 1b[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param1]</title>
+        <link>$doregex[makelist2]</link>
+        <thumbnail>[makelist.param3]</thumbnail>
+		<fanart>[makelist.param4]</fanart>
+]]></listrepeat>
+<expres><![CDATA[r'title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)\s]]></expres>
+<page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_sports&User-Agent=00:11:6c:00:10:dd</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow] DRAGON GO TEST 1c[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param1]</title>
+        <link>$doregex[makelist2]</link>
+        <thumbnail>[makelist.param3]</thumbnail>
+		<fanart>[makelist.param4]</fanart>
+]]></listrepeat>
+<expres><![CDATA[r'title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)\n]]></expres>
+<page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_go&User-Agent=00:11:6c:00:10:dd</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
