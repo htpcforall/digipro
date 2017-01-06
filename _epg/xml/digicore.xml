@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR limegreen]NEW UPDATE 12-22-2016[/COLOR] Testing USTVNOW channels - More comming soon.[/B]</title>
+<title>[B][COLOR limegreen]NEW UPDATE 01-06-2016[/COLOR] Testing USTVNOW channels - More comming soon.[/B]</title>
 <!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
@@ -10,7 +10,7 @@
 
 <item>
 <title>ABC</title>
-<link>http://stream-145310.appspot.com/www.arconaitv.me/abcde/</link>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png&amp;title=ABC&amp;url=/www.arconaitv.me/abcde/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=ABC&title=ABC&winID=10025&_options_sf&quot;</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
 <fanart></fanart>
 </item>
