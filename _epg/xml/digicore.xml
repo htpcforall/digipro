@@ -26,13 +26,13 @@
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png&amp;title=The CW&amp;url=/www.arconaitv.me/tcw/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=The CW&title=The CW&winID=10025&_options_sf&quot;</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
-
+ <!--
 <item>
 	<title>FOX</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=http://www.thelogodb.com/images/media/logo/rwptru1436892145.png&amp;title=Fox&amp;url=/www.arconaitv.me/foxxy/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=Fox&title=Fox&winID=10025&_options_sf&quot;</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 </item>
-
+-->
 <item> 
 	<title>NBC</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png&amp;title=NBC&amp;url=/www.arconaitv.me/nnnbsee/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=NBC&title=NBC&winID=10025&_options_sf&quot;</link>
