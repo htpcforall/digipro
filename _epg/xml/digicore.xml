@@ -1,11 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR limegreen]NEW UPDATE 01-06-2016[/COLOR] Testing USTVNOW channels - More comming soon.[/B]</title>
+<title>[B][COLOR limegreen]NEW UPDATE 01-06-2016[/COLOR] For now, please use the link below for the first 7 CH's.[/B]</title>
 <!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
 <fanart></fanart>
+</item>
+
+<item><title>USTVnow Top 7 Networks</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=live&quot</jsonrpc>
+	<thumbnail>special://home/addons/plugin.video.ustvnow.tva/resources/images/skins/1/tv.png</thumbnail>
+	<fanart></fanart>
 </item>
 
 <item>
@@ -26,13 +33,13 @@
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png&amp;title=The CW&amp;url=/www.arconaitv.me/tcw/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=The CW&title=The CW&winID=10025&_options_sf&quot;</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cw.png</thumbnail>
 </item>
- <!--
+ 
 <item>
 	<title>FOX</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=http://www.thelogodb.com/images/media/logo/rwptru1436892145.png&amp;title=Fox&amp;url=/www.arconaitv.me/foxxy/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=Fox&title=Fox&winID=10025&_options_sf&quot;</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 </item>
--->
+
 <item> 
 	<title>NBC</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png&amp;title=NBC&amp;url=/www.arconaitv.me/nnnbsee/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=NBC&title=NBC&winID=10025&_options_sf&quot;</link>
@@ -44,7 +51,7 @@
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=http://www.thelogodb.com/images/media/logo/vvrrur1480815041.png&amp;title=PBS&amp;url=/www.arconaitv.me/ppp/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=PBS&title=PBS&winID=10025&_options_sf&quot;</link>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/vvrrur1480815041.png</thumbnail>
 </item>
-
+<!--
 <item> 
 	<title>A&E</title>
 	<link>plugin://plugin.video.digilive/?play=True&amp;img=https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png&amp;title=A&#038;E&amp;url=/www.arconaitv.me/ae/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=duration=420&label=A&E&title=A&E&winID=10025&_options_sf&quot;</link>
@@ -131,8 +138,7 @@
 
 <item>
 	<title>SYFY</title> 
-	<link>plugin://plugin.video.digilive/?play=True&amp;img=https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png&amp;title=SyFy&amp;url=/www.arconaitv.me/sify/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=SyFy&title=SyFy&winID=10025&_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail> 
+	<link>plugin://plugin.video.digilive/?play=True&amp;img=https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png&amp;title=SyFy&amp;url=/www.arconaitv.me/sify/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=SyFy&title=SyFy&winID=10025&_options_sf&quot;</link>	<thumbnail>https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail> 
 </item>
 
 <item> 
@@ -141,33 +147,37 @@
 	<thumbnail>http://mymagicstack.com/moveit/static/pics/tbs.jpg</thumbnail>
 </item>
 
-<item> 
-	<title>TNT</title>
-	<link>plugin://plugin.video.digilive/?play=True&amp;img=https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png&amp;title=TNTUSA&amp;url=/www.arconaitv.me/teentee/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=TNTUSA&title=TNTUSA&winID=10025&_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
+<item> 	<title>TNT</title>
+<link>plugin://plugin.video.digilive/?play=True&amp;img=https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png&amp;title=TNTUSA&amp;url=/www.arconaitv.me/teentee/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=TNTUSA&title=TNTUSA&winID=10025&_options_sf&quot;</link>	<thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
 </item>
-
+-->
 <item> 
 	<title>USA</title>
-	<link>plugin://plugin.video.digilive/?play=True&amp;img=https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png&amp;title=CBS&amp;url=/www.arconaitv.me/ceebees/&amp;site=arconai&amp;mode=play_special&amp;sf_options=fanart=special://home/addons\plugin.video.digilive/fanart.jpg&meta=label=CBS&title=CBS&winID=10025&_options_sf&quot;</link>
-	<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
+	<link>http://216.31.255.235/hlsl/3/USApa2eyaxaP7pR/01.m3u8</link>	<thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
+</item>
+
+<item>
+<title>COMEDY CENTRAL</title>
+<link>http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/01.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://216.31.255.235/hlsl/11/SCIENCE/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/01.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxpwqr1433452872.png</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY VELOCITY</title>
-<link>http://216.31.255.235/hlsl/6/VELOCITY/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/01.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysysuu1434506168.png</thumbnail>
 </item>
 
 <item>
 <title>FXX</title>
-<link>http://216.31.255.235/hlsl/4/FXX/03.m3u8</link>
+<link>http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/01.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -182,20 +192,20 @@
 
 <item>
 <title>NAT GEO WILD</title>
-<link>http://216.31.255.235/hlsl/1/NATWLD/02.m3u8</link>
+<link>http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/01.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
 
 <item>
 <title>TRUTV</title>
-<link>http://216.31.255.235/hlsl/7/TRUTV/02.m3u8</link>
+<link>http://216.31.255.235/hlsl/12/tupref5GethaUNIVERSAL/01.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>ID</title>
-<link>http://216.31.255.235/hlsl/8/INVDSC/02.m3u8</link>
+<link>http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/01.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxxupw1444920353.png</thumbnail>
 </item>
 
@@ -215,7 +225,7 @@
 <!--
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>http://live.softiptv.com:9900/live/3month/3month/19416.m3u8</link>
+<link>http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/01.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwyqwt1462874376.png</thumbnail>
 </item>
 
@@ -268,14 +278,6 @@
 <link>http://50.7.141.34:8000/live/mama7/mama7/2604.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
-
-<item>
-<title>COMEDY CENTRAL</title>
-<link>http://216.31.255.235/hlsl/1/COMEDY/03.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
-</item>
-
 
 <item>
 <title>DISNEY CHANNEL</title>
@@ -465,11 +467,7 @@
 <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tusqrx1477576863.png</thumbnail>
 </item>
-<item>
-<title>ABC NEWS ALT</title>
-<link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8518.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/tusqrx1477576863.png</thumbnail>
-</item>
+
 <item>
 <title>CBSN</title>
 <link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8</link>
@@ -502,13 +500,13 @@
 <link>http://70.35.207.101:8080/live/TEST/TkmDsJ1hlp/29.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ywwywr1433963876.png</thumbnail>
 </item>
--->
+
 <item>
 <title>CNN</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8519.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyswus1433941237.png</thumbnail>
 </item>
-
+-->
 <item>
 <title>NBC NEWS</title>
 <link>http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/master.m3u8?hdnea=st=1474409224~exp=1474409524~acl=/*~hmac=763d8c907ce0ed32823560ee9b8e782f3099453f3864709d95f832ce1933e0d4&amp;fw_mvpd=53da17a30bd0d3c946a41c86cb5873f1&amp;fw_csid=nbc_directv_web_live&amp;fw_caid=nbc_Live_12345&amp;anv_user=4a0aad5c1cb7bef2f9c9451f37fc720829555&amp;fw_prof=169843:nbcu_anvato_web&amp;fw_network=169843&amp;fw_ltlg=&amp;fw_mvpd_id=DTV&amp;fw_sdk_flag= slcb vicb&amp;fw_metr=7&amp;_dev=web&amp;fw_sdk_flag_safe= slcb vicb&amp;_tkx_anvack=nbcu_dtv_local_web_prod_b266cf49defe255fd4426a97e27c09e513e9f82f&amp;_tkx_callsign=nbcpacific&amp;_tkx_hzip=03249&amp;_tkx_ehzip=undefined&amp;anvauth=tb=0~te=1474409325~sgn=1b77f92af8a3e342f7b6d2bd238cfced0c93adcc536a4c39d0950da113196f8b&amp;t=1474409235&amp;X-Anvato-Adst-Auth=E2ST2 WV5dZBkNoTtXU4WDNB8Y w Y hPIvb/UsNK9XcuHarHmd8o8vt6PMxadch&amp;mode=15</link>
