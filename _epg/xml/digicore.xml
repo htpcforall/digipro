@@ -8,9 +8,9 @@
 <fanart></fanart>
 </item>
 
-<item><title>USTVnow Top 7 Networks</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=live&quot</jsonrpc>
+<item><title>USTVnow Top 7 Networks more stable than the 7 below</title>
+<link>http://Igoreme</link>
+	<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=live</jsonrpc>
 	<thumbnail>special://home/addons/plugin.video.ustvnow.tva/resources/images/skins/1/tv.png</thumbnail>
 	<fanart></fanart>
 </item>
