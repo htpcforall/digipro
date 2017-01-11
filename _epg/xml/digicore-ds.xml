@@ -1,0 +1,152 @@
+<!-- DIGICORE DS -->
+
+<item>
+    <title>[B][COLOR grey]-= [/COLOR][COLOR red]Dragon [/COLOR][COLOR white]Streams [/COLOR][COLOR blue]Mod[/COLOR][COLOR grey] =-[/COLOR][/B]</title>
+	<link>http://google.com</link>
+	<externallink></externallink>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/dz.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR grey]HD Sports Unleashed. Updated 01-10-2017[/COLOR][/B]</title>
+	<link>http://google.com</link>
+	<externallink></externallink>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/dz.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/dsfi.xml</externallink>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]N[/COLOR][COLOR=blue]FL[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/dsnf.xml</externallink>
+	<thumbnail>http://dragonstr.com/new_ds/images/NFL.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+<!--
+<item><title>[B][COLOR=grey]N[/COLOR][COLOR=blue]CAA Football[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https://goo.gl/RzWGds&amp;mode=11&amp;name=[B][COLOR=grey]N[/COLOR][COLOR=blue]CAA Football[/COLOR][/B]&amp;url=http://dragonstr.com/index2/NCAAF.html</jsonrpc>
+	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+-->
+<item>
+	<title>[B][COLOR=grey]N[/COLOR][COLOR=blue]CAA (ESPN EVENTS)[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https://goo.gl/UrbF9X&amp;mode=11&amp;name=[B][COLOR=grey]N[/COLOR][COLOR=blue]CAA (ESPN 3 Events)[/COLOR][/B]&amp;url=http://dragonstr.com/index2/ESPN3.html</jsonrpc>
+	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]N[/COLOR][COLOR=blue]BA[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/NBA.png&amp;mode=11&amp;name=[B][COLOR=grey]N[/COLOR][COLOR=blue]BA[/COLOR][/B]&amp;url=http://dragonstr.com/index2/nba1.html</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/NBA.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]N[/COLOR][COLOR=blue]HL[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/NHL.png&amp;mode=11&amp;name=[B][COLOR=grey]N[/COLOR][COLOR=blue]HL[/COLOR][/B]&amp;url=http://dragonstr.com/Hockey/Menu.html</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/NHL.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]O[/COLOR][COLOR=blue]THER SPORTS[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https://assets.primesport.com/prod/images/kansas-speedway-logo.png&amp;mode=11&amp;name=[B][COLOR=grey]O[/COLOR][COLOR=blue]ther Stuff[/COLOR][/B]&amp;url=http://dragonstr.com/index2/Nascar.html</jsonrpc>
+	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]W[/COLOR][COLOR=blue]WE[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/WWE/WWE.jpg&amp;mode=11&amp;name=[B][COLOR=grey]W[/COLOR][COLOR=blue]WE[/COLOR][/B]&amp;url=http://dragonstr.com/WWE/Menu.html</jsonrpc>
+	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]P[/COLOR][COLOR=blue]AC Networks[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http%3A%2F%2Fdragonstr.com%2Fchan%2FPAC.html&mode=11&name=%5BB%5D%5BCOLOR%3Dred%5DP%5B%2FCOLOR%5D%5BCOLOR%3Dblue%5DAC+Networks+%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=https%3A%2F%2Fgoo.gl%2FhlWNrX</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/PacNetworks.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]S[/COLOR][COLOR=blue]ports Networks[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/chan/SChan.html&amp;mode=11&amp;name=[B][COLOR=grey]L[/COLOR][COLOR=blue]ive Sports Channels + Other Events [/COLOR][/B]&amp;iconimage=http://dragonstr.com/new_ds/images/Television.png</jsonrpc>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/net.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/Replays.png&amp;mode=1&amp;name=[B][COLOR=grey]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]&amp;url=dragon_sports_replays</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=grey]N[/COLOR][COLOR=blue]ews Networks[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/DragonStreams.png&amp;mode=11&amp;name=[B][COLOR=grey]N[/COLOR][COLOR=blue]ews[/COLOR][/B]&amp;url=http://dragonstr.com/chan/News.html</jsonrpc>
+	<thumbnail>special://home/addons/plugin.video.dragon.sports/icon.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<!--
+<item><title>[B][COLOR=grey]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/Replays.png&amp;mode=1&amp;name=[B][COLOR=grey]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]&amp;url=dragon_sports_replays</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+-->
+<!--
+<item><title>[COLOR=blue]MLB info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/info/MLB.html&amp;mode=11&amp;name=[COLOR=blue]Click here for MLB info (Fixed sorry Jen A.)[/COLOR]&amp;iconimage=http://www.clker.com/cliparts/B/r/u/H/w/O/information-icon-hi.png</jsonrpc>
+	<thumbnail>http://goo.gl/Vpc2IA</thumbnail>
+</item>
+
+<item><title>[COLOR=blue]UFC info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/info/Fight.html&amp;mode=11&amp;name=[COLOR=blue]Click here for UFC info[/COLOR]&amp;iconimage=https://lh4.googleusercontent.com/-QeD1gcM_f7k/AAAAAAAAAAI/AAAAAAABL_U/c-JbniQlcKQ/s0-c-k-no-ns/photo.jpg</jsonrpc>
+	<thumbnail>https://lh4.googleusercontent.com/-QeD1gcM_f7k/AAAAAAAAAAI/AAAAAAABL_U/c-JbniQlcKQ/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR=blue]NBA info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/info/NBA.html&amp;mode=11&amp;name=[COLOR=blue]Click here for NBA info[/COLOR]&amp;iconimage=http://data.apkhere.com/data/94/com.nbadigital.gametimelite/6.06/icon.png</jsonrpc>
+	<thumbnail>http://data.apkhere.com/data/94/com.nbadigital.gametimelite/6.06/icon.png</thumbnail>
+</item>
+
+<item><title>[COLOR=blue]NHL info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/info/NHL.html&amp;mode=11&amp;name=[COLOR=blue]Click here for NHL info[/COLOR]&amp;iconimage=http://vsetreneri.ru/upload/medialibrary/72e/72eae1fe868fbe38bdf9c40aecaaed2b.jpg</jsonrpc>
+	<thumbnail>http://vsetreneri.ru/upload/medialibrary/72e/72eae1fe868fbe38bdf9c40aecaaed2b.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR=blue]NHL info[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?url=http://dragonstr.com/info/NHL.html&amp;mode=11&amp;name=[COLOR=blue]Click here for NHL info[/COLOR]&amp;iconimage=http://vsetreneri.ru/upload/medialibrary/72e/72eae1fe868fbe38bdf9c40aecaaed2b.jpg</jsonrpc>
+	<thumbnail>http://vsetreneri.ru/upload/medialibrary/72e/72eae1fe868fbe38bdf9c40aecaaed2b.jpg</thumbnail>
+</item>
+-->
