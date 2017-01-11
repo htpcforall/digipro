@@ -1,0 +1,28 @@
+<item>
+    <title>[B][COLOR=red]F[/COLOR][COLOR=white]ight Pass[/COLOR][/B]</title>
+	<link>http://google.com</link>
+	<externallink></externallink>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[B][COLOR grey]Be sure to catch the next live event![/COLOR][/B]</title>
+	<link>http://google.com</link>
+	<externallink></externallink>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[B][COLOR=red]UFC: 207 [/COLOR][COLOR=white]W[/COLOR][COLOR=blue]atch Replay Below[/COLOR][COLOR=white] 7:30 EST[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https://goo.gl/OY37sX&amp;mode=11&amp;name=[B][COLOR=red]UFC: 207 [/COLOR][COLOR=white]E[/COLOR][COLOR=blue]arly Prelims[/COLOR][COLOR=white] 7:30 EST[/COLOR][/B]&amp;url=http://dragonstr.com/Fight/1.html</jsonrpc>
+	<thumbnail>https://goo.gl/OY37sX</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[B][COLOR=red]UFC: [/COLOR][COLOR=white]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/Fight/images/205.jpg&amp;mode=11&amp;name=[B][COLOR=red]UFC: [/COLOR][COLOR=white]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]&amp;url=http://dragonstr.com/Fight/Replay.html</jsonrpc>
+	<thumbnail>http://dragonstr.com/Fight/images/205.jpg</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>

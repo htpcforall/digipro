@@ -1,0 +1,28 @@
+<item>
+    <title>[B][COLOR=grey]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
+	<link>http://google.com</link>
+	<externallink></externallink>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[COLOR=grey]U[/COLOR][COLOR=blue]nsorted Replays[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/Replays.png&amp;mode=11&amp;name=[COLOR=grey]U[/COLOR][COLOR=blue]nsorted Replays[/COLOR]&amp;url=http://dragonstr.com/Fight/Replay.html</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[COLOR=grey]W[/COLOR][COLOR=blue]WE PPV Replays[/COLOR]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=http://dragonstr.com/new_ds/images/Replays.png&amp;mode=11&amp;name=[COLOR=grey]W[/COLOR][COLOR=blue]WE PPV Replays[/COLOR]&amp;url=http://dragonstr.com/Replays/WWE2016PPVs.html</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+
+<item><title>[B][COLOR=grey]P[/COLOR][COLOR=blue]roject D Replays[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.projectd</jsonrpc>
+	<thumbnail>http://dragonstr.com/new_ds/images/Replays.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
