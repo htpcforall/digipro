@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,NBC
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.m3u8
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.mpegts
 #EXTINF:-1,A&E
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/2.m3u8
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/2.mpegts
 #EXTINF:-1,ABC
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.m3u8
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts
 #EXTINF:-1,AMC
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.m3u8
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts
 #EXTINF:-1,E!
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
 #EXTINF:-1,FOX
