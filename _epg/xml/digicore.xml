@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR limegreen]01-11-2016 UPDATE -[/COLOR] Click Here force update check.[/B]</title>
+<title>[B][COLOR limegreen]01-11-2016 UPDATE -[/COLOR] Click Here to Clear Cache / Force Update.[/B]</title>
 <!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 <link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache&quot;</link>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/refresh_icon.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[B]-= [COLOR green]BONUS CH's - CLICK HERE - [/COLOR] =-[/B]</title>
+<title>[B]-= [COLOR limegreen]More Channels [/COLOR][COLOR yellow]CLICK HERE[/COLOR] =-[/B]</title>
 <link>http://ignoreme.com</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/freeiptv.m3u<externallink>
-<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/freip.xml<externallink>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
 </item>
 
 <item>
@@ -1146,7 +1146,7 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 </item>
 
 <item>
-<title>[B]uksa11[/B]</title>
+<title>[B]ukusa1[/B]</title>
 <link>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/ukusa1.m3u</link>
 <thumbnail></thumbnail>
 </item>
