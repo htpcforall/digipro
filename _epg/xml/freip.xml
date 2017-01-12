@@ -1,51 +1,51 @@
 <item>
 <title>NBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/2.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/2.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>ABC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>E!</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>FOX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SYFY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/7.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/7.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SPIKE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/8.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/8.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TBS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/9.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/9.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TNT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/10.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/10.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -55,366 +55,542 @@
 </item>
 <item>
 <title>LMN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/12.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/12.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>HallMark Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TruTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/14.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/14.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>OWN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/15.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/15.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>BBC AMERICA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/16.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/16.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>CITY TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/17.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/17.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>CTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/18.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/18.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Lifetime</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/20.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/20.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>CBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/21.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/21.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>HBO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>HBO 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/23.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/23.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>HBO COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>HBO ZONE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>HBO SIGNATURE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>HBO FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SHOWTIME</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SHOWTIME 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SHOWTIME SHOWCASE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/30.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/30.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Starz East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/31.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/31.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Starz West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/32.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/32.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Startz Edge</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Starz Cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Starz Encore</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/35.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/35.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Starz Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Starz N Black</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/37.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/37.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Starz Encode Western</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/38.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/38.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Cinemax East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Cinemax 5 StarMax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Cinemax ActionMax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/41.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/41.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Cinemax Moremax</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Space</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>The Movie Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/44.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/44.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>ESPN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>ESPN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>ESPN NU</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/47.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/47.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>NBC SN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>CBS SN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>NBA TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>MLB Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>NFL Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>NFL Now</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/55.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/55.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>NHL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>WWE Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TSN1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/58.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/58.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TSN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/59.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/59.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TSN 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/60.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/60.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TSN4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/61.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/61.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TSN5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/62.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/62.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SPORTSNET ONE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/63.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/63.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SPORTSNET ONTARIO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/64.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/64.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SPORTS WORLD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts</link>
+<title>SPORTSNET WORLD</title>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SPORTSNET 360</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SPORTSNET PACIFIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>CNN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/68.mpegts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBC News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/69.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/68.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>CNBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/70.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/70.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>MSNBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/71.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/71.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>FOX NEWS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/72.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/72.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>ABC NEWS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/73.mpegts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Fox Business</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/74.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/73.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>History</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/75.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/75.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>H2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/76.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/76.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/77.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/77.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/78.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/78.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Animal Planet</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/79.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/79.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Investigation Discovery</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/80.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/80.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Velocity</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/81.mpegts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Love Nature</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/82.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/81.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Food Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/83.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/83.mpegts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>HGTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/84.mpegts</link>
+<link>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/84.mpegts</link>
 <thumbnail></thumbnail>
+</item>
+<item>
+<title>[B]-= [COLOR limegreen]More Channels [/COLOR]=-[/B]</title>
+<link>http://ignoreme.com</link>
+<externallink></externallink><
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ABC News</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/420.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>AMC</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/790.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Animal Planet</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/422.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>CBS Action</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/465.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>CBS Reality</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/464.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>CNN</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/477.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Comedy Central</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/473.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/488.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery Investigation</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/491.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery Home & Health</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/490.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery Turbo</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/494.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Food Network</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/511.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Fox</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/513.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Fox News</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/512.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>History Channel</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/519.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Home</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/520.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>HGTV</title>
+<link>http://cp.dmbshare.net:8000/live/aaron/aaron/4570.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>National Geographic</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/544.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Nat Geo Wild</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/545.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>PBS</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/549.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Living</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/566.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Spike</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/650.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Syfy Channel</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/611.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>True Entertainment</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/617.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item> 
+<title>TLC</title> 
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 5</link> 
+</item> 	
+<item>
+<title>Weather Nation</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Music</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/542.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Classic</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/541.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Hits</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/540.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Dance</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/539.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>VH1</title>
+<link>http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/622.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
