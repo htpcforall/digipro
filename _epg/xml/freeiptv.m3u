@@ -13,24 +13,70 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts
 #EXTINF:-1,FX
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/7.mpegts
+#EXTINF:-1,Bravo
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/86.mpegts
 #EXTINF:-1,LMN
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/8.mpegts
 #EXTINF:-1,HallMark
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/9.mpegts
 #EXTINF:-1,USA Network
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/10.mpegts
-#EXTINF:-1,SyFY US
+#EXTINF:-1,SyFY
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/11.mpegts
-#EXTINF:-1,Spike US
+#EXTINF:-1,Spike
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/12.mpegts
 #EXTINF:-1,TNT
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts
-#EXTINF:-1,Comedy Central US
+#EXTINF:-1,Comedy Central
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/14.mpegts
-#EXTINF:-1,Lifetime US
+#EXTINF:-1,Lifetime
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/15.mpegts
-#EXTINF:-1,CNN US
+#EXTINF:-1,TBS
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts
+#EXTINF:-1,HGTV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts
+#EXTINF:-1,History
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts
+#EXTINF:-1,History Channel
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/76.mpegts
+#EXTINF:-1,H2 US
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts
+#EXTINF:-1,National Geographic US
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts
+#EXTINF:-1,Animal Planet US
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts
+#EXTINF:-1,Investigation Discovery  US
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts
+#EXTINF:-1,NatGeo Wild US
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts
+#EXTINF:-1,Discovery Channel US
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
+#EXTINF:-1,Nat Geo Wild
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/79.mpegts
+#EXTINF:-1,Animal Planet
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/80.mpegts
+#EXTINF:-1,ID
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/81.mpegts
+#EXTINF:-1,Velocity
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/82.mpegts
+#EXTINF:-1,HGTV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/84.mpegts
+#EXTINF:-1,DIY
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/85.mpegts
+#EXTINF:-1,CNN
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/16.mpegts
+#EXTINF:-1,CNN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/68.mpegts
+#EXTINF:-1,CNN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/69.mpegts
+#EXTINF:-1,CNBC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/70.mpegts
+#EXTINF:-1,MSNBC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/71.mpegts
+#EXTINF:-1,Fox News
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/74.mpegts
+#EXTINF:-1,ABC News
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/73.mpegts
 #EXTINF:-1,HBO EAST
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/17.mpegts
 #EXTINF:-1,Cinemas EAST
@@ -45,18 +91,16 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/21.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts
 #EXTINF:-1,Starz Encore
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/23.mpegts
-#EXTINF:-1,History US
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts
-#EXTINF:-1,H2 US
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts
-#EXTINF:-1,National Geographic US
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts
-#EXTINF:-1,Animal Planet US
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts
-#EXTINF:-1,Investigation Discovery  US
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts
-#EXTINF:-1,HGTV
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts
+#EXTINF:-1,HBO Zone
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
+#EXTINF:-1,HBO Signature
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
+#EXTINF:-1,HBO Family
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
+#EXTINF:-1,HBO Comedy
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
+#EXTINF:-1,Showtime West
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts
 #EXTINF:-1,ESPN
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/30.mpegts
 #EXTINF:-1,ESPN2
@@ -69,6 +113,24 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts
 #EXTINF:-1,NFL Network
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/35.mpegts
+#EXTINF:-1,NBC SN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts
+#EXTINF:-1,NFL Now
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/55.mpegts
+#EXTINF:-1,NHL Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts
+#EXTINF:-1,WWE
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
+#EXTINF:-1,TSN1
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/58.mpegts
+#EXTINF:-1,TSN2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/59.mpegts
+#EXTINF:-1,TSN3
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/60.mpegts
+#EXTINF:-1,TSN4
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/61.mpegts
+#EXTINF:-1,TSN5
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/62.mpegts
 #EXTINF:-1,TSN1
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts
 #EXTINF:-1,TSN2
@@ -79,118 +141,26 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/38.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts
 #EXTINF:-1,TSN5
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts
-#EXTINF:-1,TBS
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts
-#EXTINF:-1,NBC SN
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts
+#EXTINF:-1,Sportsnet
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/64.mpegts
+#EXTINF:-1,Sportsnet Central
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts
+#EXTINF:-1,Sportsnet 360
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
 #EXTINF:-1,Sportsnet ONE
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/44.mpegts
 #EXTINF:-1,Sportnet 360
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
-#EXTINF:-1,SPORTSNET WORLD
+#EXTINF:-1,Sportsnet World
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts
 #EXTINF:-1,Sportsnet Ontario
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/47.mpegts
-#EXTINF:-1,NatGeo Wild US
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts
-#EXTINF:-1,Discovery Channel US
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
-#EXTINF:-1,HBO ZONE
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
-#EXTINF:-1,HBO Signature
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
-#EXTINF:-1,HBO Family
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
-#EXTINF:-1,HBO Comedy
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
-#EXTINF:-1,Showtime West
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts
-
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/55.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/58.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/59.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/60.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/61.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/62.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/63.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/64.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/68.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/68.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/70.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/71.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/72.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/73.mpegts
 #EXTINF:-1,?
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/74.mpegts
 #EXTINF:-1,?
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/75.mpegts
 #EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/76.mpegts
-#EXTINF:-1,?
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/77.mpegts
 #EXTINF:-1,?
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/78.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/79.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/80.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/81.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/82.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/84.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/85.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/86.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/87.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/88.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/88.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/89.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/90.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/91.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/92.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/93.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/94.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/95.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/96.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/97.mpegts
-#EXTINF:-1,?
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/98.mpegts
+
