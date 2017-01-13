@@ -1,628 +1,630 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s1.png"    group-title="Entertainment US",NBC
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/1.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/1.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s2.png"    group-title="Entertainment US",A&E
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/2.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/2.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s3.png"    group-title="Entertainment US",AMC
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/3.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/3.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s4.png"    group-title="Entertainment US",ABC
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/4.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/4.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s5.png"    group-title="Entertainment US",Bravo US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/5.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/5.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s18.png"    group-title="Entertainment US",CBC
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/18.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/18.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s6.png"    group-title="Entertainment US",E! US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/6.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/6.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s7.png"    group-title="Entertainment US",FOX US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/7.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/7.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s8.png"    group-title="Entertainment US",SYFY US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/8.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/8.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s9.png"    group-title="Entertainment US",Spike US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/9.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/9.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s10.png"    group-title="Entertainment US",TBS US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/10.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/10.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s11.png"    group-title="Entertainment US",TNT
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/11.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/11.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s12.png"    group-title="Entertainment US",Comedy Central US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/12.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/12.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s13.png"    group-title="Entertainment US",Lifetime US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/13.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/13.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s14.png"    group-title="Entertainment US",TLC US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/14.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/14.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s15.png"    group-title="Entertainment US",FX US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/15.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/15.mpegts
 #EXTINF:-1    group-title="Entertainment US",IFC
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/318.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/318.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s16.png"    group-title="Entertainment US",PBS
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/16.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/16.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s19.png"    group-title="Entertainment US",CBS US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/19.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/19.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s20.png"    group-title="Entertainment US",FXX US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/20.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/20.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s21.png"    group-title="Entertainment US",LMN US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/21.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/21.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s22.png"    group-title="Entertainment US",Family US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/22.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/22.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s23.png"    group-title="Entertainment US",HallMark Channel
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/23.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/23.mpegts
 #EXTINF:-1    group-title="Entertainment US",USA Network
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/304.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/304.mpegts
 #EXTINF:-1    group-title="Entertainment US",ABC Family US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/269.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/269.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s24.png"    group-title="Entertainment US",BBC America
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/24.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/24.mpegts
 #EXTINF:-1    group-title="Entertainment US",BET TV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/28.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/28.mpegts
 #EXTINF:-1    group-title="Entertainment US",Destination America
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/306.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/306.mpegts
 #EXTINF:-1    group-title="Entertainment US",Reelz
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/322.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/322.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s25.png"    group-title="Entertainment US",Slice TV US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/25.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/25.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s26.png"    group-title="Entertainment US",TruTV US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/26.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/26.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s27.png"    group-title="Entertainment US",FYI US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/27.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/27.mpegts
 #EXTINF:-1    group-title="Entertainment US",OWN
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/120.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/120.mpegts
 #EXTINF:-1    group-title="Entertainment US",TV Land
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/308.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/308.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s29.png"    group-title="Entertainment US",KTLA US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/29.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/29.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s30.png"    group-title="Entertainment US",HiFi US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/30.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/30.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s31.png"    group-title="Entertainment US",WPIX US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/31.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/31.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s32.png"    group-title="Entertainment US",W Network US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/32.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/32.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s33.png"    group-title="Entertainment US",CW
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/33.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/33.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s34.png"    group-title="Entertainment US",MTV USA
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/34.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/34.mpegts
 #EXTINF:-1    group-title="Entertainment US",MTV2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/323.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/323.mpegts
 #EXTINF:-1    group-title="Entertainment US",CHCH
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/35.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/35.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s36.png"    group-title="Entertainment US",CITY TV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/36.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/36.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s37.png"    group-title="Entertainment US",CTV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/37.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/37.mpegts
 #EXTINF:-1    group-title="Entertainment US",Global TV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/38.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/38.mpegts
 #EXTINF:-1    group-title="Movies",HBO EAST
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/39.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/39.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s40.png"    group-title="Movies",HBO 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/40.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/40.mpegts
 #EXTINF:-1    group-title="Movies",HBO WEST
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/325.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/325.mpegts
 #EXTINF:-1    group-title="Movies",HBO Signature
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/41.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/41.mpegts
 #EXTINF:-1    group-title="Movies",HBO Zone
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/42.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/42.mpegts
 #EXTINF:-1    group-title="Movies",HBO Comedy
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/43.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/43.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s273.png"    group-title="Movies",HBO Family
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/273.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/273.mpegts
 #EXTINF:-1    group-title="Movies",Showtime East
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/44.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/44.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s45.gif"    group-title="Movies",Showtime 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/45.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/45.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s46.png"    group-title="Movies",Showtime West
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/46.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/46.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s47.png"    group-title="Movies",Showtime Showcase
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/47.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/47.mpegts
 #EXTINF:-1    group-title="Movies",Showtime Beyond
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/49.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/49.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s51.png"    group-title="Movies",Starz East
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/51.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/51.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s52.png"    group-title="Movies",Starz West
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/52.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/52.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s53.png"    group-title="Movies",Starz Edge
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/53.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/53.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s54.png"    group-title="Movies",Starz Cinema
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/54.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/54.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s55.png"    group-title="Movies",Starz Encore
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/55.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/55.mpegts
 #EXTINF:-1    group-title="Movies",Starz Comedy
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/56.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/56.mpegts
 #EXTINF:-1    group-title="Movies",Starz n Black
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/57.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/57.mpegts
 #EXTINF:-1    group-title="Movies",STARZ ENCORE WESTERNS
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/311.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/311.mpegts
 #EXTINF:-1    group-title="Movies",Starz Kids
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/58.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/58.mpegts
 #EXTINF:-1    group-title="Movies",Cinemax East
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/59.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/59.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s60.png"   tvg-id="I314.59961.schedulesdirect.org" group-title="Movies",Cinemax 5StarMax
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/60.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/60.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s61.png"    group-title="Movies",Cinemax ActionMax
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/61.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/61.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s62.png"    group-title="Movies",Cinemax Moremax
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/62.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/62.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s63.png"    group-title="Movies",Sky Movies Action
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/63.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/63.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s65.png"    group-title="Movies",Sky Movies Select
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/65.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/65.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s64.png"    group-title="Movies",Sky Movies Comedy
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/64.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/64.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s66.png"    group-title="Movies",Sky Movies Family
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/66.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/66.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s67.png"    group-title="Movies",Sky Movies Thriller
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/67.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/67.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s68.png"    group-title="Movies",Sky Movies Drama
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/68.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/68.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s69.png"    group-title="Movies",Sky Movies Sci-Fi
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/69.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/69.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s70.png"    group-title="Movies",Sky Movies Showcase
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/70.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/70.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s71.png"    group-title="Movies",Sky Movies Disney
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/71.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/71.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s72.png"    group-title="Movies",Sky Movies Modern Greats
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/72.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/72.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s73.png"    group-title="Movies",Sky Movies Premiere
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/73.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/73.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s74.png"    group-title="Movies",Super Channel 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/74.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/74.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s75.png"    group-title="Movies",Super Channel 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/75.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/75.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s76.png"    group-title="Movies",Super Channel 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/76.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/76.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s77.png"    group-title="Movies",Super Channel 4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/77.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/77.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s78.png"    group-title="Movies",SPACE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/78.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/78.mpegts
 #EXTINF:-1    group-title="Movies",TCM
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/309.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/309.mpegts
 #EXTINF:-1    group-title="Movies",TMC XTRA
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/310.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/310.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s286.png"    group-title="Movies",MOVIETIME
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/286.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/286.mpegts
 #EXTINF:-1    group-title="Movies",Action
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/305.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/305.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s90.png"    group-title="Movies",Film4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/90.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/90.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s79.png"    group-title="Movies",Sony Movies+1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/79.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/79.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s80.png"    group-title="Movies",Sony Movies US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/80.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/80.mpegts
 #EXTINF:-1    group-title="Movies",Star Movies
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/326.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/326.mpegts
 #EXTINF:-1    group-title="Movies",Star Movies Select
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/327.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/327.mpegts
 #EXTINF:-1    group-title="Movies",Star World
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/328.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/328.mpegts
 #EXTINF:-1    group-title="Movies",True Movies 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/287.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/287.mpegts
 #EXTINF:-1    group-title="Movies",True Movies 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/288.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/288.mpegts
 #EXTINF:-1    group-title="Movies",Movies4Men
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/277.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/277.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s115.png"    group-title="Movies",CBS Action
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/115.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/115.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s116.png"    group-title="Movies",CBS Drama
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/116.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/116.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s117.png"    group-title="Movies",CBS Reality
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/117.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/117.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s81.png"    group-title="Entertainment UK",BBC One
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/81.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/81.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s82.png"    group-title="Entertainment UK",BBC Two
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/82.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/82.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s83.png"    group-title="Entertainment UK",BBC Four
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/83.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/83.mpegts
 #EXTINF:-1    group-title="Entertainment UK",BBC Red Button 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/283.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/283.mpegts
 #EXTINF:-1    group-title="Entertainment UK",BBC Wales
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/282.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/282.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s84.png"    group-title="Entertainment UK",ITV 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/84.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/84.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s85.png"    group-title="Entertainment UK",ITV 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/85.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/85.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s86.png"    group-title="Entertainment UK",ITV 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/86.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/86.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s87.png"    group-title="Entertainment UK",ITV 4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/87.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/87.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s88.png"    group-title="Entertainment UK",ITVBe
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/88.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/88.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s89.png"    group-title="Entertainment UK",ITV Encore
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/89.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/89.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s91.png"    group-title="Entertainment UK",Sky One
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/91.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/91.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s92.png"    group-title="Entertainment UK",Sky Two
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/92.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/92.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s93.png"    group-title="Entertainment UK",Sky Living
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/93.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/93.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s94.png"    group-title="Entertainment UK",Alibi
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/94.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/94.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s95.jpg"    group-title="Entertainment UK",Eleven
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/95.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/95.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s96.jpg"    group-title="Entertainment UK",Fox UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/96.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/96.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s97.png"    group-title="Entertainment UK",Universal Channel UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/97.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/97.mpegts
 #EXTINF:-1    group-title="Entertainment UK",4MORE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/157.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/157.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s98.png"    group-title="Entertainment UK",5Star
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/98.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/98.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s99.png"    group-title="Entertainment UK",5USA
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/99.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/99.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s100.png"    group-title="Entertainment UK",4Seven
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/100.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/100.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s101.png"    group-title="Entertainment UK",E4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/101.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/101.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s102.png"    group-title="Entertainment UK",3E
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/102.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/102.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s109.png"    group-title="Entertainment UK",EDEN
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/109.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/109.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s105.png"    group-title="Entertainment UK",E! UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/105.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/105.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s106.png"    group-title="Entertainment UK",TLC UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/106.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/106.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s103.png"    group-title="Entertainment UK",Syfy UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/103.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/103.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s104.png"    group-title="Entertainment UK",Spike UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/104.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/104.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s107.png"    group-title="Entertainment UK",Comedy Central UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/107.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/107.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s108.png"    group-title="Entertainment UK",Comedy Central Extra UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/108.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/108.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s118.png"    group-title="Entertainment UK",DMAX UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/118.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/118.mpegts
 #EXTINF:-1    group-title="Entertainment UK",W
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/156.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/156.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s110.png"    group-title="Entertainment UK",Channel 4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/110.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/110.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s111.png"    group-title="Entertainment UK",Channel 5
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/111.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/111.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s112.png"    group-title="Entertainment UK",Gold
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/112.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/112.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s259.png"    group-title="Entertainment UK",Pick
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/259.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/259.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s267.png"    group-title="Entertainment UK",Really
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/267.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/267.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s113.png"    group-title="Entertainment UK",Challenge
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/113.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/113.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s114.png"    group-title="Entertainment UK",Watch
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/114.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/114.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s119.png"    group-title="Entertainment UK",Drama
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/119.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/119.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s256.png"    group-title="Entertainment UK",Yesterday
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/256.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/256.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s121.png"    group-title="Sports",ESPN
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/121.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/121.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s122.png"    group-title="Sports",ESPN 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/122.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/122.mpegts
 #EXTINF:-1    group-title="Sports",ESPN NEWS
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/321.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/321.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s123.png"    group-title="Sports",ESPN NU
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/123.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/123.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s124.png"    group-title="Sports",NBC Sports Network
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/124.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/124.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s125.png"    group-title="Sports",CBS Sports Network
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/125.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/125.mpegts
 #EXTINF:-1    group-title="Sports",Fox Sports 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/126.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/126.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s127.png"    group-title="Sports",Fox Sports 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/127.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/127.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s128.png"    group-title="Sports",NBA TV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/128.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/128.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s129.png"    group-title="Sports",MLB Network
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/129.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/129.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s130.png"    group-title="Sports",NFL Network
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/130.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/130.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s131.png"    group-title="Sports",NFL NOW
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/131.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/131.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s132.png"    group-title="Sports",NHL
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/132.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/132.mpegts
 #EXTINF:-1    group-title="Sports",NBCSN Golf
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/258.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/258.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s133.png"    group-title="Sports",WWE Network
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/133.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/133.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s134.png"    group-title="Sports",Tennis Channel
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/134.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/134.mpegts
 #EXTINF:-1    group-title="Sports",Bein Sports USA
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/289.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/289.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s261.png"    group-title="Sports",Poker Central
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/261.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/261.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s135.png"    group-title="Sports",TSN 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/135.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/135.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s136.png"    group-title="Sports",TSN 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/136.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/136.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s137.png"    group-title="Sports",TSN 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/137.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/137.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s138.png"    group-title="Sports",TSN 4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/138.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/138.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s139.png"    group-title="Sports",TSN 5
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/139.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/139.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s140.jpg"    group-title="Sports",SPORTSNET ONE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/140.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/140.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s141.png"    group-title="Sports",SPORTSNET ONTARIO
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/141.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/141.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s142.png"    group-title="Sports",SPORTSNET WORLD
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/142.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/142.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s143.jpg"    group-title="Sports",SPORTSNET 360
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/143.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/143.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s144.png"    group-title="Sports",SPORTSNET PACIFIC
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/144.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/144.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s145.png"    group-title="Sports",Sky Sports 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/145.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/145.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s146.png"    group-title="Sports",Sky Sports 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/146.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/146.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s147.png"    group-title="Sports",Sky Sports 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/147.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/147.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s148.png"    group-title="Sports",Sky Sports 4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/148.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/148.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s149.png"    group-title="Sports",Sky Sports 5
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/149.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/149.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s150.png"    group-title="Sports",Sky Sports F1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/150.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/150.mpegts
 #EXTINF:-1    group-title="Sports",Sky Sports Box Office
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/303.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/303.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s151.jpg"    group-title="Sports",Sky Sports Mix
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/151.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/151.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s152.png"    group-title="Sports",Sky Sports News
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/152.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/152.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s153.png"    group-title="Sports",BT Sports 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/153.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/153.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s154.png"    group-title="Sports",BT Sports 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/154.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/154.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s155.png"    group-title="Sports",BT Sports 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/155.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/155.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s160.png"    group-title="Sports",BT Sports ESPN
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/160.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/160.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s158.png"    group-title="Sports",BoxNation
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/158.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/158.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s159.png"    group-title="Sports",Premier Sports
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/159.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/159.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s161.png"    group-title="Sports",Racing UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/161.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/161.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s162.png"    group-title="Sports",At The Races
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/162.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/162.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s163.png"    group-title="Sports",Chelsea TV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/163.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/163.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s164.png"    group-title="Sports",LFCTV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/164.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/164.mpegts
 #EXTINF:-1    group-title="Sports",MUTV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/165.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/165.mpegts
 #EXTINF:-1    group-title="Sports",Willow
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/166.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/166.mpegts
 #EXTINF:-1    group-title="Sports",Motors TV UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/260.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/260.mpegts
 #EXTINF:-1    group-title="Sports",Eleven Sports
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/275.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/275.mpegts
 #EXTINF:-1    group-title="Sports",Eleven Sports plus
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/276.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/276.mpegts
 #EXTINF:-1    group-title="Sports",ByuTV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/279.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/279.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s175.png"    group-title="Sports",Eir Sports 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/175.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/175.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s176.png"    group-title="Sports",Eir Sports 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/176.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/176.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s254.png"    group-title="Sports",EuroSports 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/254.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/254.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s255.png"    group-title="Sports",EuroSprots 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/255.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/255.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s167.png"    group-title="Sports",Astro SuperSports
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/167.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/167.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s168.png"    group-title="Sports",Astro SuperSports 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/168.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/168.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s169.png"    group-title="Sports",Astro SuperSports 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/169.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/169.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s170.png"    group-title="Sports",Astro SuperSports 4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/170.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/170.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s171.png"    group-title="Sports",Arena Sports 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/171.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/171.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s172.png"    group-title="Sports",Arena Sports 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/172.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/172.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s173.png"    group-title="Sports",Arena Sports 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/173.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/173.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s174.png"    group-title="Sports",Arena Sports 4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/174.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/174.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s177.png"    group-title="Sports",Bein Sports 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/177.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/177.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s178.png"    group-title="Sports",Bein Sports 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/178.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/178.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s179.png"    group-title="Sports",Bein Sports 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/179.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/179.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s180.png"    group-title="Sports",BeinSports 4
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/180.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/180.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s181.png"    group-title="Sports",BeinSports 5
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/181.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/181.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s182.png"    group-title="Sports",BeinSports 6
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/182.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/182.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s183.png"    group-title="Sports",BeinSports 7
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/183.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/183.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s184.png"    group-title="Sports",BeinSports 8
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/184.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/184.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s185.png"    group-title="Sports",BeinSports 9
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/185.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/185.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s186.png"    group-title="Sports",BeinSports 10
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/186.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/186.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s187.png"    group-title="Sports",BeinSports 1 FR
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/187.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/187.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s188.png"    group-title="Sports",BeinSports 2 FR
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/188.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/188.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s189.png"    group-title="Sports",BeinSports 3 FR
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/189.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/189.mpegts
 #EXTINF:-1    group-title="Sports",PAC 12 LA
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/190.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/190.mpegts
 #EXTINF:-1    group-title="Sports",PAC 12 Network
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/191.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/191.mpegts
 #EXTINF:-1    group-title="Sports",PAC 12 Bay Area
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/192.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/192.mpegts
 #EXTINF:-1    group-title="Sports",PAC 12 Mountain
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/193.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/193.mpegts
 #EXTINF:-1    group-title="Sports",PAC 12 Oregon
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/194.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/194.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s195.png"    group-title="Sports",BeinSports ES
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/195.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/195.mpegts
 #EXTINF:-1    group-title="Culture & Science",Discovery Channel US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/196.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/196.mpegts
 #EXTINF:-1    group-title="Culture & Science",Discovery Family US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/271.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/271.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s197.png"    group-title="Culture & Science",History US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/197.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/197.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s198.png"    group-title="Culture & Science",H2 US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/198.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/198.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s199.png"    group-title="Culture & Science",National Geographic US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/199.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/199.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s200.png"    group-title="Culture & Science",Nat Geo Wild US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/200.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/200.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s201.png"    group-title="Culture & Science",Animal Planet US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/201.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/201.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s202.png"    group-title="Culture & Science",Investigation Discovery  US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/202.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/202.mpegts
 #EXTINF:-1    group-title="Culture & Science",Investigation Discovery X US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/324.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/324.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s203.png"    group-title="Culture & Science",Velocity
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/203.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/203.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s204.png"    group-title="Culture & Science",Love Nature
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/204.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/204.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s278.png"    group-title="Culture & Science",Food Network US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/278.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/278.mpegts
 #EXTINF:-1    group-title="Culture & Science",CREATE US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/272.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/272.mpegts
 #EXTINF:-1    group-title="Culture & Science",ESCAPE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/291.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/291.mpegts
 #EXTINF:-1    group-title="Culture & Science",SMITHSONIAN TV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/300.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/300.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s205.png"    group-title="Culture & Science",HGTV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/205.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/205.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s206.png"    group-title="Culture & Science",DIY Network
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/206.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/206.mpegts
 #EXTINF:-1    group-title="Culture & Science",NASA
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/207.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/207.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s208.png"    group-title="Culture & Science",Discovery Channel UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/208.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/208.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s209.png"    group-title="Entertainment UK",History UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/209.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/209.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s210.png"    group-title="Culture & Science",H2 UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/210.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/210.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s211.jpg"    group-title="Culture & Science",Discovery History UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/211.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/211.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s212.jpg"    group-title="Culture & Science",Discovery Science UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/212.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/212.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s213.png"    group-title="Culture & Science",Discovery Shed UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/213.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/213.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s214.png"    group-title="Culture & Science",Discovery Turbo UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/214.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/214.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s215.png"    group-title="Culture & Science",Discovery Home & Health UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/215.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/215.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s216.jpg"    group-title="Culture & Science",Animal Planet UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/216.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/216.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s217.png"    group-title="Culture & Science",National Geographic UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/217.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/217.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s218.png"    group-title="Culture & Science",Nat Geo Wild UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/218.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/218.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s219.png"    group-title="Culture & Science",Crime Investigation UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/219.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/219.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s220.png"    group-title="Culture & Science",Investigation Discovery UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/220.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/220.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s221.png"    group-title="Culture & Science",Good Food UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/221.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/221.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s222.png"    group-title="Culture & Science",Food Network UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/222.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/222.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s223.png"    group-title="Culture & Science",Travel Channel UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/223.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/223.mpegts
 #EXTINF:-1    group-title="Culture & Science",Quest UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/257.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/257.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s230.png"    group-title="News",ABC News
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/230.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/230.mpegts
 #EXTINF:-1    group-title="News",CBC News
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/302.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/302.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s225.jpg"    group-title="News",CNBC US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/225.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/225.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s224.png"    group-title="News",CNN US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/224.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/224.mpegts
 #EXTINF:-1    group-title="News",CP 24
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/292.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/292.mpegts
 #EXTINF:-1    group-title="News",BNN
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/319.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/319.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s228.png"    group-title="News",BBC News
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/228.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/228.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s227.jpg"    group-title="News",Fox News US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/227.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/227.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s226.png"    group-title="News",MSNBC
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/226.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/226.mpegts
 #EXTINF:-1    group-title="News",RT News
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/229.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/229.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s231.png"    group-title="News",Sky News
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/231.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/231.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s232.png"    group-title="News",CNN UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/232.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/232.mpegts
 #EXTINF:-1    group-title="News",WGN
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/270.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/270.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s268.png"    group-title="News",Weather Channel UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/268.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/268.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s263.png"    group-title="News",RTE News
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/263.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/263.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s233.png"    group-title="News",Euro News
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/233.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/233.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s234.png"    group-title="News",Fox Business US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/234.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/234.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s284.png"    group-title="News",Bloomberg TV UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/284.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/284.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s264.png"    group-title="News",C-Span 1
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/264.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/264.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s265.png"    group-title="News",C-Span 2
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/265.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/265.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s266.png"    group-title="News",C-Span 3
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/266.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/266.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s235.png"    group-title="Kids",Cartoon Network US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/235.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/235.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s236.png"    group-title="Kids",Nickelodeon US
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/236.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/236.mpegts
 #EXTINF:-1    group-title="Kids",Cartoon Network UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/237.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/237.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s238.png"    group-title="Kids",Boomerang UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/238.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/238.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s239.png"    group-title="Kids",Disney Channel UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/239.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/239.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s240.png"    group-title="Kids",Disney Junior UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/240.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/240.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s241.png"    group-title="Kids",Disney XD UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/241.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/241.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s242.png"    group-title="Kids",NickToons UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/242.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/242.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s243.png"    group-title="Kids",Nick Jr UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/243.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/243.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s244.png"    group-title="Kids",Nickelodeon UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/244.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/244.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s280.jpg"    group-title="Kids",Tiny Pop UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/280.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/280.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s245.png"    group-title="Kids",CBeebies
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/245.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/245.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s246.jpg"    group-title="Kids",BABY TV UK
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/246.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/246.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s247.jpg"    group-title="Kids",CITV
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/247.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/247.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s248.png"    group-title="Kids",CBBC
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/248.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/248.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s249.png"    group-title="Kids",RTE Jr
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/249.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/249.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s250.png"    group-title="Music",MTV Hits
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/250.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/250.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s251.png"    group-title="Music",MTV Dance
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/251.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/251.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s252.png"    group-title="Music",MTV Base
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/252.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/252.mpegts
 #EXTINF:-1    group-title="Music",Flava
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/281.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/281.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s253.png"    group-title="Music",MTV Live
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/253.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/253.mpegts
 #EXTINF:-1    group-title="Live Events",NFL Sunday Ticket 1 - OFFLINE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/312.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/312.mpegts
 #EXTINF:-1    group-title="Live Events",NFL Sunday Ticket 2  - OFFLINE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/313.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/313.mpegts
 #EXTINF:-1    group-title="Live Events",NFL Sunday Ticket 3 - OFFLINE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/314.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/314.mpegts
 #EXTINF:-1    group-title="Live Events",NFL Sunday Ticket 4 - OFFLINE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/315.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/315.mpegts
 #EXTINF:-1    group-title="Live Events",NFL Sunday Ticket 5 - OFFLINE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/316.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/316.mpegts
 #EXTINF:-1    group-title="Live Events",NFL Sunday Ticket 6 -  OFFLINE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/317.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/317.mpegts
 #EXTINF:-1    group-title="Sports",NFL REDZONE
-http://reustv.ddns.net:9090/load/dcf2bb3fd820/320.m3u8
+http://reustv.ddns.net:9090/load/dcf2bb3fd820/320.mpegts
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v547.jpg"  ,The Dead Room (2015)
+http://reustv.ddns.net:9090/load/vod/dcf2bb3fd820/547.m3u8
 #EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v541.jpg"  ,Holidays (2016)
 http://reustv.ddns.net:9090/load/vod/dcf2bb3fd820/541.m3u8
 #EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v540.jpg"  ,Hush (2016)
