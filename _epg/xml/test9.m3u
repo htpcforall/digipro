@@ -111,6 +111,8 @@ http://reustv.ddns.net:9090/load/57c99a2fbdf2/45.mpegts
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/46.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s47.png"    group-title="Movies",Showtime Showcase
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/47.mpegts
+#EXTINF:-1    group-title="Movies",Showtime Extreme
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/48.mpegts
 #EXTINF:-1    group-title="Movies",Showtime Beyond
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/49.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s51.png"    group-title="Movies",Starz East
@@ -455,75 +457,75 @@ http://reustv.ddns.net:9090/load/57c99a2fbdf2/193.mpegts
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/194.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s195.png"    group-title="Sports",BeinSports ES
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/195.mpegts
-#EXTINF:-1    group-title="Culture & Science",Discovery Channel US
+#EXTINF:-1    group-title="Culture And Science",Discovery Channel US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/196.mpegts
-#EXTINF:-1    group-title="Culture & Science",Discovery Family US
+#EXTINF:-1    group-title="Culture And Science",Discovery Family US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/271.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s197.png"    group-title="Culture & Science",History US
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s197.png"    group-title="Culture And Science",History US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/197.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s198.png"    group-title="Culture & Science",H2 US
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s198.png"    group-title="Culture And Science",H2 US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/198.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s199.png"    group-title="Culture & Science",National Geographic US
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s199.png"    group-title="Culture And Science",National Geographic US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/199.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s200.png"    group-title="Culture & Science",Nat Geo Wild US
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s200.png"    group-title="Culture And Science",Nat Geo Wild US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/200.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s201.png"    group-title="Culture & Science",Animal Planet US
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s201.png"    group-title="Culture And Science",Animal Planet US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/201.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s202.png"    group-title="Culture & Science",Investigation Discovery  US
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s202.png"    group-title="Culture And Science",Investigation Discovery  US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/202.mpegts
-#EXTINF:-1    group-title="Culture & Science",Investigation Discovery X US
+#EXTINF:-1    group-title="Culture And Science",Investigation Discovery X US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/324.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s203.png"    group-title="Culture & Science",Velocity
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s203.png"    group-title="Culture And Science",Velocity
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/203.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s204.png"    group-title="Culture & Science",Love Nature
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s204.png"    group-title="Culture And Science",Love Nature
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/204.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s278.png"    group-title="Culture & Science",Food Network US
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s278.png"    group-title="Culture And Science",Food Network US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/278.mpegts
-#EXTINF:-1    group-title="Culture & Science",CREATE US
+#EXTINF:-1    group-title="Culture And Science",CREATE US
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/272.mpegts
-#EXTINF:-1    group-title="Culture & Science",ESCAPE
+#EXTINF:-1    group-title="Culture And Science",ESCAPE
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/291.mpegts
-#EXTINF:-1    group-title="Culture & Science",SMITHSONIAN TV
+#EXTINF:-1    group-title="Culture And Science",SMITHSONIAN TV
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/300.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s205.png"    group-title="Culture & Science",HGTV
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s205.png"    group-title="Culture And Science",HGTV
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/205.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s206.png"    group-title="Culture & Science",DIY Network
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s206.png"    group-title="Culture And Science",DIY Network
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/206.mpegts
-#EXTINF:-1    group-title="Culture & Science",NASA
+#EXTINF:-1    group-title="Culture And Science",NASA
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/207.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s208.png"    group-title="Culture & Science",Discovery Channel UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s208.png"    group-title="Culture And Science",Discovery Channel UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/208.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s209.png"    group-title="Entertainment UK",History UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/209.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s210.png"    group-title="Culture & Science",H2 UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s210.png"    group-title="Culture And Science",H2 UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/210.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s211.jpg"    group-title="Culture & Science",Discovery History UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s211.jpg"    group-title="Culture And Science",Discovery History UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/211.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s212.jpg"    group-title="Culture & Science",Discovery Science UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s212.jpg"    group-title="Culture And Science",Discovery Science UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/212.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s213.png"    group-title="Culture & Science",Discovery Shed UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s213.png"    group-title="Culture And Science",Discovery Shed UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/213.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s214.png"    group-title="Culture & Science",Discovery Turbo UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s214.png"    group-title="Culture And Science",Discovery Turbo UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/214.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s215.png"    group-title="Culture & Science",Discovery Home & Health UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s215.png"    group-title="Culture And Science",Discovery Home & Health UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/215.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s216.jpg"    group-title="Culture & Science",Animal Planet UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s216.jpg"    group-title="Culture And Science",Animal Planet UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/216.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s217.png"    group-title="Culture & Science",National Geographic UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s217.png"    group-title="Culture And Science",National Geographic UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/217.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s218.png"    group-title="Culture & Science",Nat Geo Wild UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s218.png"    group-title="Culture And Science",Nat Geo Wild UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/218.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s219.png"    group-title="Culture & Science",Crime Investigation UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s219.png"    group-title="Culture And Science",Crime Investigation UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/219.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s220.png"    group-title="Culture & Science",Investigation Discovery UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s220.png"    group-title="Culture And Science",Investigation Discovery UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/220.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s221.png"    group-title="Culture & Science",Good Food UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s221.png"    group-title="Culture And Science",Good Food UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/221.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s222.png"    group-title="Culture & Science",Food Network UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s222.png"    group-title="Culture And Science",Food Network UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/222.mpegts
-#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s223.png"    group-title="Culture & Science",Travel Channel UK
+#EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s223.png"    group-title="Culture And Science",Travel Channel UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/223.mpegts
-#EXTINF:-1    group-title="Culture & Science",Quest UK
+#EXTINF:-1    group-title="Culture And Science",Quest UK
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/257.mpegts
 #EXTINF:-1  tvg-logo="http://reustv.ddns.net:9090/logos/s230.png"    group-title="News",ABC News
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/230.mpegts
@@ -623,12 +625,82 @@ http://reustv.ddns.net:9090/load/57c99a2fbdf2/316.mpegts
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/317.mpegts
 #EXTINF:-1    group-title="Sports",NFL REDZONE
 http://reustv.ddns.net:9090/load/57c99a2fbdf2/320.mpegts
+#EXTINF:-1    group-title="Entertainment UK",Lifetime UK
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/330.mpegts
+#EXTINF:-1    group-title="Kids",CARTOONITO
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/331.mpegts
+#EXTINF:-1    group-title="Spanish",Univision
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/332.mpegts
+#EXTINF:-1    group-title="Spanish",Telemundo
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/333.mpegts
+#EXTINF:-1    group-title="Spanish",Unimas
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/334.mpegts
+#EXTINF:-1    group-title="Spanish",Passiones
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/336.mpegts
+#EXTINF:-1    group-title="Spanish",Azteca
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/337.mpegts
+#EXTINF:-1    group-title="Spanish",Telecinco
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/339.mpegts
+#EXTINF:-1    group-title="Spanish",Galicia TV
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/340.mpegts
+#EXTINF:-1    group-title="Spanish",Fox Deportes
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/341.mpegts
+#EXTINF:-1    group-title="Spanish",ESPN Deportes
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/342.mpegts
+#EXTINF:-1    group-title="Spanish",Univision Deportes
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/343.mpegts
+#EXTINF:-1    group-title="Spanish",TeleDeportes
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/344.mpegts
+#EXTINF:-1    group-title="Spanish",MDeportes
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/345.mpegts
+#EXTINF:-1    group-title="Spanish",Canal Liga
+http://reustv.ddns.net:9090/load/57c99a2fbdf2/347.mpegts
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v561.jpg"  ,Fifty Shades of Black (2016)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/561.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v560.jpg"  ,One More Time (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/560.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v559.jpg"  ,The Invitation (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/559.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v558.jpg"  ,Raven's Touch (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/558.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v557.jpg"  ,Joy (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/557.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v556.jpg"  ,Mr. Right (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/556.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v555.jpg"  ,Temps (2016)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/555.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v554.jpg"  ,Badlands of Kain (2016)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/554.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v553.jpg"  ,Already Tomorrow in Hong Kong (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/553.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v552.png"  ,Boxing: Manny Pacquiao vs. Timothy Bradley III (20
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/552.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v551.jpg"  ,Darling (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/551.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v550.jpg"  ,Walt Before Mickey (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/550.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v549.jpg"  ,Couple in a Hole (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/549.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v548.jpg"  ,London Has Fallen (2016)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/548.m3u8
 #EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v547.jpg"  ,The Dead Room (2015)
 http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/547.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v546.jpg"  ,Space Cop (2016)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/546.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://reustv.ddns.net:9090/logos/v545.jpg"  ,Beterang (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/545.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v544.jpg"  ,Animus: The Tell-Tale Heart (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/544.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v543.jpg"  ,Colonia (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/543.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v542.jpg"  ,The Adderall Diaries (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/542.m3u8
 #EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v541.jpg"  ,Holidays (2016)
 http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/541.m3u8
 #EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v540.jpg"  ,Hush (2016)
 http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/540.m3u8
+#EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v539.jpg"  ,The VVitch: A New-England Folktale (2015)
+http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/539.m3u8
 #EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v538.jpg"  ,I Am Wrath (2016)
 http://reustv.ddns.net:9090/load/vod/57c99a2fbdf2/538.m3u8
 #EXTINF:-1 group-title="Ondeman" tvg-logo="http://reustv.ddns.net:9090/logos/v537.jpg"  ,Dead 7 (2016)

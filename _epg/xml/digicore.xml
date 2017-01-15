@@ -6,11 +6,16 @@
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/refresh_icon.png</thumbnail>
 	<fanart></fanart>
 </item>
-
 <item>
-	<title>[B]-= [COLOR limegreen]More Channels [/COLOR][COLOR yellow]CLICK HERE[/COLOR] =-[/B]</title>
+<title>[B]-= [COLOR green]TEST9 M3U [/COLOR] =-[/B]</title>
+<link>http://ignoreme.com</link>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/test9.m3u<externallink>
+<thumbnail>http://linc.ucy.ac.cy/isocial/images/stories/tv.png</thumbnail>
+</item>
+<item>
+	<title>[B]-= [COLOR limegreen]300+ Ch Live TV - TESTING[/COLOR][COLOR yellow]CLICK HERE[/COLOR] =-[/B]</title>
 	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/freip.xml<externallink>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/test9.xml<externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ustvplus.png</thumbnail>
 </item>
 
