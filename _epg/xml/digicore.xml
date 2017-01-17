@@ -1,6 +1,6 @@
 ﻿
 <item>
-	<title>[B][COLOR limegreen]01-17-2016 UPDATE[/COLOR] - [COLOR yellow]Click Here to Clear Cache \ Force Update.[COLOR][/B]	</title>
+	<title>[B][COLOR limegreen]01-15-2016 UPDATE[/COLOR] - [COLOR yellow]Click Here to Clear Cache \ Force Update.[COLOR][/B]	</title>
 	<!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 	<link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/refresh_icon.png</thumbnail>
@@ -8,7 +8,7 @@
 </item>
 
 <item>
-	<title>[B]-= [COLOR dodgerblue]300+ Ch's Live TV - TESTING[/COLOR][COLOR limegreen]CLICK HERE[/COLOR] =-[/B]</title>
+	<title>[B]-= [COLOR limegreen]300+ Ch's Live TV - TESTING[/COLOR][COLOR yellow]CLICK HERE[/COLOR] =-[/B]</title>
 	<link>http://ignoreme.com</link>
 	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/test9.m3u</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
@@ -1094,12 +1094,6 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <thumbnail></thumbnail>
 </item>
 -->
-<item>
-	<title>Test10</title>
-	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u</externallink>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
-</item>
 
 <item>
 <title>[B]-= [COLOR mediumvioletred]Freddie's Toros[/COLOR] =-[/B]</title>
