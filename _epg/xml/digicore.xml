@@ -1,6 +1,6 @@
 ﻿
 <item>
-	<title>[B][COLOR limegreen]01-15-2016 UPDATE[/COLOR] - [COLOR yellow]Click Here to Clear Cache \ Force Update.[COLOR][/B]	</title>
+	<title>[B][COLOR yellow]01-17-2016 UPDATE[/COLOR]-= [COLOR limegreen]Click to Force Check Update[/COLOR] =-[/B]	</title>
 	<!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 	<link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/refresh_icon.png</thumbnail>
@@ -8,9 +8,9 @@
 </item>
 
 <item>
-	<title>[B]-= [COLOR limegreen]300+ Ch's Live TV - TESTING[/COLOR][COLOR yellow]CLICK HERE[/COLOR] =-[/B]</title>
+	<title>[B][COLOR dodgerblue]NEW Live TV[/COLOR] -=[COLOR limegreen] CLICK HERE![/COLOR] =-[/B]</title>
 	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/test9.m3u</externallink>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/test7.m3u</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 
@@ -1144,11 +1144,6 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
 </item>
 
-<item>
-<title>[B]ukusa1[/B]</title>
-<link>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/ukusa1.m3u</link>
-<thumbnail></thumbnail>
-</item>
 <!--
 <item>
 <title>nfl</title>
@@ -1186,10 +1181,10 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 </item>
 -->
 <item>
-<title>[B]-= [COLOR green]TEST9 M3U [/COLOR] =-[/B]</title>
+<title>TEST 10</title>
 <link>http://ignoreme.com</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/test9.m3u<externallink>
-<thumbnail>http://linc.ucy.ac.cy/isocial/images/stories/tv.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u<externallink>
+<thumbnail></thumbnail>
 </item>
 
 <item>
