@@ -10,7 +10,7 @@
 <item>
 	<title>[B][COLOR dodgerblue]NEW Live TV[/COLOR] -=[COLOR limegreen] CLICK HERE![/COLOR] =-[/B]</title>
 	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/test7.m3u</externallink>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 
@@ -1187,7 +1187,7 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 </item>
 -->
 <item>
-<title>TEST 10</title>
+<title></title>
 <link>http://ignoreme.com</link>
 <externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u<externallink>
 <thumbnail></thumbnail>
