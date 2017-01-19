@@ -6,8 +6,7 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR grey]Coming up January 28th. UFC Fight Night: Shevchenko vs Pena
-5:00 PM - 7:00 PM PST[/COLOR][/B]</title>
+<item><title>[B][COLOR grey]Coming up January 28th. UFC Fight Night: Shevchenko vs Pena 5:00 PM - 7:00 PM PST[/COLOR][/B]</title>
 	<link>http://google.com</link>
 	<externallink></externallink>
 	<thumbnail>http://media.ufc.tv/generated_images_sorted//fight_286448_mediumThumbnail.jpg</thumbnail>
@@ -27,3 +26,71 @@
 	<thumbnail>http://dragonstr.com/Fight/images/205.jpg</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
+
+<!--
+<item>
+<title>[B][COLOR=orange]Click me for Invicta/UFC info 01/14/17[/COLOR][/B]</title>
+<link>http://dragonstr.com/Other/NHLInfo.html</link>
+<thumbnail>http://www.reliablecounter.com/count.php?page=dragonstr.com/asgvyf&digit=style/plain/24/&reloads=1</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=red]UFC: 207 [/COLOR][COLOR=white]E[/COLOR][COLOR=blue]arly Prelims[/COLOR][COLOR=white] 7:30 EST[/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/1.html</link>
+<thumbnail>https://goo.gl/OY37sX</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=red]UFC: 207 [/COLOR][COLOR=white]M[/COLOR][COLOR=blue]ain Prelims[/COLOR][COLOR=white] 8:00 EST[/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/2.html</link>
+<thumbnail>https://goo.gl/OY37sX</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=red]UFC: 207 [/COLOR][COLOR=white]M[/COLOR][COLOR=blue]ain Card[/COLOR][COLOR=white] 10:00 EST[/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/3.html</link>
+<thumbnail>https://goo.gl/OY37sX</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=red]UFC: [/COLOR][COLOR=white]F[/COLOR][COLOR=blue]ight Night Early Prelims[/COLOR][COLOR=red] 7:15[/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/FNEP.html</link>
+<thumbnail>https://goo.gl/Gh3ZX7</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=red]UFC: [/COLOR][COLOR=white]F[/COLOR][COLOR=blue]ight Night Main Prelims[/COLOR][COLOR=red][/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/FNMP.html</link>
+<thumbnail>https://goo.gl/Gh3ZX7</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=red]UFC: [/COLOR][COLOR=white]F[/COLOR][COLOR=blue]ight Night Main Card[/COLOR][COLOR=red][/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/FNMC.html</link>
+<thumbnail>https://goo.gl/Gh3ZX7</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=red][/COLOR][COLOR=white]P[/COLOR][COLOR=blue]ost Fight[/COLOR][COLOR=white][/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/Post.html</link>
+<thumbnail>http://dragonstr.com/Fight/images/205.jpg</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=red]UFC: [/COLOR][COLOR=white]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/Replay.html</link>
+<thumbnail>http://dragonstr.com/Fight/images/205.jpg</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR=white]O[/COLOR][COLOR=blue]ther[/COLOR][COLOR=white][/COLOR][/B]</title>
+<link>http://dragonstr.com/Fight/4.html</link>
+<thumbnail>https://goo.gl/H6BuuM</thumbnail>
+<fanart>http://dragonstr.com/Fight/images/fanart.jpg</fanart>
+</item>
+http://dragonstr.com/Fight/1.html
+http://dragonstr.com/Fight/2.html
+http://dragonstr.com/Fight/3.html
+http://dragonstr.com/Fight/4.html
+https://goo.gl/H6BuuM
+-->
