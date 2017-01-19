@@ -111,6 +111,22 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
+<item>
+	<title>[B][COLOR=grey]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png&amp;mode=11&amp;name=[B][COLOR=grey]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]&amp;url=http://viewstationusa.org/new_ds/dg.html</jsonrpc>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+<!--
+<item>
+	<title>[B][COLOR=grey]F[/COLOR][COLOR=blue]ight Pass[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>http://viewstationusa.org/new_ds/dg.html</externallink>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+</item>
+-->
 <!--
 <item><title>[B][COLOR=grey]R[/COLOR][COLOR=blue]eplays[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
