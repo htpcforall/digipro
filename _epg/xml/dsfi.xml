@@ -6,14 +6,15 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR grey]Be sure to catch the next live event![/COLOR][/B]</title>
+<item><title>[B][COLOR grey]Coming up January 28th. UFC Fight Night: Shevchenko vs Pena
+5:00 PM - 7:00 PM PST[/COLOR][/B]</title>
 	<link>http://google.com</link>
 	<externallink></externallink>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
+	<thumbnail>http://media.ufc.tv/generated_images_sorted//fight_286448_mediumThumbnail.jpg</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR=red]UFC: 207 [/COLOR][COLOR=white]W[/COLOR][COLOR=blue]atch Replay Below[/COLOR][COLOR=white] 7:30 EST[/COLOR][/B]</title>
+<item><title>[B][COLOR=red]WATCH UFC:[/COLOR][COLOR=white]E[/COLOR][COLOR=blue]vents [/COLOR][COLOR=white]Past Below.[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https://goo.gl/OY37sX&amp;mode=11&amp;name=[B][COLOR=red]UFC: 207 [/COLOR][COLOR=white]E[/COLOR][COLOR=blue]arly Prelims[/COLOR][COLOR=white] 7:30 EST[/COLOR][/B]&amp;url=http://dragonstr.com/Fight/1.html</jsonrpc>
 	<thumbnail>https://goo.gl/OY37sX</thumbnail>
