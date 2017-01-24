@@ -1,9 +1,9 @@
 ﻿
 <item>
-	<title>[B][COLOR green]DigiPro Live TV[/COLOR]-= [COLOR white]The first 7 channels require FREE registration at USTVnow.com. Enter those details into the USTVnow add-on.[/COLOR] =-[/B]	</title>
+	<title>[B][COLOR green]DigiPro Live TV[/COLOR]-= [COLOR white]The first 7 channels require FREE registration at USTVnow.com. Enter those details USTVnow add-on settings.[/COLOR] =-[/B]	</title>
 	<!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
-	<link>http://google.com</link>
-	<externallink></externallink>
+	<link>http://Igoreme</link>
+	<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=settings</jsonrpc>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 	<fanart></fanart>
 </item>
