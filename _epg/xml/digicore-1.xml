@@ -1,17 +1,11 @@
 ﻿
 <item>
-	<title>[B][COLOR green]01-19-2016 UPDATE[/COLOR]-= [COLOR yellow]Click to Force Check Update[/COLOR] =-[/B]	</title>
+	<title>[B][COLOR green]DigiPro Live TV[/COLOR]-= [COLOR yellow]The first 7 channels require FREE registration at USTVnow.com. Enter those details into the USTVnow add-on.[/COLOR] =-[/B]	</title>
 	<!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
-	<link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache</link>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/refresh_icon.png</thumbnail>
-	<fanart></fanart>
-</item>
-
-<item>
-	<title>[B][COLOR dodgerblue]Extra Live TV[/COLOR] -=[COLOR yellow] CLICK HERE![/COLOR] =-[/B]</title>
-	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u</externallink>
+	<link>http://google.com</link>
+	<externallink></externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+	<fanart></fanart>
 </item>
 
 <item>
