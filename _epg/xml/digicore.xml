@@ -24,7 +24,7 @@
 	<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR white]3[/COLOR][/B]</title>
 	<link>http://Igoreme</link>
 	<jsonrpc>plugin://plugin.video.kodistreamss/&quot;,return)</jsonrpc>
-    <thumbnail>http://www.thelogodb.com/images/media/logo/swuuvt1476084372.png</thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 <!--
 <item> 
