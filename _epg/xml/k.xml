@@ -1,6 +1,6 @@
 
 <item>
-	<title>[B]=- [COLOR=royalblue]Live [/COLOR][COLOR=red]HD[/COLOR][COLOR=white]Sports[/COLOR][/B]</title>
+	<title>[B]=- [COLOR=royalblue]Live [/COLOR][COLOR=red]HD [/COLOR][COLOR=white]Sports[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<jsonrpc>plugin://plugin.video.kodistreamss/?description&amp;mode=1&amp;name=%5bCOLOR%20white%5dChannel%20List%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fwww.kodistreams.tv%2fview.php%3fpg%3deliteks</jsonrpc>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/sp.png</thumbnail>
