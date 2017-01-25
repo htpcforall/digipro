@@ -7,24 +7,24 @@
 </item>
 
 <item>
-	<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR white]1[/COLOR][/B]</title>
+	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR white]1[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
 	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-1.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 
 <item>
-	<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR white]2[/COLOR][/B]</title>
+	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR white]2[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
 	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 
-<item> 
-	<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR white]3[/COLOR][/B]</title>
-	<link>http://Igoreme</link>
-	<jsonrpc>plugin://plugin.video.kodistreamss/?description&amp;mode=1&amp;name=%5bCOLOR%20white%5dChannel%20List%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fwww.kodistreams.tv%2fview.php%3fpg%3deliteks&quot;,return</jsonrpc>
-    <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+<item>
+	<title>[B][COLOR red]V.I.P [/COLOR][COLOR white]K-STREAMS[/COLOR][/B]</title>
+	<link>http://ignoreme.com</link>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u</externallink>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 <!--
 <item> 
