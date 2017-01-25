@@ -1,12 +1,15 @@
 
 <item>
-	<title>[B][COLOR=grey]K[/COLOR][COLOR=blue]Streams[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>	<jsonrpc>plugin://plugin.video.kodistreamss/?description&amp;mode=1&amp;name=%5bCOLOR%20white%5dChannel%20List%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fwww.kodistreams.tv%2fview.php%3fpg%3deliteks</jsonrpc>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+	<title>[B]=- [COLOR=royalblue]Live [/COLOR][COLOR=red]HD[/COLOR][COLOR=white]Sports[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.kodistreamss/?description&amp;mode=1&amp;name=%5bCOLOR%20white%5dChannel%20List%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fwww.kodistreams.tv%2fview.php%3fpg%3deliteks</jsonrpc>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/sp.png</thumbnail>
 	<fanart></fanart>
 </item>
 <item>
-	<title>[B][COLOR=grey]K[/COLOR][COLOR=blue]alender[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>	<jsonrpc>plugin://plugin.video.kodistreamss/?description&amp;mode=3&amp;name=%5bCOLOR%20blue%5d----Calendar----%5b%2fCOLOR%5d&amp;url=url</jsonrpc>	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+	<title>[B]=- [COLOR=royalblue]Events Calander[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.kodistreamss/?description&amp;mode=3&amp;name=%5bCOLOR%20blue%5d----Calendar----%5b%2fCOLOR%5d&amp;url=url</jsonrpc>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/cal.png</thumbnail>
 	<fanart></fanart>
 </item>

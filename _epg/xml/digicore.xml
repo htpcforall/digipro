@@ -7,24 +7,24 @@
 </item>
 
 <item>
-	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR white]1[/COLOR][/B]</title>
+	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR grey]1[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
 	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-1.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 
 <item>
-	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR white]2[/COLOR][/B]</title>
+	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR grey]2[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
 	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 
 <item>
-	<title>[B][COLOR red]V.I.P [/COLOR][COLOR white]K-STREAMS[/COLOR][/B]</title>
+	<title>[B][COLOR red]V.I.P [/COLOR][COLOR grey]SPORTS[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u</externallink>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/k.xml</externallink>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/sp.png</thumbnail>
 </item>
 <!--
 <item> 
