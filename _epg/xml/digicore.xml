@@ -1,5 +1,5 @@
 <item>
-	<title>[B][COLOR green]01-24-2016 UPDATE[/COLOR]-= [COLOR yellow]Click to Force Check Update[/COLOR] =-[/B]	</title>
+	<title>[B][COLOR green]01-25-2016 UPDATE[/COLOR]-= [COLOR yellow]Click to Force Check Update[/COLOR] =-[/B]	</title>
 	<!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 	<link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache</link>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/refresh_icon.png</thumbnail>
@@ -24,7 +24,7 @@
 	<title>[B][COLOR red]V.I.P [/COLOR][COLOR grey]SPORTS[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
 	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/k.xml</externallink>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/sp.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/vip.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/vip.jpg</fanart>
 </item>
 <!--
