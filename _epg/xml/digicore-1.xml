@@ -519,11 +519,10 @@
 
 <item>
 <title>WEATHER NATION</title>
-<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8|User-Agent=VLC/2.2.4 LibVLC/2.2.4</link>
 <thumbnail>http://cache.tikilive.com/public/files/shows/116/116511/41005-800x450-FFFFFF.jpg</thumbnail>
 </item>
 
-<item>
 <title>NASA</title>
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
