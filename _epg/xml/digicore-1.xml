@@ -1,6 +1,6 @@
 ﻿
 <item>
-	<title>[B][COLOR green]DigiPro Live TV[/COLOR]-= [COLOR white]The first 7 channels require FREE registration at USTVnow.com. =- Enter those details here then select OK -=[/COLOR] =-[/B]	</title>
+	<title>[B][COLOR green]DigiPro Live TV[/COLOR]-= [COLOR white]The first 7 channels require FREE registration at USTVnow.com. =- Click Here to Enter those details then select OK to save -=[/COLOR] =-[/B]	</title>
 	<!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
 	<link>http://Igoreme</link>
 	<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=settings</jsonrpc>
@@ -518,9 +518,9 @@
 </item>
 
 <item>
-<title>THE WEATHER CHANNEL</title>
+<title>WEATHER NATION</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png</thumbnail>
+<thumbnail>http://cache.tikilive.com/public/files/shows/116/116511/41005-800x450-FFFFFF.jpg</thumbnail>
 </item>
 
 <item>
