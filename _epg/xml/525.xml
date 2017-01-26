@@ -1,373 +1,373 @@
 #EXTM3U
 #EXTINF:-1,  ♣♣♣♣♣North America♣♣♣♣♣
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/7438.ts;name=LIVE TV 2
-#EXTINF:-1,USA: VirginTV Radio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17366.ts;name=LIVE TV 2
-#EXTINF:-1,USA: TVO KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17369.ts;name=LIVE TV 2
-#EXTINF:-1,USA: TMN ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17370.ts;name=LIVE TV 2
-#EXTINF:-1,USA: OMNI TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17377.ts;name=LIVE TV 2
-#EXTINF:-1,USA: NBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17380.ts;name=LIVE TV 2
-#EXTINF:-1,USA: NBC GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17361.ts;name=LIVE TV 2
-#EXTINF:-1,USA: NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17381.ts;name=LIVE TV 2
-#EXTINF:-1,USA: LMN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17384.ts;name=LIVE TV 2
-#EXTINF:-1,USA: FMLY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17391.ts;name=LIVE TV 2
-#EXTINF:-1,USA: CRCOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17396.ts;name=LIVE TV 2
-#EXTINF:-1,USA: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17399.ts;name=LIVE TV 2
-#EXTINF:-1,USA: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17404.ts;name=LIVE TV 2
-#EXTINF:-1,US-National-Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/5811.ts;name=LIVE TV 2
-#EXTINF:-1,US-CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/5821.ts;name=LIVE TV 2
-#EXTINF:-1,US: A&E
+#EXTINF:-1,A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24915.ts;name=LIVE TV 2
-#EXTINF:-1,US: ABC HD
+#EXTINF:-1,ABC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24914.ts;name=LIVE TV 2
-#EXTINF:-1,US: ABC NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24918.ts;name=LIVE TV 2
-#EXTINF:-1,US: AFN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24855.ts;name=LIVE TV 2
-#EXTINF:-1,US: AMC
+#EXTINF:-1,AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24883.ts;name=LIVE TV 2
-#EXTINF:-1,US: ANIMAL PLANET
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17404.ts;name=LIVE TV 2
+#EXTINF:-1,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24913.ts;name=LIVE TV 2
-#EXTINF:-1,US: ASTRO SUPERSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24874.ts;name=LIVE TV 2
-#EXTINF:-1,US: ASTRO SUPERSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24875.ts;name=LIVE TV 2
-#EXTINF:-1,US: ASTRO SUPERSPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24876.ts;name=LIVE TV 2
-#EXTINF:-1,US: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24858.ts;name=LIVE TV 2
-#EXTINF:-1,US: BET
+#EXTINF:-1,BET
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24922.ts;name=LIVE TV 2
-#EXTINF:-1,US: BRAVO HD
+#EXTINF:-1,BRAVO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24901.ts;name=LIVE TV 2
-#EXTINF:-1,US: BYU SPORTS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24879.ts;name=LIVE TV 2
-#EXTINF:-1,US: C-SPAN3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24854.ts;name=LIVE TV 2
-#EXTINF:-1,US: CBS NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24917.ts;name=LIVE TV 2
-#EXTINF:-1,US: CBS SPORT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24916.ts;name=LIVE TV 2
-#EXTINF:-1,US: CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24897.ts;name=LIVE TV 2
-#EXTINF:-1,US: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24899.ts;name=LIVE TV 2
-#EXTINF:-1,US: CPAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24911.ts;name=LIVE TV 2
-#EXTINF:-1,US: CW HD
+#EXTINF:-1,CW HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24909.ts;name=LIVE TV 2
-#EXTINF:-1,US: DISCOVERY CHANNEL HD
+#EXTINF:-1,DISCOVERY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24904.ts;name=LIVE TV 2
-#EXTINF:-1,US: DISCOVERY SCIENCE HD
+#EXTINF:-1,DISCOVERY SCIENCE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24903.ts;name=LIVE TV 2
-#EXTINF:-1,US: ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24872.ts;name=LIVE TV 2
-#EXTINF:-1,US: ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24873.ts;name=LIVE TV 2
-#EXTINF:-1,US: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24893.ts;name=LIVE TV 2
-#EXTINF:-1,US: FOX SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24848.ts;name=LIVE TV 2
-#EXTINF:-1,US: FOX SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24850.ts;name=LIVE TV 2
-#EXTINF:-1,US: FOX SPORT 506
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24851.ts;name=LIVE TV 2
-#EXTINF:-1,US: FOX SPORTS 1 US HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24847.ts;name=LIVE TV 2
-#EXTINF:-1,US: FOX SPORTS 2 US HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24849.ts;name=LIVE TV 2
-#EXTINF:-1,US: FX HD
+#EXTINF:-1,FX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24892.ts;name=LIVE TV 2
-#EXTINF:-1,US: HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24886.ts;name=LIVE TV 2
-#EXTINF:-1,US: HBO COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24889.ts;name=LIVE TV 2
-#EXTINF:-1,US: HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24887.ts;name=LIVE TV 2
-#EXTINF:-1,US: HBO ZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24888.ts;name=LIVE TV 2
-#EXTINF:-1,US: HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24905.ts;name=LIVE TV 2
-#EXTINF:-1,US: ID
+#EXTINF:-1,ID
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24885.ts;name=LIVE TV 2
-#EXTINF:-1,US: LIFETIME HD
+#EXTINF:-1,LIFETIME HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24898.ts;name=LIVE TV 2
-#EXTINF:-1,US: NASA TV HD
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/5811.ts;name=LIVE TV 2
+#EXTINF:-1,NASA TV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24881.ts;name=LIVE TV 2
-#EXTINF:-1,US: NAT GEO
+#EXTINF:-1,NAT GEO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24908.ts;name=LIVE TV 2
-#EXTINF:-1,US: NBA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24846.ts;name=LIVE TV 2
-#EXTINF:-1,US: NBC GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24861.ts;name=LIVE TV 2
-#EXTINF:-1,US: NBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24862.ts;name=LIVE TV 2
-#EXTINF:-1,US: NFL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24871.ts;name=LIVE TV 2
-#EXTINF:-1,US: PAC 12 WASHINGTON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24844.ts;name=LIVE TV 2
-#EXTINF:-1,US: SPIKE HD
+#EXTINF:-1,SPIKE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24907.ts;name=LIVE TV 2
-#EXTINF:-1,US: SPORT NET360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24860.ts;name=LIVE TV 2
-#EXTINF:-1,US: STARZ CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24919.ts;name=LIVE TV 2
-#EXTINF:-1,US: STARZ EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24920.ts;name=LIVE TV 2
-#EXTINF:-1,US: STARZ EDGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24921.ts;name=LIVE TV 2
-#EXTINF:-1,US: SYFY HD
+#EXTINF:-1,SYFY HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24890.ts;name=LIVE TV 2
-#EXTINF:-1,US: TBS
+#EXTINF:-1,TBS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24882.ts;name=LIVE TV 2
-#EXTINF:-1,US: TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24839.ts;name=LIVE TV 2
-#EXTINF:-1,US: TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24840.ts;name=LIVE TV 2
-#EXTINF:-1,US: TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24841.ts;name=LIVE TV 2
-#EXTINF:-1,US: TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24842.ts;name=LIVE TV 2
-#EXTINF:-1,US: TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24843.ts;name=LIVE TV 2
-#EXTINF:-1,US: USA NETWORK HD
+#EXTINF:-1,USA NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24894.ts;name=LIVE TV 2
-#EXTINF:-1,US: WILLOW CRICKET HD
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24886.ts;name=LIVE TV 2
+#EXTINF:-1,HBO COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24889.ts;name=LIVE TV 2
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24887.ts;name=LIVE TV 2
+#EXTINF:-1,HBO ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24888.ts;name=LIVE TV 2
+#EXTINF:-1,HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24905.ts;name=LIVE TV 2
+#EXTINF:-1,STARZ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24919.ts;name=LIVE TV 2
+#EXTINF:-1,STARZ EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24920.ts;name=LIVE TV 2
+#EXTINF:-1,STARZ EDGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24921.ts;name=LIVE TV 2
+#EXTINF:-1,FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24893.ts;name=LIVE TV 2
+#EXTINF:-1,C-SPAN3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24854.ts;name=LIVE TV 2
+#EXTINF:-1,ABC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24918.ts;name=LIVE TV 2
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17399.ts;name=LIVE TV 2
+#EXTINF:-1,CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/5821.ts;name=LIVE TV 2
+#EXTINF:-1,CBS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24917.ts;name=LIVE TV 2
+#EXTINF:-1,CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24897.ts;name=LIVE TV 2
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24899.ts;name=LIVE TV 2
+#EXTINF:-1,CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24911.ts;name=LIVE TV 2
+#EXTINF:-1,NBC GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17361.ts;name=LIVE TV 2
+#EXTINF:-1,NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17381.ts;name=LIVE TV 2
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24872.ts;name=LIVE TV 2
+#EXTINF:-1,ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24873.ts;name=LIVE TV 2
+#EXTINF:-1,CBS SPORT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24916.ts;name=LIVE TV 2
+#EXTINF:-1,NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24846.ts;name=LIVE TV 2
+#EXTINF:-1,NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24861.ts;name=LIVE TV 2
+#EXTINF:-1,NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24862.ts;name=LIVE TV 2
+#EXTINF:-1,NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24871.ts;name=LIVE TV 2
+#EXTINF:-1,PAC 12 WASHINGTON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24844.ts;name=LIVE TV 2
+#EXTINF:-1,BYU SPORTS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24879.ts;name=LIVE TV 2
+#EXTINF:-1,SPORT NET360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24860.ts;name=LIVE TV 2
+#EXTINF:-1,FOX SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24848.ts;name=LIVE TV 2
+#EXTINF:-1,FOX SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24850.ts;name=LIVE TV 2
+#EXTINF:-1,FOX SPORT 506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24851.ts;name=LIVE TV 2
+#EXTINF:-1,FOX SPORTS 1 US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24847.ts;name=LIVE TV 2
+#EXTINF:-1,FOX SPORTS 2 US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24849.ts;name=LIVE TV 2
+#EXTINF:-1,AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24855.ts;name=LIVE TV 2
+#EXTINF:-1,ASTRO SUPERSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24874.ts;name=LIVE TV 2
+#EXTINF:-1,ASTRO SUPERSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24875.ts;name=LIVE TV 2
+#EXTINF:-1,ASTRO SUPERSPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24876.ts;name=LIVE TV 2
+#EXTINF:-1,BEIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24858.ts;name=LIVE TV 2
+#EXTINF:-1,TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24839.ts;name=LIVE TV 2
+#EXTINF:-1,TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24840.ts;name=LIVE TV 2
+#EXTINF:-1,TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24841.ts;name=LIVE TV 2
+#EXTINF:-1,TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24842.ts;name=LIVE TV 2
+#EXTINF:-1,TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24843.ts;name=LIVE TV 2
+#EXTINF:-1,WILLOW CRICKET HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24857.ts;name=LIVE TV 2
-#EXTINF:-1,US:  RT AMERICA
+#EXTINF:-1, RT AMERICA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24900.ts;name=LIVE TV 2
-#EXTINF:-1,US: AFN MOVIE
+#EXTINF:-1,AFN MOVIE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26163.ts;name=LIVE TV 2
-#EXTINF:-1,US: Bloomberg
+#EXTINF:-1,Bloomberg
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25730.ts;name=LIVE TV 2
-#EXTINF:-1,US: Nasa Tv
+#EXTINF:-1,Nasa Tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25729.ts;name=LIVE TV 2
+#EXTINF:-1,VirginTV Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17366.ts;name=LIVE TV 2
+#EXTINF:-1,TVO KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17369.ts;name=LIVE TV 2
+#EXTINF:-1,TMN ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17370.ts;name=LIVE TV 2
+#EXTINF:-1,OMNI TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17377.ts;name=LIVE TV 2
+#EXTINF:-1,NBC TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17380.ts;name=LIVE TV 2
+#EXTINF:-1,LMN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17384.ts;name=LIVE TV 2
+#EXTINF:-1,FMLY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17391.ts;name=LIVE TV 2
+#EXTINF:-1,CRCOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17396.ts;name=LIVE TV 2
 #EXTINF:-1,♣♣♣♣UK♣♣♣♣
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25896.ts;name=LIVE TV 2
-#EXTINF:-1,UK: 3E
+#EXTINF:-1,3E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25719.ts;name=LIVE TV 2
-#EXTINF:-1,UK: 4music
+#EXTINF:-1,4music
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24554.ts;name=LIVE TV 2
-#EXTINF:-1,UK: 5 USA
+#EXTINF:-1,5 USA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25718.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Alibi
+#EXTINF:-1,Alibi
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25717.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BABY TV
+#EXTINF:-1,BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25715.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BBC 1 HD
+#EXTINF:-1,BBC 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25728.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BBC 3 HD
+#EXTINF:-1,BBC 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25726.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BBC 4 HD
+#EXTINF:-1,BBC 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25725.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BT Sport 2 HD
+#EXTINF:-1,BT Sport 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25712.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BBC NEWS
+#EXTINF:-1,BBC NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25724.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Chelsea TV
+#EXTINF:-1,Chelsea TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25710.ts;name=LIVE TV 2
-#EXTINF:-1,UK: CNN NEWS
+#EXTINF:-1,CNN NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25740.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BBC 2 HD
+#EXTINF:-1,BBC 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25727.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Disney Channel
+#EXTINF:-1,Disney Channel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25664.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Disney Junior
+#EXTINF:-1,Disney Junior
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25663.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Discovery Investigation
+#EXTINF:-1,Discovery Investigation
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25707.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Dmax
+#EXTINF:-1,Dmax
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25722.ts;name=LIVE TV 2
-#EXTINF:-1,UK: E!
+#EXTINF:-1,E!
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25705.ts;name=LIVE TV 2
-#EXTINF:-1,UK: E4 UK
+#EXTINF:-1,E4 UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25721.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Eden
+#EXTINF:-1,Eden
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25739.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Film 4 HD
+#EXTINF:-1,Film 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25738.ts;name=LIVE TV 2
-#EXTINF:-1,UK: LiverPool TV
+#EXTINF:-1,LiverPool TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25737.ts;name=LIVE TV 2
-#EXTINF:-1,UK: LONDON_LIVE
+#EXTINF:-1,LONDON_LIVE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25704.ts;name=LIVE TV 2
-#EXTINF:-1,UK: More4
+#EXTINF:-1,More4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25736.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Discovery history
+#EXTINF:-1,Discovery history
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25708.ts;name=LIVE TV 2
-#EXTINF:-1,UK: MUTV
+#EXTINF:-1,MUTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25667.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Nicktoons
+#EXTINF:-1,Nicktoons
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25677.ts;name=LIVE TV 2
-#EXTINF:-1,UK: NATGEO WILD
+#EXTINF:-1,NATGEO WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25666.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Nickelodeon
+#EXTINF:-1,Nickelodeon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25703.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Disney XD
+#EXTINF:-1,Disney XD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25723.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Real Lives
+#EXTINF:-1,Real Lives
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25735.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Sky_Movies_Showcase
+#EXTINF:-1,Sky_Movies_Showcase
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25669.ts;name=LIVE TV 2
-#EXTINF:-1,UK: SKY LIVING
+#EXTINF:-1,SKY LIVING
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25676.ts;name=LIVE TV 2
-#EXTINF:-1,UK: SKY SPORTS 1HD
+#EXTINF:-1,SKY SPORTS 1HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25700.ts;name=LIVE TV 2
-#EXTINF:-1,UK: SKY SPORTS 1SD
+#EXTINF:-1,SKY SPORTS 1SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25701.ts;name=LIVE TV 2
-#EXTINF:-1,UK: SKY SPORTS 2HD
+#EXTINF:-1,SKY SPORTS 2HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25698.ts;name=LIVE TV 2
-#EXTINF:-1,UK: SKY SPORTS 2SD
+#EXTINF:-1,SKY SPORTS 2SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25699.ts;name=LIVE TV 2
-#EXTINF:-1,UK: SKY SPORTS 3HD
+#EXTINF:-1,SKY SPORTS 3HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25696.ts;name=LIVE TV 2
-#EXTINF:-1,UK: SKY SPORTS 5HD
+#EXTINF:-1,SKY SPORTS 5HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25694.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Sky_Movies_Action&Adventure
+#EXTINF:-1,Sky_Movies_Action&Adventure
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25675.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Sky_Movies_Comedy
+#EXTINF:-1,Sky_Movies_Comedy
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25674.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Sky_Movies_Modern_Greats
+#EXTINF:-1,Sky_Movies_Modern_Greats
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25673.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Sky_Movies_Premiere
+#EXTINF:-1,Sky_Movies_Premiere
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25672.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Sky_Movies_Select
+#EXTINF:-1,Sky_Movies_Select
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25670.ts;name=LIVE TV 2
-#EXTINF:-1,UK: RACING
+#EXTINF:-1,RACING
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25665.ts;name=LIVE TV 2
-#EXTINF:-1,UK: SKY SPORT NEWS HQ
+#EXTINF:-1,SKY SPORT NEWS HQ
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25693.ts;name=LIVE TV 2
-#EXTINF:-1,UK: TRUE MOVIES 01
+#EXTINF:-1,TRUE MOVIES 01
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25688.ts;name=LIVE TV 2
-#EXTINF:-1,UK: TLC
+#EXTINF:-1,TLC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25690.ts;name=LIVE TV 2
-#EXTINF:-1,UK: TG 4
+#EXTINF:-1,TG 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25732.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Sy-Fy
+#EXTINF:-1,Sy-Fy
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25691.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Rte two HD
+#EXTINF:-1,Rte two HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25733.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Rte one HD
+#EXTINF:-1,Rte one HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25734.ts;name=LIVE TV 2
-#EXTINF:-1,UK: bbcone
+#EXTINF:-1,bbcone
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24509.ts;name=LIVE TV 2
-#EXTINF:-1,UK: bbcfour
+#EXTINF:-1,bbcfour
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24527.ts;name=LIVE TV 2
-#EXTINF:-1,UK: bbcnews
+#EXTINF:-1,bbcnews
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24535.ts;name=LIVE TV 2
-#EXTINF:-1,UK: bbcalba
+#EXTINF:-1,bbcalba
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24505.ts;name=LIVE TV 2
-#EXTINF:-1,UK: VH1
+#EXTINF:-1,VH1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25684.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Vevo 1
+#EXTINF:-1,Vevo 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25686.ts;name=LIVE TV 2
-#EXTINF:-1,UK: UTV
+#EXTINF:-1,UTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25687.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Premier Sport
+#EXTINF:-1,Premier Sport
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25702.ts;name=LIVE TV 2
-#EXTINF:-1,UK: kiss
+#EXTINF:-1,kiss
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24557.ts;name=LIVE TV 2
-#EXTINF:-1,UK: magic
+#EXTINF:-1,magic
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24514.ts;name=LIVE TV 2
-#EXTINF:-1,UK: keepitcountry
+#EXTINF:-1,keepitcountry
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24556.ts;name=LIVE TV 2
-#EXTINF:-1,UK: trutv
+#EXTINF:-1,trutv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24555.ts;name=LIVE TV 2
-#EXTINF:-1,UK: travelchannelplus1
+#EXTINF:-1,travelchannelplus1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24503.ts;name=LIVE TV 2
-#EXTINF:-1,UK: travelchannel
+#EXTINF:-1,travelchannel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24540.ts;name=LIVE TV 2
-#EXTINF:-1,UK: thebox
+#EXTINF:-1,thebox
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24513.ts;name=LIVE TV 2
-#EXTINF:-1,UK: sonysab
+#EXTINF:-1,sonysab
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24545.ts;name=LIVE TV 2
-#EXTINF:-1,UK: smashhits
+#EXTINF:-1,smashhits
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24542.ts;name=LIVE TV 2
-#EXTINF:-1,UK: sino
+#EXTINF:-1,sino
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24548.ts;name=LIVE TV 2
-#EXTINF:-1,UK: s4c
+#EXTINF:-1,s4c
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24549.ts;name=LIVE TV 2
-#EXTINF:-1,UK: russiatoday
+#EXTINF:-1,russiatoday
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24507.ts;name=LIVE TV 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=htey
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24516.ts;name=LIVE TV 2
-#EXTINF:-1,UK: revelationtv
+#EXTINF:-1,revelationtv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24534.ts;name=LIVE TV 2
-#EXTINF:-1,UK: really
+#EXTINF:-1,really
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24553.ts;name=LIVE TV 2
-#EXTINF:-1,UK: qvcstyle
+#EXTINF:-1,qvcstyle
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24552.ts;name=LIVE TV 2
-#EXTINF:-1,UK: qvcplus
+#EXTINF:-1,qvcplus
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24518.ts;name=LIVE TV 2
-#EXTINF:-1,UK: qvcextra
+#EXTINF:-1,qvcextra
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24508.ts;name=LIVE TV 2
-#EXTINF:-1,UK: qvcbeauty
+#EXTINF:-1,qvcbeauty
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24537.ts;name=LIVE TV 2
-#EXTINF:-1,UK: qvc
+#EXTINF:-1,qvc
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24541.ts;name=LIVE TV 2
-#EXTINF:-1,UK: questplus1
+#EXTINF:-1,questplus1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24532.ts;name=LIVE TV 2
-#EXTINF:-1,UK: news18india
+#EXTINF:-1,news18india
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24546.ts;name=LIVE TV 2
-#EXTINF:-1,UK: nhkworld
+#EXTINF:-1,nhkworld
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24521.ts;name=LIVE TV 2
-#EXTINF:-1,UK: nowthatswhaticallmusic
+#EXTINF:-1,nowthatswhaticallmusic
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24544.ts;name=LIVE TV 2
-#EXTINF:-1,UK: bbcredbutton
+#EXTINF:-1,bbcredbutton
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24504.ts;name=LIVE TV 2
-#EXTINF:-1,UK: home
+#EXTINF:-1,home
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24539.ts;name=LIVE TV 2
-#EXTINF:-1,UK: heat
+#EXTINF:-1,heat
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24528.ts;name=LIVE TV 2
-#EXTINF:-1,UK: heart
+#EXTINF:-1,heart
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24529.ts;name=LIVE TV 2
-#EXTINF:-1,UK: france24
+#EXTINF:-1,france24
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24506.ts;name=LIVE TV 2
-#EXTINF:-1,UK: forcestv
+#EXTINF:-1,forcestv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24533.ts;name=LIVE TV 2
-#EXTINF:-1,UK: foodnetworkplus1
+#EXTINF:-1,foodnetworkplus1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24547.ts;name=LIVE TV 2
-#EXTINF:-1,UK: drama
+#EXTINF:-1,drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24525.ts;name=LIVE TV 2
-#EXTINF:-1,UK: davejavu
+#EXTINF:-1,davejavu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24502.ts;name=LIVE TV 2
-#EXTINF:-1,UK: dave
+#EXTINF:-1,dave
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24538.ts;name=LIVE TV 2
-#EXTINF:-1,UK: communitychannel
+#EXTINF:-1,communitychannel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24520.ts;name=LIVE TV 2
-#EXTINF:-1,UK: colors
+#EXTINF:-1,colors
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24559.ts;name=LIVE TV 2
-#EXTINF:-1,UK: cnninternationaleurope
+#EXTINF:-1,cnninternationaleurope
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24512.ts;name=LIVE TV 2
-#EXTINF:-1,UK: clubland
+#EXTINF:-1,clubland
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24558.ts;name=LIVE TV 2
-#EXTINF:-1,UK: chilled
+#EXTINF:-1,chilled
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24515.ts;name=LIVE TV 2
-#EXTINF:-1,UK: channels24
+#EXTINF:-1,channels24
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24536.ts;name=LIVE TV 2
-#EXTINF:-1,UK: channelaka
+#EXTINF:-1,channelaka
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24530.ts;name=LIVE TV 2
-#EXTINF:-1,UK: capitaltv
+#EXTINF:-1,capitaltv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24543.ts;name=LIVE TV 2
-#EXTINF:-1,UK: bloomberg
+#EXTINF:-1,bloomberg
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24550.ts;name=LIVE TV 2
-#EXTINF:-1,UK: bbctwo
+#EXTINF:-1,bbctwo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24524.ts;name=LIVE TV 2
-#EXTINF:-1,UK: bbcparliament
+#EXTINF:-1,bbcparliament
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/24522.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BT Sport 1 HD
+#EXTINF:-1,BT Sport 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25713.ts;name=LIVE TV 2
 #EXTINF:-1,UK-CBS_Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26196.ts;name=LIVE TV 2
@@ -379,13 +379,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.sof
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26198.ts;name=LIVE TV 2
 #EXTINF:-1,UK-Sky_Chelsea_TV_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26181.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BBC 2
+#EXTINF:-1,BBC 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26191.ts;name=LIVE TV 2
-#EXTINF:-1,UK: Box Nation
+#EXTINF:-1,Box Nation
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26184.ts;name=LIVE TV 2
-#EXTINF:-1,UK: BT Sport 2
+#EXTINF:-1,BT Sport 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26157.ts;name=LIVE TV 2
-#EXTINF:-1,UK: More 4
+#EXTINF:-1,More 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26200.ts;name=LIVE TV 2
 #EXTINF:-1,UK:BT-Sport Europe HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/26158.ts;name=LIVE TV 2
