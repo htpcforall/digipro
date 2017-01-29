@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1,ABC HD
+#EXTINF:-1, [B][COLOR limegreen]Click once, then wait.[/COLOR][/B]
+http://5.79.66.2:8000/StreamSmart/verysoon123/40.ch
+#EXTINF:,ABC HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/42.ch
 #EXTINF:-1,AMC HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/44.ch
 #EXTINF:-1,ABC NEWS
 http://5.79.66.2:8000/StreamSmart/verysoon123/142.ch
-#EXTINF:-1,A&E HD
+#EXTINF:,A&E HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/143.ch
 #EXTINF:-1,NBC
 http://5.79.66.2:8000/StreamSmart/verysoon123/38.ch
@@ -21,11 +23,7 @@ http://5.79.66.2:8000/StreamSmart/verysoon123/137.ch
 http://5.79.66.2:8000/StreamSmart/verysoon123/30.ch
 #EXTINF:-1,CNN HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/46.ch
-#EXTINF:-1,E!
-http://5.79.66.2:8000/StreamSmart/verysoon123/134.ch
 #EXTINF:-1,FOX HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/48.ch
-#EXTINF:-1,?
 http://5.79.66.2:8000/StreamSmart/verysoon123/138.ch
 #EXTINF:-1,BLOOMBERG
 http://5.79.66.2:8000/StreamSmart/verysoon123/139.ch
@@ -78,15 +76,13 @@ http://5.79.66.2:8000/StreamSmart/verysoon123/4.ch
 #EXTINF:-1,SPORTSNET 360 HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/5.ch
 #EXTINF:-1,ESPN HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/6.ch
+http://5.79.66.2:8000/StreamSmart/verysoon123/10.ch
 #EXTINF:-1,ESPN 2 HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/7.ch
 #EXTINF:-1,ESPN NEWS HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/8.ch
 #EXTINF:-1,ESPN U HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/9.ch
-#EXTINF:-1,ESPN HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/10.ch
 #EXTINF:-1,FS1 HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/11.ch
 #EXTINF:-1,FS2 HD
