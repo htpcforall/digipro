@@ -6,10 +6,10 @@
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR grey]Coming up January 28th. UFC Fight Night: Shevchenko vs Pena
-5:00 PM - 7:00 PM PST[/COLOR][/B]</title>
-	<link>http://google.com</link>
-	<externallink></externallink>
+<item>
+<title>[B][COLOR grey]January 28th. UFC Fight Night: Shevchenko vs Pena 5:00 PM - 7:00 PM PST[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.live.streamspro/?url=plugin//plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/25712.ts;name=LIVE TV 2&amp;mode=12</jsonrpc>
 	<thumbnail>http://media.ufc.tv/generated_images_sorted//fight_286448_mediumThumbnail.jpg</thumbnail>
 	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
 </item>
