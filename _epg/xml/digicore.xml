@@ -9,7 +9,7 @@
 <item>
 	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR grey]1[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-1.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-1.xml&amp;cache=0</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 <item> 
