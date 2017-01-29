@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1, [B][COLOR limegreen]Click once, then wait.[/COLOR][/B]
 http://5.79.66.2:8000/StreamSmart/verysoon123/40.ch
-#EXTINF:,ABC HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/42.ch
+#EXTINF:-1,
+http://5.79.66.2:8000/StreamSmart/verysoon123/42.ch - ABC HD
 #EXTINF:-1,AMC HD
 http://5.79.66.2:8000/StreamSmart/verysoon123/44.ch
 #EXTINF:-1,ABC NEWS
 http://5.79.66.2:8000/StreamSmart/verysoon123/142.ch
-#EXTINF:,A&E HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/143.ch
+#EXTINF:,
+http://5.79.66.2:8000/StreamSmart/verysoon123/143.ch - A&E HD
 #EXTINF:-1,NBC
 http://5.79.66.2:8000/StreamSmart/verysoon123/38.ch
 #EXTINF:-1,CBS HD
