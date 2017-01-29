@@ -5,7 +5,7 @@
 	<link>http://Igoreme</link>
 	<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=settings</jsonrpc>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
-	<fanart></fanart>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -13,7 +13,7 @@
 	<link>http://Igoreme</link>
 	<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=live</jsonrpc>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png</thumbnail>
-	<fanart></fanart>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -159,7 +159,7 @@
 <title>COMEDY CENTRAL</title>
 <link>http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/01.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -178,7 +178,7 @@
 <title>FXX</title>
 <link>http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/01.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xxwysy1476448340.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 <item>
 
@@ -186,7 +186,7 @@
 <title>H2</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/150px-H2_TV_logo.svg.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -199,7 +199,7 @@
 <title>TRUTV</title>
 <link>http://216.31.255.235/hlsl/12/tupref5GethaUNIVERSAL/01.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/swvxpp1434031248.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -224,7 +224,7 @@
 <title>POKER CENTRAL</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/pkercntrl.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <!--
@@ -232,21 +232,21 @@
 <title>FOOD NETWORK</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19428.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>DIY</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19429.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>FX</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19425.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 -->
 
@@ -255,7 +255,7 @@
 <title>BRAVO</title>
 <link>http://167.114.102.27/live/dNQdGi6cUxL63kyO4rEAaQ/1481269403/582b19f3ef5459a2f139ec69ee2053d0.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -267,7 +267,7 @@
 <item>
 <title>FOX</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19427.m3u8</link>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -280,21 +280,21 @@
 <title>DISNEY CHANNEL</title>
 <link>http://playlist.bulldogstreams.football:8000/live/michael1/michael1/8362.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>DISNEY CHANNEL</title>
 <link>http://50.7.141.34:8000/live/mama7/mama7/2738.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>DISNEY JR</title>
 <link>http://50.7.141.34:8000/live/mama7/mama7/20588.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -316,7 +316,7 @@
 <title>TLC</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/20552.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -324,7 +324,7 @@
 <link>http://live.softiptv.com:9900/live/3month/3month/12585.m3u8
 </link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 -->
 
@@ -333,21 +333,21 @@
 <title>SPIKE</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/12594.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SYFY</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19399.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>TNT</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19398.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 
@@ -356,7 +356,7 @@
 <title>NATIONAL GEOGRAPHIC</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%26url%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 
@@ -364,14 +364,14 @@
 <title>NATIONAL GEOGRAPHIC</title>
 <link>http://free-premium-iptv.ddns.net:9090/load/free123/26.m3u8<link>
 </thumbnail>https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>NAT GEO WILD</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/20593.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 -->
 
@@ -380,7 +380,7 @@
 <title>ANIMAL PLANET</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/20641.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/rttqqs1433492549.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 <!--
 <item>
@@ -388,7 +388,7 @@
 <link>ignorame</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNickelodeon%26url%3dmpd%253A%252F%252Fa55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNickelodeon%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -402,7 +402,7 @@
 <link>ignorame</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNicktoons%2bTV%26url%3dmpd%253A%252F%252Fa5c568b3ed1bce30903f6092519ef949.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNicktoons%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa5c568b3ed1bce30903f6092519ef949.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Nicktoons.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 <!--
 
@@ -412,7 +412,7 @@
 <link>http://ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -426,21 +426,21 @@
 <link>http://ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dUSA%2bNetwork%26url%3dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dUSA%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</jsonrpc>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>USA NETWORK</title>
 <link>http://216.31.255.235/hlsl/3/USA/02.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>USA NETWORK</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8797.m3u8<link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -456,7 +456,7 @@
 <title>[COLOR limegreen][B]=== NEWS ===[/COLOR][/B]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -469,21 +469,21 @@
 <title>CBSN</title>
 <link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>CBSN ALT1</title>
 <link>https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/index_4000_av-p.m3u8?sd=10&rebase=o</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>CBSN ALT2</title>
 <link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item> 
@@ -514,7 +514,7 @@
 <title>FOX NEWS</title>
 <link>plugin://plugin.video.digilive/?play=True&amp;img=https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png&amp;title=Fox+News&amp;url=%2Fwww.arconaitv.me%2Ffn%2F&amp;site=arconai&amp;mode=play_special</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -526,7 +526,7 @@
 <title>NASA</title>
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item> 
@@ -563,7 +563,7 @@
 <title>RT DOCUMENTARY</title>
 <link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uyyvps1434018285.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <!-- PREMIUM-->
@@ -572,28 +572,28 @@
 <title>[COLOR limegreen][B]=== PREMIUM ===[/B][/COLOR]</title>
 <link>http://www.youtube.com</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icon.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>ACTION MAX</title>
 <link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>CINEMAX 5</title>
 <link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>CINEMAX ACTION</title>
 <link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 
@@ -601,77 +601,77 @@
 <title>CINEMAX EAST</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19431.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/qstqvw1434530233.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>HBO</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8615.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wrvxwy1465733105.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>HBO EAST</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8500.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wrvxwy1465733105.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 <!--
 <item>
 <title>HBO COMEDY</title>
 <link>http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2457.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quutxp1477987872.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>HBO FAMILY</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8501.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 <!--
 <item>
 <title>HBO SIGNATURE</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rxtryu1477987973.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>HBO ZONE</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SHOWTIME EAST</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8480.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SHOWTIME WEST</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/17339.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SHOWTIME</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8773.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/vtysts1467823060.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 <!--
 <item>
 <title>SHOWTIME 2</title>
 <link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/tqxvux1467823026.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <!--
@@ -685,7 +685,7 @@
 <title>STARZ EAST</title>
 <link>http://iptvfree1.com:6969/live/13/www.iptvrestream.net/3488.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 
@@ -693,21 +693,21 @@
 <title>STARZ CINEMA</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8515.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxtpw1477575665.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>STARZ WEST</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>STARZ EDGE</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -920,77 +920,77 @@
 <title>VERSUS HD</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/vers-us.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>WWE</title>
 <link>http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=mediaAuth=a06e2dc0e366b956c91a6e3cab8762e8b94e17a748934f1fac6b2c9046a8f2efe73395fa46fff823e1d22444e748767fb9cf92382d9f697462c6cff3e8c011a516f443471ca55cd11beb93e3b934a4ab219715c069736055cd8c08809389747ea305c38d01d62d2a172a0509011a965df4d6966c82197e4c7054086576aee5c1377bd6b6a0fa8a2b8b51c187c679ce6dd181d62f5264485a3895e62d9a9a146071db4e64ef0cece29c56a09dd0cf63555b62e7a1a0bf2deb1ffb31fc21eac2c11b3e9461e90c303eaed310981a151617e6c0c59420cb08146e9ec70c989071d6392d0fd59f63031cb4f4d15a9df8ebb83caf814ac170b6d2d407a424c8d894c23e013e3400a13ed0b743a311490605aa764700cdfa738d99</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 <!--
 <item>
 <title>SPORTSNET ONE </title>
 <link>http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SPORTSNET 360 </title>
 <link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SPORTSNET WORLD </title>
 <link>http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SPORTSNET PACIFIC</title>
 <link>http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_4500.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SPORTSNET WEST</title>
 <link>http://nlds189.cdnak.neulion.com/nlds/sportsnetnow/sn_west/as/live/sn_west_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SPORTSNET ONTARIO</title>
 <link>http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_ontario/as/live/sn_ontario_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>SPORTSNET EAST</title>
 <link>http://nlds186.cdnak.neulion.com/nlds/sportsnetnow/sn_east/as/live/sn_east_hd_3000.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtuvrp1477989151.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>TSN 1</title>
 <link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1397.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/upsspx1433379567.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>TSN 2</title>
 <link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1396.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sutruq1433379787.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
@@ -1003,14 +1003,14 @@
 <title>TSN 4</title>
 <link>http://live.softiptv.com:9900/live/3month/3month/19384.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>TSN 5</title>
 <link>http://playlist.bulldogstreams.football:8000/live/melih/melih/8790.ts</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/sytpty1433380112.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 #EXTINF:-1,USA:TSN 5
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1393.ts
@@ -1032,7 +1032,7 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <title>PAC12 NETWORK</title>
 <link>http://xrxs.net/video/live-p12netw-4728.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 -->
 <item>
@@ -1040,42 +1040,42 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <link>http://xrxs.net/video/live-p12ariz-4728.m3u8
 </link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>PAC12 Bay Area</title>
 <link>http://xrxs.net/video/live-p12baya-4728.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>PAC12 LOS ANGELES</title>
 <link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>PAC12 MOUNTAIN</title>
 <link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>PAC12 OREGON</title>
 <link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item>
 <title>PAC12 WASHINGTON</title>
 <link>http://xrxs.net/video/live-p12wash-4728.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/p12.png</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <!--
@@ -1104,13 +1104,13 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
 <!--
 <item><title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]ragon Streams[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fgoo.gl%2fH6BuuM&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5ragon%20Streams%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=main_menu</jsonrpc>	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
-	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 <item><title>[B][COLOR=FF00FF00]D[/COLOR][COLOR=blue]agon Sports[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>	<jsonrpc>plugin://plugin.video.dragon.sports/?iconimage=https%3a%2f%2fgoo.gl%2fH6BuuM&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%3dFF00FF00%5dD%5b%2fCOLOR%5d%5bCOLOR%3dblue%5ragon%20Sports%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=dragon_sports</jsonrpc>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/fight.png</thumbnail>
-	<fanart>special://home/userdata/backgrounds/MISC/fanart.jpg</fanart>
+	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 -->
 
@@ -1121,7 +1121,7 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1403.ts
         <title>[makelist2.param1]</title>
         <link>$doregex[makelist3]</link>
         <thumbnail>[makelist2.param4]</thumbnail>
-		<fanart>[makelist2.param5]</fanart>
+		<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[title=(.+?)mode=(.+?)url=(.+?)icon=(.+?)fanart=(.+?)\s]]></expres>
 <page>http://stream-145310.appspot.com/dragonstr.com/new_ds/index.php?mac=94:A1:A2:1F:03:03&method=dragon_sports</page>
@@ -1188,7 +1188,7 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 <info>Dig into the underground world of White Supremacy with Scott Gold, leader of "Blanco Basura", one of the largest skin head white trash gangs.</info>
 <link>http://viewstationusa.org/white.avi</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail> 
-<fanart>http://cdn.watch.aetnd.com/www.history.com/s3static/video-thumbnails/AETN-History_VMS/729/626/BRAND_THC_SPCL_181725_TVE_000_2398_120_20161031_00_HD.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/blackbk.jpg</fanart>
 </item>
 
 http://xrxs.net/video/live-p12netw-2328.m3u8
