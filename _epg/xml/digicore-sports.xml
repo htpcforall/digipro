@@ -1,55 +1,104 @@
-#EXTM3U
-#EXTINF:-1, [B][COLOR limegreen]SPORTS PACK - Click once and wait.[/COLOR][/B]
-http://viewstationusa.org/epg/sp.png
-#EXTINF:-1,FIGHT NETWORK HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/1.ch
-#EXTINF:-1,MLB NETWORK HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/2.ch
-#EXTINF:-1,NBCSN HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/4.ch
-#EXTINF:-1,SPORTSNET 360 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/5.ch
-#EXTINF:-1,ESPN HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/10.ch
-#EXTINF:-1,ESPN 2 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/7.ch
-#EXTINF:-1,ESPN NEWS HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/8.ch
-#EXTINF:-1,ESPN U HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/9.ch
-#EXTINF:-1,FS1 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/11.ch
-#EXTINF:-1,FS2 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/12.ch
-#EXTINF:-1,GOLF HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/146.ch
-#EXTINF:-1,NBA TV HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/13.ch
-#EXTINF:-1,NBA TV
-http://5.79.66.2:8000/StreamSmart/verysoon123/14.ch
-#EXTINF:-1,NFL NETWORK HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/15.ch
-#EXTINF:-1,NHL NETWORK
-http://5.79.66.2:8000/StreamSmart/verysoon123/16.ch
-#EXTINF:-1,SPORTSNET ONE HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/17.ch
-#EXTINF:-1,SPORTSNET ONTARIO HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/18.ch
-#EXTINF:-1,SPORTSNET WORLD HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/19.ch
-#EXTINF:-1,TENNIS CHANNEL HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/20.ch
-#EXTINF:-1,TSN1 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/21.ch
-#EXTINF:-1,TSN2 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/23.ch
-#EXTINF:-1,TSN3 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/145.ch
-#EXTINF:-1,TSN4 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/25.ch
-#EXTINF:-1,TSN5 HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/24.ch
-#EXTINF:-1,WWE NETWORK HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/22.ch
-#EXTINF:-1,WILLOW CRICKET HD
-http://5.79.66.2:8000/StreamSmart/verysoon123/120.ch
+
+<item>
+	<title>[B]=- [COLOR=royalblue]Live [/COLOR][COLOR=red]HD [/COLOR][COLOR=white]UFC[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<jsonrpc>plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.kodistreamss%2F%3Furl%3Dhttp%253A%252F%252Fwww.kodistreams.tv%252Fview.php%253Fpg%253Delite5%26mode%3D2%26name%3D%255BCOLOR%2Bwhite%255DChannel%2B5%255B%252FCOLOR%255D%26description%3D&amp;mode=12&amp;iconimage=image%3A%2F%2FC%253a%255cUsers%255c1%255cAppData%255cRoaming%255cKodi%255caddons%255cplugin.video.kodistreamss%255cresources%255cart%255cchannel_list.png</jsonrpc>
+	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ufc.png</thumbnail>
+</item>
+
+<item>
+<title>FIGHT NETWORK HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/1.ch</link>
+</item>
+<item>
+<title>MLB NETWORK HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/2.ch</link>
+</item>
+<item>
+<title>NBCSN HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/5.ch</link>
+</item>
+<item>
+<title>SPORTSNET 360 HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/4.ch</link>
+</item>
+<item>
+<title>ESPN HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/10.ch</link>
+</item>
+<item>
+<title>ESPN 2 HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/7.ch</link>
+</item>
+<item>
+<title>ESPN NEWS HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/8.ch</link>
+</item>
+<item>
+<title>ESPN U HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/9.ch</link>
+</item>
+<item>
+<title>FS1 HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/11.ch</link>
+</item>
+<item>
+<title>FS2 HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/12.ch</link>
+</item>
+<item>
+<title>GOLF HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/146.ch</link>
+</item>
+<item>
+<title>NFL NETWORK</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/15.ch</link>
+</item>
+<item>
+<title>NHL NETWORK</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/16.ch</link>
+</item>
+<item>
+<title>SPORTSNET ONE HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/17.ch</link>
+</item>
+<item>
+<title>SPORTSNET ONTARIO HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/18.ch</link>
+</item>
+<item>
+<title>SPORTSNET WORLD HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/19.ch</link>
+</item>
+<item>
+<title>TENNIS CHANNEL HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/20.ch</link>
+</item>
+<item>
+<title>TSN1</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/21.ch</link>
+</item>
+<item>
+<title>TNS2</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/23.ch</link>
+</item>
+<item>
+<title>TNS3</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/145.ch</link>
+</item>
+<item>
+<title>TNS4</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/25.ch</link>
+</item>
+<item>
+<title>TNS5</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/24.ch</link>
+</item>
+<item>
+<title>WWE NETWORK HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/22.ch</link>
+</item>
+<item>
+<title>WILLOW CRICKET HD</title>
+<link>http://5.79.66.2:8000/StreamSmart/verysoon123/120.ch</link>
+</item>
