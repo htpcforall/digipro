@@ -1,11 +1,11 @@
-
 <item>
-	<title>[B]=- [COLOR=royalblue]Live [/COLOR][COLOR=red]HD [/COLOR][COLOR=white]UFC[/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<jsonrpc>plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.kodistreamss%2F%3Furl%3Dhttp%253A%252F%252Fwww.kodistreams.tv%252Fview.php%253Fpg%253Delite5%26mode%3D2%26name%3D%255BCOLOR%2Bwhite%255DChannel%2B5%255B%252FCOLOR%255D%26description%3D&amp;mode=12&amp;iconimage=image%3A%2F%2FC%253a%255cUsers%255c1%255cAppData%255cRoaming%255cKodi%255caddons%255cplugin.video.kodistreamss%255cresources%255cart%255cchannel_list.png</jsonrpc>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/ufc.png</thumbnail>
+    <title>[B][COLOR grey]-= [/COLOR][COLOR blue]SUPER BOWL[/COLOR][COLOR grey]  =-[/COLOR][/B]</title>
+	<link>http://google.com</link>
+	<externallink>http://viewstationusa.org/epg/sbowl.xml</externallink>
+	<thumbnail>http://viewstationusa.org/epg/sbowl.jpg</thumbnail>
+	<fanart>http://viewstationusa.org/epg/sbowl1.jpg</fanart>
 </item>
-
+<!--
 <item>
 <title>FIGHT NETWORK HD</title>
 <link>http://5.79.66.2:8000/StreamSmart/verysoon123/1.ch</link>
@@ -102,3 +102,4 @@
 <title>WILLOW CRICKET HD</title>
 <link>http://5.79.66.2:8000/StreamSmart/verysoon123/120.ch</link>
 </item>
+-->
