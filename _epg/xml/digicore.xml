@@ -9,13 +9,13 @@
 <item>
 	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR grey]1[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/digicore-1.xml</externallink>
+	<externallink>http://viewstationusa.org/epg/digicore-1.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
 <item> 
 	<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR white]2[/COLOR][/B]</title>
 	<link>http://Igoreme</link>
-	<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv2.png&amp;index=0&amp;logos&amp;mode=2&amp;move=0&amp;name=[COLOR blue][Soon][/COLOR]&amp;url=https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/soon.m3u</jsonrpc>
+	<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv2.png&amp;index=0&amp;logos&amp;mode=2&amp;move=0&amp;name=[COLOR blue][Soon][/COLOR]&amp;url=http://viewstationusa.org/epg/soon.m3u</jsonrpc>
     <thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv2.png</thumbnail>
 </item>
 <!--
@@ -29,7 +29,7 @@
 <item>
 	<title>[B][COLOR red]V.I.P [/COLOR][COLOR grey]SPORTS[/COLOR][/B]</title>
 	<link>http://ignoreme.com</link>
-	<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/k.xml</externallink>
+	<externallink>http://viewstationusa.org/epg/k.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/vip.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/vip.jpg</fanart>
 </item>

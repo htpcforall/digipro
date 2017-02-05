@@ -1179,16 +1179,21 @@ rtmp://31.220.0.201/live/ playpath=natgeooo?keys=IlCKNLsBaTkr4YnvhWrEfA&keyt=147
 <item>
 <title>525 xml</title>
 <link>http://ignoreme.com</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/525.xml</externallink>
+<externallink>http://viewstationusa.org/epg/525.xml</externallink>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>525</title>
 <link>http://ignoreme.com</link>
-<externallink>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/525.m3u</externallink>
+<externallink>http://viewstationusa.org/epg/525.m3u</externallink>
 <thumbnail></thumbnail>
 </item>
-
+<item>
+<title>SportsPack</title>
+<link>http://ignoreme.com</link>
+<externallink>http://viewstationusa.org/epg/spk.m3u</externallink>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>WHITE SUPREMACY GOING UNDER</title>
 <info>Dig into the underground world of White Supremacy with Scott Gold, leader of "Blanco Basura", one of the largest skin head white trash gangs.</info>
