@@ -1,31 +1,33 @@
 <item>
-	<title>[B][COLOR green]01-25-2016 UPDATE[/COLOR]-= [COLOR yellow]Click to Force Check Update[/COLOR] =-[/B]	</title>
-	<!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
-	<link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache</link>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/refresh_icon.png</thumbnail>
-	<fanart></fanart>
-</item>
-
-<item> 
-	<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR white]1[/COLOR][/B]</title>
-	<link>http://Igoreme</link>
-	<externallink>http://viewstationusa.org/epg/digicore-1.xml</externallink>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv2.png</thumbnail>
+<title>[B][COLOR green]Feb 10th 2017 UPDATE[/COLOR]-= [COLOR yellow]Click to Force Check Update[/COLOR] =-[/B]	</title>
+<!--<title>[B][COLOR limegreen]-=LIVE TV=- [/COLOR]Updated 12-04-16 [COLOR red]*[/COLOR][COLOR grey] Click Here to Force Update Check[/COLOR][COLOR red] *[/COLOR][/B]</title>-->
+<link>plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache</link>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/refresh_icon.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-	<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR grey]2[/COLOR][/B]</title>
-	<link>http://ignoreme</link>
-	<externallink>http://viewstationusa.org/epg/soon.m3u</externallink>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR white]1[/COLOR][/B]</title>
+<link>http://Igoreme</link>
+<externallink>http://viewstationusa.org/epg/digicore-1.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv2.png</thumbnail>
 </item>
 
 <item>
-	<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR grey]3[/COLOR][/B]</title>
-	<link>http://ignoreme</link>
-	<externallink>http://viewstationusa.org/epg/525.xml</externallink>
-	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+<title>[B][COLOR dodgerblue]Live TV [/COLOR][COLOR grey]NEW[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+<externallink>http://viewstationusa.org/epg/testks.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
 </item>
+
+<!--
+<item>
+<title>[B][COLOR dodgerblue]LIVE TV [/COLOR][COLOR grey]3[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+<externallink>http://viewstationusa.org/epg/525.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/superiptv.png</thumbnail>
+</item>
+-->
 <!--
 <item>
 	<title>[B][COLOR red]V.I.P [/COLOR][COLOR grey]SPORTS[/COLOR][/B]</title>
@@ -34,3 +36,4 @@
 	<thumbnail>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/vip.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/htpcforall/digipro/master/_epg/xml/icons/vip.jpg</fanart>
 </item>
+-->
